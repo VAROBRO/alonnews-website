@@ -1,205 +1,165 @@
 {
-  "generatedAt": "2026-08-23T17:05:01.340Z",
+  "generatedAt": "2026-08-23T17:29:19.622Z",
   "articles": [
     {
-      "slug": "marvel-wolverine-ps5-controller-preorder",
-      "category": "hardware",
-      "title_en": "Marvel’s Wolverine PS5 Controller Still Available for Preorder",
-      "title_es": "El mando PS5 de Marvel’s Wolverine aún disponible para reserva",
-      "dek_en": "The limited-edition Marvel’s Wolverine-themed PS5 controller remains available for preorder but may sell out soon due to high demand.",
-      "dek_es": "El mando PS5 de edición limitada con temática de Marvel’s Wolverine sigue disponible para reserva, pero podría agotarse pronto debido a la alta demanda.",
+      "slug": "gta-6-leaks-continue-amid-legal-action",
+      "category": "Industry",
+      "title_en": "GTA 6 Leaker Shows No Sign of Slowing Down as Ninth Gameplay Video Hits the Internet",
+      "title_es": "El filtrador de GTA 6 no muestra señales de detenerse mientras el noveno video de jugabilidad llega a internet",
+      "dek_en": "The GTA 6 leaks have continued for six consecutive days despite court actions from Rockstar's parent company Take-Two.",
+      "dek_es": "Las filtraciones de GTA 6 han continuado durante seis días consecutivos a pesar de las acciones legales de Take-Two, la empresa matriz de Rockstar.",
       "body_en": [
-        "The Marvel’s Wolverine PS5 controller has proven popular among fans and remains available for preorder. However, stock is limited and it may sell out before the official release date.",
-        "This special edition controller features unique design elements inspired by the iconic character, making it a sought-after item for collectors and gamers alike.",
-        "Interested buyers are advised to preorder soon to avoid missing out, as retailers warn that availability could run out quickly given the strong interest."
+        "The individual or group responsible for leaking GTA 6 gameplay videos has released a ninth video despite ongoing legal efforts by Take-Two, Rockstar Games' parent company. The leaks have persisted for six consecutive days, showing no indication of stopping even after subpoenas involving Microsoft and Discord.",
+        "Grand Theft Auto 6 is one of the most anticipated games in the industry, and these leaks reveal early gameplay footage ahead of any official release. Rockstar and Take-Two have taken legal measures to halt the distribution of this unauthorized content.",
+        "This ongoing leak situation impacts the game's marketing strategy and intellectual property protection. For players and the market, it raises concerns about the integrity of game launches and the challenges companies face in controlling early content dissemination."
       ],
       "body_es": [
-        "El mando PS5 de Marvel’s Wolverine ha demostrado ser popular entre los fans y sigue disponible para reserva. Sin embargo, el stock es limitado y podría agotarse antes de la fecha oficial de lanzamiento.",
-        "Esta edición especial del mando presenta elementos de diseño únicos inspirados en el icónico personaje, convirtiéndolo en un objeto codiciado para coleccionistas y jugadores.",
-        "Se recomienda a los interesados que realicen la reserva pronto para no quedarse sin él, ya que los minoristas advierten que la disponibilidad podría agotarse rápidamente debido al gran interés."
-      ],
-      "source_url": "https://www.ign.com/articles/marvels-wolverine-limited-edition-ps5-controller-is-still-available-for-preorder-but-it-may-sell-out",
-      "source_name": "IGN"
-    },
-    {
-      "slug": "gta-6-leaker-continues-posting-videos",
-      "category": "news",
-      "title_en": "GTA 6 Leaker Releases More Gameplay Videos Despite Legal Pressure",
-      "title_es": "Filtrador de GTA 6 publica más videos de juego pese a presión legal",
-      "dek_en": "An alleged GTA 6 leaker has shared additional gameplay footage despite subpoenas issued to Microsoft and Discord by the game’s publisher.",
-      "dek_es": "Un presunto filtrador de GTA 6 ha compartido más videos de juego a pesar de las citaciones enviadas a Microsoft y Discord por el editor del juego.",
-      "body_en": [
-        "The individual suspected of leaking GTA 6 content has released two new gameplay videos recently. These releases come amid ongoing legal actions.",
-        "The game’s publisher has issued subpoenas to Microsoft and Discord seeking information to identify the leaker. Despite this, the videos continue to appear online.",
-        "This situation highlights the challenges companies face in controlling unauthorized distribution of game content prior to official release."
-      ],
-      "body_es": [
-        "La persona sospechosa de filtrar contenido de GTA 6 ha publicado dos nuevos videos de juego recientemente. Estas publicaciones ocurren en medio de acciones legales en curso.",
-        "El editor del juego ha emitido citaciones a Microsoft y Discord para obtener información que permita identificar al filtrador. A pesar de esto, los videos siguen apareciendo en línea.",
-        "Esta situación pone de relieve los desafíos que enfrentan las compañías para controlar la distribución no autorizada de contenido de juegos antes de su lanzamiento oficial."
+        "La persona o grupo responsable de filtrar videos de jugabilidad de GTA 6 ha publicado un noveno video a pesar de los esfuerzos legales en curso de Take-Two, la empresa matriz de Rockstar Games. Las filtraciones han persistido durante seis días consecutivos, sin señales de detenerse incluso tras citaciones que involucran a Microsoft y Discord.",
+        "Grand Theft Auto 6 es uno de los juegos más esperados de la industria, y estas filtraciones muestran imágenes tempranas de jugabilidad antes de cualquier lanzamiento oficial. Rockstar y Take-Two han tomado medidas legales para detener la distribución de este contenido no autorizado.",
+        "Esta situación de filtraciones continuas afecta la estrategia de marketing del juego y la protección de la propiedad intelectual. Para los jugadores y el mercado, plantea preocupaciones sobre la integridad de los lanzamientos y los desafíos que enfrentan las compañías para controlar la difusión temprana de contenido."
       ],
       "source_url": "https://www.ign.com/articles/gta-6-leaker-releases-more-gameplay-videos-despite-rockstar-owner-take-twos-microsoft-and-discord-subpoenas",
       "source_name": "IGN"
     },
     {
-      "slug": "best-pc-gaming-collaborations-2026",
-      "category": "features",
-      "title_en": "Top PC Gaming Collaborations to Explore Now",
-      "title_es": "Las mejores colaboraciones en juegos de PC para explorar ahora",
-      "dek_en": "PC gamers interested in unique crossovers should check out these standout collaboration collections currently available.",
-      "dek_es": "Los jugadores de PC interesados en colaboraciones únicas deberían explorar estas destacadas colecciones de colaboraciones disponibles actualmente.",
+      "slug": "arc-raiders-expeditions-delayed-to-2027",
+      "category": "PC",
+      "title_en": "Arc Raiders Players Torn After Embark Delays Future Expeditions Until Early 2027",
+      "title_es": "Jugadores de Arc Raiders divididos tras el retraso de futuras expediciones hasta principios de 2027",
+      "dek_en": "Embark Studios has postponed all future Arc Raiders Expeditions to early 2027 to implement major improvements following community feedback.",
+      "dek_es": "Embark Studios ha pospuesto todas las futuras expediciones de Arc Raiders hasta principios de 2027 para implementar mejoras importantes tras comentarios de la comunidad.",
       "body_en": [
-        "Several PC games have embraced collaboration events and collections that bring fresh content and exciting crossover experiences to players.",
-        "These collaborations often feature characters, themes, or items from different franchises, enhancing gameplay variety and fan appeal.",
-        "Players looking for new ways to enjoy their favorite PC titles should consider exploring these curated collaboration collections."
+        "Embark Studios announced that all upcoming Arc Raiders Expeditions have been delayed until early 2027. The studio aims to return with significant improvements based on player feedback received since the game's launch.",
+        "Arc Raiders is a cooperative action game that relies heavily on community engagement and iterative development. The delay reflects the developer's commitment to refining gameplay and addressing issues raised by its player base.",
+        "For players, this postponement means an extended wait for new content but also signals a focus on quality and responsiveness. From a market perspective, it highlights the increasing importance of community-driven development in live-service games."
       ],
       "body_es": [
-        "Varios juegos de PC han adoptado eventos y colecciones de colaboración que aportan contenido nuevo y emocionantes experiencias de crossover a los jugadores.",
-        "Estas colaboraciones suelen incluir personajes, temas o elementos de diferentes franquicias, aumentando la variedad de juego y el atractivo para los fans.",
-        "Los jugadores que buscan nuevas formas de disfrutar sus títulos favoritos de PC deberían considerar explorar estas colecciones de colaboración seleccionadas."
-      ],
-      "source_url": "https://www.ign.com/articles/best-pc-gaming-collaborations",
-      "source_name": "IGN"
-    },
-    {
-      "slug": "insidious-movies-watch-order",
-      "category": "guides",
-      "title_en": "How to Watch the Insidious Movies in Order",
-      "title_es": "Cómo ver las películas de Insidious en orden",
-      "dek_en": "With a new sequel in theaters, here’s a guide to watching all the Insidious movies in timeline order.",
-      "dek_es": "Con una nueva secuela en cines, aquí tienes una guía para ver todas las películas de Insidious en orden cronológico.",
-      "body_en": [
-        "The Insidious franchise has multiple movies that can be viewed in a timeline that enhances the story’s continuity.",
-        "A new sequel has just arrived in theaters, making it a good time to revisit the series in the recommended order.",
-        "Following the timeline order helps viewers better understand the plot developments and character arcs across the films."
-      ],
-      "body_es": [
-        "La franquicia Insidious tiene varias películas que pueden verse en un orden cronológico que mejora la continuidad de la historia.",
-        "Acaba de estrenarse una nueva secuela en cines, por lo que es un buen momento para repasar la serie en el orden recomendado.",
-        "Seguir el orden cronológico ayuda a los espectadores a comprender mejor los desarrollos de la trama y los arcos de los personajes a lo largo de las películas."
-      ],
-      "source_url": "https://www.ign.com/articles/insidious-movies-in-order",
-      "source_name": "IGN"
-    },
-    {
-      "slug": "metal-gear-solid-4-legacy-review",
-      "category": "reviews",
-      "title_en": "Metal Gear Solid 4: Kojima’s Flawed Masterpiece Finally on Modern Consoles",
-      "title_es": "Metal Gear Solid 4: La obra maestra imperfecta de Kojima llega a consolas modernas",
-      "dek_en": "Metal Gear Solid 4 is now available on modern consoles as part of a collection, prompting a look back at its legacy and impact.",
-      "dek_es": "Metal Gear Solid 4 ya está disponible en consolas modernas como parte de una colección, lo que invita a repasar su legado e impacto.",
-      "body_en": [
-        "Metal Gear Solid 4 has been re-released on modern consoles via the Master Collection Vol. 2, bringing the game to a new audience.",
-        "The game is known for its extensive cutscenes and cinematic storytelling, which some view as a flaw, while others praise it as a masterpiece.",
-        "This re-release encourages players and critics to reconsider the game’s place in the series and its influence on narrative-driven gaming."
-      ],
-      "body_es": [
-        "Metal Gear Solid 4 ha sido relanzado en consolas modernas a través de la Master Collection Vol. 2, acercando el juego a una nueva audiencia.",
-        "El juego es conocido por sus extensas escenas cinemáticas y narrativa, que algunos consideran un defecto, mientras que otros lo elogian como una obra maestra.",
-        "Este relanzamiento invita a jugadores y críticos a reconsiderar el lugar del juego en la serie y su influencia en los juegos narrativos."
-      ],
-      "source_url": "https://www.ign.com/articles/metal-gear-solid-4-the-flawed-masterpiece-kojima-didnt-want-to-make",
-      "source_name": "IGN"
-    },
-    {
-      "slug": "ultra-graphics-settings-are-a-scam",
-      "category": "opinion",
-      "title_en": "Ultra Graphics Settings Are a Scam: High Settings Are Enough for Most",
-      "title_es": "Los ajustes gráficos Ultra son una estafa: lo alto es suficiente para la mayoría",
-      "dek_en": "Testing shows that playing games on high graphics settings often provides a better balance of performance and visuals than ultra settings.",
-      "dek_es": "Las pruebas muestran que jugar con ajustes gráficos altos suele ofrecer un mejor equilibrio entre rendimiento y visuales que los ajustes ultra.",
-      "body_en": [
-        "Many games do not require ultra graphics settings to look impressive, with high settings often delivering nearly identical visuals.",
-        "Lowering settings from ultra to high can significantly improve performance and framerate, enhancing gameplay smoothness.",
-        "For most players, the minimal visual differences do not justify the performance cost of ultra settings, making high settings a practical choice."
-      ],
-      "body_es": [
-        "Muchos juegos no requieren ajustes gráficos ultra para lucir impresionantes, ya que los ajustes altos suelen ofrecer visuales casi idénticos.",
-        "Reducir los ajustes de ultra a alto puede mejorar significativamente el rendimiento y la tasa de fotogramas, mejorando la fluidez del juego.",
-        "Para la mayoría de los jugadores, las diferencias visuales mínimas no justifican el costo en rendimiento de los ajustes ultra, por lo que los ajustes altos son una opción práctica."
-      ],
-      "source_url": "https://www.ign.com/articles/ultra-graphics-settings-are-a-scam-why-high-is-good-enough-if-not-better-for-most-players",
-      "source_name": "IGN"
-    },
-    {
-      "slug": "arc-raiders-expeditions-delayed-early-2027",
-      "category": "news",
-      "title_en": "Arc Raiders Expeditions Delayed Until Early 2027",
-      "title_es": "Expediciones de Arc Raiders retrasadas hasta principios de 2027",
-      "dek_en": "Embark Studios has postponed all future Arc Raiders Expeditions to early 2027 to implement major improvements based on community feedback.",
-      "dek_es": "Embark Studios ha pospuesto todas las futuras Expediciones de Arc Raiders hasta principios de 2027 para implementar mejoras importantes basadas en los comentarios de la comunidad.",
-      "body_en": [
-        "Embark Studios announced a delay for all upcoming Arc Raiders Expeditions, now planned for early 2027.",
-        "The decision aims to allow the developer to make significant improvements following player feedback.",
-        "While some players remain hopeful for a big update, others express frustration over the extended wait."
-      ],
-      "body_es": [
-        "Embark Studios anunció un retraso para todas las próximas Expediciones de Arc Raiders, ahora previstas para principios de 2027.",
-        "La decisión busca permitir al desarrollador realizar mejoras significativas tras los comentarios de los jugadores.",
-        "Mientras algunos jugadores mantienen la esperanza de una gran actualización, otros expresan frustración por la larga espera."
+        "Embark Studios anunció que todas las próximas expediciones de Arc Raiders se han retrasado hasta principios de 2027. El estudio busca regresar con mejoras significativas basadas en los comentarios de los jugadores desde el lanzamiento del juego.",
+        "Arc Raiders es un juego de acción cooperativo que depende en gran medida de la participación de la comunidad y el desarrollo iterativo. El retraso refleja el compromiso del desarrollador por perfeccionar la jugabilidad y abordar los problemas planteados por su base de jugadores.",
+        "Para los jugadores, este aplazamiento implica una espera prolongada para nuevo contenido, pero también indica un enfoque en la calidad y la capacidad de respuesta. Desde la perspectiva del mercado, destaca la creciente importancia del desarrollo impulsado por la comunidad en juegos como servicio en vivo."
       ],
       "source_url": "https://www.ign.com/articles/hoping-for-a-huge-october-surprise-but-not-holding-my-breath-arc-raiders-players-torn-after-embark-delays-future-expeditions-until-early-2027",
       "source_name": "IGN"
     },
     {
-      "slug": "double-fine-regains-ip-rights",
-      "category": "industry",
-      "title_en": "Double Fine Regains IP and Publishing Rights for All Its Games",
-      "title_es": "Double Fine recupera los derechos de propiedad intelectual y publicación de todos sus juegos",
-      "dek_en": "Following its split from Xbox, Double Fine Productions has confirmed it now owns the IP and publishing rights for all its games.",
-      "dek_es": "Tras su separación de Xbox, Double Fine Productions ha confirmado que ahora posee los derechos de propiedad intelectual y publicación de todos sus juegos.",
+      "slug": "double-fine-regains-ip-and-publishing-rights",
+      "category": "Industry",
+      "title_en": "Double Fine Owns IP and Publishing Rights for All of Its Games Following Xbox Split, Psychonauts Studio Confirms",
+      "title_es": "Double Fine recupera los derechos de propiedad intelectual y publicación de todos sus juegos tras separarse de Xbox, confirma el estudio de Psychonauts",
+      "dek_en": "Double Fine Productions has confirmed it regained IP and publishing rights for all its games released under Microsoft after splitting from Xbox.",
+      "dek_es": "Double Fine Productions ha confirmado que recuperó los derechos de propiedad intelectual y publicación de todos sus juegos lanzados bajo Microsoft tras separarse de Xbox.",
       "body_en": [
-        "Double Fine Productions, known for titles like Psychonauts and Brutal Legend, has regained full control over its intellectual property and publishing rights.",
-        "This change comes after the studio’s split from Xbox, marking a new chapter for the developer’s independence.",
-        "Fans can expect Double Fine to manage its game catalog and future projects without external publishing constraints."
+        "Double Fine Productions, known for Psychonauts and Brutal Legend, has confirmed regaining full intellectual property and publishing rights for all its games previously released under Microsoft. This follows the studio's split from Xbox.",
+        "The move allows Double Fine to independently manage its game portfolio and future releases without Microsoft’s involvement. The studio had been under Xbox’s umbrella since its acquisition but now operates fully independently.",
+        "For players and the market, this change means Double Fine can pursue new projects and re-releases on its own terms. It also reflects broader industry trends of studios reclaiming control over their IPs post-acquisition."
       ],
       "body_es": [
-        "Double Fine Productions, conocida por títulos como Psychonauts y Brutal Legend, ha recuperado el control total sobre su propiedad intelectual y derechos de publicación.",
-        "Este cambio se produce tras la separación del estudio de Xbox, marcando un nuevo capítulo para la independencia del desarrollador.",
-        "Los fans pueden esperar que Double Fine gestione su catálogo de juegos y futuros proyectos sin restricciones editoriales externas."
+        "Double Fine Productions, conocido por Psychonauts y Brutal Legend, ha confirmado que recuperó los derechos completos de propiedad intelectual y publicación de todos sus juegos lanzados anteriormente bajo Microsoft. Esto ocurre tras la separación del estudio de Xbox.",
+        "Este movimiento permite a Double Fine gestionar de forma independiente su cartera de juegos y futuros lanzamientos sin la intervención de Microsoft. El estudio había estado bajo el paraguas de Xbox desde su adquisición, pero ahora opera de manera totalmente independiente.",
+        "Para los jugadores y el mercado, este cambio significa que Double Fine puede emprender nuevos proyectos y relanzamientos en sus propios términos. También refleja tendencias más amplias en la industria de estudios que recuperan el control sobre sus IP tras adquisiciones."
       ],
       "source_url": "https://www.ign.com/articles/double-fine-owns-ip-and-publishing-rights-for-all-of-its-games-following-xbox-split-psychonauts-studio-confirms",
       "source_name": "IGN"
     },
     {
-      "slug": "genki-high-end-pc-switch2-controller-kickstarter",
-      "category": "hardware",
-      "title_en": "Genki’s New High-End PC and Switch 2 Controller Features Built-In Screen and OS",
-      "title_es": "El nuevo mando de alta gama para PC y Switch 2 de Genki incluye pantalla y sistema operativo integrados",
-      "dek_en": "Genki’s customizable controller has surpassed its Kickstarter goal, offering advanced features like TMR sticks, adjustable triggers, and an onboard OS with digital display.",
-      "dek_es": "El mando personalizable de Genki ha superado su meta en Kickstarter, ofreciendo funciones avanzadas como sticks TMR, gatillos ajustables y un sistema operativo con pantalla digital integrada.",
+      "slug": "genki-controller-with-built-in-screen-and-os",
+      "category": "Hardware",
+      "title_en": "Genki’s New High-End PC and Switch 2 Controller Has a Built-in Screen and Onboard OS",
+      "title_es": "El nuevo mando de alta gama de Genki para PC y Switch 2 tiene pantalla integrada y sistema operativo propio",
+      "dek_en": "Genki's customizable controller has surpassed its Kickstarter goal, featuring TMR sticks, adjustable triggers, advanced haptics, and an onboard OS with a digital display.",
+      "dek_es": "El mando personalizable de Genki ha superado su meta en Kickstarter, con sticks TMR, gatillos ajustables, hápticos avanzados y un sistema operativo integrado con pantalla digital.",
       "body_en": [
-        "Genki’s latest controller for PC and Switch 2 boasts high-end features including TMR sticks and adjustable triggers for enhanced gameplay control.",
-        "A standout aspect is the built-in operating system complete with a digital display, allowing for advanced customization and functionality.",
-        "The controller’s Kickstarter campaign has been a success, reflecting strong community interest in innovative gaming peripherals."
+        "Genki has unveiled a new high-end controller compatible with PC and Switch 2 that includes a built-in screen and a full onboard operating system. The device features TMR sticks, adjustable triggers, and advanced haptic feedback.",
+        "This controller aims to offer extensive customization and enhanced user interaction beyond traditional gamepads. The onboard OS and digital display allow for real-time adjustments and additional functionality without external devices.",
+        "For players, this innovation provides a new level of control and personalization. In the hardware market, it represents a shift toward multifunctional peripherals that integrate software and hardware features in one unit."
       ],
       "body_es": [
-        "El último mando de Genki para PC y Switch 2 cuenta con funciones de alta gama, incluyendo sticks TMR y gatillos ajustables para un mejor control del juego.",
-        "Un aspecto destacado es el sistema operativo integrado con pantalla digital, que permite una personalización y funcionalidad avanzadas.",
-        "La campaña de Kickstarter del mando ha sido un éxito, reflejando un fuerte interés de la comunidad en periféricos de juego innovadores."
+        "Genki ha presentado un nuevo mando de alta gama compatible con PC y Switch 2 que incluye una pantalla integrada y un sistema operativo completo a bordo. El dispositivo cuenta con sticks TMR, gatillos ajustables y retroalimentación háptica avanzada.",
+        "Este mando busca ofrecer una personalización extensa y una interacción mejorada más allá de los gamepads tradicionales. El sistema operativo integrado y la pantalla digital permiten ajustes en tiempo real y funcionalidades adicionales sin dispositivos externos.",
+        "Para los jugadores, esta innovación ofrece un nuevo nivel de control y personalización. En el mercado de hardware, representa un cambio hacia periféricos multifuncionales que integran características de software y hardware en una sola unidad."
       ],
       "source_url": "https://www.ign.com/articles/genkis-new-high-end-pc-and-switch-2-controller-has-a-built-in-screen-and-onboard-os",
       "source_name": "IGN"
     },
     {
-      "slug": "pokemon-tcg-etb-amazon-restock",
-      "category": "market",
-      "title_en": "Pokémon TCG Elite Trainer Boxes Restocked on Amazon Below Market Prices",
-      "title_es": "Cajas Elite Trainer de Pokémon TCG reabastecidas en Amazon por debajo del precio de mercado",
-      "dek_en": "Amazon has quietly restocked popular Pokémon TCG Elite Trainer Boxes, including exclusive and new releases, at prices below secondary markets.",
-      "dek_es": "Amazon ha reabastecido discretamente las populares Cajas Elite Trainer de Pokémon TCG, incluyendo exclusivas y nuevos lanzamientos, a precios inferiores a los del mercado secundario.",
+      "slug": "metroid-prime-2d-fan-demake-released",
+      "category": "PC",
+      "title_en": "Unannounced 2D Metroid Prime Fan Demake Released After Years of Secret Development",
+      "title_es": "Demake 2D no oficial de Metroid Prime lanzado por sorpresa tras años de desarrollo en secreto",
+      "dek_en": "A fan group has released a surprise 2D demake of Metroid Prime celebrating the series' 40th anniversary, developed secretly over several years.",
+      "dek_es": "Un grupo de fans ha lanzado por sorpresa un demake 2D de Metroid Prime para celebrar el 40 aniversario de la saga, desarrollado en secreto durante varios años.",
       "body_en": [
-        "Several high-demand Pokémon TCG Elite Trainer Boxes are currently available on Amazon, including Pokémon Center Exclusives and recent releases.",
-        "These restocks are priced below typical secondary market rates, offering a good opportunity for collectors and players.",
-        "The availability is notable given the usual scarcity of these items, making now a good time to purchase."
+        "To mark Metroid's 40th anniversary, a fan team released an unofficial 2D demake of Metroid Prime. The project was developed in secret over several years and offers a fresh take on the classic 3D game in a side-scrolling format.",
+        "Metroid is a landmark franchise known for its 2D and 3D entries. While Nintendo has not officially celebrated this milestone, the fan demake provides a new way to experience the Prime storyline with retro aesthetics.",
+        "This release highlights the dedication of fan communities and their role in preserving and reimagining beloved franchises. It also offers players an alternative experience that bridges classic and modern Metroid gameplay styles."
       ],
       "body_es": [
-        "Varias Cajas Elite Trainer de Pokémon TCG de alta demanda están disponibles actualmente en Amazon, incluyendo exclusivas de Pokémon Center y lanzamientos recientes.",
-        "Estos reabastecimientos tienen precios por debajo de las tasas habituales del mercado secundario, ofreciendo una buena oportunidad para coleccionistas y jugadores.",
-        "La disponibilidad es notable dada la habitual escasez de estos artículos, por lo que ahora es un buen momento para comprar."
+        "Para celebrar el 40 aniversario de Metroid, un equipo de fans lanzó un demake 2D no oficial de Metroid Prime. El proyecto se desarrolló en secreto durante varios años y ofrece una nueva versión del clásico juego 3D en formato de desplazamiento lateral.",
+        "Metroid es una franquicia emblemática conocida por sus entregas en 2D y 3D. Aunque Nintendo no ha celebrado oficialmente este hito, el demake de fans proporciona una nueva forma de experimentar la historia de Prime con estética retro.",
+        "Este lanzamiento destaca la dedicación de las comunidades de fans y su papel en preservar y reinventar franquicias queridas. También ofrece a los jugadores una experiencia alternativa que une estilos de juego clásicos y modernos de Metroid."
       ],
-      "source_url": "https://www.ign.com/articles/pokemon-tcg-etb-amazon-deals",
-      "source_name": "IGN"
+      "source_url": "https://vandal.elespanol.com/noticia/1350792508/un-demake-2d-de-metroid-prime-hecho-por-fans-se-lanza-por-sorpresa-tras-anos-de-desarrollo-en-secreto/",
+      "source_name": "Vandal"
+    },
+    {
+      "slug": "gta-v-sales-surpass-230-million-copies",
+      "category": "Industry",
+      "title_en": "GTA V Sells More Copies Annually Than Other Hits Do in Their Entire Lifetimes, Surpassing 230 Million Since 2013",
+      "title_es": "GTA V vende más copias al año que otros éxitos en toda su vida, superando los 230 millones desde 2013",
+      "dek_en": "GTA V has sold over 230 million copies worldwide since 2013, maintaining an average of nearly 18 million copies sold annually.",
+      "dek_es": "GTA V ha vendido más de 230 millones de copias en todo el mundo desde 2013, manteniendo un promedio de casi 18 millones de copias vendidas anualmente.",
+      "body_en": [
+        "Rockstar Games updated GTA V sales figures, confirming the game has surpassed 230 million copies sold globally since its 2013 launch. The title continues to sell at a rate of approximately 18 million copies per year.",
+        "GTA V remains one of the best-selling games of all time, outperforming many other major hits in annual sales despite its age. Its ongoing popularity is supported by regular updates and the success of GTA Online.",
+        "For the market, these figures demonstrate the longevity and sustained revenue potential of major open-world games. For players, it reflects the enduring community and content support that keeps the game active."
+      ],
+      "body_es": [
+        "Rockstar Games actualizó las cifras de ventas de GTA V, confirmando que el juego ha superado los 230 millones de copias vendidas a nivel mundial desde su lanzamiento en 2013. El título sigue vendiéndose a un ritmo de aproximadamente 18 millones de copias por año.",
+        "GTA V sigue siendo uno de los juegos más vendidos de todos los tiempos, superando a muchos otros grandes éxitos en ventas anuales a pesar de su antigüedad. Su popularidad continua se sostiene con actualizaciones regulares y el éxito de GTA Online.",
+        "Para el mercado, estas cifras demuestran la longevidad y el potencial de ingresos sostenidos de los grandes juegos de mundo abierto. Para los jugadores, refleja la comunidad duradera y el soporte de contenido que mantiene activo el juego."
+      ],
+      "source_url": "https://vandal.elespanol.com/noticia/1350792507/gta-v-vende-mas-copias-al-ano-que-otros-exitos-en-toda-su-vida-suma-230-millones-desde-2013/",
+      "source_name": "Vandal"
+    },
+    {
+      "slug": "geoff-keighley-comments-on-gamescom-trailers",
+      "category": "Industry",
+      "title_en": "'A Marketing Event': Geoff Keighley Comments on Gamescom Trailers Costing 465,000 Euros",
+      "title_es": "'Un evento de marketing': Geoff Keighley se pronuncia sobre los tráilers en Gamescom por 465.000 euros",
+      "dek_en": "Geoff Keighley defends the paid spaces for trailers at Gamescom and hints at which trailers are considered advertising.",
+      "dek_es": "Geoff Keighley defiende los espacios pagados para tráilers en Gamescom y da pistas sobre cuáles se consideran publicidad.",
+      "body_en": [
+        "Geoff Keighley, presenter and producer of Gamescom Opening Night Live and The Game Awards, addressed the controversy over trailers at Gamescom costing 465,000 euros. He explained that some trailers are paid marketing spots while others are editorial content.",
+        "The Gamescom 2026 event in Cologne will feature a mix of paid and editorial trailers, with Keighley emphasizing transparency about which trailers are advertisements. This distinction aims to clarify the nature of the showcased content.",
+        "For the industry and viewers, this statement underlines the commercial realities of major gaming events. It also informs audiences about the blend of promotional and editorial material they can expect during presentations."
+      ],
+      "body_es": [
+        "Geoff Keighley, presentador y productor de Gamescom Opening Night Live y The Game Awards, abordó la controversia sobre los tráilers en Gamescom que cuestan 465.000 euros. Explicó que algunos tráilers son espacios de marketing pagados mientras que otros son contenido editorial.",
+        "El evento Gamescom 2026 en Colonia contará con una mezcla de tráilers pagados y editoriales, y Keighley enfatizó la transparencia sobre cuáles tráilers son publicidad. Esta distinción busca aclarar la naturaleza del contenido mostrado.",
+        "Para la industria y los espectadores, esta declaración subraya las realidades comerciales de los grandes eventos de videojuegos. También informa a las audiencias sobre la combinación de material promocional y editorial que pueden esperar durante las presentaciones."
+      ],
+      "source_url": "https://vandal.elespanol.com/noticia/1350792510/un-evento-de-marketing-geoff-keighley-se-pronuncia-sobre-los-traileres-en-gamescom-por-465000-euros/",
+      "source_name": "Vandal"
+    },
+    {
+      "slug": "orbitals-anime-style-explained-by-creators",
+      "category": "Console",
+      "title_en": "Why Orbitals Captures Anime Style Better Than Other Games, According to Its Creators",
+      "title_es": "Por qué Orbitals capta mejor el estilo anime que otros juegos, según sus creadores",
+      "dek_en": "The creators of Orbitals for Switch 2 explain how they achieved a unique '80s anime aesthetic to convey specific sensations.",
+      "dek_es": "Los creadores de Orbitals para Switch 2 explican cómo lograron una estética única de anime de los años 80 para transmitir sensaciones específicas.",
+      "body_en": [
+        "Orbitals, a cooperative game for Switch 2, features a distinctive '80s anime style. Creative director Marcos Ramos revealed that the team chose this aesthetic to evoke particular emotions and nostalgia.",
+        "The game stands out for its visual approach, aiming to be 'an anime in motion' rather than just a game with anime-inspired graphics. This artistic direction is rare in the current market.",
+        "For players, Orbitals offers a fresh visual experience that connects with fans of classic anime. For the industry, it demonstrates how stylistic choices can define a game's identity and appeal."
+      ],
+      "body_es": [
+        "Orbitals, un juego cooperativo para Switch 2, presenta un estilo distintivo de anime de los años 80. El director creativo Marcos Ramos reveló que el equipo eligió esta estética para evocar emociones y nostalgia específicas.",
+        "El juego destaca por su enfoque visual, buscando ser 'un anime en movimiento' en lugar de solo un juego con gráficos inspirados en el anime. Esta dirección artística es poco común en el mercado actual.",
+        "Para los jugadores, Orbitals ofrece una experiencia visual fresca que conecta con los fans del anime clásico. Para la industria, demuestra cómo las elecciones estilísticas pueden definir la identidad y el atractivo de un juego."
+      ],
+      "source_url": "https://vandal.elespanol.com/noticia/1350792509/por-que-orbitals-capta-el-estilo-anime-mejor-que-otros-juegos-sus-creadores-dan-la-clave/",
+      "source_name": "Vandal"
     }
   ]
 }
