@@ -1,164 +1,204 @@
 {
-  "generatedAt": "2026-08-25T14:53:44.990Z",
+  "generatedAt": "2026-08-26T14:52:17.750Z",
   "articles": [
     {
-      "slug": "nintendo-announces-first-switch-2-bundles-following-price-hike",
-      "category": "Console",
-      "title_en": "Nintendo Announces First Switch 2 Bundles to Launch Following the Console's September Price Hike",
-      "title_es": "Nintendo Anuncia los Primeros Paquetes de Switch 2 tras el Aumento de Precio en Septiembre",
-      "dek_en": "Nintendo has revealed its first Switch 2 console bundles for launch following the console's upcoming price rise.",
-      "dek_es": "Nintendo ha revelado sus primeros paquetes de consola Switch 2 para su lanzamiento tras el próximo aumento de precio de la consola.",
-      "body_en": [
-        "Nintendo has announced the first official bundles for the upcoming Switch 2 console, set to launch after the device's price increase in September. These bundles will combine the new hardware with select games and accessories, marking Nintendo's initial marketing push for the next-generation handheld.",
-        "The Switch 2 is Nintendo's successor to the highly successful Switch, aiming to improve performance and features while maintaining portability. The price hike reflects the upgraded hardware and inflationary pressures in the gaming market.",
-        "For players, these bundles provide a packaged option to access the new console and games at launch, potentially influencing early adoption rates. For the market, Nintendo's pricing and bundling strategy will be closely watched as it competes with other next-gen consoles."
-      ],
-      "body_es": [
-        "Nintendo ha anunciado los primeros paquetes oficiales para la próxima consola Switch 2, que se lanzarán tras el aumento de precio previsto para septiembre. Estos paquetes combinarán el nuevo hardware con juegos y accesorios seleccionados, marcando el primer impulso de marketing de Nintendo para esta nueva generación portátil.",
-        "La Switch 2 es la sucesora de la exitosa Switch, con mejoras en rendimiento y características manteniendo la portabilidad. El aumento de precio responde a la mejora del hardware y a las presiones inflacionarias en el mercado de videojuegos.",
-        "Para los jugadores, estos paquetes ofrecen una opción para acceder a la nueva consola y juegos desde el lanzamiento, lo que puede influir en las tasas de adopción temprana. Para el mercado, la estrategia de precios y paquetes de Nintendo será observada de cerca frente a otras consolas de nueva generación."
-      ],
-      "source_url": "https://www.ign.com/articles/nintendo-announces-first-switch-2-bundles-to-launch-following-the-consoles-september-price-hike",
-      "source_name": "IGN"
-    },
-    {
-      "slug": "gta-6-leaker-releases-game-store-nightclub-beach-videos-defends-crypto-scheme",
+      "slug": "rockstar-addresses-gta-6-leaks",
       "category": "Industry",
-      "title_en": "GTA 6 Leaker Releases Game Store, Nightclub and Beach Gameplay Videos, Defends Crypto Scheme",
-      "title_es": "Filtrador de GTA 6 Publica Videos de Gameplay de Tienda, Club Nocturno y Playa y Defiende Esquema Cripto",
-      "dek_en": "The GTA 6 leaks have continued, this time with two new gameplay videos and a message from the leaker defending their crypto scheme.",
-      "dek_es": "Las filtraciones de GTA 6 continúan, esta vez con dos nuevos videos de gameplay y un mensaje del filtrador defendiendo su esquema criptográfico.",
+      "title_en": "Rockstar Games Finally Addresses Extraordinary and 'Heartbreaking' GTA 6 Leaks, Warns Players That 'Some Spoilers' May Now Impact 'The Intended Game Experience'",
+      "title_es": "Rockstar Games finalmente aborda las extraordinarias y 'desgarradoras' filtraciones de GTA 6 y advierte a los jugadores que 'algunos spoilers' pueden afectar la 'experiencia de juego prevista'",
+      "dek_en": "Rockstar Games has publicly responded to the recent unprecedented leaks of Grand Theft Auto 6, cautioning players about potential spoilers affecting the intended experience.",
+      "dek_es": "Rockstar Games ha respondido públicamente a las recientes filtraciones sin precedentes de Grand Theft Auto 6, advirtiendo a los jugadores sobre posibles spoilers que afectan la experiencia prevista.",
       "body_en": [
-        "The ongoing GTA 6 leaks have expanded with the release of two new gameplay videos showing scenes from a game store, nightclub, and beach environment. The leaker also issued a statement defending their use of a cryptocurrency scheme linked to the leaks.",
-        "Grand Theft Auto 6 remains one of the most anticipated titles, and these unauthorized videos provide rare early looks at the game's environments and mechanics. The leak has sparked legal and community responses due to its scale and impact.",
-        "For players and the industry, these leaks affect the official marketing and reveal plans of Rockstar Games. The leaker's defense of their crypto scheme adds a new dimension to the ongoing controversy surrounding the leaks."
+        "Rockstar Games has officially addressed the recent extraordinary leaks of Grand Theft Auto 6, describing them as 'heartbreaking' and warning that some spoilers may now impact the intended game experience. The company acknowledged the scale of the leaks and their potential effect on players' first impressions.",
+        "Grand Theft Auto 6 is one of the most anticipated titles in the industry, with Rockstar known for its high production values and narrative depth. The leaks revealed significant content and assets ahead of the official release, disrupting Rockstar's planned marketing and rollout strategy.",
+        "This statement matters because it signals Rockstar's recognition of the leaks' impact on the player community and the broader market. It also highlights the challenges developers face in protecting sensitive content in the digital age, affecting how players engage with the game upon release."
       ],
       "body_es": [
-        "Las filtraciones continuas de GTA 6 se han ampliado con la publicación de dos nuevos videos de gameplay que muestran escenas de una tienda de juegos, un club nocturno y una playa. El filtrador también emitió un comunicado defendiendo su uso de un esquema de criptomonedas vinculado a las filtraciones.",
-        "Grand Theft Auto 6 sigue siendo uno de los títulos más esperados, y estos videos no autorizados ofrecen vistas tempranas poco comunes de los entornos y mecánicas del juego. La filtración ha generado respuestas legales y comunitarias debido a su escala e impacto.",
-        "Para los jugadores y la industria, estas filtraciones afectan los planes oficiales de marketing y revelación de Rockstar Games. La defensa del filtrador sobre su esquema cripto añade una nueva dimensión a la controversia en curso."
+        "Rockstar Games ha abordado oficialmente las recientes filtraciones extraordinarias de Grand Theft Auto 6, calificándolas de 'desgarradoras' y advirtiendo que algunos spoilers podrían afectar la experiencia de juego prevista. La compañía reconoció la magnitud de las filtraciones y su posible efecto en las primeras impresiones de los jugadores.",
+        "Grand Theft Auto 6 es uno de los títulos más esperados de la industria, y Rockstar es conocido por sus altos valores de producción y profundidad narrativa. Las filtraciones revelaron contenido y activos significativos antes del lanzamiento oficial, interrumpiendo la estrategia de marketing y lanzamiento planeada por Rockstar.",
+        "Esta declaración es importante porque señala el reconocimiento de Rockstar sobre el impacto de las filtraciones en la comunidad de jugadores y el mercado en general. También destaca los desafíos que enfrentan los desarrolladores para proteger contenido sensible en la era digital, afectando la forma en que los jugadores interactúan con el juego al momento de su lanzamiento."
       ],
-      "source_url": "https://www.ign.com/articles/gta-6-leaker-releases-nightclub-gameplay-video-defends-crypto-scheme",
+      "source_url": "https://www.ign.com/articles/rockstar-games-finally-addresses-extraordinary-gta-6-leaks-warns-players-that-some-spoilers-may-now-impact-the-intended-game-experience",
       "source_name": "IGN"
     },
     {
-      "slug": "discord-evaluates-gta-6-leak-subpoena-validity-and-scope",
-      "category": "Industry",
-      "title_en": "GTA 6 Leak Subpoena: Discord Says It Will 'Evaluate the Validity and Scope Before Responding'",
-      "title_es": "Citatorio por Filtración de GTA 6: Discord Dice que Evaluará la Validez y Alcance Antes de Responder",
-      "dek_en": "Discord has countered online reports about Take-Two’s hunt for the identity of the GTA 6 leaker, saying it has yet to be formally served a subpoena, and when it does receive it, it will take a long, hard look at it before responding.",
-      "dek_es": "Discord ha desmentido informes en línea sobre la búsqueda de Take-Two para identificar al filtrador de GTA 6, diciendo que aún no ha recibido un citatorio formal y que lo evaluará detenidamente cuando lo reciba.",
+      "slug": "witcher-3-songs-of-the-past-gamescom-2026",
+      "category": "PC",
+      "title_en": "We’ve Seen The Witcher 3: Songs of the Past in Action, and It’s Looking Like Another Blood & Wine | gamescom 2026",
+      "title_es": "Hemos visto The Witcher 3: Songs of the Past en acción, y parece otro Blood & Wine | gamescom 2026",
+      "dek_en": "New gameplay footage from The Witcher 3: Songs of the Past reveals Geralt's quest to find a missing bard in a cursed garden of thorns.",
+      "dek_es": "Nuevas imágenes de juego de The Witcher 3: Songs of the Past muestran la misión de Geralt para encontrar a un bardo desaparecido en un jardín maldito de espinas.",
       "body_en": [
-        "Discord has responded to rumors regarding a subpoena related to the GTA 6 leak investigation. The company stated it has not yet been formally served with a subpoena and will carefully evaluate its validity and scope once received before taking any action.",
-        "The GTA 6 leak has prompted legal efforts by Take-Two Interactive to identify the source of the unauthorized disclosures. Discord's platform is reportedly involved due to its use by the leaker or related parties.",
-        "This statement clarifies Discord's current legal position and process in the ongoing investigation. For the industry and players, it highlights the complexities of digital platform involvement in major game leak cases."
+        "At gamescom 2026, new gameplay footage of The Witcher 3: Songs of the Past was showcased, focusing on Geralt's quest to locate a missing bard trapped in a cursed garden of thorns. The expansion appears to offer a rich narrative and intricate environments reminiscent of previous acclaimed DLCs.",
+        "The Witcher 3’s Blood & Wine expansion set a high standard for story-driven content, and Songs of the Past seems to follow that tradition with fresh characters and a compelling new storyline. The game continues to receive support years after its original release, maintaining its relevance in the RPG genre.",
+        "This matters to players as it confirms continued investment in The Witcher 3’s universe, providing new content that expands the game’s lore and gameplay. It also demonstrates how post-launch expansions can sustain player engagement over time."
       ],
       "body_es": [
-        "Discord ha respondido a los rumores sobre un citatorio relacionado con la investigación de la filtración de GTA 6. La compañía declaró que aún no ha recibido un citatorio formal y que evaluará detenidamente su validez y alcance cuando lo reciba antes de tomar cualquier acción.",
-        "La filtración de GTA 6 ha motivado esfuerzos legales de Take-Two Interactive para identificar la fuente de las divulgaciones no autorizadas. La plataforma Discord está involucrada debido a su uso por parte del filtrador o personas relacionadas.",
-        "Esta declaración aclara la posición legal y el proceso actual de Discord en la investigación en curso. Para la industria y los jugadores, resalta las complejidades de la participación de plataformas digitales en casos de filtraciones importantes."
+        "En gamescom 2026 se mostraron nuevas imágenes de juego de The Witcher 3: Songs of the Past, centradas en la misión de Geralt para localizar a un bardo desaparecido atrapado en un jardín maldito de espinas. La expansión parece ofrecer una narrativa rica y entornos detallados similares a los DLC anteriores.",
+        "La expansión Blood & Wine de The Witcher 3 estableció un alto estándar para contenido narrativo, y Songs of the Past parece seguir esa tradición con personajes nuevos y una historia atractiva. El juego continúa recibiendo soporte años después de su lanzamiento original, manteniendo su relevancia en el género RPG.",
+        "Esto es importante para los jugadores porque confirma la inversión continua en el universo de The Witcher 3, ofreciendo contenido nuevo que amplía la historia y la jugabilidad. También demuestra cómo las expansiones post-lanzamiento pueden mantener el interés de los jugadores a lo largo del tiempo."
       ],
-      "source_url": "https://www.ign.com/articles/gta-6-leak-subpoena-discord-says-it-will-evaluate-the-validity-and-scope-before-responding",
+      "source_url": "https://www.ign.com/articles/weve-seen-the-witcher-3-songs-of-the-past-in-action-and-its-looking-like-another-blood-wine-gamescom-2026",
       "source_name": "IGN"
     },
     {
-      "slug": "pokemon-veteran-james-turner-rejoins-franchise",
-      "category": "Industry",
-      "title_en": "Pokémon Veteran James Turner Rejoins Franchise Following Work on The Plucky Squire",
-      "title_es": "El Veterano de Pokémon James Turner Regresa a la Franquicia tras Trabajar en The Plucky Squire",
-      "dek_en": "Pokémon development veteran James Turner is returning to the world of pocket monsters, after previously leaving to make The Plucky Squire.",
-      "dek_es": "El veterano desarrollador de Pokémon James Turner regresa al mundo de los monstruos de bolsillo, tras haberse ido para trabajar en The Plucky Squire.",
-      "body_en": [
-        "James Turner, a longtime Pokémon developer known for his art direction and design contributions, has rejoined the Pokémon franchise after a period working on The Plucky Squire. His return signals a renewed involvement in the series' development.",
-        "Turner has been influential in shaping Pokémon's visual identity over multiple generations. His work on The Plucky Squire, an indie title, marked a temporary departure from the franchise.",
-        "For players and fans, Turner's return may impact upcoming Pokémon projects, potentially influencing art style and design decisions. For the industry, it reflects talent mobility between major franchises and indie development."
-      ],
-      "body_es": [
-        "James Turner, veterano desarrollador de Pokémon conocido por su dirección artística y contribuciones en diseño, ha regresado a la franquicia tras un periodo trabajando en The Plucky Squire. Su retorno indica una participación renovada en el desarrollo de la serie.",
-        "Turner ha sido influyente en la identidad visual de Pokémon a lo largo de varias generaciones. Su trabajo en The Plucky Squire, un título independiente, marcó una salida temporal de la franquicia.",
-        "Para jugadores y fans, el regreso de Turner puede influir en proyectos futuros de Pokémon, afectando el estilo artístico y decisiones de diseño. Para la industria, refleja la movilidad de talento entre grandes franquicias y desarrollos independientes."
-      ],
-      "source_url": "https://www.ign.com/articles/pokemon-veteran-james-turner-rejoins-franchise-following-work-on-the-plucky-squire",
-      "source_name": "IGN"
-    },
-    {
-      "slug": "asus-special-gold-rog-xbox-ally-x20-affordable-if-avoiding-bundle",
+      "slug": "lego-star-wars-executor-super-star-destroyer-largest-set",
       "category": "Hardware",
-      "title_en": "Asus' Special Gold ROG Xbox Ally X20 Is Surprisingly Affordable – If You Avoid the Bundle",
-      "title_es": "El Especial Oro Asus ROG Xbox Ally X20 es Sorprendentemente Asequible – Si Evitas el Paquete",
-      "dek_en": "Asus' special anniversary version of the Xbox Ally X20 handheld is slightly more expensive than the regular model but remains affordable if purchased without the bundle.",
-      "dek_es": "La versión especial de aniversario del Asus ROG Xbox Ally X20 es un poco más cara que el modelo regular, pero sigue siendo asequible si se compra sin el paquete.",
+      "title_en": "You Better Have The Space for LEGO's Longest Set Ever, The Star Wars Executor Super Star Destroyer",
+      "title_es": "Mejor ten espacio para el set más largo de LEGO hasta ahora, el Star Wars Executor Super Star Destroyer",
+      "dek_en": "LEGO has unveiled its longest model ever: the Star Wars Executor Super Star Destroyer, an enormous new set that demands significant display space.",
+      "dek_es": "LEGO ha presentado su modelo más largo hasta la fecha: el Star Wars Executor Super Star Destroyer, un set enorme que requiere un espacio considerable para exhibirlo.",
       "body_en": [
-        "Asus has released a special gold edition of its ROG Xbox Ally X20 handheld, commemorating an anniversary. While the special edition costs more than the standard model, the price difference is minimal if buyers avoid the bundled accessories.",
-        "The Xbox Ally X20 is a handheld gaming device competing in a market affected by rising component costs, particularly RAM shortages. Asus has managed to keep prices stable despite these challenges.",
-        "For consumers, this offers a premium variant of the Xbox Ally X20 at a reasonable price point, providing more options in the handheld gaming hardware segment amid ongoing supply chain issues."
+        "LEGO has revealed the Star Wars Executor Super Star Destroyer set, which will become the company’s longest model ever. The set features an extensive build with intricate details, reflecting the iconic Star Wars vessel’s massive scale.",
+        "This release follows LEGO’s trend of producing large, detailed sets that appeal to collectors and fans of the Star Wars franchise. Previous large-scale models have included the Millennium Falcon and Imperial Star Destroyer, both highly detailed and complex.",
+        "The significance lies in LEGO pushing the boundaries of model size and complexity, offering enthusiasts a new challenge and a centerpiece for display. It also reinforces LEGO’s ongoing partnership with Star Wars, a major driver of its product line."
       ],
       "body_es": [
-        "Asus ha lanzado una edición especial dorada de su consola portátil ROG Xbox Ally X20 para conmemorar un aniversario. Aunque la edición especial cuesta más que el modelo estándar, la diferencia de precio es mínima si los compradores evitan los accesorios incluidos en el paquete.",
-        "El Xbox Ally X20 es un dispositivo portátil que compite en un mercado afectado por el aumento de costos de componentes, especialmente la escasez de RAM. Asus ha logrado mantener los precios estables a pesar de estos desafíos.",
-        "Para los consumidores, esto ofrece una variante premium del Xbox Ally X20 a un precio razonable, proporcionando más opciones en el segmento de hardware portátil en medio de problemas continuos en la cadena de suministro."
+        "LEGO ha revelado el set Star Wars Executor Super Star Destroyer, que se convertirá en el modelo más largo de la compañía hasta ahora. El set presenta una construcción extensa con detalles intrincados, reflejando la enorme escala de la icónica nave de Star Wars.",
+        "Este lanzamiento sigue la tendencia de LEGO de producir sets grandes y detallados que atraen a coleccionistas y fans de la franquicia Star Wars. Modelos anteriores a gran escala incluyen el Halcón Milenario y el Destructor Estelar Imperial, ambos altamente detallados y complejos.",
+        "La importancia radica en que LEGO está ampliando los límites en tamaño y complejidad de sus modelos, ofreciendo a los entusiastas un nuevo desafío y una pieza central para exhibir. También refuerza la asociación continua de LEGO con Star Wars, un motor clave de su línea de productos."
       ],
-      "source_url": "https://www.ign.com/articles/asus-special-gold-rog-xbox-ally-x20-is-surprisingly-affordable-if-you-avoid-the-bundle",
+      "source_url": "https://www.ign.com/articles/you-better-have-the-space-for-legos-longest-set-ever-the-star-wars-executor-super-star-destroyer",
       "source_name": "IGN"
     },
     {
-      "slug": "grand-theft-auto-6-extended-look-global-release-times-confirmed",
-      "category": "Industry",
-      "title_en": "Grand Theft Auto 6: An Extended Look Global Release Times Confirmed",
-      "title_es": "Grand Theft Auto 6: Confirmados los Horarios Globales de Lanzamiento de An Extended Look",
-      "dek_en": "Release times for Grand Theft Auto 6: An Extended Look have been confirmed for Netflix and YouTube worldwide.",
-      "dek_es": "Se han confirmado los horarios de lanzamiento de Grand Theft Auto 6: An Extended Look para Netflix y YouTube a nivel mundial.",
+      "slug": "lego-batman-legacy-of-the-dark-knight-mayhem-dlc",
+      "category": "Console",
+      "title_en": "LEGO Batman: Legacy of the Dark Knight Deluxe Edition - Mayhem Collection DLC Trailer Reveals The Joker and Harley Quinn Story Mission and More",
+      "title_es": "LEGO Batman: Legacy of the Dark Knight Deluxe Edition - Mayhem Collection DLC revela misión de historia con Joker y Harley Quinn y más",
+      "dek_en": "The Mayhem Collection DLC for LEGO Batman: Legacy of the Dark Knight Deluxe Edition introduces a new story mission featuring The Joker and Harley Quinn, along with additional content.",
+      "dek_es": "El DLC Mayhem Collection para LEGO Batman: Legacy of the Dark Knight Deluxe Edition presenta una nueva misión de historia con Joker y Harley Quinn, junto con contenido adicional.",
       "body_en": [
-        "Rockstar Games has confirmed the global release schedule for Grand Theft Auto 6: An Extended Look, which will debut simultaneously on Netflix and YouTube. The announcement includes specific times for various regions worldwide.",
-        "This extended look is part of Rockstar's promotional campaign ahead of GTA 6's launch, providing fans with a detailed preview of the game. It follows a trend of major game reveals using streaming platforms for broad reach.",
-        "For players and the market, synchronized global release times ensure coordinated access to official content, reducing spoilers and maximizing engagement. It also reflects evolving marketing strategies in the gaming industry."
+        "The Mayhem Collection DLC for LEGO Batman: Legacy of the Dark Knight Deluxe Edition was revealed, showcasing a new story mission starring The Joker and Harley Quinn. The update also includes Mayhem Mode and the Sinister Pack, expanding gameplay options.",
+        "LEGO Batman games have consistently blended humor and action, with DLCs often adding fresh narratives and characters. This new content continues the tradition by focusing on iconic villains and introducing new modes to diversify play.",
+        "This DLC matters as it extends the life of the base game with additional missions and modes, providing players with more content and replayability. It also highlights ongoing support for LEGO Batman titles post-launch."
       ],
       "body_es": [
-        "Rockstar Games ha confirmado el calendario global de lanzamiento de Grand Theft Auto 6: An Extended Look, que debutará simultáneamente en Netflix y YouTube. El anuncio incluye horarios específicos para diversas regiones del mundo.",
-        "Esta presentación extendida forma parte de la campaña promocional de Rockstar antes del lanzamiento de GTA 6, ofreciendo a los fans un avance detallado del juego. Sigue la tendencia de grandes revelaciones usando plataformas de streaming para mayor alcance.",
-        "Para jugadores y el mercado, los horarios sincronizados garantizan acceso coordinado al contenido oficial, reduciendo spoilers y maximizando la participación. También refleja estrategias de marketing en evolución en la industria del videojuego."
+        "Se reveló el DLC Mayhem Collection para LEGO Batman: Legacy of the Dark Knight Deluxe Edition, que presenta una nueva misión de historia protagonizada por Joker y Harley Quinn. La actualización también incluye el Modo Mayhem y el Paquete Sinister, ampliando las opciones de juego.",
+        "Los juegos de LEGO Batman han combinado consistentemente humor y acción, con DLC que suelen añadir nuevas narrativas y personajes. Este contenido continúa la tradición al centrarse en villanos icónicos e introducir nuevos modos para diversificar la jugabilidad.",
+        "Este DLC es relevante porque extiende la vida útil del juego base con misiones y modos adicionales, ofreciendo a los jugadores más contenido y rejugabilidad. También destaca el soporte continuo para los títulos de LEGO Batman tras su lanzamiento."
       ],
-      "source_url": "https://www.ign.com/articles/grand-theft-auto-6-an-extended-look-global-release-times-confirmed",
+      "source_url": "https://www.ign.com/articles/exclusive-lego-batman-legacy-of-the-dark-knight-deluxe-edition-mayhem-collection-dlc-trailer-reveals-the-joker-and-harley-quinn-story-mission-and-more",
       "source_name": "IGN"
     },
     {
-      "slug": "chronicles-of-riddick-escape-from-butcher-bay-underrated-game",
+      "slug": "fable-full-quest-preview-gamescom-2026",
+      "category": "Console",
+      "title_en": "Fable: After Watching a Full Quest, I Couldn’t Be More Excited to Play It | gamescom 2026",
+      "title_es": "Fable: Después de ver una misión completa, no podría estar más emocionado por jugarlo | gamescom 2026",
+      "dek_en": "A full quest from Fable was previewed at gamescom 2026, showcasing elements like mature themes and dynamic encounters with aggressive strangers.",
+      "dek_es": "Se presentó una misión completa de Fable en gamescom 2026, mostrando elementos como temas maduros y encuentros dinámicos con extraños agresivos.",
+      "body_en": [
+        "At gamescom 2026, a full quest from Fable was shown, featuring mature themes such as drinking and swearing, alongside dynamic interactions with aggressive strangers. The preview highlighted the game’s tone and quest design.",
+        "Fable is a long-running RPG series known for its humor, player choice, and immersive world. This new installment aims to blend classic elements with modern gameplay mechanics, appealing to both returning fans and newcomers.",
+        "This preview is significant as it provides insight into the game’s narrative style and quest structure, helping players understand what to expect. It also signals the developer’s direction in balancing mature content with the series’ trademark charm."
+      ],
+      "body_es": [
+        "En gamescom 2026 se mostró una misión completa de Fable, que presenta temas maduros como el consumo de alcohol y lenguaje soez, junto con interacciones dinámicas con extraños agresivos. La vista previa destacó el tono y el diseño de la misión del juego.",
+        "Fable es una serie de RPG de larga trayectoria conocida por su humor, elección del jugador y mundo inmersivo. Esta nueva entrega busca combinar elementos clásicos con mecánicas modernas, atrayendo tanto a fanáticos antiguos como a nuevos.",
+        "Esta vista previa es importante porque ofrece una visión del estilo narrativo y la estructura de misiones del juego, ayudando a los jugadores a entender qué esperar. También señala la dirección del desarrollador en equilibrar contenido maduro con el encanto característico de la serie."
+      ],
+      "source_url": "https://www.ign.com/articles/fable-after-watching-a-full-quest-i-couldnt-be-more-excited-to-play-it-gamescom-2026",
+      "source_name": "IGN"
+    },
+    {
+      "slug": "metro-2039-developers-on-russia-ukraine-invasion-impact",
       "category": "PC",
-      "title_en": "The Chronicles of Riddick: Escape from Butcher Bay Remains One of the Most Underrated Games Ever",
-      "title_es": "The Chronicles of Riddick: Escape from Butcher Bay Sigue Siendo Uno de los Juegos Más Subestimados",
-      "dek_en": "The Chronicles of Riddick: Escape from Butcher Bay was a Game of the Year contender on Xbox, despite being a licensed title often overlooked in gaming history.",
-      "dek_es": "The Chronicles of Riddick: Escape from Butcher Bay fue candidato a Juego del Año en Xbox, a pesar de ser un título con licencia frecuentemente pasado por alto en la historia del gaming.",
+      "title_en": "Metro 2039 Developers on How Russia's Invasion of Ukraine Changed Their Plans",
+      "title_es": "Desarrolladores de Metro 2039 explican cómo la invasión rusa a Ucrania cambió sus planes",
+      "dek_en": "Developers of Metro 2039 discuss how Russia's 2022 invasion of Ukraine influenced the game's development and narrative approach.",
+      "dek_es": "Los desarrolladores de Metro 2039 explican cómo la invasión rusa a Ucrania en 2022 influyó en el desarrollo y enfoque narrativo del juego.",
       "body_en": [
-        "The Chronicles of Riddick: Escape from Butcher Bay, released on Xbox, is recognized as one of the most underrated games, having been a Game of the Year contender the same year Halo 2 won. It broke the typical stigma associated with licensed games.",
-        "Developed by Starbreeze Studios, the game combined first-person shooter mechanics with stealth and narrative elements, delivering a unique experience tied to the Riddick film franchise.",
-        "This recognition matters as it highlights the quality and innovation possible in licensed games, influencing player expectations and developer approaches to adaptations in the industry."
+        "The team behind Metro 2039 revealed how Russia’s invasion of Ukraine in 2022 affected their development plans and narrative choices. The conflict brought real-world context that shaped the game’s themes and emotional tone.",
+        "Metro is a post-apocalyptic first-person shooter series developed by Ukrainian studio 4A Games, known for its atmospheric storytelling and immersive gameplay. The new installment continues the franchise’s focus on survival and moral complexity.",
+        "This disclosure matters as it shows how geopolitical events can directly influence game development and storytelling. It also provides players with a deeper understanding of the game’s emotional and thematic layers."
       ],
       "body_es": [
-        "The Chronicles of Riddick: Escape from Butcher Bay, lanzado en Xbox, es reconocido como uno de los juegos más subestimados, habiendo sido candidato a Juego del Año el mismo año que ganó Halo 2. Rompió el estigma típico asociado a los juegos con licencia.",
-        "Desarrollado por Starbreeze Studios, el juego combinó mecánicas de disparos en primera persona con sigilo y elementos narrativos, ofreciendo una experiencia única vinculada a la franquicia cinematográfica de Riddick.",
-        "Este reconocimiento es importante porque destaca la calidad e innovación posible en juegos con licencia, influyendo en las expectativas de los jugadores y en los enfoques de los desarrolladores para adaptaciones en la industria."
+        "El equipo detrás de Metro 2039 reveló cómo la invasión rusa a Ucrania en 2022 afectó sus planes de desarrollo y elecciones narrativas. El conflicto aportó un contexto real que moldeó los temas y el tono emocional del juego.",
+        "Metro es una serie de shooters post-apocalípticos en primera persona desarrollada por el estudio ucraniano 4A Games, conocida por su narrativa atmosférica y jugabilidad inmersiva. La nueva entrega continúa el enfoque de la franquicia en la supervivencia y la complejidad moral.",
+        "Esta revelación es importante porque muestra cómo los eventos geopolíticos pueden influir directamente en el desarrollo y la narrativa de un juego. También ofrece a los jugadores una comprensión más profunda de las capas emocionales y temáticas del título."
       ],
-      "source_url": "https://www.ign.com/articles/the-chronicles-of-riddick-escape-from-butcher-bay-remains-one-of-the-most-underrated-games-ever",
+      "source_url": "https://www.ign.com/articles/metro-2039-developers-on-how-russias-invasion-of-ukraine-changed-their-plans",
       "source_name": "IGN"
     },
     {
-      "slug": "the-witcher-3-songs-of-the-past-expansion-to-include-more-gwent",
+      "slug": "heroes-of-might-and-magic-3-remake-preview-gamescom-2026",
       "category": "PC",
-      "title_en": "The Witcher 3 Songs of the Past Expansion Confirmed to Include More Gwent",
-      "title_es": "La Expansión Songs of the Past de The Witcher 3 Confirmada para Incluir Más Gwent",
-      "dek_en": "CD Projekt Red has confirmed that The Witcher 3: Wild Hunt's upcoming Songs of the Past expansion will feature additional Gwent content.",
-      "dek_es": "CD Projekt Red ha confirmado que la próxima expansión Songs of the Past de The Witcher 3: Wild Hunt incluirá contenido adicional de Gwent.",
+      "title_en": "Heroes of Might and Magic 3 Remake Preview: Hands-On with Ubisoft’s Reborn Strategy Classic - Gamescom 2026",
+      "title_es": "Vista previa del remake de Heroes of Might and Magic 3: primer contacto con el clásico de estrategia renacido de Ubisoft - Gamescom 2026",
+      "dek_en": "Ubisoft’s remake of Heroes of Might and Magic 3 is being developed for PC and consoles, aiming to faithfully revive the 1999 strategy classic.",
+      "dek_es": "El remake de Heroes of Might and Magic 3 de Ubisoft se está desarrollando para PC y consolas, con el objetivo de revivir fielmente el clásico de estrategia de 1999.",
       "body_en": [
-        "CD Projekt Red announced that the Songs of the Past expansion for The Witcher 3: Wild Hunt will add more Gwent content, expanding the popular in-game card game. This includes new cards and challenges for players.",
-        "Gwent has grown into a standalone game and a key feature within The Witcher 3, with a dedicated player base. The expansion aims to enrich this experience further within the main game.",
-        "For players, the added Gwent content offers extended gameplay and strategic depth. For the market, it demonstrates ongoing support for legacy titles through meaningful expansions."
+        "Ubisoft announced and demonstrated a remake of Heroes of Might and Magic 3 at gamescom 2026, targeting both PC and consoles. The project aims to preserve the original’s core gameplay while updating visuals and interface.",
+        "The original 1999 title is a landmark in turn-based strategy games, known for its deep tactical combat and expansive fantasy world. The remake seeks to introduce the game to a new generation without losing its classic appeal.",
+        "This remake is significant as it revives a beloved strategy franchise with modern technology, potentially expanding its audience. It also reflects the industry trend of remastering classic games to preserve gaming history and attract nostalgic players."
       ],
       "body_es": [
-        "CD Projekt Red anunció que la expansión Songs of the Past para The Witcher 3: Wild Hunt añadirá más contenido de Gwent, ampliando el popular juego de cartas dentro del juego. Esto incluye nuevas cartas y desafíos para los jugadores.",
-        "Gwent ha crecido hasta convertirse en un juego independiente y una característica clave dentro de The Witcher 3, con una base de jugadores dedicada. La expansión busca enriquecer esta experiencia dentro del juego principal.",
-        "Para los jugadores, el contenido adicional de Gwent ofrece más jugabilidad y profundidad estratégica. Para el mercado, demuestra el soporte continuo a títulos clásicos mediante expansiones significativas."
+        "Ubisoft anunció y mostró un remake de Heroes of Might and Magic 3 en gamescom 2026, dirigido a PC y consolas. El proyecto busca preservar la jugabilidad central del original mientras actualiza gráficos e interfaz.",
+        "El título original de 1999 es un referente en juegos de estrategia por turnos, conocido por su combate táctico profundo y su mundo fantástico expansivo. El remake pretende presentar el juego a una nueva generación sin perder su atractivo clásico.",
+        "Este remake es importante porque revive una franquicia de estrategia querida con tecnología moderna, potencialmente ampliando su audiencia. También refleja la tendencia de la industria de remasterizar juegos clásicos para preservar la historia del videojuego y atraer a jugadores nostálgicos."
       ],
-      "source_url": "https://www.ign.com/articles/the-witcher-3-songs-of-the-past-expansion-confirmed-to-include-more-gwent-and-everyone-is-already-celebrating",
+      "source_url": "https://www.ign.com/articles/heroes-of-might-and-magic-3-remake-preview-hands-on-with-ubisofts-reborn-strategy-classic-gamescom-2026",
+      "source_name": "IGN"
+    },
+    {
+      "slug": "atari-re-releases-39-atari-2600-games-physical-cartridges",
+      "category": "Console",
+      "title_en": "Atari Is Re-Releasing 39 Atari 2600 Games on Working, Physical Cartridges",
+      "title_es": "Atari relanza 39 juegos de Atari 2600 en cartuchos físicos funcionales",
+      "dek_en": "Atari announced a collaboration with Activision to re-release 39 classic Atari 2600 games on physical cartridges, reviving retro gaming hardware.",
+      "dek_es": "Atari anunció una colaboración con Activision para relanzar 39 juegos clásicos de Atari 2600 en cartuchos físicos, reviviendo el hardware retro de juegos.",
+      "body_en": [
+        "Atari has announced the Atari x Activision Collection, a collaboration that will re-release 39 Atari 2600 games on working physical cartridges. This marks a reunion between Atari and Activision after nearly 50 years.",
+        "The Atari 2600 is a foundational console in gaming history, and these re-releases aim to preserve and celebrate classic titles from the early era of home video games. The collection includes popular and lesser-known games.",
+        "This initiative matters as it supports retro gaming preservation and offers collectors and enthusiasts access to authentic physical versions of vintage games. It also reflects ongoing interest in classic gaming experiences."
+      ],
+      "body_es": [
+        "Atari ha anunciado la colección Atari x Activision, una colaboración que relanzará 39 juegos de Atari 2600 en cartuchos físicos funcionales. Esto marca la reunión entre Atari y Activision después de casi 50 años.",
+        "El Atari 2600 es una consola fundamental en la historia de los videojuegos, y estos relanzamientos buscan preservar y celebrar títulos clásicos de la era temprana de los videojuegos domésticos. La colección incluye juegos populares y menos conocidos.",
+        "Esta iniciativa es importante porque apoya la preservación del juego retro y ofrece a coleccionistas y entusiastas acceso a versiones físicas auténticas de juegos vintage. También refleja el interés continuo en experiencias clásicas de juego."
+      ],
+      "source_url": "https://www.ign.com/articles/atari-is-re-releasing-39-atari-2600-games-on-working-physical-cartridges",
+      "source_name": "IGN"
+    },
+    {
+      "slug": "persona-4-revival-first-hands-on-gamescom-2026",
+      "category": "Console",
+      "title_en": "Persona 4 Revival: The Good and the Bad of Our First Hands-On – Gamescom 2026",
+      "title_es": "Persona 4 Revival: Lo bueno y lo malo de nuestro primer contacto – Gamescom 2026",
+      "dek_en": "Early hands-on impressions of Persona 4 Revival highlight its faithfulness to the original while noting the challenges of its length and pacing.",
+      "dek_es": "Las primeras impresiones de Persona 4 Revival destacan su fidelidad al original, aunque señalan desafíos en su duración y ritmo.",
+      "body_en": [
+        "At gamescom 2026, early hands-on time with Persona 4 Revival revealed a game that remains true to the original’s style and story. The experience retains the series’ signature blend of social simulation and turn-based combat.",
+        "Persona 4 is widely regarded as one of the best JRPGs, known for its deep characters and lengthy gameplay. Revival aims to modernize the title while preserving its core elements, though its long duration remains a consideration.",
+        "This preview is relevant as it informs players about what to expect from the remake, balancing nostalgia with updated features. It also underscores the ongoing demand for classic JRPGs in the current market."
+      ],
+      "body_es": [
+        "En gamescom 2026, el primer contacto con Persona 4 Revival mostró un juego que se mantiene fiel al estilo y la historia del original. La experiencia conserva la mezcla característica de simulación social y combate por turnos de la serie.",
+        "Persona 4 es considerado uno de los mejores JRPG, conocido por sus personajes profundos y su extensa jugabilidad. Revival busca modernizar el título sin perder sus elementos centrales, aunque su larga duración sigue siendo un aspecto a considerar.",
+        "Esta vista previa es relevante porque informa a los jugadores sobre qué esperar del remake, equilibrando la nostalgia con características actualizadas. También subraya la demanda continua de JRPG clásicos en el mercado actual."
+      ],
+      "source_url": "https://www.ign.com/articles/persona-4-revival-the-good-and-the-bad-of-our-first-hands-on-gamescom-2026",
+      "source_name": "IGN"
+    },
+    {
+      "slug": "mega-man-dual-override-preview",
+      "category": "Console",
+      "title_en": "Mega Man: Dual Override Feels Like a Perfect Entry Point Into The Series",
+      "title_es": "Mega Man: Dual Override se siente como un punto de entrada perfecto a la serie",
+      "dek_en": "Preview impressions of Mega Man: Dual Override suggest it offers an accessible yet faithful experience for newcomers to the franchise.",
+      "dek_es": "Las impresiones preliminares de Mega Man: Dual Override sugieren que ofrece una experiencia accesible pero fiel para los nuevos en la franquicia.",
+      "body_en": [
+        "Mega Man: Dual Override was previewed as a title that balances classic series mechanics with modern design, making it approachable for new players while satisfying longtime fans. The gameplay features familiar platforming and combat elements.",
+        "The Mega Man franchise has a long history of challenging gameplay and iconic boss battles. Dual Override aims to maintain these hallmarks while updating visuals and controls for contemporary audiences.",
+        "This matters because it could broaden the series’ appeal by lowering the entry barrier without compromising the core experience. It also reflects Capcom’s strategy to revitalize legacy franchises for new generations."
+      ],
+      "body_es": [
+        "Mega Man: Dual Override fue presentado como un título que equilibra las mecánicas clásicas de la serie con un diseño moderno, haciéndolo accesible para nuevos jugadores y satisfactorio para los fans de siempre. La jugabilidad incluye elementos familiares de plataformas y combate.",
+        "La franquicia Mega Man tiene una larga historia de jugabilidad desafiante y batallas icónicas contra jefes. Dual Override busca mantener estas características mientras actualiza gráficos y controles para audiencias contemporáneas.",
+        "Esto es importante porque podría ampliar el atractivo de la serie al reducir la barrera de entrada sin comprometer la experiencia central. También refleja la estrategia de Capcom para revitalizar franquicias clásicas para nuevas generaciones."
+      ],
+      "source_url": "https://www.ign.com/articles/mega-man-dual-override-preview",
       "source_name": "IGN"
     }
   ]
