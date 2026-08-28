@@ -1,184 +1,124 @@
 {
-  "generatedAt": "2026-08-27T23:42:21.715Z",
+  "generatedAt": "2026-08-28T23:30:18.673Z",
   "articles": [
     {
-      "slug": "pokemon-responds-after-hacker-compromises-its-x-account-to-hawk-memecoin",
+      "slug": "indie-dev-laptops-stolen-gamescom-cd-projekt-red-help",
       "category": "Industry",
-      "title_en": "Pokémon Responds After Hacker Compromises Its X Account to Hawk MemeCoin",
-      "title_es": "Pokémon Responde Tras el Hackeo de su Cuenta en X para Promocionar MemeCoin",
-      "dek_en": "The official Pokémon X account was hacked by an unknown party who posted a link promoting a memecoin, prompting an official response from the franchise.",
-      "dek_es": "La cuenta oficial de Pokémon en X fue hackeada por un tercero desconocido que publicó un enlace promocionando un memecoin, lo que provocó una respuesta oficial de la franquicia.",
+      "title_en": "Indie Dev Posts Video Reporting Stolen Laptops at gamescom as CD Projekt Red and More Step in to Help",
+      "title_es": "Desarrollador Indie Publica Video Reportando Robos de Portátiles en gamescom mientras CD Projekt Red y Otros Ayudan",
+      "dek_en": "Ryan Laley, solo indie developer behind Mimic, confirms laptops stolen at gamescom, cutting his event short.",
+      "dek_es": "Ryan Laley, desarrollador indie detrás de Mimic, confirma robo de portátiles en gamescom, acortando su participación.",
       "body_en": [
-        "The official Pokémon profile on X was compromised by a hacker who posted a message linking to a memecoin, an unauthorized promotion that was quickly removed. Pokémon's social media team confirmed the breach and assured followers that the account is now secure.",
-        "Pokémon is a globally recognized franchise with a massive social media presence, making its official accounts prime targets for hackers aiming to exploit the brand's reach. This incident highlights ongoing security challenges for major gaming companies on social platforms.",
-        "For players and followers, such breaches can cause confusion and mistrust regarding official communications. The swift response and transparency from Pokémon's team help maintain confidence in the brand's digital security and communication channels."
+        "Ryan Laley, the solo developer of the upcoming asymmetrical horror game Mimic, shared a video confirming that his laptops were stolen during gamescom, forcing him to cut his event attendance short. Other developers were also reportedly affected by the thefts at the event.",
+        "Gamescom is one of the largest gaming conventions globally, attracting thousands of developers and industry professionals. The theft of critical hardware like laptops can severely disrupt indie developers who rely heavily on their personal equipment for development and presentations.",
+        "The incident underscores security challenges at major industry events and highlights the vulnerability of smaller developers. Support from companies like CD Projekt Red aims to mitigate the impact, ensuring affected developers can continue their work and presence in the industry."
       ],
       "body_es": [
-        "La cuenta oficial de Pokémon en X fue comprometida por un hacker que publicó un mensaje con un enlace a un memecoin, una promoción no autorizada que fue eliminada rápidamente. El equipo de redes sociales de Pokémon confirmó la brecha y aseguró a los seguidores que la cuenta ya está segura.",
-        "Pokémon es una franquicia reconocida mundialmente con una gran presencia en redes sociales, lo que convierte sus cuentas oficiales en objetivos para hackers que buscan aprovechar el alcance de la marca. Este incidente refleja los desafíos de seguridad que enfrentan las grandes compañías de videojuegos en plataformas sociales.",
-        "Para los jugadores y seguidores, estas brechas pueden generar confusión y desconfianza respecto a las comunicaciones oficiales. La rápida respuesta y transparencia del equipo de Pokémon ayudan a mantener la confianza en la seguridad digital y los canales de comunicación de la marca."
+        "Ryan Laley, desarrollador en solitario del próximo juego de horror asimétrico Mimic, compartió un video confirmando que le robaron sus portátiles durante gamescom, lo que le obligó a acortar su participación en el evento. Otros desarrolladores también resultaron afectados por los robos.",
+        "Gamescom es una de las convenciones de videojuegos más grandes del mundo, que atrae a miles de desarrolladores y profesionales de la industria. El robo de hardware crítico como portátiles puede afectar gravemente a los desarrolladores indie, que dependen de su equipo personal para el desarrollo y presentaciones.",
+        "El incidente pone de manifiesto los desafíos de seguridad en eventos importantes de la industria y la vulnerabilidad de los desarrolladores más pequeños. El apoyo de compañías como CD Projekt Red busca mitigar el impacto y garantizar que los afectados puedan continuar su trabajo y presencia en el sector."
       ],
-      "source_url": "https://www.ign.com/articles/pokemon-responds-after-hacker-compromises-its-x-account-to-hawk-memecoin",
+      "source_url": "https://www.ign.com/articles/indie-dev-posts-video-reporting-stolen-laptops-at-gamescom-as-cd-projekt-red-and-more-step-in-to-help",
       "source_name": "IGN"
     },
     {
-      "slug": "star-citizen-spinoff-squadron-42-delayed-to-2027-dev-insists-its-because-of-gta-6",
-      "category": "PC",
-      "title_en": "Star Citizen Spinoff Squadron 42 Delayed to 2027, Dev Insists It's Because of GTA 6",
-      "title_es": "El Spin-off de Star Citizen, Squadron 42, Retrasado a 2027; Desarrollador Atribuye la Causa a GTA 6",
-      "dek_en": "The single-player spinoff Squadron 42 has been delayed to 2027, with developer Chris Roberts citing Grand Theft Auto 6 as a factor in the postponement.",
-      "dek_es": "El spin-off para un jugador Squadron 42 ha sido retrasado hasta 2027, con el desarrollador Chris Roberts señalando a Grand Theft Auto 6 como un factor en el aplazamiento.",
+      "slug": "rockstar-approached-netflix-for-gta6-extended-look",
+      "category": "Industry",
+      "title_en": "Rockstar Approached Netflix for Exclusive GTA 6 Extended Look, Not the Other Way Around",
+      "title_es": "Rockstar Contactó a Netflix para Vista Exclusiva Extendida de GTA 6, No al Revés",
+      "dek_en": "Rockstar Games initiated the exclusive extended GTA 6 look on Netflix, contrary to previous assumptions.",
+      "dek_es": "Rockstar Games fue quien propuso la exclusiva vista extendida de GTA 6 en Netflix, contrario a lo que se pensaba.",
       "body_en": [
-        "Cloud Imperium Games announced that Squadron 42, the single-player spinoff of Star Citizen, will now launch in 2027. Developer Chris Roberts stated the delay is due to the need to give the game proper attention amid the release of Grand Theft Auto 6.",
-        "Squadron 42 has been in development for several years as a narrative-driven space combat experience tied to the larger Star Citizen universe. The delay reflects the challenges of competing with major AAA releases in the same timeframe.",
-        "This postponement affects players anticipating the game’s story campaign and highlights the impact that blockbuster titles like GTA 6 have on scheduling and resource allocation within the industry."
+        "Rockstar Games confirmed that it was their initiative to bring the exclusive extended look of Grand Theft Auto 6 to Netflix, not Netflix approaching them. The event showcased nearly 27 minutes of gameplay footage, mostly without issues.",
+        "This extended look is one of the most detailed public reveals of GTA 6 to date, streamed on a major platform. Rockstar's decision to partner with Netflix marks a notable collaboration between gaming and streaming media.",
+        "The move reflects evolving marketing strategies in the gaming industry, leveraging streaming platforms to reach wider audiences. For players, it provides unprecedented access to gameplay footage ahead of release, enhancing engagement and anticipation."
       ],
       "body_es": [
-        "Cloud Imperium Games anunció que Squadron 42, el spin-off para un jugador de Star Citizen, se lanzará ahora en 2027. El desarrollador Chris Roberts afirmó que el retraso se debe a la necesidad de dedicar la atención adecuada al juego ante el lanzamiento de Grand Theft Auto 6.",
-        "Squadron 42 ha estado en desarrollo durante varios años como una experiencia narrativa de combate espacial vinculada al universo más amplio de Star Citizen. El retraso refleja los desafíos de competir con lanzamientos AAA importantes en el mismo periodo.",
-        "Este aplazamiento afecta a los jugadores que esperan la campaña narrativa del juego y pone de manifiesto el impacto que títulos de gran envergadura como GTA 6 tienen en la planificación y asignación de recursos dentro de la industria."
+        "Rockstar Games confirmó que fue iniciativa propia llevar la vista exclusiva extendida de Grand Theft Auto 6 a Netflix, y no que Netflix los contactara. El evento mostró casi 27 minutos de metraje de juego, mayormente sin problemas.",
+        "Esta vista extendida es una de las revelaciones públicas más detalladas de GTA 6 hasta la fecha, transmitida en una plataforma importante. La decisión de Rockstar de asociarse con Netflix marca una colaboración notable entre videojuegos y medios de streaming.",
+        "El movimiento refleja estrategias de marketing en evolución en la industria, aprovechando plataformas de streaming para alcanzar audiencias más amplias. Para los jugadores, ofrece acceso sin precedentes a imágenes de juego antes del lanzamiento, aumentando el compromiso y la expectación."
       ],
-      "source_url": "https://www.ign.com/articles/star-citizen-spinoff-squadron-42-delayed-to-2027-dev-insists-its-because-of-gta-6",
+      "source_url": "https://www.ign.com/articles/rockstar-approached-netflix-for-exclusive-gta-6-extended-look-not-the-other-way-around",
       "source_name": "IGN"
     },
     {
-      "slug": "gta-6-devs-celebrate-as-extended-look-finally-reveals-gameplay-after-years-of-development",
+      "slug": "kick-streamer-neon-responds-to-gta6-reference",
+      "category": "Industry",
+      "title_en": "Kick Streamer Neon Responds After Rockstar Seemingly Includes a Reference to Him in GTA 6 Netflix Showcase",
+      "title_es": "Streamer de Kick Neon Responde Tras Referencia a Él en Showcase de GTA 6 en Netflix",
+      "dek_en": "Kick streamer Neon reacted after Rockstar appeared to reference him in a GTA 6 side mission shown during the Netflix trailer.",
+      "dek_es": "El streamer de Kick Neon reaccionó tras una aparente referencia a él en una misión secundaria de GTA 6 mostrada en el tráiler de Netflix.",
+      "body_en": [
+        "Neon, a prominent Kick streamer, responded publicly after Rockstar Games seemingly included a reference to him in a side mission featured in the GTA 6 Netflix showcase. The mention was noted by viewers following the trailer's release.",
+        "Kick is a growing streaming platform competing with Twitch and YouTube Gaming, and Neon is one of its notable personalities. The inclusion of a streamer reference in a major game like GTA 6 is a rare nod to the streaming community.",
+        "This acknowledgment reflects the increasing influence of streamers in gaming culture and marketing. For players and viewers, it demonstrates how gaming content creators are becoming integrated into game narratives and promotional materials."
+      ],
+      "body_es": [
+        "Neon, un destacado streamer de Kick, respondió públicamente después de que Rockstar Games aparentemente lo incluyera en una misión secundaria mostrada en el showcase de GTA 6 en Netflix. La referencia fue notada por los espectadores tras el lanzamiento del tráiler.",
+        "Kick es una plataforma de streaming en crecimiento que compite con Twitch y YouTube Gaming, y Neon es una de sus personalidades más destacadas. La inclusión de una referencia a un streamer en un juego importante como GTA 6 es un reconocimiento poco común a la comunidad de streamers.",
+        "Este reconocimiento refleja la creciente influencia de los streamers en la cultura y el marketing de los videojuegos. Para jugadores y espectadores, muestra cómo los creadores de contenido se integran cada vez más en las narrativas y materiales promocionales de los juegos."
+      ],
+      "source_url": "https://www.ign.com/articles/kick-streamer-neon-responds-after-rockstar-seemingly-includes-a-reference-to-him-in-gta-6-netflix-showcase",
+      "source_name": "IGN"
+    },
+    {
+      "slug": "gta6-will-satirize-us-avoiding-trump-covid",
       "category": "Console",
-      "title_en": "GTA 6 Devs at Rockstar Celebrate as Extended Look Finally Reveals Gameplay After Years of Development",
-      "title_es": "Desarrolladores de GTA 6 en Rockstar Celebran la Revelación de Gameplay Tras Años de Desarrollo",
-      "dek_en": "Rockstar Games released an official extended look at Grand Theft Auto 6 gameplay, marking a major milestone after years of development and eliciting positive reactions from the development team.",
-      "dek_es": "Rockstar Games lanzó una mirada extendida oficial al gameplay de Grand Theft Auto 6, marcando un hito importante tras años de desarrollo y generando reacciones positivas del equipo de desarrollo.",
+      "title_en": "GTA 6 Will Satirize United States but Avoid Donald Trump and COVID: 'Memes Age Quickly'",
+      "title_es": "GTA 6 Se Reirá de Estados Unidos pero Evitará a Donald Trump y el COVID: 'Los Memes Envejecen Rápido'",
+      "dek_en": "Rockstar aims for satire in GTA 6 that ages well, avoiding specific references to Donald Trump and the COVID pandemic.",
+      "dek_es": "Rockstar busca una sátira en GTA 6 que envejezca bien, evitando referencias específicas a Donald Trump y la pandemia de COVID.",
       "body_en": [
-        "Rockstar Games unveiled an official extended gameplay look at Grand Theft Auto 6, showcasing new mechanics and environments after several years of development. The reveal was met with enthusiasm from the development team, who expressed relief and pride.",
-        "GTA 6 is one of the most anticipated titles in the industry, with Rockstar known for its detailed open worlds and narrative depth. This extended look provides the first substantial gameplay footage since the game's announcement.",
-        "For players and the market, this reveal confirms the game's progress and sets expectations for its scale and quality. It also signals Rockstar’s readiness to enter the next phase of promotion and community engagement."
+        "Rockstar Games revealed that Grand Theft Auto 6 will continue its tradition of satirizing American society but will deliberately avoid specific references to Donald Trump and the COVID-19 pandemic. The company stated that memes and topical jokes tend to age quickly.",
+        "The GTA series has long been known for its sharp social commentary and satire. By steering clear of highly specific recent events, Rockstar aims to create humor and critique that remain relevant over time.",
+        "This approach affects how players experience the game's narrative and humor, focusing on broader societal themes rather than transient political or cultural moments. It also reflects a strategic choice in content longevity for the title."
       ],
       "body_es": [
-        "Rockstar Games presentó una mirada extendida oficial al gameplay de Grand Theft Auto 6, mostrando nuevas mecánicas y entornos tras varios años de desarrollo. La revelación fue recibida con entusiasmo por el equipo de desarrollo, que expresó alivio y orgullo.",
-        "GTA 6 es uno de los títulos más esperados de la industria, con Rockstar reconocido por sus mundos abiertos detallados y profundidad narrativa. Esta mirada extendida ofrece las primeras imágenes sustanciales de gameplay desde el anuncio del juego.",
-        "Para los jugadores y el mercado, esta revelación confirma el progreso del juego y establece expectativas sobre su escala y calidad. También señala que Rockstar está listo para entrar en la siguiente fase de promoción y compromiso con la comunidad."
+        "Rockstar Games reveló que Grand Theft Auto 6 continuará su tradición de satirizar la sociedad estadounidense, pero evitará referencias específicas a Donald Trump y la pandemia de COVID-19. La compañía señaló que los memes y bromas actuales envejecen rápido.",
+        "La serie GTA es conocida por su aguda crítica social y sátira. Al evitar eventos recientes muy específicos, Rockstar busca crear humor y crítica que permanezcan relevantes con el tiempo.",
+        "Este enfoque afecta la experiencia narrativa y humorística del juego, centrándose en temas sociales más amplios en lugar de momentos políticos o culturales transitorios. También refleja una elección estratégica para la longevidad del contenido."
       ],
-      "source_url": "https://www.ign.com/articles/gta-6-devs-at-rockstar-celebrate-as-extended-look-finally-reveals-gameplay-after-years-of-development",
+      "source_url": "https://vandal.elespanol.com/noticia/2026240027/gta-6-se-reira-de-estados-unidos-pero-rockstar-evitara-a-donald-trump-y-el-covid-los-memes-envejecen-rapido/",
+      "source_name": "Vandal"
+    },
+    {
+      "slug": "pokemon-tales-misadventures-sirfetchd-pichu-disney-exclusive",
+      "category": "Industry",
+      "title_en": "Pokémon Tales: The Misadventures of Sirfetch’d and Pichu Will Be Exclusive to Disney+",
+      "title_es": "Pokémon Tales: Las Desventuras de Sirfetch’d y Pichu Será Exclusivo de Disney+",
+      "dek_en": "The upcoming stop-motion Pokémon series will stream exclusively on Disney+ and DisneyXD, announced during PokémonXP.",
+      "dek_es": "La próxima serie de Pokémon en stop-motion se transmitirá exclusivamente en Disney+ y DisneyXD, anunciada durante PokémonXP.",
+      "body_en": [
+        "The Pokémon Company and The Walt Disney Company announced a global distribution deal for Pokémon Tales: The Misadventures of Sirfetch’d and Pichu. The stop-motion series will be exclusive to Disney+ and DisneyXD platforms.",
+        "This new series expands the Pokémon franchise beyond video games and traditional animation, offering a unique stop-motion format. It follows the adventures of popular Pokémon characters Sirfetch’d and Pichu.",
+        "For fans and the industry, this partnership signals continued growth and diversification of Pokémon media. Exclusive streaming rights on Disney+ also highlight the importance of platform-specific content in the current entertainment landscape."
+      ],
+      "body_es": [
+        "The Pokémon Company y The Walt Disney Company anunciaron un acuerdo global de distribución para Pokémon Tales: Las Desventuras de Sirfetch’d y Pichu. La serie en stop-motion será exclusiva de las plataformas Disney+ y DisneyXD.",
+        "Esta nueva serie amplía la franquicia Pokémon más allá de los videojuegos y la animación tradicional, ofreciendo un formato único en stop-motion. Sigue las aventuras de los populares personajes Sirfetch’d y Pichu.",
+        "Para los fans y la industria, esta alianza señala un crecimiento y diversificación continuos de los medios Pokémon. Los derechos exclusivos en Disney+ también subrayan la importancia del contenido específico para plataformas en el panorama actual del entretenimiento."
+      ],
+      "source_url": "https://www.ign.com/articles/pokemon-tales-the-misadventures-of-sirfetchd-and-pichu-will-be-exclusive-to-disney",
       "source_name": "IGN"
     },
     {
-      "slug": "grand-theft-auto-6-playthroughs-can-last-80-hours",
-      "category": "Console",
-      "title_en": "Grand Theft Auto 6 Playthroughs Can Last 80 Hours",
-      "title_es": "Las Partidas de Grand Theft Auto 6 Pueden Durar 80 Horas",
-      "dek_en": "The producer of Grand Theft Auto 6 revealed that completing a full playthrough of the game can take up to 80 hours, indicating a substantial amount of content.",
-      "dek_es": "El productor de Grand Theft Auto 6 reveló que completar una partida completa del juego puede durar hasta 80 horas, lo que indica una cantidad considerable de contenido.",
+      "slug": "ultralight-gaming-mouse-arms-race-new-phase",
+      "category": "Hardware",
+      "title_en": "The Ultralight Gaming Mouse Arms Race Has Entered a New Phase",
+      "title_es": "La Carrera de Ratones Gaming Ultraligeros Entra en una Nueva Fase",
+      "dek_en": "Corsair is reshaping ultralight gaming mice in 2026, shifting focus beyond simple weight reduction.",
+      "dek_es": "Corsair está redefiniendo los ratones gaming ultraligeros en 2026, enfocándose más allá de la simple reducción de peso.",
       "body_en": [
-        "Grand Theft Auto 6’s producer stated that a full playthrough of the game can take approximately 80 hours, highlighting the extensive scope of the title. This duration includes main missions and likely side activities.",
-        "The GTA series is known for its large open worlds filled with diverse content, and this playtime estimate aligns with Rockstar’s history of delivering expansive gameplay experiences.",
-        "For players, this means a significant time investment to experience the full narrative and activities. For the market, it underscores the game’s potential for long-term engagement and replayability."
+        "Corsair is innovating in the ultralight gaming mouse market by introducing new design philosophies that go beyond merely reducing weight. Their latest models incorporate advanced materials and ergonomic improvements while maintaining low mass.",
+        "The ultralight mouse segment has been competitive, with manufacturers focusing on weight as the primary selling point. Corsair’s approach emphasizes performance, durability, and user comfort alongside weight considerations.",
+        "For gamers, these developments mean access to peripherals that balance speed and precision with comfort and longevity. The shift may influence future hardware trends and user expectations in competitive gaming gear."
       ],
       "body_es": [
-        "El productor de Grand Theft Auto 6 declaró que una partida completa del juego puede durar aproximadamente 80 horas, destacando el alcance extenso del título. Esta duración incluye misiones principales y probablemente actividades secundarias.",
-        "La serie GTA es conocida por sus grandes mundos abiertos llenos de contenido diverso, y esta estimación de tiempo se alinea con la historia de Rockstar de ofrecer experiencias de juego expansivas.",
-        "Para los jugadores, esto implica una inversión de tiempo significativa para experimentar la narrativa completa y las actividades. Para el mercado, subraya el potencial del juego para un compromiso prolongado y rejugabilidad."
+        "Corsair está innovando en el mercado de ratones gaming ultraligeros al introducir nuevas filosofías de diseño que van más allá de la simple reducción de peso. Sus últimos modelos incorporan materiales avanzados y mejoras ergonómicas manteniendo baja masa.",
+        "El segmento de ratones ultraligeros ha sido competitivo, con fabricantes centrados en el peso como principal argumento de venta. El enfoque de Corsair enfatiza rendimiento, durabilidad y comodidad del usuario junto con el peso.",
+        "Para los jugadores, estos desarrollos significan acceso a periféricos que equilibran velocidad y precisión con comodidad y durabilidad. El cambio podría influir en tendencias futuras de hardware y expectativas en equipos para juegos competitivos."
       ],
-      "source_url": "https://www.ign.com/articles/grand-theft-auto-6-playthroughs-can-last-80-hours",
-      "source_name": "IGN"
-    },
-    {
-      "slug": "gta-6-may-be-set-in-vice-city-but-it-has-san-andreas-ambition",
-      "category": "Console",
-      "title_en": "GTA 6 May Be Set in Vice City, but It Has San Andreas’ Ambition",
-      "title_es": "GTA 6 Puede Estar Ambientado en Vice City, pero Tiene la Ambición de San Andreas",
-      "dek_en": "Rockstar revealed that Grand Theft Auto 6 will feature RPG-style stats similar to San Andreas, tracking weight, strength, and other factors based on player actions.",
-      "dek_es": "Rockstar reveló que Grand Theft Auto 6 contará con estadísticas al estilo RPG similares a San Andreas, que rastrean peso, fuerza y otros factores según las acciones del jugador.",
-      "body_en": [
-        "Grand Theft Auto 6 will incorporate RPG-style stats that track the player character’s weight, muscle, and strength, influenced by eating habits and workouts. This system is a return to mechanics seen in San Andreas.",
-        "The original San Andreas introduced these stats to add depth to character progression, and their return suggests Rockstar aims to blend RPG elements with open-world gameplay in GTA 6.",
-        "This matters to players as it adds a layer of realism and customization to character development, potentially affecting gameplay and immersion in the game world."
-      ],
-      "body_es": [
-        "Grand Theft Auto 6 incorporará estadísticas al estilo RPG que rastrean el peso, músculo y fuerza del personaje, influenciadas por hábitos alimenticios y entrenamientos. Este sistema es un regreso a las mecánicas vistas en San Andreas.",
-        "San Andreas introdujo estas estadísticas para añadir profundidad a la progresión del personaje, y su retorno sugiere que Rockstar busca combinar elementos RPG con la jugabilidad de mundo abierto en GTA 6.",
-        "Esto es relevante para los jugadores porque añade una capa de realismo y personalización al desarrollo del personaje, lo que puede afectar la jugabilidad y la inmersión en el mundo del juego."
-      ],
-      "source_url": "https://www.ign.com/articles/gta-6-rpg-stats-weight-fat-muscle-explained",
-      "source_name": "IGN"
-    },
-    {
-      "slug": "with-gta-6-rockstar-is-ready-to-prove-it-can-do-romance",
-      "category": "Console",
-      "title_en": "With GTA 6, Rockstar Is Ready to Prove It Can Do Romance",
-      "title_es": "Con GTA 6, Rockstar Está Listo para Demostrar que Puede Manejar el Romance",
-      "dek_en": "GTA 6 introduces a dynamic couple system featuring characters Lucia and Jason, aiming to deliver a complex romantic storyline within the game’s narrative.",
-      "dek_es": "GTA 6 introduce un sistema dinámico de pareja con los personajes Lucia y Jason, buscando ofrecer una historia romántica compleja dentro de la narrativa del juego.",
-      "body_en": [
-        "Rockstar revealed that GTA 6’s romance between Lucia and Jason is powered by a dynamic couple system that tracks the highs and lows of their relationship. This system aims to add emotional depth to the characters.",
-        "Previous Rockstar titles have focused heavily on narrative and character development, but romance has been less explored. This new system represents a deliberate effort to expand storytelling elements.",
-        "For players, this means a more nuanced relationship experience that could influence character interactions and story outcomes, enriching the overall narrative complexity."
-      ],
-      "body_es": [
-        "Rockstar reveló que el romance en GTA 6 entre Lucia y Jason está impulsado por un sistema dinámico de pareja que rastrea los altibajos de su relación. Este sistema busca añadir profundidad emocional a los personajes.",
-        "Los títulos anteriores de Rockstar se han centrado en la narrativa y el desarrollo de personajes, pero el romance ha sido menos explorado. Este nuevo sistema representa un esfuerzo deliberado por ampliar los elementos narrativos.",
-        "Para los jugadores, esto significa una experiencia de relación más matizada que podría influir en las interacciones de los personajes y en los desenlaces de la historia, enriqueciendo la complejidad narrativa general."
-      ],
-      "source_url": "https://www.ign.com/articles/gta-6-romance-couple-system-explained",
-      "source_name": "IGN"
-    },
-    {
-      "slug": "in-gta-6-youre-not-just-wanted-youre-hunted",
-      "category": "Console",
-      "title_en": "In GTA 6 You’re Not Just Wanted, You’re Hunted",
-      "title_es": "En GTA 6 No Solo Eres Buscado, Eres Cazado",
-      "dek_en": "The wanted system in Grand Theft Auto 6 has been overhauled to provide police with more tools to hunt players, alongside new methods for evading capture.",
-      "dek_es": "El sistema de búsqueda en Grand Theft Auto 6 ha sido renovado para proporcionar a la policía más herramientas para cazar a los jugadores, junto con nuevos métodos para evadir la captura.",
-      "body_en": [
-        "GTA 6 features a revamped wanted system that enhances police AI with new tactics and tools to track and apprehend players. Players also gain new options to evade law enforcement.",
-        "This overhaul aims to create more dynamic and challenging encounters with police, moving beyond the traditional wanted star system seen in previous GTA games.",
-        "For players, this means more strategic gameplay during chases and confrontations, increasing immersion and difficulty in escaping the law within the game world."
-      ],
-      "body_es": [
-        "GTA 6 presenta un sistema de búsqueda renovado que mejora la IA policial con nuevas tácticas y herramientas para rastrear y capturar a los jugadores. Los jugadores también obtienen nuevas opciones para evadir a la policía.",
-        "Esta renovación busca crear encuentros más dinámicos y desafiantes con la policía, superando el sistema tradicional de estrellas de búsqueda visto en juegos anteriores de GTA.",
-        "Para los jugadores, esto implica una jugabilidad más estratégica durante persecuciones y enfrentamientos, aumentando la inmersión y la dificultad para escapar de la ley dentro del mundo del juego."
-      ],
-      "source_url": "https://www.ign.com/articles/gta-6-wanted-system-explained",
-      "source_name": "IGN"
-    },
-    {
-      "slug": "the-way-you-steal-cars-in-gta-6-completely-changes-the-game",
-      "category": "Console",
-      "title_en": "The Way You Steal Cars in GTA 6 Completely Changes the Game",
-      "title_es": "La Forma en que Robas Autos en GTA 6 Cambia Completamente el Juego",
-      "dek_en": "Rockstar has redesigned car theft in GTA 6, adding multiple layers of complexity to the process instead of a simple button press.",
-      "dek_es": "Rockstar ha rediseñado el robo de autos en GTA 6, añadiendo múltiples capas de complejidad al proceso en lugar de un simple botón.",
-      "body_en": [
-        "In GTA 6, stealing cars involves a multi-step process with varying difficulty depending on the vehicle and situation. Rockstar described this as adding “layers of stratification” to car theft.",
-        "This system replaces the previous mechanic of simply pressing a button to enter a vehicle, aiming to increase realism and player engagement during thefts.",
-        "For players, this change introduces more challenge and strategy when acquiring vehicles, potentially affecting gameplay pacing and immersion in criminal activities."
-      ],
-      "body_es": [
-        "En GTA 6, robar autos implica un proceso de varios pasos con dificultad variable según el vehículo y la situación. Rockstar describió esto como añadir “capas de estratificación” al robo de autos.",
-        "Este sistema reemplaza la mecánica anterior de simplemente presionar un botón para entrar en un vehículo, buscando aumentar el realismo y la participación del jugador durante los robos.",
-        "Para los jugadores, este cambio introduce más desafío y estrategia al adquirir vehículos, lo que puede afectar el ritmo de juego y la inmersión en actividades criminales."
-      ],
-      "source_url": "https://www.ign.com/articles/gta-6-car-steal-system-explained",
-      "source_name": "IGN"
-    },
-    {
-      "slug": "heres-every-gta-6-side-activity-weve-spotted-so-far",
-      "category": "Console",
-      "title_en": "Here's Every GTA 6 Side Activity We've Spotted So Far",
-      "title_es": "Todas las Actividades Secundarias de GTA 6 que Hemos Detectado Hasta Ahora",
-      "dek_en": "The Grand Theft Auto 6 Extended Look revealed nearly 30 minutes of footage, showcasing a variety of side activities players can engage in beyond the main missions.",
-      "dek_es": "La Mirada Extendida de Grand Theft Auto 6 mostró casi 30 minutos de metraje, exhibiendo una variedad de actividades secundarias en las que los jugadores pueden participar además de las misiones principales.",
-      "body_en": [
-        "Rockstar’s extended gameplay footage of GTA 6 highlighted numerous side activities including mini-games, exploration, and interactive environments. These activities complement the main storyline and expand player options.",
-        "Side content has been a staple of the GTA series, offering players diverse ways to engage with the game world and extend playtime beyond missions.",
-        "For players, these side activities provide additional gameplay variety and opportunities for exploration, contributing to the overall depth and longevity of the game experience."
-      ],
-      "body_es": [
-        "El metraje extendido de gameplay de GTA 6 de Rockstar destacó numerosas actividades secundarias, incluyendo minijuegos, exploración y entornos interactivos. Estas actividades complementan la historia principal y amplían las opciones del jugador.",
-        "El contenido secundario ha sido un pilar de la serie GTA, ofreciendo a los jugadores formas diversas de interactuar con el mundo del juego y extender el tiempo de juego más allá de las misiones.",
-        "Para los jugadores, estas actividades secundarias brindan variedad adicional en la jugabilidad y oportunidades de exploración, contribuyendo a la profundidad y longevidad general de la experiencia de juego."
-      ],
-      "source_url": "https://www.ign.com/articles/heres-every-gta-6-side-activity-weve-spotted-so-far",
+      "source_url": "https://www.ign.com/articles/ultralight-gaming-mice-future-innovation",
       "source_name": "IGN"
     }
   ]
