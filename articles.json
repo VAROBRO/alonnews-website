@@ -1,125 +1,185 @@
 {
-  "generatedAt": "2026-08-28T23:30:18.673Z",
+  "generatedAt": "2026-08-29T17:38:24.296Z",
   "articles": [
     {
-      "slug": "indie-dev-laptops-stolen-gamescom-cd-projekt-red-help",
-      "category": "Industry",
-      "title_en": "Indie Dev Posts Video Reporting Stolen Laptops at gamescom as CD Projekt Red and More Step in to Help",
-      "title_es": "Desarrollador Indie Publica Video Reportando Robos de Portátiles en gamescom mientras CD Projekt Red y Otros Ayudan",
-      "dek_en": "Ryan Laley, solo indie developer behind Mimic, confirms laptops stolen at gamescom, cutting his event short.",
-      "dek_es": "Ryan Laley, desarrollador indie detrás de Mimic, confirma robo de portátiles en gamescom, acortando su participación.",
+      "slug": "state-of-decay-3-shows-promise-despite-xbox-upheaval",
+      "category": "Console",
+      "title_en": "We Played State of Decay 3 and It's in Good Shape Despite the Xbox Upheaval",
+      "title_es": "Probamos State of Decay 3 y está en buena forma a pesar de la agitación en Xbox",
+      "dek_en": "State of Decay 3 seems to be showing promise after playing an action-packed 30 minutes of an early alpha build.",
+      "dek_es": "State of Decay 3 parece mostrar potencial tras jugar 30 minutos llenos de acción de una versión alfa temprana.",
       "body_en": [
-        "Ryan Laley, the solo developer of the upcoming asymmetrical horror game Mimic, shared a video confirming that his laptops were stolen during gamescom, forcing him to cut his event attendance short. Other developers were also reportedly affected by the thefts at the event.",
-        "Gamescom is one of the largest gaming conventions globally, attracting thousands of developers and industry professionals. The theft of critical hardware like laptops can severely disrupt indie developers who rely heavily on their personal equipment for development and presentations.",
-        "The incident underscores security challenges at major industry events and highlights the vulnerability of smaller developers. Support from companies like CD Projekt Red aims to mitigate the impact, ensuring affected developers can continue their work and presence in the industry."
+        "State of Decay 3 was recently previewed in an early alpha build, revealing an action-packed 30-minute gameplay session that impressed despite recent upheavals at Xbox. The game appears to be progressing steadily, maintaining core elements fans expect while introducing new features.",
+        "The State of Decay series is known for its open-world zombie survival mechanics, blending base-building, resource management, and tactical combat. This third installment aims to expand on these foundations with improved visuals and gameplay depth.",
+        "This update matters as it reassures players and stakeholders that State of Decay 3 remains on track despite corporate changes at Xbox. It signals continued support for the franchise and potential growth in the survival genre market."
       ],
       "body_es": [
-        "Ryan Laley, desarrollador en solitario del próximo juego de horror asimétrico Mimic, compartió un video confirmando que le robaron sus portátiles durante gamescom, lo que le obligó a acortar su participación en el evento. Otros desarrolladores también resultaron afectados por los robos.",
-        "Gamescom es una de las convenciones de videojuegos más grandes del mundo, que atrae a miles de desarrolladores y profesionales de la industria. El robo de hardware crítico como portátiles puede afectar gravemente a los desarrolladores indie, que dependen de su equipo personal para el desarrollo y presentaciones.",
-        "El incidente pone de manifiesto los desafíos de seguridad en eventos importantes de la industria y la vulnerabilidad de los desarrolladores más pequeños. El apoyo de compañías como CD Projekt Red busca mitigar el impacto y garantizar que los afectados puedan continuar su trabajo y presencia en el sector."
+        "State of Decay 3 fue recientemente presentado en una versión alfa temprana, mostrando una sesión de juego de 30 minutos llena de acción que impresionó a pesar de las recientes turbulencias en Xbox. El juego parece avanzar de manera constante, manteniendo los elementos clave que esperan los fans e introduciendo nuevas características.",
+        "La serie State of Decay es conocida por su mecánica de supervivencia zombie en mundo abierto, combinando construcción de bases, gestión de recursos y combate táctico. Esta tercera entrega busca ampliar estas bases con mejoras visuales y mayor profundidad en el juego.",
+        "Esta actualización es relevante porque tranquiliza a jugadores y partes interesadas sobre que State of Decay 3 sigue en marcha pese a los cambios corporativos en Xbox. Indica un apoyo continuo a la franquicia y un posible crecimiento en el mercado del género supervivencia."
+      ],
+      "source_url": "https://www.ign.com/articles/we-played-state-of-decay-3-and-its-in-good-shape-despite-the-xbox-upheaval",
+      "source_name": "IGN"
+    },
+    {
+      "slug": "join-us-ps5-gameplay-revealed-at-gamescom-2026",
+      "category": "Console",
+      "title_en": "Join Us: Watch 11 Minutes of Exclusive Gameplay from the Upcoming Cult Simulator",
+      "title_es": "Join Us: Mira 11 minutos de jugabilidad exclusiva del próximo simulador de culto",
+      "dek_en": "Wolf Haus Games revealed 11 minutes of gameplay for Join Us at gamescom 2026, alongside a PS5 announcement and a trailer featuring real-life former cult members.",
+      "dek_es": "Wolf Haus Games mostró 11 minutos de jugabilidad de Join Us en gamescom 2026, junto con un anuncio para PS5 y un tráiler con exmiembros reales de cultos.",
+      "body_en": [
+        "At gamescom 2026, Wolf Haus Games presented an 11-minute gameplay video of Join Us, their upcoming cult simulator. The reveal included a PlayStation 5 release announcement and a trailer featuring testimonies from former real-life cult members.",
+        "Join Us is a simulation game that explores cult dynamics, combining narrative elements with management mechanics. The developer’s approach aims to provide an immersive experience reflecting real-world cult behavior and psychological tension.",
+        "This disclosure is significant as it provides concrete gameplay insight and confirms platform availability. It informs players interested in narrative-driven and simulation genres about the game’s direction and release plans."
+      ],
+      "body_es": [
+        "En gamescom 2026, Wolf Haus Games presentó un video de 11 minutos de jugabilidad de Join Us, su próximo simulador de culto. La presentación incluyó un anuncio de lanzamiento para PlayStation 5 y un tráiler con testimonios de exmiembros reales de cultos.",
+        "Join Us es un juego de simulación que explora la dinámica de los cultos, combinando elementos narrativos con mecánicas de gestión. El enfoque del desarrollador busca ofrecer una experiencia inmersiva que refleje el comportamiento real de cultos y la tensión psicológica.",
+        "Esta revelación es importante porque ofrece una visión concreta de la jugabilidad y confirma la disponibilidad en plataformas. Informa a los jugadores interesados en géneros narrativos y de simulación sobre la dirección y planes de lanzamiento del juego."
+      ],
+      "source_url": "https://www.ign.com/articles/join-us-gameplay-ps5-release-gamescom",
+      "source_name": "IGN"
+    },
+    {
+      "slug": "dragons-dogma-2-dark-arisen-expansion-details",
+      "category": "Console",
+      "title_en": "Dragon’s Dogma 2: Dark Arisen Will Send You On a Chilly Loot Grind",
+      "title_es": "Dragon’s Dogma 2: Dark Arisen te llevará a una gélida búsqueda de botín",
+      "dek_en": "Dragon's Dogma 2's Dark Arisen expansion adds a whole new region with clever winter weather effects, an old-but-new loot grind, and a dragon that vomits zombies.",
+      "dek_es": "La expansión Dark Arisen de Dragon's Dogma 2 añade una nueva región con efectos invernales, una clásica pero renovada búsqueda de botín y un dragón que vomita zombis.",
+      "body_en": [
+        "The Dark Arisen expansion for Dragon’s Dogma 2 introduces a new snowy region featuring dynamic winter weather effects. The update also revives the franchise’s signature loot grind and includes a unique enemy: a dragon that vomits zombies.",
+        "Dragon’s Dogma 2 builds on the original’s action RPG formula with enhanced combat and exploration. This expansion expands the game world and adds fresh challenges, blending familiar mechanics with new environmental hazards.",
+        "This expansion matters as it extends the game’s lifecycle with substantial content, appealing to returning players and maintaining engagement. The innovative enemy design and weather effects contribute to gameplay variety and immersion."
+      ],
+      "body_es": [
+        "La expansión Dark Arisen para Dragon’s Dogma 2 introduce una nueva región nevada con efectos dinámicos de clima invernal. La actualización también revive la clásica búsqueda de botín de la franquicia e incluye un enemigo singular: un dragón que vomita zombis.",
+        "Dragon’s Dogma 2 se basa en la fórmula del RPG de acción original con combate y exploración mejorados. Esta expansión amplía el mundo del juego y añade nuevos desafíos, combinando mecánicas conocidas con nuevos peligros ambientales.",
+        "Esta expansión es relevante porque extiende el ciclo de vida del juego con contenido sustancial, atrayendo a jugadores que regresan y manteniendo el compromiso. El diseño innovador de enemigos y los efectos climáticos aportan variedad e inmersión al juego."
+      ],
+      "source_url": "https://www.ign.com/articles/dragons-dogma-2-dark-arisen-will-send-you-on-a-chilly-loot-grind-gamescom-2026",
+      "source_name": "IGN"
+    },
+    {
+      "slug": "pokemon-company-explores-smart-device-integrations",
+      "category": "Industry",
+      "title_en": "The Pokémon Company Looks to Smart Device Integrations as Future Targets",
+      "title_es": "The Pokémon Company apunta a integraciones con dispositivos inteligentes como futuros objetivos",
+      "dek_en": "President and CEO of The Pokémon Company, Tsunekazu Ishihara, shared insights about possible future plans involving wearable technology during a panel at PokémonXP.",
+      "dek_es": "El presidente y CEO de The Pokémon Company, Tsunekazu Ishihara, compartió detalles sobre posibles planes futuros con tecnología wearable durante un panel en PokémonXP.",
+      "body_en": [
+        "Tsunekazu Ishihara, President and CEO of The Pokémon Company, revealed during the inaugural PokémonXP panel that the company is considering smart device integrations, including wearable technology, as part of its future strategy.",
+        "The Pokémon franchise has expanded beyond games into merchandise, mobile apps, and media. Integrating smart devices could enhance interactive experiences and broaden the brand’s technological footprint.",
+        "This development is important as it signals The Pokémon Company’s intent to innovate in hardware-software synergy, potentially affecting how players engage with Pokémon content across platforms and devices."
+      ],
+      "body_es": [
+        "Tsunekazu Ishihara, presidente y CEO de The Pokémon Company, reveló durante el panel inaugural de PokémonXP que la compañía está considerando integraciones con dispositivos inteligentes, incluyendo tecnología wearable, como parte de su estrategia futura.",
+        "La franquicia Pokémon se ha expandido más allá de los juegos hacia merchandising, aplicaciones móviles y medios. Integrar dispositivos inteligentes podría mejorar las experiencias interactivas y ampliar la presencia tecnológica de la marca.",
+        "Este desarrollo es importante porque indica la intención de The Pokémon Company de innovar en la sinergia hardware-software, lo que podría afectar la forma en que los jugadores interactúan con contenido de Pokémon en diversas plataformas y dispositivos."
+      ],
+      "source_url": "https://www.ign.com/articles/the-pokemon-company-looks-to-smart-device-integrations-as-future-targets",
+      "source_name": "IGN"
+    },
+    {
+      "slug": "xbox-ceo-project-helix-family-of-devices",
+      "category": "Industry",
+      "title_en": "Xbox CEO Says Project Helix Includes a 'Family of Devices'",
+      "title_es": "La CEO de Xbox dice que Project Helix incluye una 'familia de dispositivos'",
+      "dek_en": "Xbox CEO Asha Sharma has suggested Project Helix will encompass more than one device, stating Microsoft is working on \"a great family of devices.\"",
+      "dek_es": "La CEO de Xbox, Asha Sharma, sugirió que Project Helix incluirá más de un dispositivo, afirmando que Microsoft trabaja en \"una gran familia de dispositivos.\"",
+      "body_en": [
+        "Xbox CEO Asha Sharma disclosed that Project Helix is not a single device but a family of devices under development at Microsoft. This indicates a broader hardware initiative beyond traditional consoles.",
+        "Project Helix appears to be a strategic effort to diversify Xbox’s hardware offerings, potentially including various form factors or specialized devices to complement the Xbox ecosystem.",
+        "This information matters as it signals Microsoft’s intent to expand its hardware portfolio, which could impact market competition and offer players more options for accessing Xbox services."
+      ],
+      "body_es": [
+        "La CEO de Xbox, Asha Sharma, reveló que Project Helix no es un solo dispositivo sino una familia de dispositivos en desarrollo en Microsoft. Esto indica una iniciativa de hardware más amplia que las consolas tradicionales.",
+        "Project Helix parece ser un esfuerzo estratégico para diversificar la oferta de hardware de Xbox, posiblemente incluyendo varios formatos o dispositivos especializados que complementen el ecosistema Xbox.",
+        "Esta información es relevante porque señala la intención de Microsoft de ampliar su portafolio de hardware, lo que podría afectar la competencia en el mercado y ofrecer a los jugadores más opciones para acceder a los servicios de Xbox."
+      ],
+      "source_url": "https://www.ign.com/articles/xbox-ceo-says-project-helix-includes-a-family-of-devices",
+      "source_name": "IGN"
+    },
+    {
+      "slug": "indie-dev-laptops-stolen-at-gamescom-cd-projekt-red-helps",
+      "category": "Industry",
+      "title_en": "Indie Dev Posts Video Reporting Stolen Laptops at gamescom as CD Projekt Red and More Step in to Help",
+      "title_es": "Desarrollador indie denuncia robo de laptops en gamescom mientras CD Projekt Red y otros ofrecen ayuda",
+      "dek_en": "Ryan Laley, solo indie developer behind Mimic, shared a video confirming his gamescom was cut short after laptops were stolen from him and other developers.",
+      "dek_es": "Ryan Laley, desarrollador indie detrás de Mimic, compartió un video confirmando que su presencia en gamescom se vio interrumpida tras el robo de laptops a él y otros desarrolladores.",
+      "body_en": [
+        "Ryan Laley, the solo developer of the asymmetrical horror game Mimic, posted a video reporting that his laptops were stolen at gamescom, forcing him to cut his event participation short. Other developers were also affected by the thefts.",
+        "The incident highlights security challenges at large industry events where valuable equipment is at risk. CD Projekt Red and other companies have stepped in to assist Laley and affected developers.",
+        "This matters as it underscores the vulnerabilities indie developers face during major events and the importance of community support. It also raises awareness about event security protocols in the gaming industry."
+      ],
+      "body_es": [
+        "Ryan Laley, desarrollador en solitario del juego de horror asimétrico Mimic, publicó un video denunciando el robo de sus laptops en gamescom, lo que le obligó a acortar su participación en el evento. Otros desarrolladores también fueron afectados por los robos.",
+        "El incidente pone de manifiesto los desafíos de seguridad en grandes eventos de la industria, donde equipos valiosos están en riesgo. CD Projekt Red y otras compañías han intervenido para ayudar a Laley y a los desarrolladores afectados.",
+        "Esto es relevante porque subraya las vulnerabilidades que enfrentan los desarrolladores indie en eventos importantes y la importancia del apoyo comunitario. También genera conciencia sobre los protocolos de seguridad en la industria del videojuego."
       ],
       "source_url": "https://www.ign.com/articles/indie-dev-posts-video-reporting-stolen-laptops-at-gamescom-as-cd-projekt-red-and-more-step-in-to-help",
       "source_name": "IGN"
     },
     {
-      "slug": "rockstar-approached-netflix-for-gta6-extended-look",
-      "category": "Industry",
-      "title_en": "Rockstar Approached Netflix for Exclusive GTA 6 Extended Look, Not the Other Way Around",
-      "title_es": "Rockstar Contactó a Netflix para Vista Exclusiva Extendida de GTA 6, No al Revés",
-      "dek_en": "Rockstar Games initiated the exclusive extended GTA 6 look on Netflix, contrary to previous assumptions.",
-      "dek_es": "Rockstar Games fue quien propuso la exclusiva vista extendida de GTA 6 en Netflix, contrario a lo que se pensaba.",
+      "slug": "fable-pc-requirements-announced",
+      "category": "PC",
+      "title_en": "Fable PC Requirements Announced from 1080p 30 FPS to 4K 60 FPS",
+      "title_es": "Anunciados los requisitos de Fable para PC desde 1080p 30 FPS hasta 4K 60 FPS",
+      "dek_en": "Microsoft has announced the PC requirements for Fable, detailing specs needed to run the RPG at various resolutions and frame rates ahead of its February 2027 release.",
+      "dek_es": "Microsoft ha anunciado los requisitos para PC de Fable, detallando las especificaciones necesarias para ejecutar el RPG en distintas resoluciones y tasas de frames antes de su lanzamiento en febrero de 2027.",
       "body_en": [
-        "Rockstar Games confirmed that it was their initiative to bring the exclusive extended look of Grand Theft Auto 6 to Netflix, not Netflix approaching them. The event showcased nearly 27 minutes of gameplay footage, mostly without issues.",
-        "This extended look is one of the most detailed public reveals of GTA 6 to date, streamed on a major platform. Rockstar's decision to partner with Netflix marks a notable collaboration between gaming and streaming media.",
-        "The move reflects evolving marketing strategies in the gaming industry, leveraging streaming platforms to reach wider audiences. For players, it provides unprecedented access to gameplay footage ahead of release, enhancing engagement and anticipation."
+        "Microsoft revealed the official PC system requirements for Fable, specifying configurations to run the game from 1080p at 30 FPS up to 4K at 60 FPS. This information was shared following hands-on impressions from a recent gamescom demo.",
+        "Fable is a high-profile RPG reboot known for its detailed open world and visual fidelity. The announced specs provide clarity for PC players on hardware needs to experience the game at different quality settings.",
+        "This announcement is important as it allows PC gamers to assess their readiness for Fable’s launch and helps retailers and manufacturers anticipate demand for compatible hardware components."
       ],
       "body_es": [
-        "Rockstar Games confirmó que fue iniciativa propia llevar la vista exclusiva extendida de Grand Theft Auto 6 a Netflix, y no que Netflix los contactara. El evento mostró casi 27 minutos de metraje de juego, mayormente sin problemas.",
-        "Esta vista extendida es una de las revelaciones públicas más detalladas de GTA 6 hasta la fecha, transmitida en una plataforma importante. La decisión de Rockstar de asociarse con Netflix marca una colaboración notable entre videojuegos y medios de streaming.",
-        "El movimiento refleja estrategias de marketing en evolución en la industria, aprovechando plataformas de streaming para alcanzar audiencias más amplias. Para los jugadores, ofrece acceso sin precedentes a imágenes de juego antes del lanzamiento, aumentando el compromiso y la expectación."
+        "Microsoft reveló los requisitos oficiales para PC de Fable, especificando configuraciones para ejecutar el juego desde 1080p a 30 FPS hasta 4K a 60 FPS. Esta información se compartió tras impresiones de una demo reciente en gamescom.",
+        "Fable es un reinicio RPG de alto perfil conocido por su mundo abierto detallado y fidelidad visual. Los requisitos anunciados ofrecen claridad a los jugadores de PC sobre el hardware necesario para disfrutar el juego en diferentes configuraciones de calidad.",
+        "Este anuncio es importante porque permite a los jugadores de PC evaluar su preparación para el lanzamiento de Fable y ayuda a minoristas y fabricantes a anticipar la demanda de componentes compatibles."
       ],
-      "source_url": "https://www.ign.com/articles/rockstar-approached-netflix-for-exclusive-gta-6-extended-look-not-the-other-way-around",
-      "source_name": "IGN"
-    },
-    {
-      "slug": "kick-streamer-neon-responds-to-gta6-reference",
-      "category": "Industry",
-      "title_en": "Kick Streamer Neon Responds After Rockstar Seemingly Includes a Reference to Him in GTA 6 Netflix Showcase",
-      "title_es": "Streamer de Kick Neon Responde Tras Referencia a Él en Showcase de GTA 6 en Netflix",
-      "dek_en": "Kick streamer Neon reacted after Rockstar appeared to reference him in a GTA 6 side mission shown during the Netflix trailer.",
-      "dek_es": "El streamer de Kick Neon reaccionó tras una aparente referencia a él en una misión secundaria de GTA 6 mostrada en el tráiler de Netflix.",
-      "body_en": [
-        "Neon, a prominent Kick streamer, responded publicly after Rockstar Games seemingly included a reference to him in a side mission featured in the GTA 6 Netflix showcase. The mention was noted by viewers following the trailer's release.",
-        "Kick is a growing streaming platform competing with Twitch and YouTube Gaming, and Neon is one of its notable personalities. The inclusion of a streamer reference in a major game like GTA 6 is a rare nod to the streaming community.",
-        "This acknowledgment reflects the increasing influence of streamers in gaming culture and marketing. For players and viewers, it demonstrates how gaming content creators are becoming integrated into game narratives and promotional materials."
-      ],
-      "body_es": [
-        "Neon, un destacado streamer de Kick, respondió públicamente después de que Rockstar Games aparentemente lo incluyera en una misión secundaria mostrada en el showcase de GTA 6 en Netflix. La referencia fue notada por los espectadores tras el lanzamiento del tráiler.",
-        "Kick es una plataforma de streaming en crecimiento que compite con Twitch y YouTube Gaming, y Neon es una de sus personalidades más destacadas. La inclusión de una referencia a un streamer en un juego importante como GTA 6 es un reconocimiento poco común a la comunidad de streamers.",
-        "Este reconocimiento refleja la creciente influencia de los streamers en la cultura y el marketing de los videojuegos. Para jugadores y espectadores, muestra cómo los creadores de contenido se integran cada vez más en las narrativas y materiales promocionales de los juegos."
-      ],
-      "source_url": "https://www.ign.com/articles/kick-streamer-neon-responds-after-rockstar-seemingly-includes-a-reference-to-him-in-gta-6-netflix-showcase",
-      "source_name": "IGN"
-    },
-    {
-      "slug": "gta6-will-satirize-us-avoiding-trump-covid",
-      "category": "Console",
-      "title_en": "GTA 6 Will Satirize United States but Avoid Donald Trump and COVID: 'Memes Age Quickly'",
-      "title_es": "GTA 6 Se Reirá de Estados Unidos pero Evitará a Donald Trump y el COVID: 'Los Memes Envejecen Rápido'",
-      "dek_en": "Rockstar aims for satire in GTA 6 that ages well, avoiding specific references to Donald Trump and the COVID pandemic.",
-      "dek_es": "Rockstar busca una sátira en GTA 6 que envejezca bien, evitando referencias específicas a Donald Trump y la pandemia de COVID.",
-      "body_en": [
-        "Rockstar Games revealed that Grand Theft Auto 6 will continue its tradition of satirizing American society but will deliberately avoid specific references to Donald Trump and the COVID-19 pandemic. The company stated that memes and topical jokes tend to age quickly.",
-        "The GTA series has long been known for its sharp social commentary and satire. By steering clear of highly specific recent events, Rockstar aims to create humor and critique that remain relevant over time.",
-        "This approach affects how players experience the game's narrative and humor, focusing on broader societal themes rather than transient political or cultural moments. It also reflects a strategic choice in content longevity for the title."
-      ],
-      "body_es": [
-        "Rockstar Games reveló que Grand Theft Auto 6 continuará su tradición de satirizar la sociedad estadounidense, pero evitará referencias específicas a Donald Trump y la pandemia de COVID-19. La compañía señaló que los memes y bromas actuales envejecen rápido.",
-        "La serie GTA es conocida por su aguda crítica social y sátira. Al evitar eventos recientes muy específicos, Rockstar busca crear humor y crítica que permanezcan relevantes con el tiempo.",
-        "Este enfoque afecta la experiencia narrativa y humorística del juego, centrándose en temas sociales más amplios en lugar de momentos políticos o culturales transitorios. También refleja una elección estratégica para la longevidad del contenido."
-      ],
-      "source_url": "https://vandal.elespanol.com/noticia/2026240027/gta-6-se-reira-de-estados-unidos-pero-rockstar-evitara-a-donald-trump-y-el-covid-los-memes-envejecen-rapido/",
+      "source_url": "https://vandal.elespanol.com/noticia/2026241007/podra-tu-pc-con-fable-estos-son-sus-requisitos-desde-1080p-y-30-fps-hasta-4k-y-60-fps/",
       "source_name": "Vandal"
     },
     {
-      "slug": "pokemon-tales-misadventures-sirfetchd-pichu-disney-exclusive",
+      "slug": "rockstar-admits-nervousness-ahead-of-gta-6-launch",
       "category": "Industry",
-      "title_en": "Pokémon Tales: The Misadventures of Sirfetch’d and Pichu Will Be Exclusive to Disney+",
-      "title_es": "Pokémon Tales: Las Desventuras de Sirfetch’d y Pichu Será Exclusivo de Disney+",
-      "dek_en": "The upcoming stop-motion Pokémon series will stream exclusively on Disney+ and DisneyXD, announced during PokémonXP.",
-      "dek_es": "La próxima serie de Pokémon en stop-motion se transmitirá exclusivamente en Disney+ y DisneyXD, anunciada durante PokémonXP.",
+      "title_en": "Rockstar Admits It’s Nervous Ahead of GTA 6 Launch: 'We Want Everything to Be Perfect'",
+      "title_es": "Rockstar admite estar nerviosa ante el lanzamiento de GTA 6: 'Queremos que todo sea perfecto'",
+      "dek_en": "Rockstar acknowledges the enormous pressure surrounding Grand Theft Auto VI’s release, emphasizing their own high standards exceed player expectations.",
+      "dek_es": "Rockstar reconoce la enorme presión que rodea el lanzamiento de Grand Theft Auto VI, enfatizando que sus propias exigencias superan las expectativas de los jugadores.",
       "body_en": [
-        "The Pokémon Company and The Walt Disney Company announced a global distribution deal for Pokémon Tales: The Misadventures of Sirfetch’d and Pichu. The stop-motion series will be exclusive to Disney+ and DisneyXD platforms.",
-        "This new series expands the Pokémon franchise beyond video games and traditional animation, offering a unique stop-motion format. It follows the adventures of popular Pokémon characters Sirfetch’d and Pichu.",
-        "For fans and the industry, this partnership signals continued growth and diversification of Pokémon media. Exclusive streaming rights on Disney+ also highlight the importance of platform-specific content in the current entertainment landscape."
+        "Rockstar has publicly admitted feeling nervous as Grand Theft Auto VI approaches its launch. The studio highlighted the intense pressure due to high public expectations and its own internal standards.",
+        "GTA 6 is one of the most anticipated games in recent years, with Rockstar gradually releasing information to build anticipation. The company’s focus on perfection reflects the franchise’s history of quality and innovation.",
+        "This admission is notable as it provides transparency about the development process and the challenges faced by major studios. It also contextualizes the care taken to meet both fan and internal benchmarks."
       ],
       "body_es": [
-        "The Pokémon Company y The Walt Disney Company anunciaron un acuerdo global de distribución para Pokémon Tales: Las Desventuras de Sirfetch’d y Pichu. La serie en stop-motion será exclusiva de las plataformas Disney+ y DisneyXD.",
-        "Esta nueva serie amplía la franquicia Pokémon más allá de los videojuegos y la animación tradicional, ofreciendo un formato único en stop-motion. Sigue las aventuras de los populares personajes Sirfetch’d y Pichu.",
-        "Para los fans y la industria, esta alianza señala un crecimiento y diversificación continuos de los medios Pokémon. Los derechos exclusivos en Disney+ también subrayan la importancia del contenido específico para plataformas en el panorama actual del entretenimiento."
+        "Rockstar ha admitido públicamente sentirse nerviosa ante la proximidad del lanzamiento de Grand Theft Auto VI. El estudio destacó la intensa presión debido a las altas expectativas públicas y sus propios estándares internos.",
+        "GTA 6 es uno de los juegos más esperados de los últimos años, con Rockstar liberando información gradualmente para generar anticipación. El enfoque en la perfección refleja la historia de calidad e innovación de la franquicia.",
+        "Esta admisión es relevante porque ofrece transparencia sobre el proceso de desarrollo y los desafíos que enfrentan los grandes estudios. También contextualiza el cuidado puesto para cumplir con las expectativas de fans y estándares internos."
       ],
-      "source_url": "https://www.ign.com/articles/pokemon-tales-the-misadventures-of-sirfetchd-and-pichu-will-be-exclusive-to-disney",
-      "source_name": "IGN"
+      "source_url": "https://vandal.elespanol.com/noticia/2026241006/rockstar-admite-que-esta-nerviosa-ante-el-lanzamiento-de-gta-6-queremos-que-todo-sea-perfecto/",
+      "source_name": "Vandal"
     },
     {
-      "slug": "ultralight-gaming-mouse-arms-race-new-phase",
-      "category": "Hardware",
-      "title_en": "The Ultralight Gaming Mouse Arms Race Has Entered a New Phase",
-      "title_es": "La Carrera de Ratones Gaming Ultraligeros Entra en una Nueva Fase",
-      "dek_en": "Corsair is reshaping ultralight gaming mice in 2026, shifting focus beyond simple weight reduction.",
-      "dek_es": "Corsair está redefiniendo los ratones gaming ultraligeros en 2026, enfocándose más allá de la simple reducción de peso.",
+      "slug": "total-war-warhammer-40000-necrons-confirmed",
+      "category": "PC",
+      "title_en": "Total War: Warhammer 40,000 Confirms Necrons Will Arrive Eventually: 'Don't Worry'",
+      "title_es": "Total War: Warhammer 40,000 confirma que los Necrones llegarán en algún momento: 'No os preocupéis'",
+      "dek_en": "Creative Assembly confirmed that the Necrons faction will be added to Total War: Warhammer 40,000 at some point, reassuring fans not to worry about their absence.",
+      "dek_es": "Creative Assembly confirmó que la facción Necrones será añadida a Total War: Warhammer 40,000 en algún momento, tranquilizando a los fans sobre su ausencia.",
       "body_en": [
-        "Corsair is innovating in the ultralight gaming mouse market by introducing new design philosophies that go beyond merely reducing weight. Their latest models incorporate advanced materials and ergonomic improvements while maintaining low mass.",
-        "The ultralight mouse segment has been competitive, with manufacturers focusing on weight as the primary selling point. Corsair’s approach emphasizes performance, durability, and user comfort alongside weight considerations.",
-        "For gamers, these developments mean access to peripherals that balance speed and precision with comfort and longevity. The shift may influence future hardware trends and user expectations in competitive gaming gear."
+        "Creative Assembly stated in a recent interview that the Necrons faction will be introduced to Total War: Warhammer 40,000 in the future. The developers asked fans not to worry about the faction’s current absence.",
+        "Total War: Warhammer 40,000 is a large-scale strategy game adapting the expansive Warhammer 40K universe. The Necrons are a popular faction with a distinct playstyle eagerly awaited by players.",
+        "This confirmation matters as it sets expectations for ongoing content updates and supports player engagement by addressing concerns about faction availability in the game."
       ],
       "body_es": [
-        "Corsair está innovando en el mercado de ratones gaming ultraligeros al introducir nuevas filosofías de diseño que van más allá de la simple reducción de peso. Sus últimos modelos incorporan materiales avanzados y mejoras ergonómicas manteniendo baja masa.",
-        "El segmento de ratones ultraligeros ha sido competitivo, con fabricantes centrados en el peso como principal argumento de venta. El enfoque de Corsair enfatiza rendimiento, durabilidad y comodidad del usuario junto con el peso.",
-        "Para los jugadores, estos desarrollos significan acceso a periféricos que equilibran velocidad y precisión con comodidad y durabilidad. El cambio podría influir en tendencias futuras de hardware y expectativas en equipos para juegos competitivos."
+        "Creative Assembly declaró en una entrevista reciente que la facción Necrones será introducida en Total War: Warhammer 40,000 en el futuro. Los desarrolladores pidieron a los fans que no se preocupen por la ausencia actual de la facción.",
+        "Total War: Warhammer 40,000 es un juego de estrategia a gran escala que adapta el extenso universo de Warhammer 40K. Los Necrones son una facción popular con un estilo de juego distintivo que los jugadores esperan con interés.",
+        "Esta confirmación es importante porque establece expectativas para futuras actualizaciones de contenido y mantiene el compromiso de los jugadores al abordar sus inquietudes sobre la disponibilidad de facciones en el juego."
       ],
-      "source_url": "https://www.ign.com/articles/ultralight-gaming-mice-future-innovation",
-      "source_name": "IGN"
+      "source_url": "https://vandal.elespanol.com/noticia/2026241005/total-war-warhammer-40000-confirma-que-los-necrones-llegaran-en-algun-momento-no-os-preocupeis/",
+      "source_name": "Vandal"
     }
   ]
 }
