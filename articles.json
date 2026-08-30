@@ -1,184 +1,164 @@
 {
-  "generatedAt": "2026-08-29T17:38:24.296Z",
+  "generatedAt": "2026-08-30T18:01:14.381Z",
   "articles": [
     {
-      "slug": "state-of-decay-3-shows-promise-despite-xbox-upheaval",
+      "slug": "gta-6-no-microtransactions-generative-ai-launch",
       "category": "Console",
-      "title_en": "We Played State of Decay 3 and It's in Good Shape Despite the Xbox Upheaval",
-      "title_es": "Probamos State of Decay 3 y está en buena forma a pesar de la agitación en Xbox",
-      "dek_en": "State of Decay 3 seems to be showing promise after playing an action-packed 30 minutes of an early alpha build.",
-      "dek_es": "State of Decay 3 parece mostrar potencial tras jugar 30 minutos llenos de acción de una versión alfa temprana.",
+      "title_en": "GTA 6 Will Have No Microtransactions or Generative AI at Launch, Rockstar Says",
+      "title_es": "GTA 6 No Tendrá Microtransacciones ni IA Generativa en su Lanzamiento, Dice Rockstar",
+      "dek_en": "Rockstar Games confirmed that Grand Theft Auto 6 will launch without microtransactions or generative AI features.",
+      "dek_es": "Rockstar Games confirmó que Grand Theft Auto 6 se lanzará sin microtransacciones ni funciones de IA generativa.",
       "body_en": [
-        "State of Decay 3 was recently previewed in an early alpha build, revealing an action-packed 30-minute gameplay session that impressed despite recent upheavals at Xbox. The game appears to be progressing steadily, maintaining core elements fans expect while introducing new features.",
-        "The State of Decay series is known for its open-world zombie survival mechanics, blending base-building, resource management, and tactical combat. This third installment aims to expand on these foundations with improved visuals and gameplay depth.",
-        "This update matters as it reassures players and stakeholders that State of Decay 3 remains on track despite corporate changes at Xbox. It signals continued support for the franchise and potential growth in the survival genre market."
+        "Rockstar Games announced that Grand Theft Auto 6, scheduled for release in November, will not include microtransactions or generative AI at launch. This decision was confirmed directly by the developer, emphasizing a focus on traditional gameplay elements.",
+        "Grand Theft Auto is one of the most successful and influential franchises in gaming, known for its expansive open worlds and narrative-driven experiences. Previous entries have incorporated microtransactions, especially in online modes, but this approach will be absent at launch for GTA 6.",
+        "The absence of microtransactions and generative AI at launch impacts player experience by focusing on core gameplay without additional monetization layers or AI-generated content. This may influence market reception and set expectations for future updates or expansions."
       ],
       "body_es": [
-        "State of Decay 3 fue recientemente presentado en una versión alfa temprana, mostrando una sesión de juego de 30 minutos llena de acción que impresionó a pesar de las recientes turbulencias en Xbox. El juego parece avanzar de manera constante, manteniendo los elementos clave que esperan los fans e introduciendo nuevas características.",
-        "La serie State of Decay es conocida por su mecánica de supervivencia zombie en mundo abierto, combinando construcción de bases, gestión de recursos y combate táctico. Esta tercera entrega busca ampliar estas bases con mejoras visuales y mayor profundidad en el juego.",
-        "Esta actualización es relevante porque tranquiliza a jugadores y partes interesadas sobre que State of Decay 3 sigue en marcha pese a los cambios corporativos en Xbox. Indica un apoyo continuo a la franquicia y un posible crecimiento en el mercado del género supervivencia."
+        "Rockstar Games anunció que Grand Theft Auto 6, previsto para noviembre, no incluirá microtransacciones ni IA generativa en su lanzamiento. Esta decisión fue confirmada directamente por el desarrollador, enfatizando un enfoque en elementos tradicionales de juego.",
+        "Grand Theft Auto es una de las franquicias más exitosas e influyentes en los videojuegos, conocida por sus mundos abiertos expansivos y experiencias narrativas. Entregas anteriores incorporaron microtransacciones, especialmente en modos en línea, pero esta vez estarán ausentes al inicio.",
+        "La ausencia de microtransacciones e IA generativa en el lanzamiento afecta la experiencia del jugador al centrarse en la jugabilidad principal sin capas adicionales de monetización o contenido generado por IA. Esto puede influir en la recepción del mercado y en las expectativas para futuras actualizaciones o expansiones."
+      ],
+      "source_url": "https://www.ign.com/articles/gta-6-will-have-no-microtransactions-or-generative-ai-at-launch-rockstar-says",
+      "source_name": "IGN"
+    },
+    {
+      "slug": "nintendo-switch-2-price-increase-september-2026",
+      "category": "Hardware",
+      "title_en": "PSA: Nintendo Switch 2 Gets a $50 Price Increase on Tuesday",
+      "title_es": "Aviso: Nintendo Switch 2 Sube de Precio $50 el Martes",
+      "dek_en": "Nintendo will raise the price of the Switch 2 to $500 starting September 1, 2026.",
+      "dek_es": "Nintendo aumentará el precio del Switch 2 a $500 a partir del 1 de septiembre de 2026.",
+      "body_en": [
+        "Nintendo announced that the price of the Nintendo Switch 2 will increase by $50 to $500 starting Tuesday, September 1, 2026. This change affects all new purchases from that date onward.",
+        "The Nintendo Switch 2 is the successor to the original Switch, offering improved hardware and new features. The price hike comes roughly six months after the console's launch, reflecting adjustments in production or market positioning.",
+        "For consumers and retailers, this price increase marks a shift in the console's market strategy. It may affect purchasing decisions and inventory management ahead of the holiday season."
+      ],
+      "body_es": [
+        "Nintendo anunció que el precio del Nintendo Switch 2 aumentará $50, llegando a $500 a partir del martes 1 de septiembre de 2026. Este cambio afecta todas las compras nuevas desde esa fecha.",
+        "El Nintendo Switch 2 es el sucesor del Switch original, ofreciendo hardware mejorado y nuevas funciones. El aumento de precio llega aproximadamente seis meses después del lanzamiento, reflejando ajustes en producción o estrategia de mercado.",
+        "Para consumidores y minoristas, este aumento representa un cambio en la estrategia comercial de la consola. Podría influir en decisiones de compra y gestión de inventarios antes de la temporada navideña."
+      ],
+      "source_url": "https://www.ign.com/articles/nintendo-switch-2-50-price-increase-2026",
+      "source_name": "IGN"
+    },
+    {
+      "slug": "ea-motive-iron-man-game-leak-fans-excited",
+      "category": "Console",
+      "title_en": "EA Motive's Iron Man Game Reveal 'Didn't Go as Planned,' But the Leak Has Marvel Fans More Excited Than Ever",
+      "title_es": "La Revelación del Juego de Iron Man de EA Motive 'No Salió Como Planeado,' Pero la Filtración Emociona Más a los Fans de Marvel",
+      "dek_en": "EA Motive's Iron Man game reveal was disrupted by a leak, increasing fan anticipation despite the setback.",
+      "dek_es": "La revelación del juego de Iron Man de EA Motive fue interrumpida por una filtración, aumentando la anticipación de los fans a pesar del contratiempo.",
+      "body_en": [
+        "EA Motive Studio revealed that the planned announcement of their Iron Man game did not proceed as intended due to an unexpected leak. Despite this, the leak has heightened excitement among Marvel fans.",
+        "The Iron Man game is a new project from EA Motive, known for narrative-driven titles. The leak revealed early details and footage, sparking discussions across fan communities and social media.",
+        "This situation affects the marketing and communication strategy for the game. It also demonstrates the impact leaks can have on fan engagement and the dissemination of information prior to official releases."
+      ],
+      "body_es": [
+        "EA Motive Studio reveló que el anuncio planeado de su juego de Iron Man no salió como se esperaba debido a una filtración inesperada. A pesar de esto, la filtración aumentó la emoción entre los fans de Marvel.",
+        "El juego de Iron Man es un nuevo proyecto de EA Motive, conocido por títulos narrativos. La filtración mostró detalles y material inicial, generando debates en comunidades de fans y redes sociales.",
+        "Esta situación afecta la estrategia de marketing y comunicación del juego. También demuestra el impacto que las filtraciones pueden tener en la participación de los fans y la difusión de información antes de lanzamientos oficiales."
+      ],
+      "source_url": "https://www.ign.com/articles/ea-motives-iron-man-game-reveal-didnt-go-as-planned-but-the-leak-has-marvel-fans-more-excited-than-ever",
+      "source_name": "IGN"
+    },
+    {
+      "slug": "the-witcher-4-physical-edition-confirmed",
+      "category": "Console",
+      "title_en": "The Witcher 4 Will Have a Physical Edition Even if Discs Go Away, CD Projekt Red Confirms",
+      "title_es": "The Witcher 4 Tendrá Edición Física Incluso si Desaparecen los Discos, Confirma CD Projekt Red",
+      "dek_en": "CD Projekt Red confirmed The Witcher 4 will have a physical boxed edition despite the industry shift away from discs.",
+      "dek_es": "CD Projekt Red confirmó que The Witcher 4 tendrá una edición física en caja a pesar del cambio de la industria hacia lo digital.",
+      "body_en": [
+        "CD Projekt Red confirmed that The Witcher 4 will be available in a physical boxed edition, even as Sony plans to stop supporting discs in 2028. The developer emphasized the importance of physical copies for collectors.",
+        "The Witcher series is a flagship RPG franchise with a dedicated fanbase that values physical editions. The industry trend is moving toward digital distribution, but some publishers maintain physical releases for collector markets.",
+        "This confirmation ensures that players who prefer physical media will have access to The Witcher 4 in that format. It also reflects ongoing publisher support for diverse distribution methods amid changing hardware standards."
+      ],
+      "body_es": [
+        "CD Projekt Red confirmó que The Witcher 4 estará disponible en una edición física en caja, incluso cuando Sony planea dejar de soportar discos en 2028. El desarrollador destacó la importancia de las copias físicas para coleccionistas.",
+        "La serie The Witcher es una franquicia RPG emblemática con una base de fans dedicada que valora las ediciones físicas. La tendencia de la industria se orienta hacia la distribución digital, pero algunos editores mantienen lanzamientos físicos para coleccionistas.",
+        "Esta confirmación asegura que los jugadores que prefieren medios físicos tendrán acceso a The Witcher 4 en ese formato. También refleja el apoyo continuo de los editores a métodos de distribución diversos en medio de cambios en los estándares de hardware."
+      ],
+      "source_url": "https://www.ign.com/articles/the-witcher-4-will-have-a-physical-edition-even-if-discs-go-away-cd-projekt-red-confirms",
+      "source_name": "IGN"
+    },
+    {
+      "slug": "4-penny-coffins-1888-social-investigation-game-preview",
+      "category": "PC",
+      "title_en": "4 Penny Coffins Lets You Play 19th-Century Detective – Or a 10-Foot Demon Ripping Friends in Half",
+      "title_es": "4 Penny Coffins Te Permite Ser un Detective del Siglo XIX – O un Demonio de 3 Metros Partiendo Amigos",
+      "dek_en": "4 Penny Coffins is a social investigation game set in 1888 Whitechapel, blending Among Us-style gameplay with Jack the Ripper themes.",
+      "dek_es": "4 Penny Coffins es un juego de investigación social ambientado en el Whitechapel de 1888, que combina la jugabilidad estilo Among Us con temas de Jack el Destripador.",
+      "body_en": [
+        "Other Ocean’s 4 Penny Coffins is an 8-player social investigation game set in 1888 Whitechapel, where players assume roles ranging from detectives to a 10-foot demon. It features both multiplayer and solo modes.",
+        "The game merges social deduction mechanics popularized by titles like Among Us with a historical horror setting inspired by Jack the Ripper. This combination offers a unique narrative and gameplay experience.",
+        "For players, 4 Penny Coffins provides a fresh take on social deduction games by integrating period-specific themes and asymmetric roles, expanding the genre’s appeal and variety."
+      ],
+      "body_es": [
+        "4 Penny Coffins de Other Ocean es un juego de investigación social para 8 jugadores ambientado en el Whitechapel de 1888, donde los jugadores asumen roles que van desde detectives hasta un demonio de 3 metros. Cuenta con modos multijugador y solitario.",
+        "El juego combina mecánicas de deducción social popularizadas por títulos como Among Us con un entorno histórico de horror inspirado en Jack el Destripador. Esta combinación ofrece una experiencia narrativa y de juego única.",
+        "Para los jugadores, 4 Penny Coffins ofrece una nueva perspectiva en juegos de deducción social al integrar temas específicos de época y roles asimétricos, ampliando el atractivo y la variedad del género."
+      ],
+      "source_url": "https://www.ign.com/articles/4-penny-coffins-preview-jack-the-ripper",
+      "source_name": "IGN"
+    },
+    {
+      "slug": "state-of-decay-3-in-good-shape-despite-xbox-upheaval",
+      "category": "Console",
+      "title_en": "We Played State of Decay 3 and It's in Good Shape Despite the Xbox Upheaval",
+      "title_es": "Probamos State of Decay 3 y Está en Buen Estado a Pesar de la Agitación en Xbox",
+      "dek_en": "An early alpha build of State of Decay 3 shows promising gameplay despite recent changes at Xbox.",
+      "dek_es": "Una versión alfa temprana de State of Decay 3 muestra una jugabilidad prometedora a pesar de los recientes cambios en Xbox.",
+      "body_en": [
+        "IGN played a 30-minute early alpha build of State of Decay 3, reporting that the game is progressing well despite recent upheavals within Xbox. The gameplay demonstrated action-packed sequences and solid mechanics.",
+        "State of Decay is a survival horror franchise known for its open-world zombie gameplay and community management. The third installment aims to build on this foundation with improved visuals and systems.",
+        "This update provides reassurance to fans and the market that State of Decay 3 remains on track despite corporate changes, maintaining expectations for a quality release."
+      ],
+      "body_es": [
+        "IGN jugó una versión alfa temprana de 30 minutos de State of Decay 3, reportando que el juego avanza bien a pesar de las recientes agitación en Xbox. La jugabilidad mostró secuencias llenas de acción y mecánicas sólidas.",
+        "State of Decay es una franquicia de horror de supervivencia conocida por su jugabilidad de mundo abierto y gestión comunitaria. La tercera entrega busca mejorar esta base con gráficos y sistemas mejorados.",
+        "Esta actualización brinda tranquilidad a los fans y al mercado de que State of Decay 3 sigue en camino a pesar de los cambios corporativos, manteniendo las expectativas para un lanzamiento de calidad."
       ],
       "source_url": "https://www.ign.com/articles/we-played-state-of-decay-3-and-its-in-good-shape-despite-the-xbox-upheaval",
       "source_name": "IGN"
     },
     {
-      "slug": "join-us-ps5-gameplay-revealed-at-gamescom-2026",
+      "slug": "pokemon-company-addresses-pokemonxp-lottery-system-issues",
+      "category": "Industry",
+      "title_en": "The Pokémon Company on PokémonXP's Lottery System, Long Lines, and Limited Access to Workshops",
+      "title_es": "The Pokémon Company Sobre el Sistema de Lotería de PokémonXP, Largas Filas y Acceso Limitado a Talleres",
+      "dek_en": "The Pokémon Company responded to concerns about PokémonXP’s lottery system, long queues, and restricted workshop access.",
+      "dek_es": "The Pokémon Company respondió a preocupaciones sobre el sistema de lotería de PokémonXP, largas filas y acceso limitado a talleres.",
+      "body_en": [
+        "The Pokémon Company addressed player concerns regarding the lottery system used for PokémonXP events, which has caused long lines and limited access to workshops. The company acknowledged the issues and is reviewing the system.",
+        "PokémonXP is a series of community events designed to engage players with exclusive content and activities. The lottery system was implemented to manage high demand and maintain safety protocols.",
+        "This response is significant as it shows the company’s commitment to improving player experience and event accessibility, which are key factors in maintaining community trust and participation."
+      ],
+      "body_es": [
+        "The Pokémon Company respondió a las preocupaciones de los jugadores sobre el sistema de lotería utilizado en los eventos de PokémonXP, que ha provocado largas filas y acceso limitado a talleres. La empresa reconoció los problemas y está revisando el sistema.",
+        "PokémonXP es una serie de eventos comunitarios diseñados para involucrar a los jugadores con contenido y actividades exclusivas. El sistema de lotería se implementó para gestionar la alta demanda y mantener protocolos de seguridad.",
+        "Esta respuesta es importante porque muestra el compromiso de la compañía para mejorar la experiencia del jugador y la accesibilidad a los eventos, factores clave para mantener la confianza y participación de la comunidad."
+      ],
+      "source_url": "https://www.ign.com/articles/the-pokmon-company-on-pokmonxps-lottery-system-long-lines-and-limited-access-to-workshops",
+      "source_name": "IGN"
+    },
+    {
+      "slug": "god-of-war-laufey-actress-breaks-prop-first-day",
       "category": "Console",
-      "title_en": "Join Us: Watch 11 Minutes of Exclusive Gameplay from the Upcoming Cult Simulator",
-      "title_es": "Join Us: Mira 11 minutos de jugabilidad exclusiva del próximo simulador de culto",
-      "dek_en": "Wolf Haus Games revealed 11 minutes of gameplay for Join Us at gamescom 2026, alongside a PS5 announcement and a trailer featuring real-life former cult members.",
-      "dek_es": "Wolf Haus Games mostró 11 minutos de jugabilidad de Join Us en gamescom 2026, junto con un anuncio para PS5 y un tráiler con exmiembros reales de cultos.",
+      "title_en": "God of War: Laufey Actress Shares How She Broke an Important Prop on First Day of Filming",
+      "title_es": "Actriz de God of War: Laufey Cuenta Cómo Rompió un Prop Importante el Primer Día de Rodaje",
+      "dek_en": "Deborah Ann Woll, who plays Laufey, revealed she accidentally broke a key motion capture prop on the first day of filming God of War: Laufey.",
+      "dek_es": "Deborah Ann Woll, quien interpreta a Laufey, reveló que rompió accidentalmente un prop clave de captura de movimiento el primer día de rodaje de God of War: Laufey.",
       "body_en": [
-        "At gamescom 2026, Wolf Haus Games presented an 11-minute gameplay video of Join Us, their upcoming cult simulator. The reveal included a PlayStation 5 release announcement and a trailer featuring testimonies from former real-life cult members.",
-        "Join Us is a simulation game that explores cult dynamics, combining narrative elements with management mechanics. The developer’s approach aims to provide an immersive experience reflecting real-world cult behavior and psychological tension.",
-        "This disclosure is significant as it provides concrete gameplay insight and confirms platform availability. It informs players interested in narrative-driven and simulation genres about the game’s direction and release plans."
+        "Deborah Ann Woll, the actress portraying Laufey in God of War: Laufey, shared that she broke an important motion capture prop designed to simulate an axe on her first day of filming. The prop was destroyed during use.",
+        "God of War: Laufey is the upcoming installment in the God of War series, set to release on PS5 in February 2027. Motion capture plays a critical role in bringing characters to life in this narrative-driven action game.",
+        "This anecdote provides insight into the production process and challenges faced during development. It highlights the physical demands placed on actors in performance capture roles within modern game development."
       ],
       "body_es": [
-        "En gamescom 2026, Wolf Haus Games presentó un video de 11 minutos de jugabilidad de Join Us, su próximo simulador de culto. La presentación incluyó un anuncio de lanzamiento para PlayStation 5 y un tráiler con testimonios de exmiembros reales de cultos.",
-        "Join Us es un juego de simulación que explora la dinámica de los cultos, combinando elementos narrativos con mecánicas de gestión. El enfoque del desarrollador busca ofrecer una experiencia inmersiva que refleje el comportamiento real de cultos y la tensión psicológica.",
-        "Esta revelación es importante porque ofrece una visión concreta de la jugabilidad y confirma la disponibilidad en plataformas. Informa a los jugadores interesados en géneros narrativos y de simulación sobre la dirección y planes de lanzamiento del juego."
+        "Deborah Ann Woll, la actriz que interpreta a Laufey en God of War: Laufey, contó que rompió un prop importante de captura de movimiento diseñado para simular un hacha en su primer día de rodaje. El prop quedó destruido durante su uso.",
+        "God of War: Laufey es la próxima entrega de la serie God of War, que se lanzará en PS5 en febrero de 2027. La captura de movimiento es fundamental para dar vida a los personajes en este juego de acción narrativo.",
+        "Esta anécdota ofrece una visión del proceso de producción y los desafíos enfrentados durante el desarrollo. Destaca las exigencias físicas que enfrentan los actores en roles de captura de rendimiento en el desarrollo moderno de juegos."
       ],
-      "source_url": "https://www.ign.com/articles/join-us-gameplay-ps5-release-gamescom",
-      "source_name": "IGN"
-    },
-    {
-      "slug": "dragons-dogma-2-dark-arisen-expansion-details",
-      "category": "Console",
-      "title_en": "Dragon’s Dogma 2: Dark Arisen Will Send You On a Chilly Loot Grind",
-      "title_es": "Dragon’s Dogma 2: Dark Arisen te llevará a una gélida búsqueda de botín",
-      "dek_en": "Dragon's Dogma 2's Dark Arisen expansion adds a whole new region with clever winter weather effects, an old-but-new loot grind, and a dragon that vomits zombies.",
-      "dek_es": "La expansión Dark Arisen de Dragon's Dogma 2 añade una nueva región con efectos invernales, una clásica pero renovada búsqueda de botín y un dragón que vomita zombis.",
-      "body_en": [
-        "The Dark Arisen expansion for Dragon’s Dogma 2 introduces a new snowy region featuring dynamic winter weather effects. The update also revives the franchise’s signature loot grind and includes a unique enemy: a dragon that vomits zombies.",
-        "Dragon’s Dogma 2 builds on the original’s action RPG formula with enhanced combat and exploration. This expansion expands the game world and adds fresh challenges, blending familiar mechanics with new environmental hazards.",
-        "This expansion matters as it extends the game’s lifecycle with substantial content, appealing to returning players and maintaining engagement. The innovative enemy design and weather effects contribute to gameplay variety and immersion."
-      ],
-      "body_es": [
-        "La expansión Dark Arisen para Dragon’s Dogma 2 introduce una nueva región nevada con efectos dinámicos de clima invernal. La actualización también revive la clásica búsqueda de botín de la franquicia e incluye un enemigo singular: un dragón que vomita zombis.",
-        "Dragon’s Dogma 2 se basa en la fórmula del RPG de acción original con combate y exploración mejorados. Esta expansión amplía el mundo del juego y añade nuevos desafíos, combinando mecánicas conocidas con nuevos peligros ambientales.",
-        "Esta expansión es relevante porque extiende el ciclo de vida del juego con contenido sustancial, atrayendo a jugadores que regresan y manteniendo el compromiso. El diseño innovador de enemigos y los efectos climáticos aportan variedad e inmersión al juego."
-      ],
-      "source_url": "https://www.ign.com/articles/dragons-dogma-2-dark-arisen-will-send-you-on-a-chilly-loot-grind-gamescom-2026",
-      "source_name": "IGN"
-    },
-    {
-      "slug": "pokemon-company-explores-smart-device-integrations",
-      "category": "Industry",
-      "title_en": "The Pokémon Company Looks to Smart Device Integrations as Future Targets",
-      "title_es": "The Pokémon Company apunta a integraciones con dispositivos inteligentes como futuros objetivos",
-      "dek_en": "President and CEO of The Pokémon Company, Tsunekazu Ishihara, shared insights about possible future plans involving wearable technology during a panel at PokémonXP.",
-      "dek_es": "El presidente y CEO de The Pokémon Company, Tsunekazu Ishihara, compartió detalles sobre posibles planes futuros con tecnología wearable durante un panel en PokémonXP.",
-      "body_en": [
-        "Tsunekazu Ishihara, President and CEO of The Pokémon Company, revealed during the inaugural PokémonXP panel that the company is considering smart device integrations, including wearable technology, as part of its future strategy.",
-        "The Pokémon franchise has expanded beyond games into merchandise, mobile apps, and media. Integrating smart devices could enhance interactive experiences and broaden the brand’s technological footprint.",
-        "This development is important as it signals The Pokémon Company’s intent to innovate in hardware-software synergy, potentially affecting how players engage with Pokémon content across platforms and devices."
-      ],
-      "body_es": [
-        "Tsunekazu Ishihara, presidente y CEO de The Pokémon Company, reveló durante el panel inaugural de PokémonXP que la compañía está considerando integraciones con dispositivos inteligentes, incluyendo tecnología wearable, como parte de su estrategia futura.",
-        "La franquicia Pokémon se ha expandido más allá de los juegos hacia merchandising, aplicaciones móviles y medios. Integrar dispositivos inteligentes podría mejorar las experiencias interactivas y ampliar la presencia tecnológica de la marca.",
-        "Este desarrollo es importante porque indica la intención de The Pokémon Company de innovar en la sinergia hardware-software, lo que podría afectar la forma en que los jugadores interactúan con contenido de Pokémon en diversas plataformas y dispositivos."
-      ],
-      "source_url": "https://www.ign.com/articles/the-pokemon-company-looks-to-smart-device-integrations-as-future-targets",
-      "source_name": "IGN"
-    },
-    {
-      "slug": "xbox-ceo-project-helix-family-of-devices",
-      "category": "Industry",
-      "title_en": "Xbox CEO Says Project Helix Includes a 'Family of Devices'",
-      "title_es": "La CEO de Xbox dice que Project Helix incluye una 'familia de dispositivos'",
-      "dek_en": "Xbox CEO Asha Sharma has suggested Project Helix will encompass more than one device, stating Microsoft is working on \"a great family of devices.\"",
-      "dek_es": "La CEO de Xbox, Asha Sharma, sugirió que Project Helix incluirá más de un dispositivo, afirmando que Microsoft trabaja en \"una gran familia de dispositivos.\"",
-      "body_en": [
-        "Xbox CEO Asha Sharma disclosed that Project Helix is not a single device but a family of devices under development at Microsoft. This indicates a broader hardware initiative beyond traditional consoles.",
-        "Project Helix appears to be a strategic effort to diversify Xbox’s hardware offerings, potentially including various form factors or specialized devices to complement the Xbox ecosystem.",
-        "This information matters as it signals Microsoft’s intent to expand its hardware portfolio, which could impact market competition and offer players more options for accessing Xbox services."
-      ],
-      "body_es": [
-        "La CEO de Xbox, Asha Sharma, reveló que Project Helix no es un solo dispositivo sino una familia de dispositivos en desarrollo en Microsoft. Esto indica una iniciativa de hardware más amplia que las consolas tradicionales.",
-        "Project Helix parece ser un esfuerzo estratégico para diversificar la oferta de hardware de Xbox, posiblemente incluyendo varios formatos o dispositivos especializados que complementen el ecosistema Xbox.",
-        "Esta información es relevante porque señala la intención de Microsoft de ampliar su portafolio de hardware, lo que podría afectar la competencia en el mercado y ofrecer a los jugadores más opciones para acceder a los servicios de Xbox."
-      ],
-      "source_url": "https://www.ign.com/articles/xbox-ceo-says-project-helix-includes-a-family-of-devices",
-      "source_name": "IGN"
-    },
-    {
-      "slug": "indie-dev-laptops-stolen-at-gamescom-cd-projekt-red-helps",
-      "category": "Industry",
-      "title_en": "Indie Dev Posts Video Reporting Stolen Laptops at gamescom as CD Projekt Red and More Step in to Help",
-      "title_es": "Desarrollador indie denuncia robo de laptops en gamescom mientras CD Projekt Red y otros ofrecen ayuda",
-      "dek_en": "Ryan Laley, solo indie developer behind Mimic, shared a video confirming his gamescom was cut short after laptops were stolen from him and other developers.",
-      "dek_es": "Ryan Laley, desarrollador indie detrás de Mimic, compartió un video confirmando que su presencia en gamescom se vio interrumpida tras el robo de laptops a él y otros desarrolladores.",
-      "body_en": [
-        "Ryan Laley, the solo developer of the asymmetrical horror game Mimic, posted a video reporting that his laptops were stolen at gamescom, forcing him to cut his event participation short. Other developers were also affected by the thefts.",
-        "The incident highlights security challenges at large industry events where valuable equipment is at risk. CD Projekt Red and other companies have stepped in to assist Laley and affected developers.",
-        "This matters as it underscores the vulnerabilities indie developers face during major events and the importance of community support. It also raises awareness about event security protocols in the gaming industry."
-      ],
-      "body_es": [
-        "Ryan Laley, desarrollador en solitario del juego de horror asimétrico Mimic, publicó un video denunciando el robo de sus laptops en gamescom, lo que le obligó a acortar su participación en el evento. Otros desarrolladores también fueron afectados por los robos.",
-        "El incidente pone de manifiesto los desafíos de seguridad en grandes eventos de la industria, donde equipos valiosos están en riesgo. CD Projekt Red y otras compañías han intervenido para ayudar a Laley y a los desarrolladores afectados.",
-        "Esto es relevante porque subraya las vulnerabilidades que enfrentan los desarrolladores indie en eventos importantes y la importancia del apoyo comunitario. También genera conciencia sobre los protocolos de seguridad en la industria del videojuego."
-      ],
-      "source_url": "https://www.ign.com/articles/indie-dev-posts-video-reporting-stolen-laptops-at-gamescom-as-cd-projekt-red-and-more-step-in-to-help",
-      "source_name": "IGN"
-    },
-    {
-      "slug": "fable-pc-requirements-announced",
-      "category": "PC",
-      "title_en": "Fable PC Requirements Announced from 1080p 30 FPS to 4K 60 FPS",
-      "title_es": "Anunciados los requisitos de Fable para PC desde 1080p 30 FPS hasta 4K 60 FPS",
-      "dek_en": "Microsoft has announced the PC requirements for Fable, detailing specs needed to run the RPG at various resolutions and frame rates ahead of its February 2027 release.",
-      "dek_es": "Microsoft ha anunciado los requisitos para PC de Fable, detallando las especificaciones necesarias para ejecutar el RPG en distintas resoluciones y tasas de frames antes de su lanzamiento en febrero de 2027.",
-      "body_en": [
-        "Microsoft revealed the official PC system requirements for Fable, specifying configurations to run the game from 1080p at 30 FPS up to 4K at 60 FPS. This information was shared following hands-on impressions from a recent gamescom demo.",
-        "Fable is a high-profile RPG reboot known for its detailed open world and visual fidelity. The announced specs provide clarity for PC players on hardware needs to experience the game at different quality settings.",
-        "This announcement is important as it allows PC gamers to assess their readiness for Fable’s launch and helps retailers and manufacturers anticipate demand for compatible hardware components."
-      ],
-      "body_es": [
-        "Microsoft reveló los requisitos oficiales para PC de Fable, especificando configuraciones para ejecutar el juego desde 1080p a 30 FPS hasta 4K a 60 FPS. Esta información se compartió tras impresiones de una demo reciente en gamescom.",
-        "Fable es un reinicio RPG de alto perfil conocido por su mundo abierto detallado y fidelidad visual. Los requisitos anunciados ofrecen claridad a los jugadores de PC sobre el hardware necesario para disfrutar el juego en diferentes configuraciones de calidad.",
-        "Este anuncio es importante porque permite a los jugadores de PC evaluar su preparación para el lanzamiento de Fable y ayuda a minoristas y fabricantes a anticipar la demanda de componentes compatibles."
-      ],
-      "source_url": "https://vandal.elespanol.com/noticia/2026241007/podra-tu-pc-con-fable-estos-son-sus-requisitos-desde-1080p-y-30-fps-hasta-4k-y-60-fps/",
-      "source_name": "Vandal"
-    },
-    {
-      "slug": "rockstar-admits-nervousness-ahead-of-gta-6-launch",
-      "category": "Industry",
-      "title_en": "Rockstar Admits It’s Nervous Ahead of GTA 6 Launch: 'We Want Everything to Be Perfect'",
-      "title_es": "Rockstar admite estar nerviosa ante el lanzamiento de GTA 6: 'Queremos que todo sea perfecto'",
-      "dek_en": "Rockstar acknowledges the enormous pressure surrounding Grand Theft Auto VI’s release, emphasizing their own high standards exceed player expectations.",
-      "dek_es": "Rockstar reconoce la enorme presión que rodea el lanzamiento de Grand Theft Auto VI, enfatizando que sus propias exigencias superan las expectativas de los jugadores.",
-      "body_en": [
-        "Rockstar has publicly admitted feeling nervous as Grand Theft Auto VI approaches its launch. The studio highlighted the intense pressure due to high public expectations and its own internal standards.",
-        "GTA 6 is one of the most anticipated games in recent years, with Rockstar gradually releasing information to build anticipation. The company’s focus on perfection reflects the franchise’s history of quality and innovation.",
-        "This admission is notable as it provides transparency about the development process and the challenges faced by major studios. It also contextualizes the care taken to meet both fan and internal benchmarks."
-      ],
-      "body_es": [
-        "Rockstar ha admitido públicamente sentirse nerviosa ante la proximidad del lanzamiento de Grand Theft Auto VI. El estudio destacó la intensa presión debido a las altas expectativas públicas y sus propios estándares internos.",
-        "GTA 6 es uno de los juegos más esperados de los últimos años, con Rockstar liberando información gradualmente para generar anticipación. El enfoque en la perfección refleja la historia de calidad e innovación de la franquicia.",
-        "Esta admisión es relevante porque ofrece transparencia sobre el proceso de desarrollo y los desafíos que enfrentan los grandes estudios. También contextualiza el cuidado puesto para cumplir con las expectativas de fans y estándares internos."
-      ],
-      "source_url": "https://vandal.elespanol.com/noticia/2026241006/rockstar-admite-que-esta-nerviosa-ante-el-lanzamiento-de-gta-6-queremos-que-todo-sea-perfecto/",
-      "source_name": "Vandal"
-    },
-    {
-      "slug": "total-war-warhammer-40000-necrons-confirmed",
-      "category": "PC",
-      "title_en": "Total War: Warhammer 40,000 Confirms Necrons Will Arrive Eventually: 'Don't Worry'",
-      "title_es": "Total War: Warhammer 40,000 confirma que los Necrones llegarán en algún momento: 'No os preocupéis'",
-      "dek_en": "Creative Assembly confirmed that the Necrons faction will be added to Total War: Warhammer 40,000 at some point, reassuring fans not to worry about their absence.",
-      "dek_es": "Creative Assembly confirmó que la facción Necrones será añadida a Total War: Warhammer 40,000 en algún momento, tranquilizando a los fans sobre su ausencia.",
-      "body_en": [
-        "Creative Assembly stated in a recent interview that the Necrons faction will be introduced to Total War: Warhammer 40,000 in the future. The developers asked fans not to worry about the faction’s current absence.",
-        "Total War: Warhammer 40,000 is a large-scale strategy game adapting the expansive Warhammer 40K universe. The Necrons are a popular faction with a distinct playstyle eagerly awaited by players.",
-        "This confirmation matters as it sets expectations for ongoing content updates and supports player engagement by addressing concerns about faction availability in the game."
-      ],
-      "body_es": [
-        "Creative Assembly declaró en una entrevista reciente que la facción Necrones será introducida en Total War: Warhammer 40,000 en el futuro. Los desarrolladores pidieron a los fans que no se preocupen por la ausencia actual de la facción.",
-        "Total War: Warhammer 40,000 es un juego de estrategia a gran escala que adapta el extenso universo de Warhammer 40K. Los Necrones son una facción popular con un estilo de juego distintivo que los jugadores esperan con interés.",
-        "Esta confirmación es importante porque establece expectativas para futuras actualizaciones de contenido y mantiene el compromiso de los jugadores al abordar sus inquietudes sobre la disponibilidad de facciones en el juego."
-      ],
-      "source_url": "https://vandal.elespanol.com/noticia/2026241005/total-war-warhammer-40000-confirma-que-los-necrones-llegaran-en-algun-momento-no-os-preocupeis/",
+      "source_url": "https://vandal.elespanol.com/noticia/2026242014/la-protagonista-de-god-of-war-laufey-cuenta-como-rompio-un-importante-objeto-el-primer-dia-de-rodaje/",
       "source_name": "Vandal"
     }
   ]
