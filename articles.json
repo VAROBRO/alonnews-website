@@ -1,184 +1,164 @@
 {
-  "generatedAt": "2026-09-01T17:46:38.776Z",
+  "generatedAt": "2026-09-02T17:49:31.993Z",
   "articles": [
     {
-      "slug": "call-of-duty-modern-warfare-4-beta-extended",
-      "category": "Console",
-      "title_en": "Call of Duty: Modern Warfare 4 Beta Extended",
-      "title_es": "Beta de Call of Duty: Modern Warfare 4 extendida",
-      "dek_en": "Infinity Ward has extended the playable beta for Call of Duty: Modern Warfare 4 until 10pm PT on September 1.",
-      "dek_es": "Infinity Ward ha extendido la beta jugable de Call of Duty: Modern Warfare 4 hasta las 10pm PT del 1 de septiembre.",
-      "body_en": [
-        "Infinity Ward announced that the beta period for Call of Duty: Modern Warfare 4 has been extended until 10pm PT on September 1, allowing players additional time to experience the upcoming first-person shooter.",
-        "The Modern Warfare series is a flagship franchise for Activision, known for its multiplayer modes and campaign. Beta tests are critical for gathering player feedback and stress-testing servers ahead of launch.",
-        "Extending the beta provides more players the opportunity to test gameplay mechanics and network stability, which can lead to a smoother launch and improved player experience at release."
-      ],
-      "body_es": [
-        "Infinity Ward anunció que el período de beta para Call of Duty: Modern Warfare 4 se ha extendido hasta las 10pm PT del 1 de septiembre, permitiendo a los jugadores más tiempo para probar el próximo shooter en primera persona.",
-        "La serie Modern Warfare es una franquicia emblemática de Activision, conocida por sus modos multijugador y campaña. Las pruebas beta son clave para recopilar opiniones de jugadores y evaluar la estabilidad de los servidores antes del lanzamiento.",
-        "Extender la beta brinda a más jugadores la oportunidad de probar la mecánica de juego y la estabilidad de la red, lo que puede resultar en un lanzamiento más fluido y una mejor experiencia para los usuarios."
-      ],
-      "source_url": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-beta-extended",
-      "source_name": "IGN"
-    },
-    {
-      "slug": "godzilla-dev-more-remasters-in-discussion",
-      "category": "Console",
-      "title_en": "Godzilla Developer Plans More Remasters, But Talks Are Ongoing",
-      "title_es": "Desarrollador de Godzilla planea más remasters, pero las conversaciones continúan",
-      "dek_en": "Pipeworks confirms Godzilla: Destroy All Monsters Melee Remastered is the only confirmed remaster, with more projects under discussion.",
-      "dek_es": "Pipeworks confirma que Godzilla: Destroy All Monsters Melee Remastered es el único remaster confirmado, con más proyectos en discusión.",
-      "body_en": [
-        "Pipeworks, developer of Godzilla: Destroy All Monsters Melee Remastered, stated that while this is the only confirmed remaster, many other remaster projects are being considered and require further discussion.",
-        "The original Godzilla: Destroy All Monsters Melee was a cult favorite fighting game released in the early 2000s. Remastering it brings the classic title to modern platforms with updated visuals and performance.",
-        "For players, additional remasters could mean renewed access to classic Godzilla games on current hardware, preserving legacy titles and expanding the franchise's reach in gaming."
-      ],
-      "body_es": [
-        "Pipeworks, desarrollador de Godzilla: Destroy All Monsters Melee Remastered, declaró que aunque este es el único remaster confirmado, se están considerando muchos otros proyectos que requieren más discusión.",
-        "El Godzilla: Destroy All Monsters Melee original fue un juego de lucha de culto lanzado a principios de los 2000. Remasterizarlo lleva el título clásico a plataformas modernas con gráficos y rendimiento actualizados.",
-        "Para los jugadores, más remasters podrían significar acceso renovado a juegos clásicos de Godzilla en hardware actual, preservando títulos emblemáticos y ampliando el alcance de la franquicia en los videojuegos."
-      ],
-      "source_url": "https://www.ign.com/articles/godzilla-dev-wants-to-do-more-remasters-but-a-lot-of-conversations-need-to-happen-first",
-      "source_name": "IGN"
-    },
-    {
-      "slug": "nvidia-dlss-5-launch-september-3",
-      "category": "Hardware",
-      "title_en": "Nvidia's DLSS 5 Neural Rendering Tech Launches September 3",
-      "title_es": "La tecnología de renderizado neural DLSS 5 de Nvidia se lanza el 3 de septiembre",
-      "dek_en": "Nvidia officially launches DLSS 5 on September 3, promising 50–60% performance improvements in supported games like NBA 2K27.",
-      "dek_es": "Nvidia lanza oficialmente DLSS 5 el 3 de septiembre, prometiendo mejoras de rendimiento del 50–60% en juegos compatibles como NBA 2K27.",
-      "body_en": [
-        "Nvidia announced that its DLSS 5 neural rendering technology will officially launch on September 3, debuting in NBA 2K27. Early leaks indicated significant performance gains.",
-        "DLSS (Deep Learning Super Sampling) uses AI to upscale lower-resolution images, improving frame rates without sacrificing visual quality. DLSS 5 aims to increase performance by approximately 50–60%.",
-        "This technology benefits PC gamers by enabling higher frame rates and smoother gameplay on compatible GPUs, potentially extending the lifespan of existing hardware."
-      ],
-      "body_es": [
-        "Nvidia anunció que su tecnología de renderizado neural DLSS 5 se lanzará oficialmente el 3 de septiembre, debutando en NBA 2K27. Filtraciones iniciales indicaron ganancias significativas de rendimiento.",
-        "DLSS (Deep Learning Super Sampling) utiliza IA para escalar imágenes de menor resolución, mejorando las tasas de cuadros sin sacrificar calidad visual. DLSS 5 busca aumentar el rendimiento en un 50–60%.",
-        "Esta tecnología beneficia a los jugadores de PC al permitir tasas de cuadros más altas y un juego más fluido en GPUs compatibles, potencialmente extendiendo la vida útil del hardware existente."
-      ],
-      "source_url": "https://www.ign.com/articles/nvidias-dlss-5-neural-rendering-tech-officially-launches-on-september-3-hits-performance-by-around-5060",
-      "source_name": "IGN"
-    },
-    {
-      "slug": "witcher-3-remastered-save-compatibility-confirmed",
-      "category": "PC",
-      "title_en": "The Witcher 3 Saves Will Work With Remastered Edition",
-      "title_es": "Las partidas guardadas de The Witcher 3 funcionarán con la edición remasterizada",
-      "dek_en": "CD Projekt confirmed that existing save files will be compatible with The Witcher 3 Remastered, including details on achievements and trophies.",
-      "dek_es": "CD Projekt confirmó que las partidas guardadas existentes serán compatibles con The Witcher 3 Remasterizado, incluyendo detalles sobre logros y trofeos.",
-      "body_en": [
-        "CD Projekt announced that save files from the original The Witcher 3 will be compatible with the upcoming Remastered edition. They also provided information on achievements and trophies integration.",
-        "The Witcher 3 is a critically acclaimed RPG with a large player base. The remaster aims to update visuals and performance while preserving player progress and rewards.",
-        "This compatibility ensures players can continue their campaigns without loss of progress, maintaining continuity and value for those upgrading to the remastered version."
-      ],
-      "body_es": [
-        "CD Projekt anunció que las partidas guardadas del The Witcher 3 original serán compatibles con la próxima edición Remasterizada. También proporcionaron información sobre la integración de logros y trofeos.",
-        "The Witcher 3 es un RPG aclamado por la crítica con una gran base de jugadores. El remaster busca actualizar gráficos y rendimiento mientras preserva el progreso y recompensas del jugador.",
-        "Esta compatibilidad garantiza que los jugadores puedan continuar sus campañas sin perder progreso, manteniendo la continuidad y el valor para quienes actualicen a la versión remasterizada."
-      ],
-      "source_url": "https://www.ign.com/articles/dont-worry-the-witcher-3-saves-will-work-with-the-games-remastered-upgrade-and-theres-word-on-achievementstrophies-too",
-      "source_name": "IGN"
-    },
-    {
-      "slug": "no-rest-for-the-wicked-launch-delayed-march-2027",
-      "category": "PC",
-      "title_en": "No Rest for the Wicked 1.0 Launch Delayed to March 2027",
-      "title_es": "El lanzamiento 1.0 de No Rest for the Wicked se retrasa hasta marzo de 2027",
-      "dek_en": "Moon Studios announced that the full 1.0 launch of No Rest for the Wicked has been delayed to March 2027.",
-      "dek_es": "Moon Studios anunció que el lanzamiento completo 1.0 de No Rest for the Wicked se retrasa hasta marzo de 2027.",
-      "body_en": [
-        "Moon Studios revealed that No Rest for the Wicked's official 1.0 release will be postponed until March 2027, extending the game's early access period.",
-        "No Rest for the Wicked is an action RPG known for its challenging gameplay and atmospheric design. The delay suggests additional development time for polish and content.",
-        "Delaying the launch allows the developers to refine the game further, which may improve stability and player experience upon full release."
-      ],
-      "body_es": [
-        "Moon Studios reveló que el lanzamiento oficial 1.0 de No Rest for the Wicked se pospondrá hasta marzo de 2027, extendiendo el período de acceso anticipado.",
-        "No Rest for the Wicked es un RPG de acción conocido por su jugabilidad desafiante y diseño atmosférico. El retraso sugiere más tiempo de desarrollo para pulir y añadir contenido.",
-        "Retrasar el lanzamiento permite a los desarrolladores mejorar el juego, lo que puede mejorar la estabilidad y la experiencia del jugador en el lanzamiento completo."
-      ],
-      "source_url": "https://www.ign.com/articles/no-rest-for-the-wicked-10-launch-delayed-to-march-2027",
-      "source_name": "IGN"
-    },
-    {
-      "slug": "project-hail-mary-vr-game-fall-2026",
-      "category": "Console",
-      "title_en": "Project Hail Mary Is Getting a VR Game This Fall",
-      "title_es": "Project Hail Mary tendrá un juego VR este otoño",
-      "dek_en": "A new VR game set in the Project Hail Mary universe is scheduled for release this fall.",
-      "dek_es": "Un nuevo juego VR ambientado en el universo de Project Hail Mary está programado para lanzarse este otoño.",
-      "body_en": [
-        "A VR game expanding the Project Hail Mary universe will launch this fall, offering players an immersive experience based on the original IP.",
-        "Project Hail Mary is a science fiction property that has expanded into various media. The VR adaptation aims to leverage virtual reality technology to deepen player engagement.",
-        "This release provides VR players with new content tied to a recognized IP, potentially broadening the audience for both the game and the Project Hail Mary franchise."
-      ],
-      "body_es": [
-        "Un juego VR que expande el universo de Project Hail Mary se lanzará este otoño, ofreciendo a los jugadores una experiencia inmersiva basada en la IP original.",
-        "Project Hail Mary es una propiedad de ciencia ficción que se ha expandido a varios medios. La adaptación VR busca aprovechar la tecnología de realidad virtual para aumentar la inmersión del jugador.",
-        "Este lanzamiento ofrece a los jugadores de VR nuevo contenido vinculado a una IP reconocida, ampliando potencialmente la audiencia tanto del juego como de la franquicia Project Hail Mary."
-      ],
-      "source_url": "https://www.ign.com/articles/project-hail-mary-is-getting-a-vr-game-this-fall",
-      "source_name": "IGN"
-    },
-    {
-      "slug": "warrior-cats-clans-of-the-forest-interview",
-      "category": "Console",
-      "title_en": "The Big Warrior Cats: Clans of the Forest Interview: Release Date, Clan Roles, Combat, and More",
-      "title_es": "Entrevista a los desarrolladores de Warrior Cats: Clans of the Forest: fecha de lanzamiento, roles de clanes, combate y más",
-      "dek_en": "Developers of Warrior Cats: Clans of the Forest discuss the game's release date, clan roles, combat system, and creative process.",
-      "dek_es": "Los desarrolladores de Warrior Cats: Clans of the Forest hablan sobre la fecha de lanzamiento, roles de clanes, sistema de combate y proceso creativo.",
-      "body_en": [
-        "The development team behind Warrior Cats: Clans of the Forest shared insights on the game's upcoming release date, clan dynamics, and combat mechanics in a recent interview.",
-        "The game adapts the popular Warrior Cats book series into an interactive experience, focusing on clan roles and strategic combat within a forest setting.",
-        "Understanding these elements informs players about gameplay depth and narrative integration, setting expectations for the game's design and player engagement."
-      ],
-      "body_es": [
-        "El equipo de desarrollo de Warrior Cats: Clans of the Forest compartió detalles sobre la fecha de lanzamiento, la dinámica de clanes y las mecánicas de combate en una entrevista reciente.",
-        "El juego adapta la popular serie de libros Warrior Cats en una experiencia interactiva, enfocándose en roles de clanes y combate estratégico en un entorno forestal.",
-        "Conocer estos elementos informa a los jugadores sobre la profundidad del juego y la integración narrativa, estableciendo expectativas sobre el diseño y la participación del jugador."
-      ],
-      "source_url": "https://www.ign.com/articles/the-big-warrior-cats-clans-of-the-forest-interview-release-date-clan-roles-combat-and-more",
-      "source_name": "IGN"
-    },
-    {
-      "slug": "heroes-of-might-and-magic-3-community-guides-ubisoft-reboot",
-      "category": "PC",
-      "title_en": "Heroes of Might and Magic 3 Community Guides Ubisoft’s Reboot",
-      "title_es": "La comunidad de Heroes of Might and Magic 3 guía el reboot de Ubisoft",
-      "dek_en": "Ubisoft is collaborating with the Heroes of Might and Magic 3 community to shape the upcoming reboot of the classic strategy game.",
-      "dek_es": "Ubisoft colabora con la comunidad de Heroes of Might and Magic 3 para dar forma al reboot del clásico juego de estrategia.",
-      "body_en": [
-        "Ubisoft has engaged the dedicated Heroes of Might and Magic 3 community to provide feedback and guidance during the development of the game's reboot.",
-        "Heroes of Might and Magic 3 is a landmark turn-based strategy title with a passionate fanbase. Community involvement aims to preserve core gameplay elements while modernizing the experience.",
-        "This collaboration ensures that the reboot aligns with player expectations and respects the legacy of the original, potentially improving reception and longevity."
-      ],
-      "body_es": [
-        "Ubisoft ha involucrado a la dedicada comunidad de Heroes of Might and Magic 3 para proporcionar retroalimentación y orientación durante el desarrollo del reboot del juego.",
-        "Heroes of Might and Magic 3 es un título emblemático de estrategia por turnos con una base de fans apasionada. La participación comunitaria busca preservar elementos centrales del juego mientras se moderniza la experiencia.",
-        "Esta colaboración garantiza que el reboot se alinee con las expectativas de los jugadores y respete el legado del original, mejorando potencialmente la recepción y la longevidad."
-      ],
-      "source_url": "https://www.ign.com/articles/did-you-destroy-my-favorite-game-how-the-heroes-of-might-and-magic-3-community-is-guiding-ubisofts-reboot",
-      "source_name": "IGN"
-    },
-    {
-      "slug": "sleep-inside-giant-pokeball-experience-japan",
+      "slug": "cd-projekt-red-employs-over-1000-developers-for-witcher-4-cyberpunk-2",
       "category": "Industry",
-      "title_en": "Ever Wanted to Sleep Inside a Giant Pokéball? In Japan, You'll Soon Have a Chance",
-      "title_es": "¿Quieres dormir dentro de una Pokéball gigante? Pronto podrás hacerlo en Japón",
-      "dek_en": "A new experience in Japan will allow visitors to sleep inside a giant Pokéball, offering a unique Pokémon-themed accommodation.",
-      "dek_es": "Una nueva experiencia en Japón permitirá a los visitantes dormir dentro de una Pokéball gigante, ofreciendo un alojamiento temático de Pokémon único.",
+      "title_en": "More Than 500 People Work on The Witcher 4: CD Projekt Employs Over 1,000 Developers",
+      "title_es": "Más de 500 personas trabajan en The Witcher 4: CD Projekt emplea ya a un millar de desarrolladores",
+      "dek_en": "CD Projekt RED has over 1,000 developers working across multiple projects including The Witcher 4 and Cyberpunk 2.",
+      "dek_es": "CD Projekt RED emplea a más de 1.000 desarrolladores repartidos en varios proyectos, entre ellos The Witcher 4 y Cyberpunk 2.",
       "body_en": [
-        "A Pokémon-themed accommodation in Japan will soon open, allowing guests to sleep inside a giant Pokéball structure. This immersive experience is designed to attract fans of the franchise.",
-        "Pokémon has a long history of themed attractions and merchandise. This new lodging expands the brand's presence in experiential entertainment and tourism.",
-        "For the gaming and Pokémon community, this offers a novel way to engage with the franchise beyond games, potentially influencing future cross-media ventures."
+        "CD Projekt RED currently employs 1,045 developers distributed among The Witcher 4, Cyberpunk 2, a multiplayer project for The Witcher, and a new saga, according to the studio's financial report. More than half of the team is dedicated to The Witcher 4.",
+        "The Witcher 4 is the next mainline entry in the acclaimed RPG series, following the success of The Witcher 3. Cyberpunk 2 is the sequel to the 2020 open-world RPG Cyberpunk 2077. The studio is also working on multiplayer components and a new IP.",
+        "This scale of staffing reflects CD Projekt RED's commitment to multiple large-scale projects simultaneously, indicating significant resource allocation in the RPG and multiplayer genres. It impacts players by promising continued support and new content from the studio's flagship franchises."
       ],
       "body_es": [
-        "Un alojamiento temático de Pokémon en Japón abrirá pronto, permitiendo a los huéspedes dormir dentro de una estructura gigante en forma de Pokéball. Esta experiencia inmersiva está diseñada para atraer a los fans de la franquicia.",
-        "Pokémon tiene una larga historia de atracciones y productos temáticos. Este nuevo alojamiento amplía la presencia de la marca en entretenimiento experiencial y turismo.",
-        "Para la comunidad de jugadores y fans de Pokémon, esto ofrece una forma novedosa de interactuar con la franquicia más allá de los juegos, influyendo potencialmente en futuras iniciativas multimedia."
+        "CD Projekt RED emplea actualmente a 1.045 desarrolladores repartidos entre The Witcher 4, Cyberpunk 2, un proyecto multijugador para The Witcher y una nueva saga, según el informe financiero del estudio. Más de la mitad del equipo está dedicado a The Witcher 4.",
+        "The Witcher 4 es la próxima entrega principal de la aclamada serie RPG, tras el éxito de The Witcher 3. Cyberpunk 2 es la secuela del RPG de mundo abierto Cyberpunk 2077 de 2020. El estudio también trabaja en componentes multijugador y una nueva propiedad intelectual.",
+        "Esta escala de personal refleja el compromiso de CD Projekt RED con múltiples proyectos de gran envergadura simultáneamente, indicando una importante asignación de recursos en los géneros RPG y multijugador. Esto afecta a los jugadores al prometer soporte continuo y nuevo contenido de las franquicias principales del estudio."
       ],
-      "source_url": "https://www.ign.com/articles/ever-wanted-to-sleep-inside-a-giant-pokball-in-japan-youll-soon-have-a-chance",
+      "source_url": "https://vandal.elespanol.com/noticia/2026245030/mas-de-500-personas-trabajan-en-the-witcher-4-cd-projekt-emplea-ya-a-un-millar-de-desarrolladores/",
+      "source_name": "Vandal"
+    },
+    {
+      "slug": "nexon-to-develop-next-starcraft-strategy-game",
+      "category": "PC",
+      "title_en": "Next Starcraft Strategy Game Will Not Be by Blizzard, Reportedly Developed by Nexon",
+      "title_es": "El próximo Starcraft de estrategia no será de Blizzard: estará desarrollado supuestamente por Nexon",
+      "dek_en": "A South Korean report claims Nexon is developing the next mainline Starcraft strategy game, marking a shift from Blizzard.",
+      "dek_es": "Un informe surcoreano afirma que Nexon está desarrollando el próximo juego de estrategia principal de Starcraft, marcando un cambio respecto a Blizzard.",
+      "body_en": [
+        "According to South Korea's Chosun newspaper, Nexon is reportedly developing the next mainline Starcraft strategy game. This would be a departure from Blizzard, the original creator of the franchise.",
+        "Starcraft is a seminal real-time strategy series that has been synonymous with Blizzard since its inception. Nexon is also said to be working on a shooter based on Blizzard's IP, indicating a broader collaboration or licensing arrangement.",
+        "This development signals a significant change in the stewardship of the Starcraft franchise, potentially affecting the series' design and direction. Players and the market may see new approaches to the strategy genre under Nexon's development."
+      ],
+      "body_es": [
+        "Según el diario surcoreano Chosun, Nexon estaría desarrollando el próximo juego de estrategia principal de Starcraft. Esto supondría un cambio respecto a Blizzard, creadora original de la franquicia.",
+        "Starcraft es una serie seminal de estrategia en tiempo real que ha estado asociada a Blizzard desde sus inicios. Nexon también estaría trabajando en un shooter basado en la propiedad intelectual de Blizzard, lo que indica una colaboración o licencia más amplia.",
+        "Este desarrollo supone un cambio importante en la gestión de la franquicia Starcraft, que podría afectar al diseño y dirección de la serie. Los jugadores y el mercado podrían ver nuevos enfoques en el género de estrategia bajo el desarrollo de Nexon."
+      ],
+      "source_url": "https://vandal.elespanol.com/noticia/2026245029/el-proximo-starcraft-de-estrategia-no-sera-de-blizzard-estara-desarrollado-supuestamente-por-nexon/",
+      "source_name": "Vandal"
+    },
+    {
+      "slug": "gta-6-removes-controversial-auto-aim-and-minimap-enemy-markers",
+      "category": "Console",
+      "title_en": "GTA 6 Removes Controversial System: Shooting Will Be Harder and Enemies Won't Appear on Minimap",
+      "title_es": "GTA 6 dice adiós a un polémico sistema: disparar será más difícil y los enemigos no saldrán en el minimapa",
+      "dek_en": "Rockstar Games has disabled auto-aim by default and removed enemy positions from the radar in Grand Theft Auto 6.",
+      "dek_es": "Rockstar Games ha desactivado el autoapuntado por defecto y eliminado la posición de enemigos en el radar en Grand Theft Auto 6.",
+      "body_en": [
+        "Grand Theft Auto 6 will require players to pay more attention in combat as Rockstar Games has disabled auto-aim by default and removed enemy markers from the minimap. This change demands greater player skill in aiming and situational awareness.",
+        "Previous GTA titles included auto-aim and enemy radar markers to assist players during firefights. The removal of these features marks a shift towards more challenging and immersive combat mechanics.",
+        "This adjustment affects gameplay by increasing difficulty and realism in combat encounters. It may influence player strategies and the overall pacing of firefights in GTA 6."
+      ],
+      "body_es": [
+        "Grand Theft Auto 6 requerirá que los jugadores presten más atención en los combates, ya que Rockstar Games ha desactivado el autoapuntado por defecto y eliminado los marcadores de enemigos en el minimapa. Este cambio exige mayor habilidad en el apuntado y conciencia situacional.",
+        "Los títulos anteriores de GTA incluían autoapuntado y marcadores de enemigos en el radar para ayudar a los jugadores durante los tiroteos. La eliminación de estas características supone un cambio hacia mecánicas de combate más desafiantes e inmersivas.",
+        "Este ajuste afecta la jugabilidad al aumentar la dificultad y el realismo en los enfrentamientos. Puede influir en las estrategias de los jugadores y en el ritmo general de los tiroteos en GTA 6."
+      ],
+      "source_url": "https://vandal.elespanol.com/noticia/2026245028/gta-6-dice-adios-a-un-polemico-sistema-disparar-sera-mas-dificil-y-los-enemigos-no-saldran-en-el-minimapa/",
+      "source_name": "Vandal"
+    },
+    {
+      "slug": "dragons-dogma-2-pc-removes-denuvo-and-lowers-requirements",
+      "category": "PC",
+      "title_en": "Dragon's Dogma 2 Removes Denuvo on PC and Lowers System Requirements Over Two Years After Launch",
+      "title_es": "Dragon's Dogma 2 elimina Denuvo en PC y rebaja sus requisitos más de dos años después de su lanzamiento",
+      "dek_en": "Capcom's update 3.2 for Dragon's Dogma 2 removes Denuvo DRM, adds new graphics options, and reduces hardware requirements for 60 FPS at 1080p.",
+      "dek_es": "La actualización 3.2 de Dragon's Dogma 2 elimina Denuvo, añade opciones gráficas y reduce los requisitos de hardware para 60 FPS a 1080p.",
+      "body_en": [
+        "Capcom released update 3.2 for Dragon's Dogma 2, which removes the Denuvo digital rights management system on PC. The patch also introduces new graphics options and lowers the hardware needed to achieve 60 FPS at 1080p resolution.",
+        "Dragon's Dogma 2 is an action RPG sequel that launched over two years ago. The removal of Denuvo and optimization improvements come as part of ongoing support to enhance performance and accessibility.",
+        "Removing Denuvo may improve game performance and reduce potential DRM-related issues for PC players. Lower system requirements broaden the game's accessibility to users with less powerful hardware."
+      ],
+      "body_es": [
+        "Capcom lanzó la actualización 3.2 para Dragon's Dogma 2, que elimina el sistema de gestión de derechos digitales Denuvo en PC. El parche también introduce nuevas opciones gráficas y reduce el hardware necesario para alcanzar 60 FPS a resolución 1080p.",
+        "Dragon's Dogma 2 es la secuela de un RPG de acción lanzado hace más de dos años. La eliminación de Denuvo y las mejoras de optimización forman parte del soporte continuo para mejorar el rendimiento y la accesibilidad.",
+        "La eliminación de Denuvo puede mejorar el rendimiento del juego y reducir problemas relacionados con el DRM para los jugadores de PC. La reducción de requisitos amplía la accesibilidad del juego a usuarios con hardware menos potente."
+      ],
+      "source_url": "https://vandal.elespanol.com/noticia/2026245027/dragons-dogma-2-elimina-denuvo-en-pc-y-rebaja-sus-requisitos-mas-de-dos-anos-despues-de-su-lanzamiento/",
+      "source_name": "Vandal"
+    },
+    {
+      "slug": "warhammer-age-of-sigmar-deathmaster-plays-like-stealthy-hollow-knight",
+      "category": "PC",
+      "title_en": "Warhammer Age of Sigmar: Deathmaster Plays a Bit Like a Stealthy Hollow Knight",
+      "title_es": "Warhammer Age of Sigmar: Deathmaster juega un poco como un Hollow Knight sigiloso",
+      "dek_en": "IGN preview describes Warhammer Age of Sigmar: Deathmaster as a stealth and platforming game with a grimy art style and new perspective on the Age of Sigmar universe.",
+      "dek_es": "La vista previa de IGN describe Warhammer Age of Sigmar: Deathmaster como un juego de sigilo y plataformas con un estilo artístico sombrío y una nueva perspectiva del universo Age of Sigmar.",
+      "body_en": [
+        "IGN previewed Warhammer Age of Sigmar: Deathmaster, highlighting its blend of stealth mechanics and Hollow Knight-style platforming. The game features a gloomy, grimy art style while maintaining clarity in visuals.",
+        "The player explores the world from the perspective of a Skaven, combining stealth staples with platforming and ability progression. This approach offers a fresh take on the Age of Sigmar setting.",
+        "This gameplay mix and unique viewpoint provide players with a different experience within the Warhammer universe, potentially attracting fans of stealth and metroidvania genres."
+      ],
+      "body_es": [
+        "IGN presentó una vista previa de Warhammer Age of Sigmar: Deathmaster, destacando su combinación de mecánicas de sigilo y plataformas al estilo Hollow Knight. El juego presenta un estilo artístico sombrío y sucio, manteniendo la claridad visual.",
+        "El jugador explora el mundo desde la perspectiva de un Skaven, combinando elementos clásicos de sigilo con plataformas y progresión de habilidades. Este enfoque ofrece una visión fresca del universo Age of Sigmar.",
+        "Esta mezcla de jugabilidad y perspectiva única brinda a los jugadores una experiencia diferente dentro del universo Warhammer, atrayendo potencialmente a fans de los géneros sigilo y metroidvania."
+      ],
+      "source_url": "https://www.ign.com/articles/warhammer-age-of-sigmar-deathmaster-plays-a-bit-like-a-stealthy-hollow-knight-ign-preview",
+      "source_name": "IGN"
+    },
+    {
+      "slug": "humble-choice-september-2026-lineup-includes-frostpunk-2-sonic-x-shadow-generations",
+      "category": "PC",
+      "title_en": "The Humble Choice September 2026 Lineup Is Live With Frostpunk 2, Sonic X Shadow Generations, and 6 More Games",
+      "title_es": "La selección Humble Choice de septiembre 2026 ya está disponible con Frostpunk 2, Sonic X Shadow Generations y 6 juegos más",
+      "dek_en": "Humble Choice's September 2026 lineup offers eight games including Frostpunk 2 and Sonic X Shadow Generations for $15 this month.",
+      "dek_es": "La selección Humble Choice de septiembre 2026 ofrece ocho juegos, incluyendo Frostpunk 2 y Sonic X Shadow Generations, por 15 dólares este mes.",
+      "body_en": [
+        "Humble Choice's September 2026 lineup is now live, featuring eight games for $15. Notable titles include Frostpunk 2, a city-building survival strategy game, and Sonic X Shadow Generations, a crossover platformer.",
+        "Humble Choice is a monthly subscription service offering curated game bundles. Frostpunk 2 continues the acclaimed survival strategy series, while Sonic X Shadow Generations brings together characters from the Sonic franchise.",
+        "This lineup provides subscribers with access to a diverse set of games spanning strategy and platforming genres, expanding their libraries with new releases and established franchises."
+      ],
+      "body_es": [
+        "La selección Humble Choice de septiembre 2026 ya está disponible, con ocho juegos por 15 dólares. Entre los títulos destacados están Frostpunk 2, un juego de estrategia y supervivencia con construcción de ciudades, y Sonic X Shadow Generations, un plataformas crossover.",
+        "Humble Choice es un servicio de suscripción mensual que ofrece paquetes de juegos seleccionados. Frostpunk 2 continúa la aclamada serie de estrategia de supervivencia, mientras que Sonic X Shadow Generations reúne personajes de la franquicia Sonic.",
+        "Esta selección ofrece a los suscriptores acceso a un conjunto diverso de juegos que abarcan los géneros de estrategia y plataformas, ampliando sus bibliotecas con lanzamientos nuevos y franquicias consolidadas."
+      ],
+      "source_url": "https://www.ign.com/articles/humble-choice-september-2026",
+      "source_name": "IGN"
+    },
+    {
+      "slug": "fable-hero-design-change-explained-by-game-director",
+      "category": "Console",
+      "title_en": "Fable Explains the Reason Behind Its Hero Design Change",
+      "title_es": "Fable explica la razón detrás del cambio en el diseño de su héroe",
+      "dek_en": "Fable's game director Ralph Fulton confirmed at gamescom 2026 that character customization is included, explaining the design change.",
+      "dek_es": "El director del juego Fable, Ralph Fulton, confirmó en gamescom 2026 que la personalización de personajes está incluida, explicando el cambio en el diseño.",
+      "body_en": [
+        "At gamescom 2026, Fable's game director Ralph Fulton addressed the change in the hero's design, confirming that character customization is part of the game. He described this as a standard feature for RPGs.",
+        "Fable is a long-running action RPG series known for player choice and character development. The inclusion of customization aligns with genre expectations and previous entries.",
+        "This confirmation informs players that Fable will offer personalization options, impacting player engagement and character identity within the game."
+      ],
+      "body_es": [
+        "En gamescom 2026, el director del juego Fable, Ralph Fulton, abordó el cambio en el diseño del héroe, confirmando que la personalización de personajes forma parte del juego. Lo describió como una característica estándar para los RPG.",
+        "Fable es una serie de RPG de acción de larga trayectoria conocida por la elección del jugador y el desarrollo del personaje. La inclusión de la personalización se alinea con las expectativas del género y entregas anteriores.",
+        "Esta confirmación informa a los jugadores que Fable ofrecerá opciones de personalización, afectando la implicación del jugador y la identidad del personaje dentro del juego."
+      ],
+      "source_url": "https://www.ign.com/articles/its-not-a-revolutionary-thing-for-an-rpg-to-have-fable-explains-the-very-obvious-reason-as-to-why-its-hero-design-has-changed",
+      "source_name": "IGN"
+    },
+    {
+      "slug": "officially-licensed-cozy-collection-accessories-now-available-for-xbox-and-pc",
+      "category": "Hardware",
+      "title_en": "Officially Licensed 'Cozy Collection' Gaming Accessories Now Available for Xbox and PC",
+      "title_es": "Accesorios de la colección 'Cozy Collection' oficialmente licenciados ya disponibles para Xbox y PC",
+      "dek_en": "Xbox has released a range of officially licensed 'cozy' gaming accessories made in collaboration with 8BitDo, SteelSeries, and KontrolFreek.",
+      "dek_es": "Xbox ha lanzado una gama de accesorios de juego 'cozy' oficialmente licenciados, en colaboración con 8BitDo, SteelSeries y KontrolFreek.",
+      "body_en": [
+        "Xbox announced the availability of officially licensed 'Cozy Collection' gaming accessories for Xbox and PC. These products are developed in partnership with 8BitDo, SteelSeries, and KontrolFreek.",
+        "The collection includes peripherals designed to enhance comfort and style during gaming sessions, targeting players seeking both functionality and aesthetic appeal.",
+        "This launch expands the range of officially supported accessories for Xbox and PC gamers, providing more options for personalized and comfortable gaming setups."
+      ],
+      "body_es": [
+        "Xbox anunció la disponibilidad de accesorios de juego oficialmente licenciados de la colección 'Cozy Collection' para Xbox y PC. Estos productos se desarrollaron en colaboración con 8BitDo, SteelSeries y KontrolFreek.",
+        "La colección incluye periféricos diseñados para mejorar la comodidad y el estilo durante las sesiones de juego, dirigidos a jugadores que buscan funcionalidad y atractivo estético.",
+        "Este lanzamiento amplía la gama de accesorios oficialmente compatibles para jugadores de Xbox y PC, ofreciendo más opciones para configuraciones de juego personalizadas y cómodas."
+      ],
+      "source_url": "https://www.ign.com/articles/officially-licensed-cozy-collection-gaming-accessories-now-available-for-xbox-and-pc",
       "source_name": "IGN"
     }
   ]
