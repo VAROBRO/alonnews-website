@@ -1,164 +1,164 @@
 {
-  "generatedAt": "2026-09-02T17:49:31.993Z",
+  "generatedAt": "2026-09-03T17:45:37.211Z",
   "articles": [
     {
-      "slug": "cd-projekt-red-employs-over-1000-developers-for-witcher-4-cyberpunk-2",
+      "slug": "microsoft-xbox-cloud-gaming-monthly-hour-limits",
       "category": "Industry",
-      "title_en": "More Than 500 People Work on The Witcher 4: CD Projekt Employs Over 1,000 Developers",
-      "title_es": "Más de 500 personas trabajan en The Witcher 4: CD Projekt emplea ya a un millar de desarrolladores",
-      "dek_en": "CD Projekt RED has over 1,000 developers working across multiple projects including The Witcher 4 and Cyberpunk 2.",
-      "dek_es": "CD Projekt RED emplea a más de 1.000 desarrolladores repartidos en varios proyectos, entre ellos The Witcher 4 y Cyberpunk 2.",
+      "title_en": "Microsoft Announces Big Changes to Xbox Cloud Gaming, Switches to Monthly Hour Limits",
+      "title_es": "Microsoft Anuncia Grandes Cambios en Xbox Cloud Gaming, Cambia a Límites Mensuales de Horas",
+      "dek_en": "Microsoft has introduced a new monthly hour limit system for Xbox Cloud Gaming, replacing previous usage policies.",
+      "dek_es": "Microsoft ha introducido un nuevo sistema de límite mensual de horas para Xbox Cloud Gaming, reemplazando las políticas de uso anteriores.",
       "body_en": [
-        "CD Projekt RED currently employs 1,045 developers distributed among The Witcher 4, Cyberpunk 2, a multiplayer project for The Witcher, and a new saga, according to the studio's financial report. More than half of the team is dedicated to The Witcher 4.",
-        "The Witcher 4 is the next mainline entry in the acclaimed RPG series, following the success of The Witcher 3. Cyberpunk 2 is the sequel to the 2020 open-world RPG Cyberpunk 2077. The studio is also working on multiplayer components and a new IP.",
-        "This scale of staffing reflects CD Projekt RED's commitment to multiple large-scale projects simultaneously, indicating significant resource allocation in the RPG and multiplayer genres. It impacts players by promising continued support and new content from the studio's flagship franchises."
+        "Microsoft announced significant changes to its Xbox Cloud Gaming service, implementing monthly hour limits for users. This new policy replaces the previous model that allowed more flexible usage without strict caps. The update aims to better manage server resources and user demand.",
+        "Xbox Cloud Gaming, part of Xbox Game Pass Ultimate, allows players to stream games on various devices without needing a console. The service has grown rapidly, prompting Microsoft to adjust its infrastructure and usage policies to maintain performance and accessibility.",
+        "The introduction of monthly hour limits directly affects how players plan their gaming sessions on the cloud platform. It also signals Microsoft's approach to balancing service availability with operational costs, impacting the broader cloud gaming market."
       ],
       "body_es": [
-        "CD Projekt RED emplea actualmente a 1.045 desarrolladores repartidos entre The Witcher 4, Cyberpunk 2, un proyecto multijugador para The Witcher y una nueva saga, según el informe financiero del estudio. Más de la mitad del equipo está dedicado a The Witcher 4.",
-        "The Witcher 4 es la próxima entrega principal de la aclamada serie RPG, tras el éxito de The Witcher 3. Cyberpunk 2 es la secuela del RPG de mundo abierto Cyberpunk 2077 de 2020. El estudio también trabaja en componentes multijugador y una nueva propiedad intelectual.",
-        "Esta escala de personal refleja el compromiso de CD Projekt RED con múltiples proyectos de gran envergadura simultáneamente, indicando una importante asignación de recursos en los géneros RPG y multijugador. Esto afecta a los jugadores al prometer soporte continuo y nuevo contenido de las franquicias principales del estudio."
+        "Microsoft anunció cambios significativos en su servicio Xbox Cloud Gaming, implementando límites mensuales de horas para los usuarios. Esta nueva política reemplaza el modelo anterior que permitía un uso más flexible sin límites estrictos. La actualización busca gestionar mejor los recursos del servidor y la demanda de usuarios.",
+        "Xbox Cloud Gaming, parte de Xbox Game Pass Ultimate, permite a los jugadores transmitir juegos en varios dispositivos sin necesidad de una consola. El servicio ha crecido rápidamente, lo que llevó a Microsoft a ajustar su infraestructura y políticas de uso para mantener el rendimiento y la accesibilidad.",
+        "La introducción de límites mensuales de horas afecta directamente cómo los jugadores planifican sus sesiones de juego en la plataforma en la nube. También señala el enfoque de Microsoft para equilibrar la disponibilidad del servicio con los costos operativos, impactando el mercado más amplio de juegos en la nube."
       ],
-      "source_url": "https://vandal.elespanol.com/noticia/2026245030/mas-de-500-personas-trabajan-en-the-witcher-4-cd-projekt-emplea-ya-a-un-millar-de-desarrolladores/",
-      "source_name": "Vandal"
-    },
-    {
-      "slug": "nexon-to-develop-next-starcraft-strategy-game",
-      "category": "PC",
-      "title_en": "Next Starcraft Strategy Game Will Not Be by Blizzard, Reportedly Developed by Nexon",
-      "title_es": "El próximo Starcraft de estrategia no será de Blizzard: estará desarrollado supuestamente por Nexon",
-      "dek_en": "A South Korean report claims Nexon is developing the next mainline Starcraft strategy game, marking a shift from Blizzard.",
-      "dek_es": "Un informe surcoreano afirma que Nexon está desarrollando el próximo juego de estrategia principal de Starcraft, marcando un cambio respecto a Blizzard.",
-      "body_en": [
-        "According to South Korea's Chosun newspaper, Nexon is reportedly developing the next mainline Starcraft strategy game. This would be a departure from Blizzard, the original creator of the franchise.",
-        "Starcraft is a seminal real-time strategy series that has been synonymous with Blizzard since its inception. Nexon is also said to be working on a shooter based on Blizzard's IP, indicating a broader collaboration or licensing arrangement.",
-        "This development signals a significant change in the stewardship of the Starcraft franchise, potentially affecting the series' design and direction. Players and the market may see new approaches to the strategy genre under Nexon's development."
-      ],
-      "body_es": [
-        "Según el diario surcoreano Chosun, Nexon estaría desarrollando el próximo juego de estrategia principal de Starcraft. Esto supondría un cambio respecto a Blizzard, creadora original de la franquicia.",
-        "Starcraft es una serie seminal de estrategia en tiempo real que ha estado asociada a Blizzard desde sus inicios. Nexon también estaría trabajando en un shooter basado en la propiedad intelectual de Blizzard, lo que indica una colaboración o licencia más amplia.",
-        "Este desarrollo supone un cambio importante en la gestión de la franquicia Starcraft, que podría afectar al diseño y dirección de la serie. Los jugadores y el mercado podrían ver nuevos enfoques en el género de estrategia bajo el desarrollo de Nexon."
-      ],
-      "source_url": "https://vandal.elespanol.com/noticia/2026245029/el-proximo-starcraft-de-estrategia-no-sera-de-blizzard-estara-desarrollado-supuestamente-por-nexon/",
-      "source_name": "Vandal"
-    },
-    {
-      "slug": "gta-6-removes-controversial-auto-aim-and-minimap-enemy-markers",
-      "category": "Console",
-      "title_en": "GTA 6 Removes Controversial System: Shooting Will Be Harder and Enemies Won't Appear on Minimap",
-      "title_es": "GTA 6 dice adiós a un polémico sistema: disparar será más difícil y los enemigos no saldrán en el minimapa",
-      "dek_en": "Rockstar Games has disabled auto-aim by default and removed enemy positions from the radar in Grand Theft Auto 6.",
-      "dek_es": "Rockstar Games ha desactivado el autoapuntado por defecto y eliminado la posición de enemigos en el radar en Grand Theft Auto 6.",
-      "body_en": [
-        "Grand Theft Auto 6 will require players to pay more attention in combat as Rockstar Games has disabled auto-aim by default and removed enemy markers from the minimap. This change demands greater player skill in aiming and situational awareness.",
-        "Previous GTA titles included auto-aim and enemy radar markers to assist players during firefights. The removal of these features marks a shift towards more challenging and immersive combat mechanics.",
-        "This adjustment affects gameplay by increasing difficulty and realism in combat encounters. It may influence player strategies and the overall pacing of firefights in GTA 6."
-      ],
-      "body_es": [
-        "Grand Theft Auto 6 requerirá que los jugadores presten más atención en los combates, ya que Rockstar Games ha desactivado el autoapuntado por defecto y eliminado los marcadores de enemigos en el minimapa. Este cambio exige mayor habilidad en el apuntado y conciencia situacional.",
-        "Los títulos anteriores de GTA incluían autoapuntado y marcadores de enemigos en el radar para ayudar a los jugadores durante los tiroteos. La eliminación de estas características supone un cambio hacia mecánicas de combate más desafiantes e inmersivas.",
-        "Este ajuste afecta la jugabilidad al aumentar la dificultad y el realismo en los enfrentamientos. Puede influir en las estrategias de los jugadores y en el ritmo general de los tiroteos en GTA 6."
-      ],
-      "source_url": "https://vandal.elespanol.com/noticia/2026245028/gta-6-dice-adios-a-un-polemico-sistema-disparar-sera-mas-dificil-y-los-enemigos-no-saldran-en-el-minimapa/",
-      "source_name": "Vandal"
-    },
-    {
-      "slug": "dragons-dogma-2-pc-removes-denuvo-and-lowers-requirements",
-      "category": "PC",
-      "title_en": "Dragon's Dogma 2 Removes Denuvo on PC and Lowers System Requirements Over Two Years After Launch",
-      "title_es": "Dragon's Dogma 2 elimina Denuvo en PC y rebaja sus requisitos más de dos años después de su lanzamiento",
-      "dek_en": "Capcom's update 3.2 for Dragon's Dogma 2 removes Denuvo DRM, adds new graphics options, and reduces hardware requirements for 60 FPS at 1080p.",
-      "dek_es": "La actualización 3.2 de Dragon's Dogma 2 elimina Denuvo, añade opciones gráficas y reduce los requisitos de hardware para 60 FPS a 1080p.",
-      "body_en": [
-        "Capcom released update 3.2 for Dragon's Dogma 2, which removes the Denuvo digital rights management system on PC. The patch also introduces new graphics options and lowers the hardware needed to achieve 60 FPS at 1080p resolution.",
-        "Dragon's Dogma 2 is an action RPG sequel that launched over two years ago. The removal of Denuvo and optimization improvements come as part of ongoing support to enhance performance and accessibility.",
-        "Removing Denuvo may improve game performance and reduce potential DRM-related issues for PC players. Lower system requirements broaden the game's accessibility to users with less powerful hardware."
-      ],
-      "body_es": [
-        "Capcom lanzó la actualización 3.2 para Dragon's Dogma 2, que elimina el sistema de gestión de derechos digitales Denuvo en PC. El parche también introduce nuevas opciones gráficas y reduce el hardware necesario para alcanzar 60 FPS a resolución 1080p.",
-        "Dragon's Dogma 2 es la secuela de un RPG de acción lanzado hace más de dos años. La eliminación de Denuvo y las mejoras de optimización forman parte del soporte continuo para mejorar el rendimiento y la accesibilidad.",
-        "La eliminación de Denuvo puede mejorar el rendimiento del juego y reducir problemas relacionados con el DRM para los jugadores de PC. La reducción de requisitos amplía la accesibilidad del juego a usuarios con hardware menos potente."
-      ],
-      "source_url": "https://vandal.elespanol.com/noticia/2026245027/dragons-dogma-2-elimina-denuvo-en-pc-y-rebaja-sus-requisitos-mas-de-dos-anos-despues-de-su-lanzamiento/",
-      "source_name": "Vandal"
-    },
-    {
-      "slug": "warhammer-age-of-sigmar-deathmaster-plays-like-stealthy-hollow-knight",
-      "category": "PC",
-      "title_en": "Warhammer Age of Sigmar: Deathmaster Plays a Bit Like a Stealthy Hollow Knight",
-      "title_es": "Warhammer Age of Sigmar: Deathmaster juega un poco como un Hollow Knight sigiloso",
-      "dek_en": "IGN preview describes Warhammer Age of Sigmar: Deathmaster as a stealth and platforming game with a grimy art style and new perspective on the Age of Sigmar universe.",
-      "dek_es": "La vista previa de IGN describe Warhammer Age of Sigmar: Deathmaster como un juego de sigilo y plataformas con un estilo artístico sombrío y una nueva perspectiva del universo Age of Sigmar.",
-      "body_en": [
-        "IGN previewed Warhammer Age of Sigmar: Deathmaster, highlighting its blend of stealth mechanics and Hollow Knight-style platforming. The game features a gloomy, grimy art style while maintaining clarity in visuals.",
-        "The player explores the world from the perspective of a Skaven, combining stealth staples with platforming and ability progression. This approach offers a fresh take on the Age of Sigmar setting.",
-        "This gameplay mix and unique viewpoint provide players with a different experience within the Warhammer universe, potentially attracting fans of stealth and metroidvania genres."
-      ],
-      "body_es": [
-        "IGN presentó una vista previa de Warhammer Age of Sigmar: Deathmaster, destacando su combinación de mecánicas de sigilo y plataformas al estilo Hollow Knight. El juego presenta un estilo artístico sombrío y sucio, manteniendo la claridad visual.",
-        "El jugador explora el mundo desde la perspectiva de un Skaven, combinando elementos clásicos de sigilo con plataformas y progresión de habilidades. Este enfoque ofrece una visión fresca del universo Age of Sigmar.",
-        "Esta mezcla de jugabilidad y perspectiva única brinda a los jugadores una experiencia diferente dentro del universo Warhammer, atrayendo potencialmente a fans de los géneros sigilo y metroidvania."
-      ],
-      "source_url": "https://www.ign.com/articles/warhammer-age-of-sigmar-deathmaster-plays-a-bit-like-a-stealthy-hollow-knight-ign-preview",
+      "source_url": "https://www.ign.com/articles/microsoft-announces-big-changes-to-xbox-cloud-gaming-switches-to-monthly-hour-limits",
       "source_name": "IGN"
     },
     {
-      "slug": "humble-choice-september-2026-lineup-includes-frostpunk-2-sonic-x-shadow-generations",
-      "category": "PC",
-      "title_en": "The Humble Choice September 2026 Lineup Is Live With Frostpunk 2, Sonic X Shadow Generations, and 6 More Games",
-      "title_es": "La selección Humble Choice de septiembre 2026 ya está disponible con Frostpunk 2, Sonic X Shadow Generations y 6 juegos más",
-      "dek_en": "Humble Choice's September 2026 lineup offers eight games including Frostpunk 2 and Sonic X Shadow Generations for $15 this month.",
-      "dek_es": "La selección Humble Choice de septiembre 2026 ofrece ocho juegos, incluyendo Frostpunk 2 y Sonic X Shadow Generations, por 15 dólares este mes.",
-      "body_en": [
-        "Humble Choice's September 2026 lineup is now live, featuring eight games for $15. Notable titles include Frostpunk 2, a city-building survival strategy game, and Sonic X Shadow Generations, a crossover platformer.",
-        "Humble Choice is a monthly subscription service offering curated game bundles. Frostpunk 2 continues the acclaimed survival strategy series, while Sonic X Shadow Generations brings together characters from the Sonic franchise.",
-        "This lineup provides subscribers with access to a diverse set of games spanning strategy and platforming genres, expanding their libraries with new releases and established franchises."
-      ],
-      "body_es": [
-        "La selección Humble Choice de septiembre 2026 ya está disponible, con ocho juegos por 15 dólares. Entre los títulos destacados están Frostpunk 2, un juego de estrategia y supervivencia con construcción de ciudades, y Sonic X Shadow Generations, un plataformas crossover.",
-        "Humble Choice es un servicio de suscripción mensual que ofrece paquetes de juegos seleccionados. Frostpunk 2 continúa la aclamada serie de estrategia de supervivencia, mientras que Sonic X Shadow Generations reúne personajes de la franquicia Sonic.",
-        "Esta selección ofrece a los suscriptores acceso a un conjunto diverso de juegos que abarcan los géneros de estrategia y plataformas, ampliando sus bibliotecas con lanzamientos nuevos y franquicias consolidadas."
-      ],
-      "source_url": "https://www.ign.com/articles/humble-choice-september-2026",
-      "source_name": "IGN"
-    },
-    {
-      "slug": "fable-hero-design-change-explained-by-game-director",
-      "category": "Console",
-      "title_en": "Fable Explains the Reason Behind Its Hero Design Change",
-      "title_es": "Fable explica la razón detrás del cambio en el diseño de su héroe",
-      "dek_en": "Fable's game director Ralph Fulton confirmed at gamescom 2026 that character customization is included, explaining the design change.",
-      "dek_es": "El director del juego Fable, Ralph Fulton, confirmó en gamescom 2026 que la personalización de personajes está incluida, explicando el cambio en el diseño.",
-      "body_en": [
-        "At gamescom 2026, Fable's game director Ralph Fulton addressed the change in the hero's design, confirming that character customization is part of the game. He described this as a standard feature for RPGs.",
-        "Fable is a long-running action RPG series known for player choice and character development. The inclusion of customization aligns with genre expectations and previous entries.",
-        "This confirmation informs players that Fable will offer personalization options, impacting player engagement and character identity within the game."
-      ],
-      "body_es": [
-        "En gamescom 2026, el director del juego Fable, Ralph Fulton, abordó el cambio en el diseño del héroe, confirmando que la personalización de personajes forma parte del juego. Lo describió como una característica estándar para los RPG.",
-        "Fable es una serie de RPG de acción de larga trayectoria conocida por la elección del jugador y el desarrollo del personaje. La inclusión de la personalización se alinea con las expectativas del género y entregas anteriores.",
-        "Esta confirmación informa a los jugadores que Fable ofrecerá opciones de personalización, afectando la implicación del jugador y la identidad del personaje dentro del juego."
-      ],
-      "source_url": "https://www.ign.com/articles/its-not-a-revolutionary-thing-for-an-rpg-to-have-fable-explains-the-very-obvious-reason-as-to-why-its-hero-design-has-changed",
-      "source_name": "IGN"
-    },
-    {
-      "slug": "officially-licensed-cozy-collection-accessories-now-available-for-xbox-and-pc",
+      "slug": "alienware-aw3926qw-39-5k-oled-gaming-monitor-release",
       "category": "Hardware",
-      "title_en": "Officially Licensed 'Cozy Collection' Gaming Accessories Now Available for Xbox and PC",
-      "title_es": "Accesorios de la colección 'Cozy Collection' oficialmente licenciados ya disponibles para Xbox y PC",
-      "dek_en": "Xbox has released a range of officially licensed 'cozy' gaming accessories made in collaboration with 8BitDo, SteelSeries, and KontrolFreek.",
-      "dek_es": "Xbox ha lanzado una gama de accesorios de juego 'cozy' oficialmente licenciados, en colaboración con 8BitDo, SteelSeries y KontrolFreek.",
+      "title_en": "Alienware Just Released the World's First 39\" 5K Monitor With RGB Stripe Tandem OLED Technology",
+      "title_es": "Alienware Acaba de Lanzar el Primer Monitor 5K de 39\" con Tecnología OLED RGB Stripe Tandem",
+      "dek_en": "Alienware has launched the AW3926QW, the first 39-inch 5K monitor featuring RGB Stripe Tandem OLED technology, now available for purchase.",
+      "dek_es": "Alienware ha lanzado el AW3926QW, el primer monitor 5 pulgadas 5K con tecnología OLED RGB Stripe Tandem, ya disponible para su compra.",
       "body_en": [
-        "Xbox announced the availability of officially licensed 'Cozy Collection' gaming accessories for Xbox and PC. These products are developed in partnership with 8BitDo, SteelSeries, and KontrolFreek.",
-        "The collection includes peripherals designed to enhance comfort and style during gaming sessions, targeting players seeking both functionality and aesthetic appeal.",
-        "This launch expands the range of officially supported accessories for Xbox and PC gamers, providing more options for personalized and comfortable gaming setups."
+        "Alienware released the AW3926QW, the world’s first 39-inch 5K monitor equipped with RGB Stripe Tandem OLED technology. This new display targets both gamers and workstation users, offering high resolution and advanced color accuracy. The monitor is now shipping to customers.",
+        "This monitor combines a 5120x2160 resolution with OLED panels arranged in a tandem stripe pattern, enhancing contrast and color vibrancy. Alienware positions the AW3926QW as suitable for high-end gaming and professional productivity tasks requiring precise visuals.",
+        "The availability of this monitor introduces a new option for users seeking premium display technology that bridges gaming performance with workstation needs. It reflects ongoing innovation in monitor hardware that could influence future display standards."
       ],
       "body_es": [
-        "Xbox anunció la disponibilidad de accesorios de juego oficialmente licenciados de la colección 'Cozy Collection' para Xbox y PC. Estos productos se desarrollaron en colaboración con 8BitDo, SteelSeries y KontrolFreek.",
-        "La colección incluye periféricos diseñados para mejorar la comodidad y el estilo durante las sesiones de juego, dirigidos a jugadores que buscan funcionalidad y atractivo estético.",
-        "Este lanzamiento amplía la gama de accesorios oficialmente compatibles para jugadores de Xbox y PC, ofreciendo más opciones para configuraciones de juego personalizadas y cómodas."
+        "Alienware lanzó el AW3926QW, el primer monitor de 39 pulgadas con resolución 5K equipado con tecnología OLED RGB Stripe Tandem. Esta nueva pantalla está dirigida tanto a jugadores como a usuarios profesionales, ofreciendo alta resolución y precisión avanzada en color. El monitor ya está disponible para envío.",
+        "Este monitor combina una resolución de 5120x2160 con paneles OLED dispuestos en un patrón de franjas en tándem, mejorando el contraste y la viveza del color. Alienware posiciona el AW3926QW como adecuado para juegos de alta gama y tareas profesionales que requieren visuales precisos.",
+        "La disponibilidad de este monitor introduce una nueva opción para usuarios que buscan tecnología de pantalla premium que combine rendimiento para juegos con necesidades profesionales. Refleja la innovación continua en hardware de monitores que podría influir en futuros estándares de pantalla."
       ],
-      "source_url": "https://www.ign.com/articles/officially-licensed-cozy-collection-gaming-accessories-now-available-for-xbox-and-pc",
+      "source_url": "https://www.ign.com/articles/alienware-aw3926qw-39-5k-oled-gaming-monitor-is-now-available",
+      "source_name": "IGN"
+    },
+    {
+      "slug": "samsung-odyssey-g9-57-inch-dual-4k-gaming-monitor-price-drop",
+      "category": "Hardware",
+      "title_en": "Samsung's Absolutely Massive 57\" Dual 4K Gaming Monitor Drops to the Lowest Price I've Ever Seen",
+      "title_es": "El Enorme Monitor de Juegos Dual 4K de 57\" de Samsung Baja a su Precio Más Bajo",
+      "dek_en": "Samsung's 57-inch dual 4K Odyssey gaming monitor has reached its lowest price to date, making high-end ultrawide gaming displays more accessible.",
+      "dek_es": "El monitor de juegos Odyssey de 57 pulgadas y doble 4K de Samsung ha alcanzado su precio más bajo hasta la fecha, haciendo que las pantallas ultrapanorámicas de alta gama sean más accesibles.",
+      "body_en": [
+        "Samsung's Odyssey 57-inch dual 4K gaming monitor has dropped to its lowest price ever, according to recent reports. This ultrawide display features two 4K panels combined into a single expansive screen designed for immersive gaming experiences.",
+        "The Odyssey G9 series is known for its large curved screens and high refresh rates, catering to gamers seeking wide fields of view and detailed visuals. The 57-inch model pushes these features further with dual 4K resolution.",
+        "This price reduction may influence consumer decisions in the premium monitor market, providing an opportunity for gamers and professionals to acquire a top-tier ultrawide display at a more affordable cost. It also reflects pricing trends in high-end gaming hardware."
+      ],
+      "body_es": [
+        "El monitor de juegos Odyssey de 57 pulgadas y doble 4K de Samsung ha bajado a su precio más bajo hasta la fecha, según informes recientes. Esta pantalla ultrapanorámica cuenta con dos paneles 4K combinados en una sola pantalla expansiva diseñada para experiencias de juego inmersivas.",
+        "La serie Odyssey G9 es conocida por sus grandes pantallas curvas y altas tasas de refresco, dirigida a jugadores que buscan amplios campos de visión y visuales detallados. El modelo de 57 pulgadas lleva estas características aún más lejos con resolución dual 4K.",
+        "Esta reducción de precio puede influir en las decisiones de los consumidores en el mercado de monitores premium, ofreciendo una oportunidad para que jugadores y profesionales adquieran una pantalla ultrapanorámica de alta gama a un costo más accesible. También refleja tendencias de precios en hardware de juegos de alta gama."
+      ],
+      "source_url": "https://www.ign.com/articles/samsung-odyssey-g9-gaming-monitor-deal-august-2026",
+      "source_name": "IGN"
+    },
+    {
+      "slug": "microsoft-xbox-cloud-gaming-monthly-hour-limits",
+      "category": "Industry",
+      "title_en": "Microsoft Announces Big Changes to Xbox Cloud Gaming, Switches to Monthly Hour Limits",
+      "title_es": "Microsoft Anuncia Grandes Cambios en Xbox Cloud Gaming, Cambia a Límites Mensuales de Horas",
+      "dek_en": "Microsoft has introduced a new monthly hour limit system for Xbox Cloud Gaming, replacing previous usage policies.",
+      "dek_es": "Microsoft ha introducido un nuevo sistema de límite mensual de horas para Xbox Cloud Gaming, reemplazando las políticas de uso anteriores.",
+      "body_en": [
+        "Microsoft announced significant changes to its Xbox Cloud Gaming service, implementing monthly hour limits for users. This new policy replaces the previous model that allowed more flexible usage without strict caps. The update aims to better manage server resources and user demand.",
+        "Xbox Cloud Gaming, part of Xbox Game Pass Ultimate, allows players to stream games on various devices without needing a console. The service has grown rapidly, prompting Microsoft to adjust its infrastructure and usage policies to maintain performance and accessibility.",
+        "The introduction of monthly hour limits directly affects how players plan their gaming sessions on the cloud platform. It also signals Microsoft's approach to balancing service availability with operational costs, impacting the broader cloud gaming market."
+      ],
+      "body_es": [
+        "Microsoft anunció cambios significativos en su servicio Xbox Cloud Gaming, implementando límites mensuales de horas para los usuarios. Esta nueva política reemplaza el modelo anterior que permitía un uso más flexible sin límites estrictos. La actualización busca gestionar mejor los recursos del servidor y la demanda de usuarios.",
+        "Xbox Cloud Gaming, parte de Xbox Game Pass Ultimate, permite a los jugadores transmitir juegos en varios dispositivos sin necesidad de una consola. El servicio ha crecido rápidamente, lo que llevó a Microsoft a ajustar su infraestructura y políticas de uso para mantener el rendimiento y la accesibilidad.",
+        "La introducción de límites mensuales de horas afecta directamente cómo los jugadores planifican sus sesiones de juego en la plataforma en la nube. También señala el enfoque de Microsoft para equilibrar la disponibilidad del servicio con los costos operativos, impactando el mercado más amplio de juegos en la nube."
+      ],
+      "source_url": "https://www.ign.com/articles/microsoft-announces-big-changes-to-xbox-cloud-gaming-switches-to-monthly-hour-limits",
+      "source_name": "IGN"
+    },
+    {
+      "slug": "sonic-shooting-enemies-in-fortnite-loophole",
+      "category": "Industry",
+      "title_en": "Sonic Creative Officer Takashi Iizuka Explains How Sega Found a Loophole to Let Sonic Shoot Enemies in Fortnite",
+      "title_es": "El Director Creativo de Sonic, Takashi Iizuka, Explica Cómo Sega Encontró una Laguna para Permitir que Sonic Dispare en Fortnite",
+      "dek_en": "Takashi Iizuka detailed the unique challenge Sega faced enabling Sonic to shoot enemies in Fortnite, revealing a creative workaround.",
+      "dek_es": "Takashi Iizuka detalló el desafío único que enfrentó Sega para permitir que Sonic disparara a enemigos en Fortnite, revelando una solución creativa.",
+      "body_en": [
+        "Takashi Iizuka, Sonic's Creative Officer at Sega, explained how the company navigated restrictions to allow Sonic to shoot enemies in Fortnite. Sega found a loophole that enabled this gameplay feature while maintaining Sonic's character integrity.",
+        "Sonic's inclusion in Fortnite marked a notable crossover, blending Sega's iconic character with Epic Games' battle royale mechanics. The shooting mechanic was unusual for Sonic, requiring careful adaptation to fit both franchises.",
+        "This insight clarifies the complexities of character licensing and gameplay integration in crossovers. It informs players about the behind-the-scenes efforts to preserve character identity while expanding gameplay possibilities in popular titles."
+      ],
+      "body_es": [
+        "Takashi Iizuka, director creativo de Sonic en Sega, explicó cómo la compañía navegó restricciones para permitir que Sonic disparara a enemigos en Fortnite. Sega encontró una laguna que habilitó esta función de juego manteniendo la integridad del personaje de Sonic.",
+        "La inclusión de Sonic en Fortnite marcó un cruce notable, combinando el icónico personaje de Sega con la mecánica de battle royale de Epic Games. La mecánica de disparo fue inusual para Sonic, requiriendo una adaptación cuidadosa para encajar en ambas franquicias.",
+        "Esta explicación aclara las complejidades de la licencia de personajes y la integración de jugabilidad en cruces. Informa a los jugadores sobre los esfuerzos detrás de escena para preservar la identidad del personaje mientras se amplían las posibilidades de juego en títulos populares."
+      ],
+      "source_url": "https://www.ign.com/articles/sonic-creative-officer-takashi-iizuka-explains-how-sega-found-a-loophole-to-let-sonic-shoot-enemies-in-fortnite",
+      "source_name": "IGN"
+    },
+    {
+      "slug": "rockstar-devs-thought-gta-online-would-flop",
+      "category": "Industry",
+      "title_en": "'We Were All Positive It Was Going to Fail': Rockstar Devs Thought GTA Online Would Flop",
+      "title_es": "‘Estábamos Seguros de que Iba a Fracasar’: Desarrolladores de Rockstar Pensaban que GTA Online Fracasaría",
+      "dek_en": "A former Rockstar developer revealed the team initially believed GTA Online would fail before its launch.",
+      "dek_es": "Un exdesarrollador de Rockstar reveló que el equipo inicialmente creía que GTA Online fracasaría antes de su lanzamiento.",
+      "body_en": [
+        "A former developer at Rockstar Games disclosed that the team was largely convinced GTA Online would fail prior to its release. Despite this, the game launched and eventually became a major success.",
+        "GTA Online expanded the Grand Theft Auto franchise into a persistent online multiplayer experience, evolving over years with continuous updates and a large player base. Its success was unexpected internally.",
+        "This revelation offers insight into the unpredictability of game reception and development outcomes. It highlights how initial skepticism within studios does not necessarily predict commercial or critical success."
+      ],
+      "body_es": [
+        "Un exdesarrollador de Rockstar Games reveló que el equipo estaba mayormente convencido de que GTA Online fracasaría antes de su lanzamiento. A pesar de esto, el juego se lanzó y eventualmente se convirtió en un gran éxito.",
+        "GTA Online amplió la franquicia Grand Theft Auto hacia una experiencia multijugador persistente en línea, evolucionando durante años con actualizaciones continuas y una gran base de jugadores. Su éxito fue inesperado internamente.",
+        "Esta revelación ofrece una visión sobre la imprevisibilidad de la recepción de juegos y los resultados del desarrollo. Destaca cómo el escepticismo inicial dentro de los estudios no predice necesariamente el éxito comercial o crítico."
+      ],
+      "source_url": "https://www.ign.com/articles/we-were-all-positive-it-was-going-to-fail-rockstar-devs-thought-gta-online-would-flop",
+      "source_name": "IGN"
+    },
+    {
+      "slug": "fallout-pinball-tables-announced-by-stern-pinball",
+      "category": "Industry",
+      "title_en": "Fallout Pinball Tables Announced by Stern Pinball",
+      "title_es": "Stern Pinball Anuncia Mesas de Pinball de Fallout",
+      "dek_en": "Stern Pinball announced new Fallout-themed pinball tables, including Pro, Premium, and Limited Editions with high price points and limited availability.",
+      "dek_es": "Stern Pinball anunció nuevas mesas de pinball temáticas de Fallout, incluyendo ediciones Pro, Premium y Limitada con precios elevados y disponibilidad limitada.",
+      "body_en": [
+        "Stern Pinball revealed new Fallout pinball tables available in Pro, Premium, and Limited Editions. The Limited Edition is capped at 770 units worldwide, referencing Fallout's Great War of 2077. Prices range from $7,299 to $13,999.",
+        "These pinball tables tie into the popular Bethesda RPG and its Prime Video adaptation, blending gaming culture with physical arcade entertainment. The Limited Edition's scarcity targets collectors and enthusiasts.",
+        "The launch expands Fallout's brand into new merchandise categories, offering fans a tangible gaming experience outside digital formats. It also reflects the crossover potential between video games and traditional arcade hardware markets."
+      ],
+      "body_es": [
+        "Stern Pinball reveló nuevas mesas de pinball temáticas de Fallout disponibles en ediciones Pro, Premium y Limitada. La Edición Limitada está limitada a 770 unidades en todo el mundo, haciendo referencia a la Gran Guerra de Fallout de 2077. Los precios oscilan entre $7,299 y $13,999.",
+        "Estas mesas de pinball se vinculan con el popular RPG de Bethesda y su adaptación en Prime Video, combinando la cultura de los videojuegos con el entretenimiento arcade físico. La escasez de la Edición Limitada apunta a coleccionistas y entusiastas.",
+        "El lanzamiento expande la marca Fallout hacia nuevas categorías de productos, ofreciendo a los fans una experiencia tangible de juego fuera de los formatos digitales. También refleja el potencial de cruce entre videojuegos y hardware arcade tradicional."
+      ],
+      "source_url": "https://www.ign.com/articles/fallout-pinball-tables-announced-by-stern-pinball",
+      "source_name": "IGN"
+    },
+    {
+      "slug": "crunchyroll-game-vault-crosses-100-games",
+      "category": "Mobile",
+      "title_en": "Crunchyroll Game Vault Officially Crosses Over 100 Games With 3 New Additions",
+      "title_es": "Crunchyroll Game Vault Supera Oficialmente los 100 Juegos con 3 Nuevas Incorporaciones",
+      "dek_en": "Crunchyroll Game Vault has surpassed 100 games in its library following the addition of three new anime-inspired titles.",
+      "dek_es": "Crunchyroll Game Vault ha superado los 100 juegos en su biblioteca tras la incorporación de tres nuevos títulos inspirados en anime.",
+      "body_en": [
+        "Crunchyroll Game Vault announced it has officially crossed the milestone of 100 games with the addition of three new anime-inspired titles. This expansion continues the platform's focus on anime-themed mobile gaming.",
+        "The Game Vault service offers a curated selection of games tied to popular anime franchises, targeting fans of the genre with accessible mobile experiences. The new titles further diversify its catalog.",
+        "Reaching over 100 games marks a significant growth point for Crunchyroll's gaming initiative, indicating sustained investment in mobile anime gaming. It provides players with a broad range of options within a specialized niche."
+      ],
+      "body_es": [
+        "Crunchyroll Game Vault anunció que ha superado oficialmente el hito de 100 juegos con la incorporación de tres nuevos títulos inspirados en anime. Esta expansión continúa el enfoque de la plataforma en juegos móviles temáticos de anime.",
+        "El servicio Game Vault ofrece una selección curada de juegos vinculados a franquicias populares de anime, dirigido a fanáticos del género con experiencias móviles accesibles. Los nuevos títulos diversifican aún más su catálogo.",
+        "Superar los 100 juegos marca un punto de crecimiento significativo para la iniciativa de juegos de Crunchyroll, indicando una inversión sostenida en juegos móviles de anime. Proporciona a los jugadores una amplia gama de opciones dentro de un nicho especializado."
+      ],
+      "source_url": "https://www.ign.com/articles/crunchyroll-game-vault-officially-crosses-over-100-games",
       "source_name": "IGN"
     }
   ]
