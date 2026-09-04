@@ -1,164 +1,124 @@
 {
-  "generatedAt": "2026-09-03T17:45:37.211Z",
+  "generatedAt": "2026-09-04T17:32:01.928Z",
   "articles": [
     {
-      "slug": "microsoft-xbox-cloud-gaming-monthly-hour-limits",
-      "category": "Industry",
-      "title_en": "Microsoft Announces Big Changes to Xbox Cloud Gaming, Switches to Monthly Hour Limits",
-      "title_es": "Microsoft Anuncia Grandes Cambios en Xbox Cloud Gaming, Cambia a Límites Mensuales de Horas",
-      "dek_en": "Microsoft has introduced a new monthly hour limit system for Xbox Cloud Gaming, replacing previous usage policies.",
-      "dek_es": "Microsoft ha introducido un nuevo sistema de límite mensual de horas para Xbox Cloud Gaming, reemplazando las políticas de uso anteriores.",
-      "body_en": [
-        "Microsoft announced significant changes to its Xbox Cloud Gaming service, implementing monthly hour limits for users. This new policy replaces the previous model that allowed more flexible usage without strict caps. The update aims to better manage server resources and user demand.",
-        "Xbox Cloud Gaming, part of Xbox Game Pass Ultimate, allows players to stream games on various devices without needing a console. The service has grown rapidly, prompting Microsoft to adjust its infrastructure and usage policies to maintain performance and accessibility.",
-        "The introduction of monthly hour limits directly affects how players plan their gaming sessions on the cloud platform. It also signals Microsoft's approach to balancing service availability with operational costs, impacting the broader cloud gaming market."
-      ],
-      "body_es": [
-        "Microsoft anunció cambios significativos en su servicio Xbox Cloud Gaming, implementando límites mensuales de horas para los usuarios. Esta nueva política reemplaza el modelo anterior que permitía un uso más flexible sin límites estrictos. La actualización busca gestionar mejor los recursos del servidor y la demanda de usuarios.",
-        "Xbox Cloud Gaming, parte de Xbox Game Pass Ultimate, permite a los jugadores transmitir juegos en varios dispositivos sin necesidad de una consola. El servicio ha crecido rápidamente, lo que llevó a Microsoft a ajustar su infraestructura y políticas de uso para mantener el rendimiento y la accesibilidad.",
-        "La introducción de límites mensuales de horas afecta directamente cómo los jugadores planifican sus sesiones de juego en la plataforma en la nube. También señala el enfoque de Microsoft para equilibrar la disponibilidad del servicio con los costos operativos, impactando el mercado más amplio de juegos en la nube."
-      ],
-      "source_url": "https://www.ign.com/articles/microsoft-announces-big-changes-to-xbox-cloud-gaming-switches-to-monthly-hour-limits",
-      "source_name": "IGN"
-    },
-    {
-      "slug": "alienware-aw3926qw-39-5k-oled-gaming-monitor-release",
+      "slug": "alienware-launches-39-inch-5k-oled-gaming-monitor",
       "category": "Hardware",
       "title_en": "Alienware Just Released the World's First 39\" 5K Monitor With RGB Stripe Tandem OLED Technology",
-      "title_es": "Alienware Acaba de Lanzar el Primer Monitor 5K de 39\" con Tecnología OLED RGB Stripe Tandem",
-      "dek_en": "Alienware has launched the AW3926QW, the first 39-inch 5K monitor featuring RGB Stripe Tandem OLED technology, now available for purchase.",
-      "dek_es": "Alienware ha lanzado el AW3926QW, el primer monitor 5 pulgadas 5K con tecnología OLED RGB Stripe Tandem, ya disponible para su compra.",
+      "title_es": "Alienware acaba de lanzar el primer monitor 5K de 39\" con tecnología OLED RGB Stripe Tandem",
+      "dek_en": "Alienware has begun shipping its new 39-inch 5K OLED gaming monitor featuring RGB Stripe Tandem technology, designed for both gaming and productivity.",
+      "dek_es": "Alienware ha comenzado a enviar su nuevo monitor OLED de 39 pulgadas y 5K con tecnología RGB Stripe Tandem, diseñado para juegos y productividad.",
       "body_en": [
-        "Alienware released the AW3926QW, the world’s first 39-inch 5K monitor equipped with RGB Stripe Tandem OLED technology. This new display targets both gamers and workstation users, offering high resolution and advanced color accuracy. The monitor is now shipping to customers.",
-        "This monitor combines a 5120x2160 resolution with OLED panels arranged in a tandem stripe pattern, enhancing contrast and color vibrancy. Alienware positions the AW3926QW as suitable for high-end gaming and professional productivity tasks requiring precise visuals.",
-        "The availability of this monitor introduces a new option for users seeking premium display technology that bridges gaming performance with workstation needs. It reflects ongoing innovation in monitor hardware that could influence future display standards."
+        "Alienware has officially released the AW3926QW, the world’s first 39-inch 5K OLED gaming monitor with RGB Stripe Tandem technology. This new display combines ultra-high resolution with advanced OLED panels to deliver vibrant colors and deep blacks, alongside a unique RGB lighting stripe for enhanced aesthetics.",
+        "The monitor targets both gamers and professionals, offering a 5120x2160 resolution and a 175Hz refresh rate. OLED technology provides superior contrast and color accuracy compared to traditional LCDs, making it suitable for creative work and immersive gaming experiences.",
+        "This release matters as it pushes the boundaries of gaming monitor technology, offering a large, high-resolution OLED panel with fast refresh rates. It sets a new standard for displays that serve dual purposes in gaming and workstation productivity, potentially influencing future hardware development."
       ],
       "body_es": [
-        "Alienware lanzó el AW3926QW, el primer monitor de 39 pulgadas con resolución 5K equipado con tecnología OLED RGB Stripe Tandem. Esta nueva pantalla está dirigida tanto a jugadores como a usuarios profesionales, ofreciendo alta resolución y precisión avanzada en color. El monitor ya está disponible para envío.",
-        "Este monitor combina una resolución de 5120x2160 con paneles OLED dispuestos en un patrón de franjas en tándem, mejorando el contraste y la viveza del color. Alienware posiciona el AW3926QW como adecuado para juegos de alta gama y tareas profesionales que requieren visuales precisos.",
-        "La disponibilidad de este monitor introduce una nueva opción para usuarios que buscan tecnología de pantalla premium que combine rendimiento para juegos con necesidades profesionales. Refleja la innovación continua en hardware de monitores que podría influir en futuros estándares de pantalla."
+        "Alienware ha lanzado oficialmente el AW3926QW, el primer monitor OLED de 39 pulgadas y 5K del mundo con tecnología RGB Stripe Tandem. Esta nueva pantalla combina una resolución ultra alta con paneles OLED avanzados para ofrecer colores vibrantes y negros profundos, junto con una franja de iluminación RGB única para mejorar la estética.",
+        "El monitor está dirigido tanto a jugadores como a profesionales, ofreciendo una resolución de 5120x2160 y una tasa de refresco de 175Hz. La tecnología OLED proporciona un contraste y precisión de color superiores en comparación con los LCD tradicionales, haciéndolo adecuado para trabajos creativos y experiencias de juego inmersivas.",
+        "Este lanzamiento es relevante porque impulsa los límites de la tecnología en monitores para juegos, ofreciendo un panel OLED grande y de alta resolución con tasas de refresco rápidas. Establece un nuevo estándar para pantallas que cumplen funciones duales en juegos y productividad, lo que podría influir en futuros desarrollos de hardware."
       ],
       "source_url": "https://www.ign.com/articles/alienware-aw3926qw-39-5k-oled-gaming-monitor-is-now-available",
       "source_name": "IGN"
     },
     {
-      "slug": "samsung-odyssey-g9-57-inch-dual-4k-gaming-monitor-price-drop",
-      "category": "Hardware",
-      "title_en": "Samsung's Absolutely Massive 57\" Dual 4K Gaming Monitor Drops to the Lowest Price I've Ever Seen",
-      "title_es": "El Enorme Monitor de Juegos Dual 4K de 57\" de Samsung Baja a su Precio Más Bajo",
-      "dek_en": "Samsung's 57-inch dual 4K Odyssey gaming monitor has reached its lowest price to date, making high-end ultrawide gaming displays more accessible.",
-      "dek_es": "El monitor de juegos Odyssey de 57 pulgadas y doble 4K de Samsung ha alcanzado su precio más bajo hasta la fecha, haciendo que las pantallas ultrapanorámicas de alta gama sean más accesibles.",
-      "body_en": [
-        "Samsung's Odyssey 57-inch dual 4K gaming monitor has dropped to its lowest price ever, according to recent reports. This ultrawide display features two 4K panels combined into a single expansive screen designed for immersive gaming experiences.",
-        "The Odyssey G9 series is known for its large curved screens and high refresh rates, catering to gamers seeking wide fields of view and detailed visuals. The 57-inch model pushes these features further with dual 4K resolution.",
-        "This price reduction may influence consumer decisions in the premium monitor market, providing an opportunity for gamers and professionals to acquire a top-tier ultrawide display at a more affordable cost. It also reflects pricing trends in high-end gaming hardware."
-      ],
-      "body_es": [
-        "El monitor de juegos Odyssey de 57 pulgadas y doble 4K de Samsung ha bajado a su precio más bajo hasta la fecha, según informes recientes. Esta pantalla ultrapanorámica cuenta con dos paneles 4K combinados en una sola pantalla expansiva diseñada para experiencias de juego inmersivas.",
-        "La serie Odyssey G9 es conocida por sus grandes pantallas curvas y altas tasas de refresco, dirigida a jugadores que buscan amplios campos de visión y visuales detallados. El modelo de 57 pulgadas lleva estas características aún más lejos con resolución dual 4K.",
-        "Esta reducción de precio puede influir en las decisiones de los consumidores en el mercado de monitores premium, ofreciendo una oportunidad para que jugadores y profesionales adquieran una pantalla ultrapanorámica de alta gama a un costo más accesible. También refleja tendencias de precios en hardware de juegos de alta gama."
-      ],
-      "source_url": "https://www.ign.com/articles/samsung-odyssey-g9-gaming-monitor-deal-august-2026",
-      "source_name": "IGN"
-    },
-    {
-      "slug": "microsoft-xbox-cloud-gaming-monthly-hour-limits",
+      "slug": "hideki-kamiya-ready-to-make-scalebound-with-xbox-ceo",
       "category": "Industry",
-      "title_en": "Microsoft Announces Big Changes to Xbox Cloud Gaming, Switches to Monthly Hour Limits",
-      "title_es": "Microsoft Anuncia Grandes Cambios en Xbox Cloud Gaming, Cambia a Límites Mensuales de Horas",
-      "dek_en": "Microsoft has introduced a new monthly hour limit system for Xbox Cloud Gaming, replacing previous usage policies.",
-      "dek_es": "Microsoft ha introducido un nuevo sistema de límite mensual de horas para Xbox Cloud Gaming, reemplazando las políticas de uso anteriores.",
+      "title_en": "Hideki Kamiya Tells Xbox CEO He's Ready to Make Scalebound When She Is",
+      "title_es": "Hideki Kamiya le dice a la CEO de Xbox que está listo para hacer Scalebound cuando ella lo esté",
+      "dek_en": "Bayonetta creator Hideki Kamiya has expressed his readiness to develop Scalebound if Xbox CEO Asha Sharma decides to proceed with the project.",
+      "dek_es": "El creador de Bayonetta, Hideki Kamiya, ha expresado su disposición para desarrollar Scalebound si la CEO de Xbox, Asha Sharma, decide continuar con el proyecto.",
       "body_en": [
-        "Microsoft announced significant changes to its Xbox Cloud Gaming service, implementing monthly hour limits for users. This new policy replaces the previous model that allowed more flexible usage without strict caps. The update aims to better manage server resources and user demand.",
-        "Xbox Cloud Gaming, part of Xbox Game Pass Ultimate, allows players to stream games on various devices without needing a console. The service has grown rapidly, prompting Microsoft to adjust its infrastructure and usage policies to maintain performance and accessibility.",
-        "The introduction of monthly hour limits directly affects how players plan their gaming sessions on the cloud platform. It also signals Microsoft's approach to balancing service availability with operational costs, impacting the broader cloud gaming market."
+        "Hideki Kamiya, known for creating Bayonetta, has publicly stated he is ready to develop Scalebound whenever Xbox CEO Asha Sharma is prepared to greenlight the project. This message was delivered directly to Sharma, indicating ongoing interest in reviving the canceled action RPG.",
+        "Scalebound was originally announced by PlatinumGames and Microsoft but was canceled in 2017. The game had generated significant anticipation due to its unique gameplay and Kamiya’s involvement. Its revival would mark a notable return for the franchise and the developer.",
+        "This matters to players and the industry as it signals potential renewed collaboration between PlatinumGames and Xbox. The project’s revival could impact Xbox’s exclusive lineup and influence future action RPG offerings on the platform."
       ],
       "body_es": [
-        "Microsoft anunció cambios significativos en su servicio Xbox Cloud Gaming, implementando límites mensuales de horas para los usuarios. Esta nueva política reemplaza el modelo anterior que permitía un uso más flexible sin límites estrictos. La actualización busca gestionar mejor los recursos del servidor y la demanda de usuarios.",
-        "Xbox Cloud Gaming, parte de Xbox Game Pass Ultimate, permite a los jugadores transmitir juegos en varios dispositivos sin necesidad de una consola. El servicio ha crecido rápidamente, lo que llevó a Microsoft a ajustar su infraestructura y políticas de uso para mantener el rendimiento y la accesibilidad.",
-        "La introducción de límites mensuales de horas afecta directamente cómo los jugadores planifican sus sesiones de juego en la plataforma en la nube. También señala el enfoque de Microsoft para equilibrar la disponibilidad del servicio con los costos operativos, impactando el mercado más amplio de juegos en la nube."
+        "Hideki Kamiya, conocido por crear Bayonetta, declaró públicamente que está listo para desarrollar Scalebound cuando la CEO de Xbox, Asha Sharma, esté preparada para aprobar el proyecto. Este mensaje fue dirigido directamente a Sharma, mostrando interés continuo en revivir el RPG de acción cancelado.",
+        "Scalebound fue anunciado originalmente por PlatinumGames y Microsoft, pero fue cancelado en 2017. El juego generó gran expectación debido a su jugabilidad única y la participación de Kamiya. Su resurgimiento marcaría un regreso notable para la franquicia y el desarrollador.",
+        "Esto es relevante para jugadores e industria porque indica una posible colaboración renovada entre PlatinumGames y Xbox. La reactivación del proyecto podría afectar la línea de exclusivos de Xbox e influir en futuras ofertas de RPGs de acción en la plataforma."
       ],
-      "source_url": "https://www.ign.com/articles/microsoft-announces-big-changes-to-xbox-cloud-gaming-switches-to-monthly-hour-limits",
+      "source_url": "https://www.ign.com/articles/hideki-kamiya-tells-xbox-ceo-hes-ready-to-make-scalebound-when-she-is",
       "source_name": "IGN"
     },
     {
-      "slug": "sonic-shooting-enemies-in-fortnite-loophole",
+      "slug": "nintendo-announces-two-directs-including-zelda-40th-anniversary",
+      "category": "Console",
+      "title_en": "Nintendo Confirms 2 Nintendo Direct Broadcasts for Next Week, Including a Dedicated Legend of Zelda 40th Anniversary Broadcast",
+      "title_es": "Nintendo confirma 2 Nintendo Direct para la próxima semana, incluyendo una dedicada al 40º aniversario de Zelda",
+      "dek_en": "Nintendo has announced two Nintendo Direct presentations scheduled for next week, one of which will focus exclusively on the 40th anniversary of The Legend of Zelda.",
+      "dek_es": "Nintendo ha anunciado dos presentaciones Nintendo Direct para la próxima semana, una de las cuales estará dedicada exclusivamente al 40º aniversario de The Legend of Zelda.",
+      "body_en": [
+        "Nintendo confirmed it will hold two Nintendo Direct broadcasts next week. One presentation will be a general update covering various upcoming titles, while the other will be a dedicated showcase celebrating the 40th anniversary of The Legend of Zelda franchise.",
+        "The Legend of Zelda series, first released in 1986, is one of Nintendo’s most iconic and long-running franchises. The anniversary broadcast is expected to highlight new content, remasters, or special events tied to the milestone.",
+        "These broadcasts provide players with official updates and announcements directly from Nintendo. The dedicated Zelda showcase is particularly significant for fans anticipating new developments or celebrations related to the franchise’s four decades of history."
+      ],
+      "body_es": [
+        "Nintendo confirmó que realizará dos presentaciones Nintendo Direct la próxima semana. Una será una actualización general que cubrirá varios títulos próximos, mientras que la otra será una presentación dedicada a celebrar el 40º aniversario de la franquicia The Legend of Zelda.",
+        "La serie The Legend of Zelda, lanzada por primera vez en 1986, es una de las franquicias más icónicas y longevas de Nintendo. Se espera que la transmisión del aniversario destaque nuevo contenido, remasterizaciones o eventos especiales relacionados con este hito.",
+        "Estas presentaciones ofrecen a los jugadores actualizaciones y anuncios oficiales directamente de Nintendo. La transmisión dedicada a Zelda es especialmente relevante para los fans que esperan novedades o celebraciones relacionadas con los cuarenta años de historia de la franquicia."
+      ],
+      "source_url": "https://www.ign.com/articles/nintendo-confirms-2-nintendo-direct-broadcasts-for-next-week-including-a-dedicated-legend-of-zelda-40th-anniversary-broadcast",
+      "source_name": "IGN"
+    },
+    {
+      "slug": "exodus-romance-options-are-not-gender-locked",
+      "category": "PC",
+      "title_en": "Exodus Romance Options Are Not Gender-Locked for Both Male and Female Leads",
+      "title_es": "Las opciones de romance en Exodus no están bloqueadas por género para protagonistas masculinos y femeninos",
+      "dek_en": "The upcoming sci-fi RPG Exodus will allow players to pursue romance options regardless of their protagonist’s gender, offering inclusive relationship mechanics.",
+      "dek_es": "El próximo RPG de ciencia ficción Exodus permitirá a los jugadores elegir opciones de romance sin importar el género de su protagonista, ofreciendo mecánicas de relación inclusivas.",
+      "body_en": [
+        "Exodus, a forthcoming Mass Effect-style sci-fi RPG, has confirmed that romance options will not be restricted by the gender of the player’s character. Both male and female protagonists can engage with all available romance options, providing players with greater freedom in relationships.",
+        "This approach aligns with recent trends in RPG design that emphasize inclusivity and player choice. Games like Mass Effect and Cyberpunk 2077 have expanded romance mechanics to accommodate diverse player preferences.",
+        "For players, this means a more personalized narrative experience where relationship choices are not limited by gender. It reflects broader industry efforts to create more inclusive storytelling and character interactions in role-playing games."
+      ],
+      "body_es": [
+        "Exodus, un próximo RPG de ciencia ficción al estilo Mass Effect, ha confirmado que las opciones de romance no estarán restringidas por el género del personaje del jugador. Tanto protagonistas masculinos como femeninos podrán acceder a todas las opciones de romance disponibles, ofreciendo mayor libertad en las relaciones.",
+        "Este enfoque se alinea con las tendencias recientes en el diseño de RPG que enfatizan la inclusión y la elección del jugador. Juegos como Mass Effect y Cyberpunk 2077 han ampliado las mecánicas de romance para acomodar diversas preferencias de los jugadores.",
+        "Para los jugadores, esto significa una experiencia narrativa más personalizada donde las elecciones románticas no están limitadas por el género. Refleja esfuerzos más amplios de la industria para crear narrativas e interacciones de personajes más inclusivas en los juegos de rol."
+      ],
+      "source_url": "https://www.ign.com/articles/exodus-romance-options-are-not-gender-locked-for-both-male-and-female-leads",
+      "source_name": "IGN"
+    },
+    {
+      "slug": "onimusha-way-of-the-sword-shows-capcom-winning-streak",
+      "category": "Console",
+      "title_en": "Onimusha Shows Why Capcom Is on a Winning Streak",
+      "title_es": "Onimusha demuestra por qué Capcom está en una racha ganadora",
+      "dek_en": "Onimusha: Way of the Sword combines classic series elements with modern design, continuing Capcom’s recent success in revitalizing its franchises.",
+      "dek_es": "Onimusha: Way of the Sword combina elementos clásicos de la serie con diseño moderno, continuando el éxito reciente de Capcom en revitalizar sus franquicias.",
+      "body_en": [
+        "Onimusha: Way of the Sword has been praised for blending the best aspects of the original series with contemporary game design. This approach follows Capcom’s pattern seen in titles like Resident Evil 7 and Monster Hunter: World, which successfully modernized their respective franchises.",
+        "Capcom has been on a winning streak by balancing nostalgia with innovation, appealing to both longtime fans and new players. Onimusha’s latest installment continues this trend by updating gameplay mechanics while retaining the series’ core identity.",
+        "This matters because it reinforces Capcom’s strategy of revitalizing legacy IPs through thoughtful modernization. It impacts the market by setting a standard for how established franchises can evolve without alienating their fanbase."
+      ],
+      "body_es": [
+        "Onimusha: Way of the Sword ha sido elogiado por combinar los mejores aspectos de la serie original con un diseño de juego contemporáneo. Este enfoque sigue el patrón de Capcom visto en títulos como Resident Evil 7 y Monster Hunter: World, que modernizaron con éxito sus franquicias respectivas.",
+        "Capcom ha estado en una racha ganadora al equilibrar la nostalgia con la innovación, atrayendo tanto a fans de larga data como a nuevos jugadores. La última entrega de Onimusha continúa esta tendencia al actualizar las mecánicas de juego sin perder la identidad central de la serie.",
+        "Esto es importante porque refuerza la estrategia de Capcom de revitalizar sus IPs clásicas mediante una modernización cuidadosa. Impacta el mercado al establecer un estándar sobre cómo las franquicias consolidadas pueden evolucionar sin alienar a su base de fans."
+      ],
+      "source_url": "https://www.ign.com/articles/onimusha-shows-why-capcom-is-on-a-winning-streak",
+      "source_name": "IGN"
+    },
+    {
+      "slug": "criminal-showrunner-ed-brubaker-sued-for-hostile-work-environment",
       "category": "Industry",
-      "title_en": "Sonic Creative Officer Takashi Iizuka Explains How Sega Found a Loophole to Let Sonic Shoot Enemies in Fortnite",
-      "title_es": "El Director Creativo de Sonic, Takashi Iizuka, Explica Cómo Sega Encontró una Laguna para Permitir que Sonic Dispare en Fortnite",
-      "dek_en": "Takashi Iizuka detailed the unique challenge Sega faced enabling Sonic to shoot enemies in Fortnite, revealing a creative workaround.",
-      "dek_es": "Takashi Iizuka detalló el desafío único que enfrentó Sega para permitir que Sonic disparara a enemigos en Fortnite, revelando una solución creativa.",
+      "title_en": "Criminal Showrunner and Winter Soldier Co-Creator Ed Brubaker Sued by Production Assistant",
+      "title_es": "El showrunner de Criminal y co-creador de Winter Soldier Ed Brubaker es demandado por asistente de producción",
+      "dek_en": "Ed Brubaker, showrunner of Prime Video’s Criminal series and co-creator of Winter Soldier, faces a lawsuit alleging a hostile work environment from a former production assistant.",
+      "dek_es": "Ed Brubaker, showrunner de la serie Criminal de Prime Video y co-creador de Winter Soldier, enfrenta una demanda que alega un ambiente laboral hostil por parte de una ex asistente de producción.",
       "body_en": [
-        "Takashi Iizuka, Sonic's Creative Officer at Sega, explained how the company navigated restrictions to allow Sonic to shoot enemies in Fortnite. Sega found a loophole that enabled this gameplay feature while maintaining Sonic's character integrity.",
-        "Sonic's inclusion in Fortnite marked a notable crossover, blending Sega's iconic character with Epic Games' battle royale mechanics. The shooting mechanic was unusual for Sonic, requiring careful adaptation to fit both franchises.",
-        "This insight clarifies the complexities of character licensing and gameplay integration in crossovers. It informs players about the behind-the-scenes efforts to preserve character identity while expanding gameplay possibilities in popular titles."
+        "Ed Brubaker, known for his work on the Criminal series and as co-creator of Winter Soldier, has been sued by a former production assistant alleging he fostered a hostile work environment during the production of the Prime Video show. The lawsuit details specific claims of mistreatment.",
+        "Brubaker’s involvement in both comics and television has been significant, with Criminal being a notable crime drama adaptation. The allegations raise concerns about workplace culture in high-profile productions within the entertainment and gaming-related media industries.",
+        "This development is important as it highlights ongoing issues of workplace conduct in creative industries. It may influence how production companies manage on-set environments and address employee grievances going forward."
       ],
       "body_es": [
-        "Takashi Iizuka, director creativo de Sonic en Sega, explicó cómo la compañía navegó restricciones para permitir que Sonic disparara a enemigos en Fortnite. Sega encontró una laguna que habilitó esta función de juego manteniendo la integridad del personaje de Sonic.",
-        "La inclusión de Sonic en Fortnite marcó un cruce notable, combinando el icónico personaje de Sega con la mecánica de battle royale de Epic Games. La mecánica de disparo fue inusual para Sonic, requiriendo una adaptación cuidadosa para encajar en ambas franquicias.",
-        "Esta explicación aclara las complejidades de la licencia de personajes y la integración de jugabilidad en cruces. Informa a los jugadores sobre los esfuerzos detrás de escena para preservar la identidad del personaje mientras se amplían las posibilidades de juego en títulos populares."
+        "Ed Brubaker, conocido por su trabajo en la serie Criminal y como co-creador de Winter Soldier, ha sido demandado por una ex asistente de producción que alega que fomentó un ambiente laboral hostil durante la producción del programa de Prime Video. La demanda detalla reclamaciones específicas de maltrato.",
+        "La participación de Brubaker en cómics y televisión ha sido significativa, siendo Criminal una adaptación destacada de drama criminal. Las acusaciones generan preocupación sobre la cultura laboral en producciones de alto perfil dentro de las industrias de entretenimiento y medios relacionados con videojuegos.",
+        "Este desarrollo es importante porque pone de manifiesto problemas persistentes en la conducta laboral en industrias creativas. Podría influir en cómo las compañías productoras gestionan los ambientes de trabajo y abordan las quejas de empleados en el futuro."
       ],
-      "source_url": "https://www.ign.com/articles/sonic-creative-officer-takashi-iizuka-explains-how-sega-found-a-loophole-to-let-sonic-shoot-enemies-in-fortnite",
-      "source_name": "IGN"
-    },
-    {
-      "slug": "rockstar-devs-thought-gta-online-would-flop",
-      "category": "Industry",
-      "title_en": "'We Were All Positive It Was Going to Fail': Rockstar Devs Thought GTA Online Would Flop",
-      "title_es": "‘Estábamos Seguros de que Iba a Fracasar’: Desarrolladores de Rockstar Pensaban que GTA Online Fracasaría",
-      "dek_en": "A former Rockstar developer revealed the team initially believed GTA Online would fail before its launch.",
-      "dek_es": "Un exdesarrollador de Rockstar reveló que el equipo inicialmente creía que GTA Online fracasaría antes de su lanzamiento.",
-      "body_en": [
-        "A former developer at Rockstar Games disclosed that the team was largely convinced GTA Online would fail prior to its release. Despite this, the game launched and eventually became a major success.",
-        "GTA Online expanded the Grand Theft Auto franchise into a persistent online multiplayer experience, evolving over years with continuous updates and a large player base. Its success was unexpected internally.",
-        "This revelation offers insight into the unpredictability of game reception and development outcomes. It highlights how initial skepticism within studios does not necessarily predict commercial or critical success."
-      ],
-      "body_es": [
-        "Un exdesarrollador de Rockstar Games reveló que el equipo estaba mayormente convencido de que GTA Online fracasaría antes de su lanzamiento. A pesar de esto, el juego se lanzó y eventualmente se convirtió en un gran éxito.",
-        "GTA Online amplió la franquicia Grand Theft Auto hacia una experiencia multijugador persistente en línea, evolucionando durante años con actualizaciones continuas y una gran base de jugadores. Su éxito fue inesperado internamente.",
-        "Esta revelación ofrece una visión sobre la imprevisibilidad de la recepción de juegos y los resultados del desarrollo. Destaca cómo el escepticismo inicial dentro de los estudios no predice necesariamente el éxito comercial o crítico."
-      ],
-      "source_url": "https://www.ign.com/articles/we-were-all-positive-it-was-going-to-fail-rockstar-devs-thought-gta-online-would-flop",
-      "source_name": "IGN"
-    },
-    {
-      "slug": "fallout-pinball-tables-announced-by-stern-pinball",
-      "category": "Industry",
-      "title_en": "Fallout Pinball Tables Announced by Stern Pinball",
-      "title_es": "Stern Pinball Anuncia Mesas de Pinball de Fallout",
-      "dek_en": "Stern Pinball announced new Fallout-themed pinball tables, including Pro, Premium, and Limited Editions with high price points and limited availability.",
-      "dek_es": "Stern Pinball anunció nuevas mesas de pinball temáticas de Fallout, incluyendo ediciones Pro, Premium y Limitada con precios elevados y disponibilidad limitada.",
-      "body_en": [
-        "Stern Pinball revealed new Fallout pinball tables available in Pro, Premium, and Limited Editions. The Limited Edition is capped at 770 units worldwide, referencing Fallout's Great War of 2077. Prices range from $7,299 to $13,999.",
-        "These pinball tables tie into the popular Bethesda RPG and its Prime Video adaptation, blending gaming culture with physical arcade entertainment. The Limited Edition's scarcity targets collectors and enthusiasts.",
-        "The launch expands Fallout's brand into new merchandise categories, offering fans a tangible gaming experience outside digital formats. It also reflects the crossover potential between video games and traditional arcade hardware markets."
-      ],
-      "body_es": [
-        "Stern Pinball reveló nuevas mesas de pinball temáticas de Fallout disponibles en ediciones Pro, Premium y Limitada. La Edición Limitada está limitada a 770 unidades en todo el mundo, haciendo referencia a la Gran Guerra de Fallout de 2077. Los precios oscilan entre $7,299 y $13,999.",
-        "Estas mesas de pinball se vinculan con el popular RPG de Bethesda y su adaptación en Prime Video, combinando la cultura de los videojuegos con el entretenimiento arcade físico. La escasez de la Edición Limitada apunta a coleccionistas y entusiastas.",
-        "El lanzamiento expande la marca Fallout hacia nuevas categorías de productos, ofreciendo a los fans una experiencia tangible de juego fuera de los formatos digitales. También refleja el potencial de cruce entre videojuegos y hardware arcade tradicional."
-      ],
-      "source_url": "https://www.ign.com/articles/fallout-pinball-tables-announced-by-stern-pinball",
-      "source_name": "IGN"
-    },
-    {
-      "slug": "crunchyroll-game-vault-crosses-100-games",
-      "category": "Mobile",
-      "title_en": "Crunchyroll Game Vault Officially Crosses Over 100 Games With 3 New Additions",
-      "title_es": "Crunchyroll Game Vault Supera Oficialmente los 100 Juegos con 3 Nuevas Incorporaciones",
-      "dek_en": "Crunchyroll Game Vault has surpassed 100 games in its library following the addition of three new anime-inspired titles.",
-      "dek_es": "Crunchyroll Game Vault ha superado los 100 juegos en su biblioteca tras la incorporación de tres nuevos títulos inspirados en anime.",
-      "body_en": [
-        "Crunchyroll Game Vault announced it has officially crossed the milestone of 100 games with the addition of three new anime-inspired titles. This expansion continues the platform's focus on anime-themed mobile gaming.",
-        "The Game Vault service offers a curated selection of games tied to popular anime franchises, targeting fans of the genre with accessible mobile experiences. The new titles further diversify its catalog.",
-        "Reaching over 100 games marks a significant growth point for Crunchyroll's gaming initiative, indicating sustained investment in mobile anime gaming. It provides players with a broad range of options within a specialized niche."
-      ],
-      "body_es": [
-        "Crunchyroll Game Vault anunció que ha superado oficialmente el hito de 100 juegos con la incorporación de tres nuevos títulos inspirados en anime. Esta expansión continúa el enfoque de la plataforma en juegos móviles temáticos de anime.",
-        "El servicio Game Vault ofrece una selección curada de juegos vinculados a franquicias populares de anime, dirigido a fanáticos del género con experiencias móviles accesibles. Los nuevos títulos diversifican aún más su catálogo.",
-        "Superar los 100 juegos marca un punto de crecimiento significativo para la iniciativa de juegos de Crunchyroll, indicando una inversión sostenida en juegos móviles de anime. Proporciona a los jugadores una amplia gama de opciones dentro de un nicho especializado."
-      ],
-      "source_url": "https://www.ign.com/articles/crunchyroll-game-vault-officially-crosses-over-100-games",
+      "source_url": "https://www.ign.com/articles/criminal-showrunner-and-winter-soldier-co-creator-ed-brubaker-sued-by-production-assistant",
       "source_name": "IGN"
     }
   ]
