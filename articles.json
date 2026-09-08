@@ -1,124 +1,164 @@
 {
-  "generatedAt": "2026-09-04T17:32:01.928Z",
+  "generatedAt": "2026-09-08T17:52:05.656Z",
   "articles": [
     {
-      "slug": "alienware-launches-39-inch-5k-oled-gaming-monitor",
+      "slug": "lego-biggest-book-nook-set-october-2026",
+      "category": "Console",
+      "title_en": "LEGO Reveals Its Biggest Book Nook Set So Far and It's Not Connected to Any Major Franchises",
+      "title_es": "LEGO Revela Su Set de Book Nook Más Grande Hasta Ahora y No Está Conectado a Ninguna Franquicia Principal",
+      "dek_en": "LEGO has announced its largest Book Nook set to date, scheduled for release in October 2026, featuring an original design unlinked to existing franchises.",
+      "dek_es": "LEGO ha anunciado su set de Book Nook más grande hasta la fecha, programado para octubre de 2026, con un diseño original no vinculado a franquicias existentes.",
+      "body_en": [
+        "LEGO has revealed its biggest Book Nook set yet, set for release in October 2026. Unlike previous sets tied to popular franchises, this new Book Nook features an original bookstore design, marking a departure from LEGO's usual licensed themes.",
+        "The Book Nook series by LEGO has gained attention for its detailed diorama-style builds that fit between books on a shelf. This new set expands the line with a larger, standalone model that emphasizes creativity over franchise branding.",
+        "This release broadens LEGO's appeal to collectors and builders interested in unique, non-licensed content. It also reflects LEGO's strategy to diversify its product offerings beyond established intellectual properties."
+      ],
+      "body_es": [
+        "LEGO ha revelado su set de Book Nook más grande hasta ahora, con lanzamiento previsto para octubre de 2026. A diferencia de los sets anteriores vinculados a franquicias populares, este nuevo Book Nook presenta un diseño original de librería, marcando una desviación de los temas licenciados habituales de LEGO.",
+        "La serie Book Nook de LEGO ha llamado la atención por sus construcciones detalladas en estilo diorama que encajan entre libros en una estantería. Este nuevo set amplía la línea con un modelo más grande y autónomo que enfatiza la creatividad sobre la marca de franquicias.",
+        "Este lanzamiento amplía el atractivo de LEGO para coleccionistas y constructores interesados en contenido único y no licenciado. También refleja la estrategia de LEGO de diversificar su oferta de productos más allá de las propiedades intelectuales establecidas."
+      ],
+      "source_url": "https://www.ign.com/articles/lego-reveals-its-bookstore-book-nook-set-for-october-2026",
+      "source_name": "IGN"
+    },
+    {
+      "slug": "south-park-season-29-name-change-trolls-trump-google-apple",
+      "category": "Console",
+      "title_en": "South Park Trolls Trump, Google, and Apple With Official Season 29 Name Change",
+      "title_es": "South Park Se Burla de Trump, Google y Apple con Cambio Oficial de Nombre en la Temporada 29",
+      "dek_en": "South Park has officially changed its name for Season 29 as creators Trey Parker and Matt Stone satirize Apple, Google, and former President Donald Trump.",
+      "dek_es": "South Park ha cambiado oficialmente su nombre para la Temporada 29 mientras los creadores Trey Parker y Matt Stone satirizan a Apple, Google y al expresidente Donald Trump.",
+      "body_en": [
+        "The creators of South Park, Trey Parker and Matt Stone, have officially renamed the show for its 29th season. This change serves as a satirical jab at tech giants Apple and Google, as well as former U.S. President Donald Trump.",
+        "South Park is known for its topical humor and social commentary. The name change continues this tradition by directly addressing current cultural and political figures through its branding for the new season.",
+        "This move demonstrates South Park's ongoing engagement with contemporary issues, maintaining its relevance in the entertainment landscape and reflecting the show's approach to satire through its official marketing."
+      ],
+      "body_es": [
+        "Los creadores de South Park, Trey Parker y Matt Stone, han cambiado oficialmente el nombre del programa para su temporada 29. Este cambio funciona como una sátira dirigida a los gigantes tecnológicos Apple y Google, así como al expresidente de EE.UU. Donald Trump.",
+        "South Park es conocido por su humor actual y comentario social. El cambio de nombre continúa esta tradición al abordar directamente figuras culturales y políticas actuales a través de su marca para la nueva temporada.",
+        "Esta acción demuestra el compromiso continuo de South Park con temas contemporáneos, manteniendo su relevancia en el panorama del entretenimiento y reflejando el enfoque satírico del programa mediante su marketing oficial."
+      ],
+      "source_url": "https://www.ign.com/articles/south-park-trolls-trump-google-and-apple-with-official-season-29-name-change",
+      "source_name": "IGN"
+    },
+    {
+      "slug": "godzilla-minus-zero-trailer-confirms-king-ghidorah",
+      "category": "Console",
+      "title_en": "Godzilla Minus Zero Trailer Confirms King Ghidorah",
+      "title_es": "El Tráiler de Godzilla Minus Zero Confirma a King Ghidorah",
+      "dek_en": "The first full trailer for Godzilla Minus Zero confirms the inclusion of King Ghidorah in the upcoming sequel.",
+      "dek_es": "El primer tráiler completo de Godzilla Minus Zero confirma la inclusión de King Ghidorah en la próxima secuela.",
+      "body_en": [
+        "The newly released full trailer for Godzilla Minus Zero confirms that King Ghidorah will appear in the sequel. This marks a significant addition to the monster roster for the upcoming title.",
+        "King Ghidorah is one of Godzilla's most iconic adversaries, known for its three-headed dragon design and formidable presence. Its inclusion signals a continuation of classic monster battles in the series.",
+        "For fans and the market, King Ghidorah's confirmation adds anticipation and establishes the sequel's direction, reinforcing the franchise's legacy of epic kaiju confrontations."
+      ],
+      "body_es": [
+        "El nuevo tráiler completo de Godzilla Minus Zero confirma que King Ghidorah aparecerá en la secuela. Esto representa una adición significativa al elenco de monstruos para el próximo título.",
+        "King Ghidorah es uno de los adversarios más icónicos de Godzilla, conocido por su diseño de dragón de tres cabezas y su presencia formidable. Su inclusión señala la continuación de batallas clásicas de monstruos en la serie.",
+        "Para los fans y el mercado, la confirmación de King Ghidorah genera expectativa y establece la dirección de la secuela, reforzando el legado de la franquicia en confrontaciones épicas de kaiju."
+      ],
+      "source_url": "https://www.ign.com/articles/godzilla-minus-zero-trailer-confirms-king-ghidorah",
+      "source_name": "IGN"
+    },
+    {
+      "slug": "zelda-notes-app-playable-ocarina-in-game-stats-ocarina-of-time-remake",
+      "category": "Console",
+      "title_en": "Zelda Notes App Will Add a Playable Ocarina, In-Game Stats, and More for Ocarina of Time Remake",
+      "title_es": "La App Zelda Notes Añadirá una Ocarina Jugable, Estadísticas en el Juego y Más para el Remake de Ocarina of Time",
+      "dek_en": "Nintendo's Zelda Notes app is expanding for the Ocarina of Time remake, introducing a playable Ocarina, in-game statistics, and additional features.",
+      "dek_es": "La app Zelda Notes de Nintendo se ampliará para el remake de Ocarina of Time, introduciendo una Ocarina jugable, estadísticas en el juego y funciones adicionales.",
+      "body_en": [
+        "Nintendo has announced that the Zelda Notes app will receive new features for the Ocarina of Time remake. These include a playable Ocarina, detailed in-game statistics, and other enhancements to complement the game.",
+        "The original Zelda Notes app serves as a companion tool for players, providing maps and information. The addition of a playable Ocarina integrates gameplay elements directly into the app, enhancing interactivity.",
+        "This update offers players a deeper engagement with the remake, providing tools that enrich the gaming experience and support exploration and mastery of the title's mechanics."
+      ],
+      "body_es": [
+        "Nintendo ha anunciado que la app Zelda Notes recibirá nuevas funciones para el remake de Ocarina of Time. Estas incluyen una Ocarina jugable, estadísticas detalladas en el juego y otras mejoras para complementar el título.",
+        "La app Zelda Notes original funciona como una herramienta complementaria para los jugadores, ofreciendo mapas e información. La incorporación de una Ocarina jugable integra elementos de juego directamente en la app, aumentando la interactividad.",
+        "Esta actualización ofrece a los jugadores un compromiso más profundo con el remake, proporcionando herramientas que enriquecen la experiencia y apoyan la exploración y dominio de las mecánicas del juego."
+      ],
+      "source_url": "https://www.ign.com/articles/zelda-notes-app-will-add-a-playable-ocarina-in-game-stats-and-more-for-ocarina-of-time-remake",
+      "source_name": "IGN"
+    },
+    {
+      "slug": "legend-of-zelda-ocarina-of-time-remake-release-date-confirmed",
+      "category": "Console",
+      "title_en": "The Legend of Zelda: Ocarina of Time Remake Release Date Confirmed, and It Seems Like a Faithful-Looking Return With a Few Surprises",
+      "title_es": "Fecha de Lanzamiento Confirmada para el Remake de The Legend of Zelda: Ocarina of Time, con un Regreso Fiel y Algunas Sorpresas",
+      "dek_en": "Nintendo has officially confirmed the release date for The Legend of Zelda: Ocarina of Time remake, showcasing a faithful recreation with some new elements.",
+      "dek_es": "Nintendo ha confirmado oficialmente la fecha de lanzamiento para el remake de The Legend of Zelda: Ocarina of Time, mostrando una recreación fiel con algunos elementos nuevos.",
+      "body_en": [
+        "Nintendo has announced the official release date for The Legend of Zelda: Ocarina of Time remake. The game aims to faithfully recreate the original while introducing new features and visual enhancements.",
+        "The original Ocarina of Time is widely regarded as a landmark title in gaming history. This remake seeks to preserve its core gameplay and story while updating it for modern platforms.",
+        "Confirming the release date allows players and retailers to prepare for the launch, marking a significant moment for fans anticipating a classic title's return with contemporary improvements."
+      ],
+      "body_es": [
+        "Nintendo ha anunciado la fecha oficial de lanzamiento para el remake de The Legend of Zelda: Ocarina of Time. El juego busca recrear fielmente el original mientras introduce nuevas funciones y mejoras visuales.",
+        "El Ocarina of Time original es considerado un título emblemático en la historia de los videojuegos. Este remake busca preservar su jugabilidad y narrativa centrales, actualizándolos para plataformas modernas.",
+        "Confirmar la fecha de lanzamiento permite a jugadores y minoristas prepararse para el estreno, marcando un momento significativo para los fans que esperan el regreso de un clásico con mejoras contemporáneas."
+      ],
+      "source_url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-fully-revealed",
+      "source_name": "IGN"
+    },
+    {
+      "slug": "legend-of-zelda-switch-2-special-edition-console-pro-controller",
       "category": "Hardware",
-      "title_en": "Alienware Just Released the World's First 39\" 5K Monitor With RGB Stripe Tandem OLED Technology",
-      "title_es": "Alienware acaba de lanzar el primer monitor 5K de 39\" con tecnología OLED RGB Stripe Tandem",
-      "dek_en": "Alienware has begun shipping its new 39-inch 5K OLED gaming monitor featuring RGB Stripe Tandem technology, designed for both gaming and productivity.",
-      "dek_es": "Alienware ha comenzado a enviar su nuevo monitor OLED de 39 pulgadas y 5K con tecnología RGB Stripe Tandem, diseñado para juegos y productividad.",
+      "title_en": "The Legend of Zelda Switch 2 Special Edition Console and Pro Controller Confirmed",
+      "title_es": "Confirmados la Consola Edición Especial y el Control Pro de The Legend of Zelda Switch 2",
+      "dek_en": "Nintendo has officially unveiled The Legend of Zelda 40th Anniversary Nintendo Switch 2 console and Pro Controller following prior leaks.",
+      "dek_es": "Nintendo ha revelado oficialmente la consola Nintendo Switch 2 edición 40º aniversario de The Legend of Zelda y el Control Pro tras filtraciones previas.",
       "body_en": [
-        "Alienware has officially released the AW3926QW, the world’s first 39-inch 5K OLED gaming monitor with RGB Stripe Tandem technology. This new display combines ultra-high resolution with advanced OLED panels to deliver vibrant colors and deep blacks, alongside a unique RGB lighting stripe for enhanced aesthetics.",
-        "The monitor targets both gamers and professionals, offering a 5120x2160 resolution and a 175Hz refresh rate. OLED technology provides superior contrast and color accuracy compared to traditional LCDs, making it suitable for creative work and immersive gaming experiences.",
-        "This release matters as it pushes the boundaries of gaming monitor technology, offering a large, high-resolution OLED panel with fast refresh rates. It sets a new standard for displays that serve dual purposes in gaming and workstation productivity, potentially influencing future hardware development."
+        "Nintendo has officially confirmed the release of The Legend of Zelda 40th Anniversary edition Nintendo Switch 2 console and matching Pro Controller. This announcement follows earlier product photo leaks.",
+        "The special edition console features unique Zelda-themed designs celebrating the franchise's four decades. It is part of Nintendo's broader 40th anniversary celebrations for the series.",
+        "This confirmation provides collectors and fans with official details on hardware options tied to the anniversary, supporting Nintendo's strategy of commemorating legacy titles through limited edition products."
       ],
       "body_es": [
-        "Alienware ha lanzado oficialmente el AW3926QW, el primer monitor OLED de 39 pulgadas y 5K del mundo con tecnología RGB Stripe Tandem. Esta nueva pantalla combina una resolución ultra alta con paneles OLED avanzados para ofrecer colores vibrantes y negros profundos, junto con una franja de iluminación RGB única para mejorar la estética.",
-        "El monitor está dirigido tanto a jugadores como a profesionales, ofreciendo una resolución de 5120x2160 y una tasa de refresco de 175Hz. La tecnología OLED proporciona un contraste y precisión de color superiores en comparación con los LCD tradicionales, haciéndolo adecuado para trabajos creativos y experiencias de juego inmersivas.",
-        "Este lanzamiento es relevante porque impulsa los límites de la tecnología en monitores para juegos, ofreciendo un panel OLED grande y de alta resolución con tasas de refresco rápidas. Establece un nuevo estándar para pantallas que cumplen funciones duales en juegos y productividad, lo que podría influir en futuros desarrollos de hardware."
+        "Nintendo ha confirmado oficialmente el lanzamiento de la consola Nintendo Switch 2 edición 40º aniversario de The Legend of Zelda y el Control Pro a juego. Este anuncio sigue a filtraciones previas de fotos del producto.",
+        "La consola de edición especial presenta diseños únicos con temática de Zelda que celebran las cuatro décadas de la franquicia. Forma parte de las celebraciones más amplias del 40º aniversario de la serie.",
+        "Esta confirmación ofrece a coleccionistas y fans detalles oficiales sobre opciones de hardware vinculadas al aniversario, apoyando la estrategia de Nintendo de conmemorar títulos emblemáticos mediante productos de edición limitada."
       ],
-      "source_url": "https://www.ign.com/articles/alienware-aw3926qw-39-5k-oled-gaming-monitor-is-now-available",
+      "source_url": "https://www.ign.com/articles/the-legend-of-zelda-switch-2-special-edition-console-and-pro-controller-confirmed",
       "source_name": "IGN"
     },
     {
-      "slug": "hideki-kamiya-ready-to-make-scalebound-with-xbox-ceo",
-      "category": "Industry",
-      "title_en": "Hideki Kamiya Tells Xbox CEO He's Ready to Make Scalebound When She Is",
-      "title_es": "Hideki Kamiya le dice a la CEO de Xbox que está listo para hacer Scalebound cuando ella lo esté",
-      "dek_en": "Bayonetta creator Hideki Kamiya has expressed his readiness to develop Scalebound if Xbox CEO Asha Sharma decides to proceed with the project.",
-      "dek_es": "El creador de Bayonetta, Hideki Kamiya, ha expresado su disposición para desarrollar Scalebound si la CEO de Xbox, Asha Sharma, decide continuar con el proyecto.",
-      "body_en": [
-        "Hideki Kamiya, known for creating Bayonetta, has publicly stated he is ready to develop Scalebound whenever Xbox CEO Asha Sharma is prepared to greenlight the project. This message was delivered directly to Sharma, indicating ongoing interest in reviving the canceled action RPG.",
-        "Scalebound was originally announced by PlatinumGames and Microsoft but was canceled in 2017. The game had generated significant anticipation due to its unique gameplay and Kamiya’s involvement. Its revival would mark a notable return for the franchise and the developer.",
-        "This matters to players and the industry as it signals potential renewed collaboration between PlatinumGames and Xbox. The project’s revival could impact Xbox’s exclusive lineup and influence future action RPG offerings on the platform."
-      ],
-      "body_es": [
-        "Hideki Kamiya, conocido por crear Bayonetta, declaró públicamente que está listo para desarrollar Scalebound cuando la CEO de Xbox, Asha Sharma, esté preparada para aprobar el proyecto. Este mensaje fue dirigido directamente a Sharma, mostrando interés continuo en revivir el RPG de acción cancelado.",
-        "Scalebound fue anunciado originalmente por PlatinumGames y Microsoft, pero fue cancelado en 2017. El juego generó gran expectación debido a su jugabilidad única y la participación de Kamiya. Su resurgimiento marcaría un regreso notable para la franquicia y el desarrollador.",
-        "Esto es relevante para jugadores e industria porque indica una posible colaboración renovada entre PlatinumGames y Xbox. La reactivación del proyecto podría afectar la línea de exclusivos de Xbox e influir en futuras ofertas de RPGs de acción en la plataforma."
-      ],
-      "source_url": "https://www.ign.com/articles/hideki-kamiya-tells-xbox-ceo-hes-ready-to-make-scalebound-when-she-is",
-      "source_name": "IGN"
-    },
-    {
-      "slug": "nintendo-announces-two-directs-including-zelda-40th-anniversary",
+      "slug": "nintendo-lego-link-epona-set-zelda-40th-anniversary",
       "category": "Console",
-      "title_en": "Nintendo Confirms 2 Nintendo Direct Broadcasts for Next Week, Including a Dedicated Legend of Zelda 40th Anniversary Broadcast",
-      "title_es": "Nintendo confirma 2 Nintendo Direct para la próxima semana, incluyendo una dedicada al 40º aniversario de Zelda",
-      "dek_en": "Nintendo has announced two Nintendo Direct presentations scheduled for next week, one of which will focus exclusively on the 40th anniversary of The Legend of Zelda.",
-      "dek_es": "Nintendo ha anunciado dos presentaciones Nintendo Direct para la próxima semana, una de las cuales estará dedicada exclusivamente al 40º aniversario de The Legend of Zelda.",
+      "title_en": "Nintendo Reveals Lego Link & Epona Set for The Legend of Zelda 40th Anniversary",
+      "title_es": "Nintendo Revela el Set Lego de Link y Epona para el 40º Aniversario de The Legend of Zelda",
+      "dek_en": "Nintendo has announced a new Lego set featuring Link and Epona to celebrate The Legend of Zelda's 40th anniversary.",
+      "dek_es": "Nintendo ha anunciado un nuevo set de Lego con Link y Epona para celebrar el 40º aniversario de The Legend of Zelda.",
       "body_en": [
-        "Nintendo confirmed it will hold two Nintendo Direct broadcasts next week. One presentation will be a general update covering various upcoming titles, while the other will be a dedicated showcase celebrating the 40th anniversary of The Legend of Zelda franchise.",
-        "The Legend of Zelda series, first released in 1986, is one of Nintendo’s most iconic and long-running franchises. The anniversary broadcast is expected to highlight new content, remasters, or special events tied to the milestone.",
-        "These broadcasts provide players with official updates and announcements directly from Nintendo. The dedicated Zelda showcase is particularly significant for fans anticipating new developments or celebrations related to the franchise’s four decades of history."
+        "Nintendo has revealed a Lego set themed around Link and Epona as part of The Legend of Zelda's 40th anniversary celebrations. The set captures iconic elements from the series.",
+        "This Lego collaboration adds to the growing trend of video game franchises partnering with Lego to create collectible and buildable merchandise that appeals to fans.",
+        "The release expands merchandising options for Zelda fans and collectors, providing a tangible way to celebrate the franchise's milestone through a popular building toy brand."
       ],
       "body_es": [
-        "Nintendo confirmó que realizará dos presentaciones Nintendo Direct la próxima semana. Una será una actualización general que cubrirá varios títulos próximos, mientras que la otra será una presentación dedicada a celebrar el 40º aniversario de la franquicia The Legend of Zelda.",
-        "La serie The Legend of Zelda, lanzada por primera vez en 1986, es una de las franquicias más icónicas y longevas de Nintendo. Se espera que la transmisión del aniversario destaque nuevo contenido, remasterizaciones o eventos especiales relacionados con este hito.",
-        "Estas presentaciones ofrecen a los jugadores actualizaciones y anuncios oficiales directamente de Nintendo. La transmisión dedicada a Zelda es especialmente relevante para los fans que esperan novedades o celebraciones relacionadas con los cuarenta años de historia de la franquicia."
+        "Nintendo ha revelado un set de Lego con temática de Link y Epona como parte de las celebraciones del 40º aniversario de The Legend of Zelda. El set captura elementos icónicos de la serie.",
+        "Esta colaboración con Lego se suma a la tendencia creciente de franquicias de videojuegos que se asocian con Lego para crear productos coleccionables y construibles que atraen a los fans.",
+        "El lanzamiento amplía las opciones de merchandising para fans y coleccionistas de Zelda, ofreciendo una forma tangible de celebrar el hito de la franquicia mediante una popular marca de juguetes de construcción."
       ],
-      "source_url": "https://www.ign.com/articles/nintendo-confirms-2-nintendo-direct-broadcasts-for-next-week-including-a-dedicated-legend-of-zelda-40th-anniversary-broadcast",
+      "source_url": "https://www.ign.com/articles/nintendo-reveals-lego-link-epona-set-for-the-legend-of-zelda-40th-anniversary",
       "source_name": "IGN"
     },
     {
-      "slug": "exodus-romance-options-are-not-gender-locked",
-      "category": "PC",
-      "title_en": "Exodus Romance Options Are Not Gender-Locked for Both Male and Female Leads",
-      "title_es": "Las opciones de romance en Exodus no están bloqueadas por género para protagonistas masculinos y femeninos",
-      "dek_en": "The upcoming sci-fi RPG Exodus will allow players to pursue romance options regardless of their protagonist’s gender, offering inclusive relationship mechanics.",
-      "dek_es": "El próximo RPG de ciencia ficción Exodus permitirá a los jugadores elegir opciones de romance sin importar el género de su protagonista, ofreciendo mecánicas de relación inclusivas.",
-      "body_en": [
-        "Exodus, a forthcoming Mass Effect-style sci-fi RPG, has confirmed that romance options will not be restricted by the gender of the player’s character. Both male and female protagonists can engage with all available romance options, providing players with greater freedom in relationships.",
-        "This approach aligns with recent trends in RPG design that emphasize inclusivity and player choice. Games like Mass Effect and Cyberpunk 2077 have expanded romance mechanics to accommodate diverse player preferences.",
-        "For players, this means a more personalized narrative experience where relationship choices are not limited by gender. It reflects broader industry efforts to create more inclusive storytelling and character interactions in role-playing games."
-      ],
-      "body_es": [
-        "Exodus, un próximo RPG de ciencia ficción al estilo Mass Effect, ha confirmado que las opciones de romance no estarán restringidas por el género del personaje del jugador. Tanto protagonistas masculinos como femeninos podrán acceder a todas las opciones de romance disponibles, ofreciendo mayor libertad en las relaciones.",
-        "Este enfoque se alinea con las tendencias recientes en el diseño de RPG que enfatizan la inclusión y la elección del jugador. Juegos como Mass Effect y Cyberpunk 2077 han ampliado las mecánicas de romance para acomodar diversas preferencias de los jugadores.",
-        "Para los jugadores, esto significa una experiencia narrativa más personalizada donde las elecciones románticas no están limitadas por el género. Refleja esfuerzos más amplios de la industria para crear narrativas e interacciones de personajes más inclusivas en los juegos de rol."
-      ],
-      "source_url": "https://www.ign.com/articles/exodus-romance-options-are-not-gender-locked-for-both-male-and-female-leads",
-      "source_name": "IGN"
-    },
-    {
-      "slug": "onimusha-way-of-the-sword-shows-capcom-winning-streak",
+      "slug": "call-of-duty-2-beginning-end-halo-console-shooters",
       "category": "Console",
-      "title_en": "Onimusha Shows Why Capcom Is on a Winning Streak",
-      "title_es": "Onimusha demuestra por qué Capcom está en una racha ganadora",
-      "dek_en": "Onimusha: Way of the Sword combines classic series elements with modern design, continuing Capcom’s recent success in revitalizing its franchises.",
-      "dek_es": "Onimusha: Way of the Sword combina elementos clásicos de la serie con diseño moderno, continuando el éxito reciente de Capcom en revitalizar sus franquicias.",
+      "title_en": "Call of Duty 2 Signaled the Beginning of the End of Halo's Reign as the King of Console Shooters",
+      "title_es": "Call of Duty 2 Señaló el Comienzo del Fin del Reinado de Halo como Rey de los Shooters en Consola",
+      "dek_en": "Call of Duty 2's release on Xbox 360 marked a pivotal moment that challenged Halo's dominance in the console shooter genre.",
+      "dek_es": "El lanzamiento de Call of Duty 2 en Xbox 360 marcó un momento crucial que desafió el dominio de Halo en el género de shooters para consola.",
       "body_en": [
-        "Onimusha: Way of the Sword has been praised for blending the best aspects of the original series with contemporary game design. This approach follows Capcom’s pattern seen in titles like Resident Evil 7 and Monster Hunter: World, which successfully modernized their respective franchises.",
-        "Capcom has been on a winning streak by balancing nostalgia with innovation, appealing to both longtime fans and new players. Onimusha’s latest installment continues this trend by updating gameplay mechanics while retaining the series’ core identity.",
-        "This matters because it reinforces Capcom’s strategy of revitalizing legacy IPs through thoughtful modernization. It impacts the market by setting a standard for how established franchises can evolve without alienating their fanbase."
+        "Call of Duty 2 launched on Xbox 360 at a time when Halo was considered the leading console shooter. The game showcased the new console's capabilities and offered a compelling alternative to Halo's gameplay.",
+        "Halo had dominated the console shooter market since the original Xbox, but Call of Duty 2's arrival introduced a different style focused on realistic World War II combat and multiplayer features.",
+        "This shift indicated evolving player preferences and competition within the genre, influencing future shooter developments and market dynamics on consoles."
       ],
       "body_es": [
-        "Onimusha: Way of the Sword ha sido elogiado por combinar los mejores aspectos de la serie original con un diseño de juego contemporáneo. Este enfoque sigue el patrón de Capcom visto en títulos como Resident Evil 7 y Monster Hunter: World, que modernizaron con éxito sus franquicias respectivas.",
-        "Capcom ha estado en una racha ganadora al equilibrar la nostalgia con la innovación, atrayendo tanto a fans de larga data como a nuevos jugadores. La última entrega de Onimusha continúa esta tendencia al actualizar las mecánicas de juego sin perder la identidad central de la serie.",
-        "Esto es importante porque refuerza la estrategia de Capcom de revitalizar sus IPs clásicas mediante una modernización cuidadosa. Impacta el mercado al establecer un estándar sobre cómo las franquicias consolidadas pueden evolucionar sin alienar a su base de fans."
+        "Call of Duty 2 se lanzó en Xbox 360 en un momento en que Halo era considerado el shooter líder en consola. El juego mostró las capacidades de la nueva consola y ofreció una alternativa atractiva al estilo de juego de Halo.",
+        "Halo había dominado el mercado de shooters en consola desde la Xbox original, pero la llegada de Call of Duty 2 introdujo un estilo diferente centrado en el combate realista de la Segunda Guerra Mundial y funciones multijugador.",
+        "Este cambio indicó la evolución de las preferencias de los jugadores y la competencia dentro del género, influyendo en desarrollos futuros y en la dinámica del mercado en consolas."
       ],
-      "source_url": "https://www.ign.com/articles/onimusha-shows-why-capcom-is-on-a-winning-streak",
-      "source_name": "IGN"
-    },
-    {
-      "slug": "criminal-showrunner-ed-brubaker-sued-for-hostile-work-environment",
-      "category": "Industry",
-      "title_en": "Criminal Showrunner and Winter Soldier Co-Creator Ed Brubaker Sued by Production Assistant",
-      "title_es": "El showrunner de Criminal y co-creador de Winter Soldier Ed Brubaker es demandado por asistente de producción",
-      "dek_en": "Ed Brubaker, showrunner of Prime Video’s Criminal series and co-creator of Winter Soldier, faces a lawsuit alleging a hostile work environment from a former production assistant.",
-      "dek_es": "Ed Brubaker, showrunner de la serie Criminal de Prime Video y co-creador de Winter Soldier, enfrenta una demanda que alega un ambiente laboral hostil por parte de una ex asistente de producción.",
-      "body_en": [
-        "Ed Brubaker, known for his work on the Criminal series and as co-creator of Winter Soldier, has been sued by a former production assistant alleging he fostered a hostile work environment during the production of the Prime Video show. The lawsuit details specific claims of mistreatment.",
-        "Brubaker’s involvement in both comics and television has been significant, with Criminal being a notable crime drama adaptation. The allegations raise concerns about workplace culture in high-profile productions within the entertainment and gaming-related media industries.",
-        "This development is important as it highlights ongoing issues of workplace conduct in creative industries. It may influence how production companies manage on-set environments and address employee grievances going forward."
-      ],
-      "body_es": [
-        "Ed Brubaker, conocido por su trabajo en la serie Criminal y como co-creador de Winter Soldier, ha sido demandado por una ex asistente de producción que alega que fomentó un ambiente laboral hostil durante la producción del programa de Prime Video. La demanda detalla reclamaciones específicas de maltrato.",
-        "La participación de Brubaker en cómics y televisión ha sido significativa, siendo Criminal una adaptación destacada de drama criminal. Las acusaciones generan preocupación sobre la cultura laboral en producciones de alto perfil dentro de las industrias de entretenimiento y medios relacionados con videojuegos.",
-        "Este desarrollo es importante porque pone de manifiesto problemas persistentes en la conducta laboral en industrias creativas. Podría influir en cómo las compañías productoras gestionan los ambientes de trabajo y abordan las quejas de empleados en el futuro."
-      ],
-      "source_url": "https://www.ign.com/articles/criminal-showrunner-and-winter-soldier-co-creator-ed-brubaker-sued-by-production-assistant",
+      "source_url": "https://www.ign.com/articles/call-of-duty-2-signaled-the-beginning-of-the-end-of-halos-reign-as-the-king-of-console-shooters",
       "source_name": "IGN"
     }
   ]
