@@ -1,145 +1,205 @@
 {
-  "generatedAt": "2026-09-19T17:07:13.519Z",
+  "generatedAt": "2026-09-20T17:22:37.822Z",
   "articles": [
     {
-      "slug": "modders-extend-the-blood-of-dawnwalker-time-limit",
-      "category": "PC",
-      "title_en": "The Blood of Dawnwalker Modders Extend 30-Day Time Limit to Complete Quests",
-      "title_es": "Los Modders de The Blood of Dawnwalker Extienden el Límite de 30 Días para Completar Misiones",
-      "dek_en": "Modders have created modifications that extend The Blood of Dawnwalker's original 30-day time limit, allowing players more time to finish every questline.",
-      "dek_es": "Los modders han creado modificaciones que extienden el límite original de 30 días de The Blood of Dawnwalker, permitiendo a los jugadores más tiempo para completar todas las misiones.",
+      "slug": "no-cregger-cut-for-resident-evil",
+      "category": "Industry",
+      "title_en": "Zach Cregger Suggests There's No 'Cregger Cut' of Resident Evil as Fans Hope to See Trimmed Jokes",
+      "title_es": "Zach Cregger Sugiere que No Habrá 'Cregger Cut' de Resident Evil Mientras los Fans Esperan Ver los Chistes Recortados",
+      "dek_en": "Director Zach Cregger indicated that a 'Cregger cut' version of Resident Evil, featuring trimmed jokes, is unlikely to be released.",
+      "dek_es": "El director Zach Cregger indicó que es poco probable que se lance una versión 'Cregger cut' de Resident Evil con los chistes recortados.",
       "body_en": [
-        "Modders for The Blood of Dawnwalker have released patches that remove or extend the game's 30-day in-game time limit, enabling players to complete all questlines without rushing. This adjustment contrasts with the developer's intended gameplay pacing but is not considered vandalism by the community.",
-        "The Blood of Dawnwalker is an action RPG known for its challenging time constraints that pressure players to make strategic choices. The modding community's efforts reflect a desire to explore the game's content more thoroughly beyond the original design.",
-        "This development matters as it shows active player engagement and modding support for the title, potentially extending its lifespan and accessibility for different playstyles without altering core mechanics drastically."
+        "Zach Cregger, director involved with Resident Evil, has suggested that fans will not receive a 'Cregger cut' version of the game that includes jokes removed from the final release. This statement comes amid fan interest in seeing the trimmed comedic content restored.",
+        "Resident Evil is a long-running survival horror franchise known for its blend of tension and occasional dark humor. The idea of a 'director's cut' or alternate version with additional content is common in the industry, but Cregger's comments clarify that such a version is not planned for this title.",
+        "This matters to players who were curious about the creative decisions behind the game's tone and content. It also sets expectations regarding post-release content and the availability of alternate cuts, which can influence community engagement and future marketing."
       ],
       "body_es": [
-        "Los modders de The Blood of Dawnwalker han lanzado parches que eliminan o extienden el límite de tiempo de 30 días dentro del juego, permitiendo a los jugadores completar todas las líneas de misión sin prisas. Este ajuste contrasta con el ritmo de juego previsto por el desarrollador, pero la comunidad no lo considera vandalismo.",
-        "The Blood of Dawnwalker es un RPG de acción conocido por sus estrictos límites de tiempo que obligan a los jugadores a tomar decisiones estratégicas. El esfuerzo de la comunidad mod refleja el deseo de explorar el contenido del juego más a fondo, más allá del diseño original.",
-        "Este desarrollo es relevante porque muestra el compromiso activo de los jugadores y el soporte modding para el título, lo que podría extender su vida útil y accesibilidad para diferentes estilos de juego sin alterar drásticamente la mecánica central."
+        "Zach Cregger, director vinculado a Resident Evil, sugirió que los fans no recibirán una versión 'Cregger cut' del juego que incluya los chistes eliminados de la versión final. Esta declaración surge en medio del interés de los seguidores por ver el contenido cómico recortado restaurado.",
+        "Resident Evil es una franquicia de horror de supervivencia conocida por su mezcla de tensión y humor oscuro ocasional. La idea de un 'director's cut' o versión alternativa con contenido adicional es común en la industria, pero los comentarios de Cregger aclaran que no hay planes para tal versión en este título.",
+        "Esto es relevante para los jugadores interesados en las decisiones creativas sobre el tono y contenido del juego. También establece expectativas sobre el contenido post-lanzamiento y la disponibilidad de cortes alternativos, lo que puede influir en la interacción comunitaria y el marketing futuro."
+      ],
+      "source_url": "https://www.ign.com/articles/zach-cregger-suggests-theres-no-cregger-cut-of-resident-evil-as-fans-hope-to-see-trimmed-jokes",
+      "source_name": "IGN"
+    },
+    {
+      "slug": "kojima-explains-sony-physint-split",
+      "category": "Industry",
+      "title_en": "Hideo Kojima Reveals What Happened With Sony in Exclusive First Interview Since PlayStation Ditched Physint",
+      "title_es": "Hideo Kojima Revela Qué Pasó con Sony en su Primera Entrevista Exclusiva Desde que PlayStation Abandonó Physint",
+      "dek_en": "Hideo Kojima discusses the circumstances surrounding Sony's decision to drop Physint in his first interview since the change.",
+      "dek_es": "Hideo Kojima habla sobre las circunstancias que rodearon la decisión de Sony de abandonar Physint en su primera entrevista desde el cambio.",
+      "body_en": [
+        "In his first interview since PlayStation discontinued Physint, Hideo Kojima revealed details about what transpired between him and Sony. Kojima provided insights into the reasons behind Sony's decision to drop the Physint technology.",
+        "Physint was a proprietary physics simulation technology intended to enhance gameplay realism on PlayStation platforms. Kojima's projects have often pushed technical boundaries, making the discontinuation significant for his development plans.",
+        "Understanding this development is important for players and industry watchers as it affects the technical direction of upcoming Kojima productions and potentially impacts PlayStation's hardware and software ecosystem moving forward."
+      ],
+      "body_es": [
+        "En su primera entrevista desde que PlayStation discontinuó Physint, Hideo Kojima reveló detalles sobre lo ocurrido entre él y Sony. Kojima ofreció perspectivas sobre las razones detrás de la decisión de Sony de abandonar la tecnología Physint.",
+        "Physint era una tecnología propietaria de simulación física destinada a mejorar el realismo en el juego en plataformas PlayStation. Los proyectos de Kojima suelen empujar los límites técnicos, por lo que la discontinuación es significativa para sus planes de desarrollo.",
+        "Comprender este desarrollo es importante para jugadores y observadores de la industria, ya que afecta la dirección técnica de las próximas producciones de Kojima y potencialmente impacta el ecosistema de hardware y software de PlayStation en el futuro."
+      ],
+      "source_url": "https://www.ign.com/articles/hideo-kojima-reveals-what-happened-with-sony-in-exclusive-first-interview-since-playstation-ditched-physint",
+      "source_name": "IGN"
+    },
+    {
+      "slug": "last-of-us-director-apologizes-to-god-of-war-devs",
+      "category": "Industry",
+      "title_en": "The Last of Us Director Apologizes to God of War Laufey Devs After Calling Recent AAA Games 'Boring'",
+      "title_es": "El Director de The Last of Us se Disculpa con los Desarrolladores de God of War Laufey Tras Llamar 'Aburridos' a los Juegos AAA Recientes",
+      "dek_en": "Bruce Straley, director of The Last of Us, apologized to the God of War Laufey team after his comments labeling recent AAA games as 'boring' caused negative attention.",
+      "dek_es": "Bruce Straley, director de The Last of Us, se disculpó con el equipo de God of War Laufey tras sus comentarios que calificaban a los juegos AAA recientes como 'aburridos' y que generaron atención negativa.",
+      "body_en": [
+        "Bruce Straley, director de The Last of Us, issued a public apology to the God of War Laufey development team following backlash from his remarks describing recent AAA games as 'boring.' Straley acknowledged the comments brought uninvited negative attention.",
+        "The Last of Us and God of War Laufey are both prominent AAA titles known for their narrative and gameplay quality. Straley's comments sparked discussion about the current state of AAA game development and industry trends.",
+        "This apology is relevant to the industry as it reflects the sensitivity around public statements by influential developers. It also highlights the importance of professional discourse in maintaining relationships between studios and their communities."
+      ],
+      "body_es": [
+        "Bruce Straley, director de The Last of Us, emitió una disculpa pública al equipo de desarrollo de God of War Laufey tras la reacción negativa por sus comentarios que describían a los juegos AAA recientes como 'aburridos'. Straley reconoció que sus palabras generaron atención negativa no deseada.",
+        "The Last of Us y God of War Laufey son títulos AAA destacados por su calidad narrativa y jugabilidad. Los comentarios de Straley provocaron debate sobre el estado actual del desarrollo de juegos AAA y las tendencias de la industria.",
+        "Esta disculpa es relevante para la industria ya que refleja la sensibilidad ante declaraciones públicas de desarrolladores influyentes. También subraya la importancia del discurso profesional para mantener relaciones entre estudios y sus comunidades."
+      ],
+      "source_url": "https://www.ign.com/articles/the-last-of-us-director-apologizes-to-god-of-war-laufey-devs-after-calling-recent-aaa-games-boring",
+      "source_name": "IGN"
+    },
+    {
+      "slug": "insomniac-confirms-no-generative-ai-in-marvels-wolverine",
+      "category": "Industry",
+      "title_en": "Insomniac Says Marvel's Wolverine Uses No Generative AI After Fans Spot Strange Signs in-Game",
+      "title_es": "Insomniac Afirma que Marvel's Wolverine No Usa IA Generativa Tras que Fans Detectaran Señales Extrañas en el Juego",
+      "dek_en": "Insomniac Games confirmed that Marvel's Wolverine does not use generative AI technology despite fan speculation about unusual in-game elements.",
+      "dek_es": "Insomniac Games confirmó que Marvel's Wolverine no utiliza tecnología de IA generativa a pesar de la especulación de los fans sobre elementos extraños en el juego.",
+      "body_en": [
+        "Insomniac Games addressed fan concerns by confirming that Marvel's Wolverine does not incorporate generative AI, following observations of unusual signs within the game. The developer clarified that the oddities were not related to AI technology.",
+        "Marvel's Wolverine is a high-profile action game known for its detailed character work and immersive gameplay. The discussion around AI use reflects broader industry interest in how artificial intelligence is integrated into game development.",
+        "This clarification is significant for players and industry analysts monitoring AI's role in gaming. It provides transparency about development practices and helps set accurate expectations regarding game content and technology."
+      ],
+      "body_es": [
+        "Insomniac Games respondió a las preocupaciones de los fans confirmando que Marvel's Wolverine no incorpora IA generativa, tras la observación de señales inusuales dentro del juego. El desarrollador aclaró que las rarezas no estaban relacionadas con tecnología de IA.",
+        "Marvel's Wolverine es un juego de acción de alto perfil conocido por su detallado trabajo de personajes y jugabilidad inmersiva. La discusión sobre el uso de IA refleja el interés general de la industria en cómo se integra la inteligencia artificial en el desarrollo de juegos.",
+        "Esta aclaración es importante para jugadores y analistas de la industria que monitorean el papel de la IA en los videojuegos. Proporciona transparencia sobre las prácticas de desarrollo y ayuda a establecer expectativas precisas sobre el contenido y la tecnología del juego."
+      ],
+      "source_url": "https://www.ign.com/articles/insomniac-says-marvels-wolverine-uses-no-generative-ai-after-fans-spot-strange-signs-in-game",
+      "source_name": "IGN"
+    },
+    {
+      "slug": "blood-of-dawnwalker-modders-extend-time-limit",
+      "category": "PC",
+      "title_en": "The Blood of Dawnwalker Modders Aren’t Missing the Point – They Just Love the Game",
+      "title_es": "Los Modders de The Blood of Dawnwalker No Están Perdiendo el Punto – Simplemente Aman el Juego",
+      "dek_en": "Modders have extended The Blood of Dawnwalker's 30-day time limit to allow more time for quest completion, despite it diverging from the developer's original vision.",
+      "dek_es": "Los modders han extendido el límite de 30 días de The Blood of Dawnwalker para permitir más tiempo para completar misiones, aunque esto diverge de la visión original del desarrollador.",
+      "body_en": [
+        "Modders for The Blood of Dawnwalker have created modifications that extend the game's original 30-day time limit, enabling players to complete all questlines at a more relaxed pace. This change contrasts with the developer's intended gameplay experience.",
+        "The Blood of Dawnwalker is a narrative-driven RPG with a strict time mechanic that pressures players to make choices quickly. The modding community's efforts reflect a desire to explore the game more thoroughly without time constraints.",
+        "This development is relevant as it demonstrates how player communities can influence game experiences through mods. It also raises questions about balancing developer intent with player preferences in game design and longevity."
+      ],
+      "body_es": [
+        "Los modders de The Blood of Dawnwalker han creado modificaciones que extienden el límite original de 30 días del juego, permitiendo a los jugadores completar todas las líneas de misión con un ritmo más relajado. Este cambio contrasta con la experiencia de juego prevista por el desarrollador.",
+        "The Blood of Dawnwalker es un RPG narrativo con una mecánica de tiempo estricta que presiona a los jugadores a tomar decisiones rápidamente. Los esfuerzos de la comunidad mod reflejan el deseo de explorar el juego más a fondo sin restricciones temporales.",
+        "Este desarrollo es relevante porque demuestra cómo las comunidades de jugadores pueden influir en la experiencia del juego mediante mods. También plantea preguntas sobre el equilibrio entre la intención del desarrollador y las preferencias de los jugadores en el diseño y longevidad del juego."
       ],
       "source_url": "https://www.ign.com/articles/the-blood-of-dawnwalker-modders-arent-missing-the-point-they-just-love-the-game",
       "source_name": "IGN"
     },
     {
       "slug": "wow-forever-beta-sets-record-numbers",
-      "category": "Industry",
-      "title_en": "World of Warcraft: Forever Beta Breaks Blizzard Records with Massive Player Surge",
-      "title_es": "La Beta de World of Warcraft: Forever Rompe Récords de Blizzard con Gran Afluencia de Jugadores",
-      "dek_en": "The beta for World of Warcraft: Forever has attracted unprecedented player numbers, surprising Blizzard developers with record engagement.",
-      "dek_es": "La beta de World of Warcraft: Forever ha atraído un número sin precedentes de jugadores, sorprendiendo a los desarrolladores de Blizzard con un compromiso récord.",
+      "category": "PC",
+      "title_en": "As Fans Flood the World of Warcraft: Forever Beta, Dev Says It's Putting Up 'The Craziest Numbers I've Seen in 17 Years Working at Blizzard'",
+      "title_es": "Mientras los Fans Inundan la Beta de World of Warcraft: Forever, el Desarrollador Dice que Está Registrando 'Los Números Más Locos que He Visto en 17 Años en Blizzard'",
+      "dek_en": "The World of Warcraft: Forever beta launch attracted an unexpectedly large player base, with developers noting record-breaking engagement numbers.",
+      "dek_es": "El lanzamiento de la beta de World of Warcraft: Forever atrajo a una base de jugadores inesperadamente grande, con desarrolladores señalando cifras de participación récord.",
       "body_en": [
-        "World of Warcraft: Forever's beta phase has drawn an exceptionally high number of players, with Blizzard developers calling it the 'craziest numbers' seen in 17 years at the company. The influx has exceeded expectations and stressed servers at launch.",
-        "World of Warcraft is a long-standing MMORPG franchise with a dedicated fanbase. The Forever iteration aims to recapture classic elements while introducing new content, which appears to be resonating strongly with players.",
-        "This surge in player activity highlights the ongoing relevance of WoW in the MMO market and Blizzard's ability to generate significant interest in new iterations, impacting subscription and engagement metrics."
+        "The beta for World of Warcraft: Forever has drawn an overwhelming number of players, with a developer describing the engagement as the most intense they've witnessed in 17 years at Blizzard. The influx has surpassed initial expectations.",
+        "World of Warcraft remains one of the most influential MMORPGs, and the Forever iteration aims to recapture classic gameplay elements. The beta's success indicates strong community interest in this approach.",
+        "This surge in player activity is significant for the market as it demonstrates sustained enthusiasm for legacy MMORPG experiences. It also provides Blizzard with valuable data to refine the game before full release."
       ],
       "body_es": [
-        "La fase beta de World of Warcraft: Forever ha atraído un número excepcionalmente alto de jugadores, con desarrolladores de Blizzard calificándola como las 'cifras más locas' vistas en 17 años en la empresa. La afluencia superó las expectativas y saturó los servidores al lanzamiento.",
-        "World of Warcraft es una franquicia MMORPG de larga trayectoria con una base de fans dedicada. La versión Forever busca recuperar elementos clásicos mientras introduce contenido nuevo, lo que parece resonar fuertemente con los jugadores.",
-        "Este aumento en la actividad de jugadores subraya la relevancia continua de WoW en el mercado MMO y la capacidad de Blizzard para generar interés significativo en nuevas iteraciones, impactando métricas de suscripción y compromiso."
+        "La beta de World of Warcraft: Forever ha atraído a un número abrumador de jugadores, con un desarrollador describiendo la participación como la más intensa que ha visto en 17 años en Blizzard. La afluencia superó las expectativas iniciales.",
+        "World of Warcraft sigue siendo uno de los MMORPG más influyentes, y la versión Forever busca recuperar elementos clásicos de juego. El éxito de la beta indica un fuerte interés comunitario en este enfoque.",
+        "Este aumento en la actividad de jugadores es significativo para el mercado, ya que demuestra un entusiasmo sostenido por las experiencias MMORPG clásicas. También proporciona a Blizzard datos valiosos para perfeccionar el juego antes de su lanzamiento completo."
       ],
       "source_url": "https://www.ign.com/articles/as-fans-flood-the-world-of-warcraft-forever-beta-dev-says-its-putting-up-the-craziest-numbers-ive-seen-in-17-years-working-at-blizzard",
       "source_name": "IGN"
     },
     {
-      "slug": "marvels-wolverine-nerfs-scent-trails-after-backlash",
+      "slug": "marvels-wolverine-nerfs-scent-trails-audio-indicators",
       "category": "Console",
-      "title_en": "Marvel's Wolverine Developer Nerfs Scent Trails and Audio Indicators After Backlash",
-      "title_es": "El Desarrollador de Marvel's Wolverine Nerfea las Pistas de Olor y los Indicadores de Audio Tras Críticas",
-      "dek_en": "Insomniac has updated Marvel’s Wolverine to reduce the effectiveness of scent trails and audio sense indicators following player backlash over a specific gameplay element.",
-      "dek_es": "Insomniac ha actualizado Marvel’s Wolverine para reducir la efectividad de las pistas de olor y los indicadores de audio tras las críticas de los jugadores sobre un elemento específico del juego.",
+      "title_en": "Marvel's Wolverine Developer Nerfs Scent Trails and Audio Sense Indicators After 'Fart Gas' Backlash",
+      "title_es": "El Desarrollador de Marvel's Wolverine Reduce el Alcance de las Pistas de Olor y los Indicadores de Audio Tras la Reacción por el 'Gas de Pedo'",
+      "dek_en": "Insomniac released an update for Marvel’s Wolverine that reduces the effectiveness of scent trails and audio sense indicators following negative feedback.",
+      "dek_es": "Insomniac lanzó una actualización para Marvel’s Wolverine que reduce la efectividad de las pistas de olor y los indicadores de audio tras recibir críticas negativas.",
       "body_en": [
-        "Insomniac Games released a patch for Marvel’s Wolverine that nerfs the scent trail and audio sense indicators, which had drawn criticism for an unintended gameplay effect nicknamed the 'fart gas' mechanic. The update aims to balance these features more appropriately.",
-        "Marvel’s Wolverine is a PS5 exclusive action game featuring stealth and tracking mechanics. The scent and audio indicators assist players in locating enemies but had become a controversial aspect due to its humorous and distracting implementation.",
-        "Adjusting these mechanics affects player experience by refining stealth gameplay and addressing community feedback, demonstrating developer responsiveness to player concerns post-launch."
+        "Insomniac Games issued a patch for Marvel’s Wolverine that nerfs the scent trails and audio sense indicators after players criticized the mechanics, which were humorously dubbed 'fart gas' by the community. The update adjusts these features to reduce their prominence.",
+        "Marvel’s Wolverine features sensory mechanics that help players track enemies, integral to the stealth and combat systems. The changes aim to balance gameplay without removing core features.",
+        "This update is important as it reflects developer responsiveness to player feedback and the ongoing tuning of gameplay mechanics to improve user experience and maintain engagement."
       ],
       "body_es": [
-        "Insomniac Games lanzó un parche para Marvel’s Wolverine que reduce la efectividad de las pistas de olor y los indicadores de audio, que habían recibido críticas por un efecto no deseado en la jugabilidad apodado el mecanismo de 'gas de pedo'. La actualización busca equilibrar mejor estas funciones.",
-        "Marvel’s Wolverine es un juego de acción exclusivo para PS5 que incluye mecánicas de sigilo y rastreo. Las pistas de olor y los indicadores de audio ayudan a los jugadores a localizar enemigos, pero se convirtieron en un aspecto controvertido debido a su implementación humorística y distractora.",
-        "Ajustar estas mecánicas afecta la experiencia del jugador al refinar el sigilo y atender las opiniones de la comunidad, demostrando la capacidad del desarrollador para responder a las preocupaciones tras el lanzamiento."
+        "Insomniac Games lanzó un parche para Marvel’s Wolverine que reduce el alcance de las pistas de olor y los indicadores de audio tras las críticas de los jugadores, que humorísticamente denominaron estas mecánicas como 'gas de pedo'. La actualización ajusta estas funciones para disminuir su prominencia.",
+        "Marvel’s Wolverine incluye mecánicas sensoriales que ayudan a los jugadores a rastrear enemigos, fundamentales para los sistemas de sigilo y combate. Los cambios buscan equilibrar la jugabilidad sin eliminar características clave.",
+        "Esta actualización es importante porque refleja la capacidad de respuesta del desarrollador ante los comentarios de los jugadores y el ajuste continuo de las mecánicas para mejorar la experiencia y mantener el compromiso."
       ],
       "source_url": "https://www.ign.com/articles/marvels-wolverine-developer-nerfs-scent-trails-and-audio-sense-indicators-after-fart-gas-backlash",
       "source_name": "IGN"
     },
     {
-      "slug": "final-fantasy-7-revelation-install-size-warning",
+      "slug": "final-fantasy-7-revelation-200gb-install-warning",
       "category": "Console",
-      "title_en": "Final Fantasy 7 Revelation Director Warns of 200GB Install Size for Final Chapter",
-      "title_es": "El Director de Final Fantasy 7 Revelation Advierte de un Tamaño de Instalación de 200GB para el Capítulo Final",
-      "dek_en": "Naoki Hamaguchi, director of Final Fantasy 7 Revelation, has warned that the game's final chapter will require around 200GB of storage space upon release.",
-      "dek_es": "Naoki Hamaguchi, director de Final Fantasy 7 Revelation, advirtió que el capítulo final del juego requerirá alrededor de 200GB de espacio de almacenamiento al lanzarse.",
+      "title_en": "Final Fantasy 7 Revelation Director Warns of 200GB Install Size for Remake Trilogy's Final Chapter",
+      "title_es": "El Director de Final Fantasy 7 Revelation Advierte de un Tamaño de Instalación de 200GB para el Capítulo Final de la Trilogía Remake",
+      "dek_en": "Naoki Hamaguchi, director of Final Fantasy 7 Revelation, has warned players that the game will require approximately 200GB of storage upon release.",
+      "dek_es": "Naoki Hamaguchi, director de Final Fantasy 7 Revelation, advirtió a los jugadores que el juego requerirá aproximadamente 200GB de almacenamiento al momento de su lanzamiento.",
       "body_en": [
-        "Naoki Hamaguchi, director of Final Fantasy 7 Revelation, announced that the upcoming final chapter of the remake trilogy will have an install size of approximately 200GB. This represents a significant storage demand for players.",
-        "The Final Fantasy 7 Remake series has been released in multiple parts, each with substantial content and high-fidelity assets. The large file size reflects the scope and graphical quality of the concluding installment.",
-        "This information is critical for players to prepare adequate storage on their consoles or PCs, ensuring smooth installation and gameplay without interruptions due to space limitations."
+        "Naoki Hamaguchi, director of Final Fantasy 7 Revelation, announced that the upcoming final chapter of the remake trilogy will demand around 200GB of storage space. This substantial install size reflects the game's extensive content and high-fidelity assets.",
+        "The Final Fantasy 7 Remake series has been noted for its detailed environments, cinematic presentation, and expanded storylines. The large file size aligns with trends in AAA games pushing graphical and audio quality.",
+        "This information is critical for players managing storage on their consoles or PCs, as it may require freeing significant space or upgrading hardware. It also illustrates the increasing technical demands of modern game development."
       ],
       "body_es": [
-        "Naoki Hamaguchi, director de Final Fantasy 7 Revelation, anunció que el próximo capítulo final de la trilogía remake tendrá un tamaño de instalación de aproximadamente 200GB. Esto representa una demanda significativa de almacenamiento para los jugadores.",
-        "La serie Final Fantasy 7 Remake se ha lanzado en varias partes, cada una con contenido sustancial y activos de alta fidelidad. El gran tamaño del archivo refleja el alcance y la calidad gráfica de la entrega final.",
-        "Esta información es crucial para que los jugadores preparen un almacenamiento adecuado en sus consolas o PC, asegurando una instalación y experiencia de juego sin interrupciones por falta de espacio."
+        "Naoki Hamaguchi, director de Final Fantasy 7 Revelation, anunció que el próximo capítulo final de la trilogía remake requerirá alrededor de 200GB de espacio de almacenamiento. Este tamaño considerable refleja el extenso contenido y los activos de alta fidelidad del juego.",
+        "La serie Final Fantasy 7 Remake se ha destacado por sus entornos detallados, presentación cinematográfica y tramas ampliadas. El gran tamaño del archivo está en línea con las tendencias de juegos AAA que elevan la calidad gráfica y de audio.",
+        "Esta información es crucial para los jugadores que gestionan el almacenamiento en sus consolas o PC, ya que puede requerir liberar espacio significativo o actualizar el hardware. También ilustra las crecientes demandas técnicas del desarrollo moderno de juegos."
       ],
       "source_url": "https://www.ign.com/articles/final-fantasy-7-revelation-director-warns-of-200gb-install-size-for-remake-trilogys-final-chapter",
       "source_name": "IGN"
     },
     {
-      "slug": "false-oath-spanish-indie-game-resembles-classic-resident-evil",
+      "slug": "mayhem-a-la-carte-combines-overcooked-call-of-duty",
       "category": "PC",
-      "title_en": "Spanish Indie Game False Oath Resembles Classic Resident Evil Set in the Middle Ages",
-      "title_es": "El Juego Indie Español False Oath Recuerda a Resident Evil Clásico Ambientado en la Edad Media",
-      "dek_en": "False Oath, a Spanish indie game inspired by classic Resident Evil titles, is set in the Middle Ages and will launch on PC via Steam in 2027.",
-      "dek_es": "False Oath, un juego indie español inspirado en los Resident Evil clásicos, está ambientado en la Edad Media y se lanzará en PC vía Steam en 2027.",
+      "title_en": "They Are Making a Game That Mixes Overcooked and Call of Duty, a Crazy Concept Coming to Steam in 2027",
+      "title_es": "Están Haciendo un Juego que Mezcla Overcooked y Call of Duty, una Locura que Llega a Steam en 2027",
+      "dek_en": "Mayhem – La Carte is an upcoming game combining cooperative cooking gameplay with first-person shooter mechanics, set for release on Steam in 2027.",
+      "dek_es": "Mayhem – La Carte es un próximo juego que combina la jugabilidad cooperativa de cocina con mecánicas de disparos en primera persona, previsto para lanzarse en Steam en 2027.",
       "body_en": [
-        "False Oath is an upcoming Spanish indie game developed by Daniel Almenara and Nytelynn, drawing clear inspiration from classic Resident Evil games but set in a medieval environment. It is scheduled for release on PC through Steam in 2027.",
-        "The indie market continues to be a space for developers to explore niche genres and styles. False Oath combines survival horror elements with a retro aesthetic, aiming to offer a unique experience within the genre.",
-        "The announcement adds to the diversity of upcoming indie titles and provides players interested in survival horror with a fresh setting and gameplay approach, expanding options beyond mainstream releases."
+        "Mayhem – La Carte is a new game blending the frantic cooperative cooking style of Overcooked with the first-person shooting elements typical of Call of Duty. The developers announced a Steam release scheduled for 2027.",
+        "This hybrid gameplay concept merges two distinct genres, offering players a unique experience that challenges both teamwork in chaotic kitchen scenarios and combat skills in shooter environments.",
+        "The game's release is notable as it represents innovation in genre blending, potentially attracting diverse player bases and expanding creative boundaries within the PC gaming market."
       ],
       "body_es": [
-        "False Oath es un próximo juego indie español desarrollado por Daniel Almenara y Nytelynn, que toma clara inspiración de los Resident Evil clásicos pero ambientado en un entorno medieval. Está previsto su lanzamiento en PC vía Steam en 2027.",
-        "El mercado indie sigue siendo un espacio para que los desarrolladores exploren géneros y estilos de nicho. False Oath combina elementos de horror de supervivencia con una estética retro, buscando ofrecer una experiencia única dentro del género.",
-        "El anuncio suma a la diversidad de títulos indie próximos y ofrece a los jugadores interesados en el horror de supervivencia un escenario y enfoque de juego novedosos, ampliando las opciones más allá de los lanzamientos principales."
+        "Mayhem – La Carte es un nuevo juego que combina el estilo frenético de cocina cooperativa de Overcooked con los elementos de disparos en primera persona típicos de Call of Duty. Los desarrolladores anunciaron su lanzamiento en Steam para 2027.",
+        "Este concepto de jugabilidad híbrida fusiona dos géneros distintos, ofreciendo a los jugadores una experiencia única que desafía tanto el trabajo en equipo en escenarios caóticos de cocina como las habilidades de combate en entornos de shooter.",
+        "El lanzamiento del juego es relevante porque representa innovación en la mezcla de géneros, con potencial para atraer a bases de jugadores diversas y ampliar los límites creativos dentro del mercado de juegos para PC."
       ],
-      "source_url": "https://vandal.elespanol.com/noticia/2026262013/es-como-un-resident-evil-clasico-pero-ambientado-en-la-edad-media-asi-es-el-juego-espanol-false-oath/",
+      "source_url": "https://vandal.elespanol.com/noticia/2026263011/estan-haciendo-un-juego-que-mezcla-overcooked-y-call-of-duty-una-locura-que-llega-a-steam-en-2027/",
       "source_name": "Vandal"
     },
     {
-      "slug": "gta-6-fans-identify-real-life-apartment-of-characters",
-      "category": "Console",
-      "title_en": "GTA 6 Fans Claim to Have Found Jason and Lucia’s Apartment in Real Life",
-      "title_es": "Fans de GTA 6 Aseguran Haber Encontrado el Apartamento de Jason y Lucía en la Vida Real",
-      "dek_en": "Fans analyzing the latest GTA 6 gameplay footage have identified the real-world building that inspired the apartment of characters Jason and Lucia.",
-      "dek_es": "Los fans que analizan el último gameplay de GTA 6 han identificado el edificio real que inspiró el apartamento de los personajes Jason y Lucía.",
+      "slug": "sleeping-dogs-creator-does-not-rule-out-sequel",
+      "category": "Industry",
+      "title_en": "Sleeping Dogs Creator Does Not Rule Out a Sequel, Though Admits It Would Take 'a Miracle'",
+      "title_es": "El Creador de Sleeping Dogs No Descarta una Secuela, Aunque Admite que Haría Falta 'un Milagro'",
+      "dek_en": "Alastair Cornish, designer of Sleeping Dogs, stated that a sequel is possible but would require significant cost control and careful open-world design.",
+      "dek_es": "Alastair Cornish, diseñador de Sleeping Dogs, afirmó que una secuela es posible pero requeriría un control de costes significativo y un diseño cuidadoso del mundo abierto.",
       "body_en": [
-        "Following the release of extended GTA 6 gameplay, fans have pinpointed the real-life building that served as inspiration for the apartment of characters Jason and Lucia. This discovery was shared widely on social media platforms.",
-        "Grand Theft Auto 6 continues to generate intense fan interest, with players dissecting every detail of the official footage. Locating real-world counterparts to in-game locations is part of the community’s engagement.",
-        "This finding illustrates the depth of Rockstar’s world-building and the community’s dedication to connecting game environments with reality, enriching the player experience through shared cultural references."
+        "Alastair Cornish, the designer behind Sleeping Dogs, commented that while a sequel to the game is not ruled out, it would demand stringent cost management and thoughtful planning of the open-world environment. He described the prospect as requiring 'a miracle.'",
+        "Sleeping Dogs, released over 14 years ago, is an open-world action-adventure set in Hong Kong, praised for its narrative and gameplay. The franchise has remained dormant since its initial success.",
+        "Cornish's remarks provide insight into the challenges of reviving older IPs in the current market. They highlight the financial and design considerations that influence decisions on sequels in the open-world genre."
       ],
       "body_es": [
-        "Tras el lanzamiento del gameplay extendido de GTA 6, los fans han identificado el edificio real que sirvió de inspiración para el apartamento de los personajes Jason y Lucía. Este hallazgo se compartió ampliamente en redes sociales.",
-        "Grand Theft Auto 6 sigue generando un intenso interés entre los fans, que analizan cada detalle del metraje oficial. Localizar contrapartes reales de ubicaciones del juego forma parte del compromiso de la comunidad.",
-        "Este hallazgo ilustra la profundidad de la construcción del mundo de Rockstar y la dedicación de la comunidad para conectar los entornos del juego con la realidad, enriqueciendo la experiencia del jugador mediante referencias culturales compartidas."
+        "Alastair Cornish, diseñador de Sleeping Dogs, comentó que aunque no descarta una secuela del juego, esta requeriría una gestión estricta de costes y una planificación cuidadosa del entorno de mundo abierto. Describió la posibilidad como que haría falta 'un milagro'.",
+        "Sleeping Dogs, lanzado hace más de 14 años, es una aventura de acción en mundo abierto ambientada en Hong Kong, elogiada por su narrativa y jugabilidad. La franquicia ha permanecido inactiva desde su éxito inicial.",
+        "Las declaraciones de Cornish ofrecen una visión sobre los desafíos de revivir propiedades intelectuales antiguas en el mercado actual. Subrayan las consideraciones financieras y de diseño que influyen en las decisiones sobre secuelas en el género de mundo abierto."
       ],
-      "source_url": "https://vandal.elespanol.com/noticia/2026262011/fans-de-gta-6-aseguran-haber-encontrado-el-piso-de-jason-y-lucia-en-la-vida-real/",
+      "source_url": "https://vandal.elespanol.com/noticia/2026263010/el-creador-de-sleeping-dogs-no-descarta-una-secuela-aunque-lo-admite-haria-falta-un-milagro/",
       "source_name": "Vandal"
-    },
-    {
-      "slug": "remedy-honors-david-lynch-in-control-resonant",
-      "category": "PC",
-      "title_en": "Remedy Honors Late David Lynch in Control Resonant with Twin Peaks Quote",
-      "title_es": "Remedy Rinde Homenaje al Fallecido David Lynch en Control Resonant con Cita de Twin Peaks",
-      "dek_en": "Remedy has included a powerful quote from Twin Peaks in its new open-world action game Control Resonant as a tribute to the late filmmaker David Lynch.",
-      "dek_es": "Remedy ha incluido una poderosa cita de Twin Peaks en su nuevo juego de acción mundo abierto Control Resonant como tributo al fallecido cineasta David Lynch.",
-      "body_en": [
-        "In Control Resonant, Remedy has embedded a notable quote from the cult TV series Twin Peaks, created by David Lynch, who recently passed away. This homage reflects the studio’s long-standing inspiration from Lynch’s work.",
-        "Remedy’s games have often drawn from surreal and psychological themes similar to Lynch’s style. Control Resonant continues this tradition within an open-world action framework, blending narrative and atmosphere.",
-        "The tribute connects Remedy’s creative vision with a broader cultural legacy, offering players an enriched narrative experience that acknowledges influential artistic sources."
-      ],
-      "body_es": [
-        "En Control Resonant, Remedy ha incluido una cita destacada de la serie de culto Twin Peaks, creada por David Lynch, quien falleció recientemente. Este homenaje refleja la inspiración constante del estudio en la obra de Lynch.",
-        "Los juegos de Remedy suelen tomar elementos de temas surrealistas y psicológicos similares al estilo de Lynch. Control Resonant continúa esta tradición dentro de un marco de acción mundo abierto, combinando narrativa y atmósfera.",
-        "El tributo conecta la visión creativa de Remedy con un legado cultural más amplio, ofreciendo a los jugadores una experiencia narrativa enriquecida que reconoce fuentes artísticas influyentes."
-      ],
-      "source_url": "https://www.ign.com/articles/remedy-honors-the-late-david-lynch-in-control-resonant-with-powerful-twin-peaks-quote",
-      "source_name": "IGN"
     }
   ]
 }
