@@ -1,124 +1,164 @@
 {
-  "generatedAt": "2026-09-21T19:13:21.198Z",
+  "generatedAt": "2026-09-22T18:01:37.638Z",
   "articles": [
     {
-      "slug": "bungie-future-destiny-marathon",
+      "slug": "sea-of-thieves-fans-fear-for-rares-future",
       "category": "Industry",
-      "title_en": "Bungie Clarifies Future: Destiny Will Continue, Admits Mistakes, Explains Plans for Marathon",
-      "title_es": "Bungie aclara su futuro: aseguran que Destiny seguirá vivo, admiten errores y explican qué harán con Marathon",
-      "dek_en": "Bungie's new leadership outlines updates for Destiny 2, changes to Marathon, and company direction.",
-      "dek_es": "El nuevo equipo directivo de Bungie detalla novedades para Destiny 2, cambios en Marathon y la dirección de la compañía.",
+      "title_en": "Sea of Thieves Fans Fear for Rare's Future as Studio Gets Put Under Activision Following Xbox Reset",
+      "title_es": "Los fans de Sea of Thieves temen por el futuro de Rare tras ser puesta bajo Activision tras la reestructuración de Xbox",
+      "dek_en": "Rare has been consolidated under Activision as part of Xbox's latest organizational reset, raising concerns among Sea of Thieves fans.",
+      "dek_es": "Rare ha sido consolidada bajo Activision como parte de la última reestructuración organizativa de Xbox, generando preocupación entre los fans de Sea of Thieves.",
       "body_en": [
-        "Bungie's new leadership has issued a detailed statement addressing the studio's future plans. They confirmed Destiny remains a core pillar of the company and admitted to past mistakes in managing the franchise. Additionally, they revealed that Marathon will evolve beyond its original shooter format.",
-        "Destiny 2 has been a major ongoing project for Bungie, but the studio recently ended its support for the game. Marathon, another Bungie IP, is set to undergo significant changes to expand its scope beyond traditional gameplay.",
-        "This clarification matters as it signals Bungie's commitment to sustaining Destiny's legacy while innovating with Marathon. Players and the market can expect continued support and new directions from the studio's key franchises."
+        "Rare, the developer behind Sea of Thieves, has been placed under Activision's management following a recent reset within Xbox's corporate structure. This move consolidates Rare's operations under Activision, a shift from its previous direct association with Xbox Game Studios.",
+        "Sea of Thieves is Rare's flagship live-service pirate adventure, which has maintained a dedicated player base since its 2018 launch. The studio's integration into Activision comes amid broader industry consolidations and strategic realignments within Microsoft.",
+        "This change matters to players as it may influence Rare's development priorities and support for Sea of Thieves. For the market, it reflects ongoing shifts in how major publishers manage legacy studios and live-service titles."
       ],
       "body_es": [
-        "El nuevo equipo directivo de Bungie ha publicado un comunicado detallado sobre los planes futuros del estudio. Confirmaron que Destiny sigue siendo un pilar fundamental de la compañía y admitieron errores pasados en la gestión de la franquicia. Además, revelaron que Marathon evolucionará más allá de su formato shooter original.",
-        "Destiny 2 ha sido un proyecto importante para Bungie, aunque recientemente finalizaron su soporte para el juego. Marathon, otra IP de Bungie, sufrirá cambios significativos para ampliar su alcance más allá del juego tradicional.",
-        "Esta aclaración es relevante porque muestra el compromiso de Bungie con el legado de Destiny mientras innova con Marathon. Los jugadores y el mercado pueden esperar soporte continuo y nuevas direcciones en las franquicias clave del estudio."
+        "Rare, el desarrollador de Sea of Thieves, ha sido puesto bajo la gestión de Activision tras una reciente reestructuración dentro de la estructura corporativa de Xbox. Este movimiento consolida las operaciones de Rare bajo Activision, alejándola de su asociación directa previa con Xbox Game Studios.",
+        "Sea of Thieves es la aventura pirata de servicio en vivo insignia de Rare, que ha mantenido una base de jugadores dedicada desde su lanzamiento en 2018. La integración del estudio en Activision ocurre en medio de consolidaciones industriales y realineamientos estratégicos dentro de Microsoft.",
+        "Este cambio es relevante para los jugadores porque podría influir en las prioridades de desarrollo y soporte para Sea of Thieves. Para el mercado, refleja cambios continuos en la gestión de estudios históricos y títulos de servicio en vivo por parte de grandes editoras."
       ],
-      "source_url": "https://vandal.elespanol.com/noticia/2026264032/bungie-aclara-su-futuro-aseguran-que-destiny-seguira-vivo-admiten-errores-y-explican-que-haran-con-marathon/",
-      "source_name": "Vandal"
-    },
-    {
-      "slug": "bungie-more-destiny-coming",
-      "category": "Industry",
-      "title_en": "Bungie Says More Destiny Is Coming, Months After Ending Support for Destiny 2",
-      "title_es": "Bungie dice que habrá más Destiny, meses después de terminar soporte para Destiny 2",
-      "dek_en": "Bungie confirms ongoing Destiny content despite ending Destiny 2 support earlier this year.",
-      "dek_es": "Bungie confirma contenido continuo de Destiny pese a haber finalizado el soporte para Destiny 2 a principios de año.",
-      "body_en": [
-        "Bungie has stated it is \"absolutely not done with Destiny\" just months after ending ongoing support for Destiny 2. The studio reassured fans that the franchise will continue to receive new content and updates.",
-        "Destiny 2 support officially ended recently, marking a shift in Bungie's focus. However, the company emphasized that the Destiny universe remains active and that future projects are planned.",
-        "This announcement is important as it clarifies Bungie's commitment to the Destiny franchise, ensuring players that the IP will continue to evolve despite the end of Destiny 2's lifecycle. It impacts player expectations and market confidence."
-      ],
-      "body_es": [
-        "Bungie ha declarado que \"no ha terminado con Destiny\" apenas meses después de finalizar el soporte para Destiny 2. El estudio tranquilizó a los fans asegurando que la franquicia seguirá recibiendo contenido y actualizaciones.",
-        "El soporte oficial para Destiny 2 terminó recientemente, marcando un cambio en el enfoque de Bungie. Sin embargo, la compañía enfatizó que el universo Destiny sigue activo y que hay proyectos futuros en desarrollo.",
-        "Este anuncio es relevante porque aclara el compromiso de Bungie con la franquicia Destiny, asegurando a los jugadores que la IP continuará evolucionando pese al fin del ciclo de Destiny 2. Afecta las expectativas de los jugadores y la confianza del mercado."
-      ],
-      "source_url": "https://www.ign.com/articles/bungie-says-more-destiny-is-coming-months-after-ending-support-for-destiny-2",
+      "source_url": "https://www.ign.com/articles/sea-of-thieves-fans-fear-for-rares-future-as-studio-gets-put-under-activision-following-xbox-reset",
       "source_name": "IGN"
     },
     {
-      "slug": "bungie-evolve-marathon-deny-replace-destiny",
-      "category": "Industry",
-      "title_en": "Bungie Bosses Promise to ‘Evolve’ Marathon, Deny Game Will ‘Replace’ Destiny",
-      "title_es": "Los jefes de Bungie prometen ‘evolucionar’ Marathon y niegan que el juego ‘reemplace’ a Destiny",
-      "dek_en": "Bungie leadership discusses plans to develop Marathon while maintaining Destiny's presence.",
-      "dek_es": "La dirección de Bungie habla sobre planes para desarrollar Marathon sin reemplazar a Destiny.",
+      "slug": "minecraft-beat-itself-after-nearly-two-billion-simulated-years",
+      "category": "PC",
+      "title_en": "Minecraft Beat Itself After Nearly 2 Billion Simulated Years",
+      "title_es": "Minecraft se supera a sí mismo tras casi 2 mil millones de años simulados",
+      "dek_en": "Minecraft simulations have reached a milestone where the game effectively 'beat itself' after running for nearly two billion simulated years.",
+      "dek_es": "Las simulaciones de Minecraft alcanzaron un hito donde el juego se 'superó a sí mismo' tras casi dos mil millones de años simulados.",
       "body_en": [
-        "Bungie Studio Head Poria Torkan and Josh Dean, Head of Product and GM of Marathon, revealed plans to “evolve” Marathon. They denied that Marathon will replace Destiny, emphasizing both franchises will coexist.",
-        "Marathon is a long-standing Bungie IP, and the studio aims to expand its scope beyond a traditional shooter. Meanwhile, Destiny remains a central focus for the company.",
-        "This matters as it clarifies Bungie's strategy to diversify its portfolio without abandoning Destiny. Players can anticipate new experiences from Marathon alongside ongoing Destiny content."
+        "A recent simulation experiment in Minecraft ran for nearly two billion in-game years, culminating in the game effectively 'beating itself.' This long-running simulation tested the limits of Minecraft's world generation and survival mechanics over an unprecedented timescale.",
+        "Minecraft is known for its sandbox nature and procedural world generation, allowing players and researchers to explore complex systems within the game. This simulation extends those capabilities by pushing the game into a theoretical extreme scenario.",
+        "This development is significant as it demonstrates Minecraft's robustness as a simulation platform and offers insights into procedural generation and emergent gameplay over extended periods, which may interest both players and developers."
       ],
       "body_es": [
-        "El jefe de estudio de Bungie, Poria Torkan, y Josh Dean, jefe de producto y director general de Marathon, revelaron planes para “evolucionar” Marathon. Negaron que Marathon reemplace a Destiny, enfatizando que ambas franquicias coexistirán.",
-        "Marathon es una IP histórica de Bungie, y el estudio busca ampliar su alcance más allá del shooter tradicional. Mientras tanto, Destiny sigue siendo un foco central para la compañía.",
-        "Esto es relevante porque aclara la estrategia de Bungie para diversificar su portafolio sin abandonar Destiny. Los jugadores pueden esperar nuevas experiencias de Marathon junto con contenido continuo de Destiny."
+        "Un experimento reciente de simulación en Minecraft se ejecutó durante casi dos mil millones de años dentro del juego, culminando con que el juego se 'superó a sí mismo'. Esta simulación de larga duración puso a prueba los límites de la generación de mundos y las mecánicas de supervivencia de Minecraft en una escala temporal sin precedentes.",
+        "Minecraft es conocido por su naturaleza sandbox y generación procedural de mundos, lo que permite a jugadores e investigadores explorar sistemas complejos dentro del juego. Esta simulación extiende esas capacidades al llevar el juego a un escenario extremo teórico.",
+        "Este desarrollo es significativo porque demuestra la robustez de Minecraft como plataforma de simulación y ofrece perspectivas sobre la generación procedural y la jugabilidad emergente a largo plazo, lo que puede interesar tanto a jugadores como a desarrolladores."
       ],
-      "source_url": "https://www.ign.com/articles/bungie-bosses-promise-to-evolve-marathon-deny-game-will-replace-destiny",
+      "source_url": "https://www.ign.com/articles/minecraft-beat-itself-after-nearly-two-billion-simulated-years",
       "source_name": "IGN"
     },
     {
-      "slug": "pokemon-ruby-sapphire-switch-port-speculation",
+      "slug": "undead-labs-goes-independent-after-xbox-separation",
+      "category": "Industry",
+      "title_en": "Undead Labs Goes Independent After Xbox Separation, Confirms State of Decay 3 Is Still In Development",
+      "title_es": "Undead Labs se vuelve independiente tras separarse de Xbox y confirma que State of Decay 3 sigue en desarrollo",
+      "dek_en": "Undead Labs has become an independent, employee-owned studio after separating from Xbox, while confirming that State of Decay 3 remains in active development.",
+      "dek_es": "Undead Labs se ha convertido en un estudio independiente propiedad de sus empleados tras separarse de Xbox, y confirma que State of Decay 3 sigue en desarrollo activo.",
+      "body_en": [
+        "Undead Labs announced its independence following separation from Xbox, transitioning into an employee-owned developer. Despite the change, the studio confirmed that State of Decay 3 is still under active development.",
+        "Known for its zombie survival franchise, Undead Labs has operated under Xbox Game Studios since 2018. The move to independence marks a significant shift in its operational structure and creative control.",
+        "For players, this ensures continued progress on State of Decay 3. For the industry, it highlights evolving relationships between major publishers and their studios, with implications for development autonomy and project continuity."
+      ],
+      "body_es": [
+        "Undead Labs anunció su independencia tras separarse de Xbox, convirtiéndose en un desarrollador propiedad de sus empleados. A pesar del cambio, el estudio confirmó que State of Decay 3 sigue en desarrollo activo.",
+        "Conocido por su franquicia de supervivencia zombie, Undead Labs ha operado bajo Xbox Game Studios desde 2018. El paso a la independencia representa un cambio significativo en su estructura operativa y control creativo.",
+        "Para los jugadores, esto garantiza el progreso continuo de State of Decay 3. Para la industria, destaca las relaciones cambiantes entre grandes editoras y sus estudios, con implicaciones para la autonomía en el desarrollo y la continuidad de proyectos."
+      ],
+      "source_url": "https://www.ign.com/articles/undead-labs-goes-independent-after-xbox-separation-confirms-state-of-decay-3-is-still-in-development",
+      "source_name": "IGN"
+    },
+    {
+      "slug": "microsoft-signals-intention-to-close-ninja-theory",
+      "category": "Industry",
+      "title_en": "Microsoft Signals Intention to Close Down Ninja Theory After Deals to Save the Hellblade Developer Fall Through",
+      "title_es": "Microsoft señala intención de cerrar Ninja Theory tras fracasar acuerdos para salvar al desarrollador de Hellblade",
+      "dek_en": "Microsoft has indicated plans to close Ninja Theory after two failed attempts to secure deals that would have preserved the Hellblade developer.",
+      "dek_es": "Microsoft ha indicado planes para cerrar Ninja Theory tras dos intentos fallidos de asegurar acuerdos que habrían salvado al desarrollador de Hellblade.",
+      "body_en": [
+        "Microsoft has signaled its intention to shut down Ninja Theory following the collapse of two separate deals aimed at preserving the studio. Ninja Theory is known for developing the Hellblade series.",
+        "The studio, acquired by Microsoft in 2018, has faced operational challenges recently. The failed deals suggest difficulties in finding sustainable paths forward within Microsoft's broader gaming strategy.",
+        "This development affects players anticipating future Hellblade content and reflects broader industry challenges in maintaining mid-sized studios amid shifting corporate priorities and market conditions."
+      ],
+      "body_es": [
+        "Microsoft ha señalado su intención de cerrar Ninja Theory tras el fracaso de dos acuerdos separados destinados a preservar el estudio. Ninja Theory es conocido por desarrollar la serie Hellblade.",
+        "El estudio, adquirido por Microsoft en 2018, ha enfrentado desafíos operativos recientemente. Los acuerdos fallidos sugieren dificultades para encontrar caminos sostenibles dentro de la estrategia general de juegos de Microsoft.",
+        "Este desarrollo afecta a los jugadores que esperan contenido futuro de Hellblade y refleja desafíos más amplios en la industria para mantener estudios medianos en medio de prioridades corporativas y condiciones de mercado cambiantes."
+      ],
+      "source_url": "https://www.ign.com/articles/microsoft-signals-intention-to-close-down-ninja-theory-after-deals-to-save-the-hellblade-developer-fall-through",
+      "source_name": "IGN"
+    },
+    {
+      "slug": "rainbow-six-siege-director-bracing-for-gta-6-launch-impact",
+      "category": "Industry",
+      "title_en": "'You're Going to Take a Hit': Rainbow Six Siege Director Bracing for GTA 6 Launch Impact, Promises Players Who Stick Around Will Be Served 'Like Kings and Queens'",
+      "title_es": "Director de Rainbow Six Siege se prepara para el impacto del lanzamiento de GTA 6 y promete recompensas a jugadores fieles",
+      "dek_en": "Ubisoft is preparing for player losses due to GTA 6's launch but promises dedicated Rainbow Six Siege players will receive significant rewards.",
+      "dek_es": "Ubisoft se prepara para la pérdida de jugadores debido al lanzamiento de GTA 6, pero promete recompensas significativas a los jugadores dedicados de Rainbow Six Siege.",
+      "body_en": [
+        "Ubisoft's Rainbow Six Siege director acknowledged the upcoming launch of Grand Theft Auto 6 will impact player numbers. The team is preparing for a decline but plans to reward loyal players with enhanced content and support.",
+        "Rainbow Six Siege has maintained a strong competitive scene since its 2015 release, with ongoing updates and esports presence. The launch of a major AAA title like GTA 6 is expected to shift player attention temporarily.",
+        "This matters as it shows Ubisoft's commitment to sustaining Rainbow Six Siege's community despite market competition. It also highlights the challenges live-service games face when competing with blockbuster releases."
+      ],
+      "body_es": [
+        "El director de Rainbow Six Siege de Ubisoft reconoció que el próximo lanzamiento de Grand Theft Auto 6 impactará en el número de jugadores. El equipo se prepara para una disminución pero planea recompensar a los jugadores leales con contenido y soporte mejorados.",
+        "Rainbow Six Siege ha mantenido una escena competitiva fuerte desde su lanzamiento en 2015, con actualizaciones continuas y presencia en esports. Se espera que el lanzamiento de un título AAA como GTA 6 desvíe temporalmente la atención de los jugadores.",
+        "Esto es importante porque muestra el compromiso de Ubisoft para sostener la comunidad de Rainbow Six Siege a pesar de la competencia del mercado. También destaca los desafíos que enfrentan los juegos de servicio en vivo frente a lanzamientos de gran impacto."
+      ],
+      "source_url": "https://www.ign.com/articles/youre-going-to-take-a-hit-rainbow-six-siege-director-bracing-for-gta-6-launch-impact-promises-players-who-stick-around-will-be-served-like-kings-and-queens",
+      "source_name": "IGN"
+    },
+    {
+      "slug": "blizzard-reveals-world-of-warcraft-forever-feature",
+      "category": "PC",
+      "title_en": "Blizzard Reveals the World of Warcraft Forever Feature 'We Simply Must Hold the Line On'",
+      "title_es": "Blizzard revela la característica de World of Warcraft Forever que 'simplemente debemos mantener'",
+      "dek_en": "Blizzard emphasizes preserving a key feature in World of Warcraft Forever to maintain its Classic+ identity, even at the cost of foregoing some quality-of-life improvements.",
+      "dek_es": "Blizzard enfatiza preservar una característica clave en World of Warcraft Forever para mantener su identidad Classic+, incluso a costa de renunciar a algunas mejoras de calidad de vida.",
+      "body_en": [
+        "Blizzard has highlighted a specific feature in World of Warcraft Forever that it insists must remain unchanged to preserve the game's Classic+ identity. This decision involves resisting certain quality-of-life updates present in the retail version.",
+        "World of Warcraft Forever is Blizzard's initiative to maintain a version of the game that appeals to players seeking the original Classic experience with minimal modern alterations. This contrasts with the retail version's ongoing evolution.",
+        "This stance matters as it defines the experience for a dedicated player segment and influences how Blizzard balances legacy content with modernization efforts in a long-running MMO."
+      ],
+      "body_es": [
+        "Blizzard ha destacado una característica específica en World of Warcraft Forever que insiste debe permanecer sin cambios para preservar la identidad Classic+ del juego. Esta decisión implica resistir ciertas mejoras de calidad de vida presentes en la versión retail.",
+        "World of Warcraft Forever es la iniciativa de Blizzard para mantener una versión del juego que atraiga a jugadores que buscan la experiencia clásica original con mínimas alteraciones modernas. Esto contrasta con la evolución continua de la versión retail.",
+        "Esta postura es relevante porque define la experiencia para un segmento dedicado de jugadores e influye en cómo Blizzard equilibra el contenido legado con los esfuerzos de modernización en un MMO de larga duración."
+      ],
+      "source_url": "https://www.ign.com/articles/blizzard-reveals-the-world-of-warcraft-forever-feature-we-simply-must-hold-the-line-on",
+      "source_name": "IGN"
+    },
+    {
+      "slug": "nodusfall-hands-on-preview",
       "category": "Console",
-      "title_en": "Suspiciously Crisp-Looking Pokémon Ruby and Sapphire Footage Sparks Fresh Nintendo Switch Port Speculation",
-      "title_es": "Un nuevo vídeo oficial de Pokémon levanta sospechas: los fans piensan que Rubí y Zafiro llegarán a Switch",
-      "dek_en": "Official footage of Pokémon Ruby and Sapphire with enhanced visuals fuels rumors of a Switch port.",
-      "dek_es": "Imágenes oficiales de Pokémon Rubí y Zafiro con gráficos mejorados alimentan rumores sobre un port para Switch.",
+      "title_en": "Nodusfall Hands-On Preview: It’s Hoyoverse’s New One About Squadding Up and Killing Really, Really Big Monsters",
+      "title_es": "Nodusfall vista previa práctica: lo nuevo de Hoyoverse sobre formar equipos y matar monstruos realmente grandes",
+      "dek_en": "Nodusfall is Hoyoverse's latest action game focusing on cooperative play and battling massive monsters, offering a fresh experience in the co-op genre.",
+      "dek_es": "Nodusfall es el último juego de acción de Hoyoverse que se centra en el juego cooperativo y la lucha contra monstruos gigantes, ofreciendo una experiencia fresca en el género cooperativo.",
       "body_en": [
-        "The official Japanese Pokémon account shared footage of Pokémon Ruby and Sapphire that appears significantly sharper than the original Game Boy Advance versions. This has sparked speculation about a possible Nintendo Switch release.",
-        "Pokémon Ruby and Sapphire are third-generation titles originally released in 2003. Nintendo has a history of remastering classic Pokémon games for newer consoles, making a Switch port plausible.",
-        "This development matters as it could bring classic Pokémon titles to a modern audience with updated visuals and gameplay improvements, expanding the franchise's reach on current hardware."
+        "Nodusfall is Hoyoverse's new action title emphasizing squad-based gameplay and combat against enormous monsters. Early impressions note its engaging mechanics and depth in co-op management, distinguishing it within the current action game landscape.",
+        "Hoyoverse, known for Genshin Impact, is expanding its portfolio with Nodusfall, which diverges from its open-world RPG roots to deliver a focused multiplayer experience. The game balances accessibility with strategic complexity.",
+        "This matters as it diversifies Hoyoverse's offerings and provides players seeking cooperative action games with a new option. It also reflects ongoing trends toward team-based monster hunting in the industry."
       ],
       "body_es": [
-        "La cuenta oficial japonesa de Pokémon compartió un vídeo de Pokémon Rubí y Zafiro que se ve notablemente más nítido que las versiones originales para Game Boy Advance. Esto ha generado especulaciones sobre un posible lanzamiento para Nintendo Switch.",
-        "Pokémon Rubí y Zafiro son títulos de tercera generación lanzados originalmente en 2003. Nintendo tiene experiencia remasterizando juegos clásicos de Pokémon para consolas más recientes, lo que hace plausible un port para Switch.",
-        "Este desarrollo es importante porque podría llevar títulos clásicos de Pokémon a una audiencia moderna con gráficos y mejoras en la jugabilidad, ampliando el alcance de la franquicia en hardware actual."
+        "Nodusfall es el nuevo título de acción de Hoyoverse que enfatiza el juego en escuadrón y el combate contra monstruos enormes. Las primeras impresiones destacan sus mecánicas atractivas y profundidad en la gestión cooperativa, diferenciándolo en el panorama actual de juegos de acción.",
+        "Hoyoverse, conocido por Genshin Impact, está ampliando su portafolio con Nodusfall, que se aleja de sus raíces RPG de mundo abierto para ofrecer una experiencia multijugador enfocada. El juego equilibra accesibilidad con complejidad estratégica.",
+        "Esto es relevante porque diversifica la oferta de Hoyoverse y brinda a los jugadores que buscan juegos de acción cooperativos una nueva opción. También refleja tendencias actuales hacia la caza de monstruos en equipo en la industria."
       ],
-      "source_url": "https://www.ign.com/articles/suspiciously-crisp-looking-pokemon-ruby-and-sapphire-footage-sparks-fresh-nintendo-switch-port-speculation",
+      "source_url": "https://www.ign.com/articles/nodusfall-hands-on-preview-its-hoyoverses-new-one-about-squadding-up-and-killing-really-really-big-monsters",
       "source_name": "IGN"
     },
     {
-      "slug": "double-fine-kickstarter-ghost-of-yotei-actress",
-      "category": "Industry",
-      "title_en": "Ghost of Yotei Actress to Collaborate on New Double Fine Project if Kickstarter Surpasses $600,000",
-      "title_es": "La actriz de Ghost of Yotei colaborará en lo nuevo de Double Fine si el Kickstarter supera los 600.000 dólares",
-      "dek_en": "Double Fine's upcoming small game project will feature Ghost of Yotei's actress if funding goals are met.",
-      "dek_es": "El próximo juego pequeño de Double Fine contará con la actriz de Ghost of Yotei si se alcanza la meta de financiación.",
+      "slug": "manhattan-under-siege",
+      "category": "Console",
+      "title_en": "MANHATTAN UNDER SIEGE",
+      "title_es": "MANHATTAN BAJO ASALTO",
+      "dek_en": "",
+      "dek_es": "",
       "body_en": [
-        "Double Fine's Kickstarter campaign to decide their next small game has surpassed $500,000, with four finalists competing for selection. The actress from Ghost of Yotei will join the project if the campaign exceeds $600,000.",
-        "Double Fine, known for Psychonauts and Brutal Legend, is engaging its community to choose its next smaller-scale game. This approach allows fans to influence development direction.",
-        "This matters as it demonstrates Double Fine's commitment to community-driven projects and highlights the potential for notable talent involvement based on crowdfunding success."
+        "A new game titled MANHATTAN UNDER SIEGE has been announced, promising an intense urban combat experience set in New York City. Details remain limited but the title suggests a focus on tactical gameplay within a densely populated environment.",
+        "Urban warfare games have a dedicated audience, and setting the action in Manhattan offers unique opportunities for verticality and close-quarters combat. The game could join a niche of tactical shooters with a strong narrative component.",
+        "This announcement is relevant as it adds to the growing catalog of urban combat games and may attract players interested in realistic, tactical scenarios in iconic city settings."
       ],
       "body_es": [
-        "La campaña de Kickstarter de Double Fine para decidir su próximo juego pequeño ha superado los 500.000 dólares, con cuatro finalistas compitiendo por la selección. La actriz de Ghost of Yotei se unirá al proyecto si la campaña supera los 600.000 dólares.",
-        "Double Fine, conocido por Psychonauts y Brutal Legend, involucra a su comunidad para elegir su próximo juego de menor escala. Este enfoque permite a los fans influir en la dirección del desarrollo.",
-        "Esto es relevante porque demuestra el compromiso de Double Fine con proyectos impulsados por la comunidad y destaca la posible participación de talento destacado según el éxito del crowdfunding."
+        "Se ha anunciado un nuevo juego titulado MANHATTAN BAJO ASALTO, que promete una intensa experiencia de combate urbano ambientada en Nueva York. Los detalles son limitados, pero el título sugiere un enfoque en la jugabilidad táctica dentro de un entorno densamente poblado.",
+        "Los juegos de guerra urbana tienen una audiencia dedicada, y ambientar la acción en Manhattan ofrece oportunidades únicas para el combate en espacios verticales y cerrados. El juego podría unirse a un nicho de shooters tácticos con un fuerte componente narrativo.",
+        "Este anuncio es relevante porque amplía el catálogo creciente de juegos de combate urbano y puede atraer a jugadores interesados en escenarios tácticos realistas en entornos urbanos icónicos."
       ],
-      "source_url": "https://vandal.elespanol.com/noticia/2026264031/la-actriz-de-ghost-of-yotei-colaborara-en-lo-nuevo-de-double-fine-si-el-kickstarter-supera-los-600000-dolares/",
-      "source_name": "Vandal"
-    },
-    {
-      "slug": "kojima-xbox-turnaround-catalyst",
-      "category": "Industry",
-      "title_en": "Hideo Kojima Could Be the Catalyst for an Xbox Turnaround",
-      "title_es": "Hideo Kojima podría ser el catalizador para un giro en Xbox",
-      "dek_en": "Kojima's move from PlayStation to Xbox is seen as a major strategic shift for the platform.",
-      "dek_es": "El paso de Kojima de PlayStation a Xbox se considera un cambio estratégico importante para la plataforma.",
-      "body_en": [
-        "Hideo Kojima, previously associated with PlayStation, has joined Xbox, a move highlighted at the Tokyo Game Show. Xbox is positioning Kojima as a key figure in its franchise lineup and marketing.",
-        "Kojima is a renowned game creator known for innovative titles. His transition to Xbox marks a significant shift in industry partnerships and platform exclusivity.",
-        "This matters as Kojima's involvement could influence Xbox's market positioning and attract new audiences, impacting competitive dynamics in the console space."
-      ],
-      "body_es": [
-        "Hideo Kojima, anteriormente vinculado a PlayStation, se ha unido a Xbox, un movimiento destacado en el Tokyo Game Show. Xbox está posicionando a Kojima como una figura clave en su línea de franquicias y marketing.",
-        "Kojima es un creador de juegos reconocido por sus títulos innovadores. Su transición a Xbox representa un cambio significativo en las alianzas de la industria y la exclusividad de plataformas.",
-        "Esto es relevante porque la participación de Kojima podría influir en la posición de mercado de Xbox y atraer nuevas audiencias, afectando la dinámica competitiva en el espacio de consolas."
-      ],
-      "source_url": "https://www.ign.com/articles/hideo-kojima-could-be-the-catalyst-for-an-xbox-turnaround",
+      "source_url": "https://www.ign.com/articles/manhattan-under-siege",
       "source_name": "IGN"
     }
   ]
