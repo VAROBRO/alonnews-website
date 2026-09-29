@@ -1,164 +1,184 @@
 {
-  "generatedAt": "2026-09-25T18:25:38.188Z",
+  "generatedAt": "2026-09-29T19:14:49.760Z",
   "articles": [
     {
-      "slug": "resident-evil-requiem-passes-500m-revenue-platform-sales-analysis",
+      "slug": "gta-6-simulates-tropical-storms-and-hurricanes",
       "category": "Console",
-      "title_en": "Resident Evil Requiem Passes $500M Revenue, Analysis Shows 8.6% Sales Were on Xbox",
-      "title_es": "Resident Evil Requiem supera los 500 millones de dólares en ingresos, análisis muestra que el 8,6% de las ventas fueron en Xbox",
-      "dek_en": "Resident Evil Requiem has generated over $500 million in revenue, with only 8.6% of sales on Xbox and the majority split between PS5 and Steam.",
-      "dek_es": "Resident Evil Requiem ha generado más de 500 millones de dólares en ingresos, con solo el 8,6% de las ventas en Xbox y la mayoría repartida entre PS5 y Steam.",
+      "title_en": "Rockstar Confirms GTA 6 Simulates Tropical Storms and Hurricanes",
+      "title_es": "Confirmado: Habrá huracanes en GTA VI como parte de su sistema de climatología extrema",
+      "dek_en": "Grand Theft Auto 6 will feature dynamic weather effects including simulated tropical storms and hurricanes, Rockstar confirms.",
+      "dek_es": "Grand Theft Auto VI contará con efectos climáticos dinámicos que incluyen tormentas tropicales y huracanes simulados, confirma Rockstar.",
       "body_en": [
-        "Resident Evil Requiem has surpassed $500 million in revenue since its release on February 27, 2026. New sales data reveals that only 8.6% of copies sold were on Xbox platforms, while the remaining 91.4% were shared between PlayStation 5 and Steam on PC.",
-        "The game’s strong performance on PS5 and Steam highlights the franchise’s continued appeal on Sony’s console and PC platforms. This distribution contrasts with previous Resident Evil titles, which often had a more balanced platform sales ratio.",
-        "Understanding platform-specific sales is crucial for publishers and developers when planning marketing and development priorities. For players, this data reflects where the community and support for the game are most concentrated."
+        "Rockstar Games has confirmed that Grand Theft Auto 6 will include a dynamic weather system capable of simulating tropical storms and hurricanes. This information was revealed in the latest issue of Game Informer, which features a 14-page special on the game.",
+        "The inclusion of extreme weather phenomena marks a significant advancement in the open-world design of GTA 6, aiming to enhance environmental realism and player immersion. Previous entries in the series featured weather effects, but none with this level of complexity or impact on gameplay.",
+        "For players, this means a more unpredictable and immersive world where weather can influence navigation, combat, and exploration. From a market perspective, it demonstrates Rockstar's commitment to pushing technical boundaries in open-world games."
       ],
       "body_es": [
-        "Resident Evil Requiem ha superado los 500 millones de dólares en ingresos desde su lanzamiento el 27 de febrero de 2026. Nuevos datos de ventas revelan que solo el 8,6% de las copias vendidas fueron en plataformas Xbox, mientras que el 91,4% restante se repartió entre PlayStation 5 y Steam en PC.",
-        "El sólido desempeño del juego en PS5 y Steam destaca el continuo atractivo de la franquicia en la consola de Sony y en PC. Esta distribución contrasta con títulos anteriores de Resident Evil, que solían tener una proporción de ventas más equilibrada entre plataformas.",
-        "Comprender las ventas específicas por plataforma es fundamental para que editoras y desarrolladores planifiquen prioridades de marketing y desarrollo. Para los jugadores, estos datos reflejan dónde se concentra la comunidad y el soporte del juego."
+        "Rockstar Games ha confirmado que Grand Theft Auto VI contará con un sistema climático dinámico capaz de simular tormentas tropicales y huracanes. Esta información se reveló en el último número de Game Informer, que incluye un especial de 14 páginas sobre el juego.",
+        "La inclusión de fenómenos meteorológicos extremos supone un avance significativo en el diseño del mundo abierto de GTA VI, buscando mejorar el realismo ambiental y la inmersión del jugador. Las entregas anteriores de la serie tenían efectos climáticos, pero ninguno con este nivel de complejidad o impacto en la jugabilidad.",
+        "Para los jugadores, esto implica un mundo más impredecible e inmersivo donde el clima puede influir en la navegación, el combate y la exploración. Desde el punto de vista del mercado, demuestra el compromiso de Rockstar con superar los límites técnicos en juegos de mundo abierto."
       ],
-      "source_url": "https://www.ign.com/articles/as-resident-evil-requiem-passes-500m-revenue-analysis-shows-86-sales-were-on-xbox-with-remaining-91-shared-between-ps5-and-steam",
+      "source_url": "https://www.ign.com/articles/rockstar-confirms-gta-6-simulates-tropical-storms-and-hurricanes",
       "source_name": "IGN"
     },
     {
-      "slug": "blizzard-stands-firm-on-wow-forever-classic-focus",
-      "category": "Industry",
-      "title_en": "Blizzard Dev Doubles Down on World of Warcraft Forever Being for Classic Players",
-      "title_es": "Desarrollador de Blizzard reafirma que World of Warcraft Forever es para jugadores de Classic",
-      "dek_en": "Blizzard confirms World of Warcraft Forever will remain focused on Classic players, maintaining the divide from Retail WoW.",
-      "dek_es": "Blizzard confirma que World of Warcraft Forever seguirá centrado en jugadores de Classic, manteniendo la división con WoW Retail.",
-      "body_en": [
-        "A Blizzard developer has reiterated that World of Warcraft Forever is designed specifically for Classic players, emphasizing a clear separation from the Retail version of the game. This stance comes amid ongoing discussions about the differences between the two WoW experiences.",
-        "World of Warcraft Forever has seen significant success since launch, appealing to players who prefer the Classic gameplay style and content. The Retail version continues to evolve separately with new expansions and features.",
-        "This firm positioning clarifies Blizzard’s approach to catering to distinct player bases. For players, it means that WoW Forever will continue to offer a Classic-focused experience without Retail influences, preserving the game’s original mechanics and community."
-      ],
-      "body_es": [
-        "Un desarrollador de Blizzard ha reiterado que World of Warcraft Forever está diseñado específicamente para jugadores de Classic, enfatizando una separación clara con la versión Retail del juego. Esta postura surge en medio de debates sobre las diferencias entre ambas experiencias de WoW.",
-        "World of Warcraft Forever ha tenido un éxito significativo desde su lanzamiento, atrayendo a jugadores que prefieren el estilo y contenido de Classic. La versión Retail continúa evolucionando por separado con nuevas expansiones y características.",
-        "Esta posición firme aclara el enfoque de Blizzard para atender a bases de jugadores distintas. Para los jugadores, significa que WoW Forever seguirá ofreciendo una experiencia centrada en Classic sin influencias de Retail, preservando la mecánica y comunidad original del juego."
-      ],
-      "source_url": "https://www.ign.com/articles/blizzard-dev-doubles-down-on-world-of-warcraft-forever-being-for-classic-players",
-      "source_name": "IGN"
-    },
-    {
-      "slug": "blizzard-human-review-bans-wow-forever-beta-offensive-names",
-      "category": "Industry",
-      "title_en": "Blizzard Insists Actual Humans Are Reviewing WoW Forever Beta Character Name Bans",
-      "title_es": "Blizzard asegura que humanos revisan las prohibiciones de nombres de personajes en la beta de WoW Forever",
-      "dek_en": "Blizzard confirms that human moderators are reviewing and banning offensive character names in the World of Warcraft: Forever beta.",
-      "dek_es": "Blizzard confirma que moderadores humanos revisan y prohíben nombres ofensivos de personajes en la beta de World of Warcraft: Forever.",
-      "body_en": [
-        "Blizzard has stated that actual human moderators are reviewing all banned character names in the World of Warcraft: Forever beta. The company is actively banning players who create highly offensive names and has warned against testing the system with inappropriate content.",
-        "The beta phase of WoW Forever includes strict moderation to maintain community standards and prevent offensive or disruptive behavior. This approach aims to ensure a respectful environment during testing before the full release.",
-        "For players, this means that Blizzard is taking moderation seriously in the beta, which could influence the quality and tone of the community. It also signals the company’s commitment to enforcing naming policies consistently."
-      ],
-      "body_es": [
-        "Blizzard ha declarado que moderadores humanos reales están revisando todos los nombres de personajes prohibidos en la beta de World of Warcraft: Forever. La compañía está prohibiendo activamente a jugadores que crean nombres altamente ofensivos y ha advertido contra probar el sistema con contenido inapropiado.",
-        "La fase beta de WoW Forever incluye una moderación estricta para mantener los estándares comunitarios y prevenir comportamientos ofensivos o disruptivos. Este enfoque busca asegurar un ambiente respetuoso durante las pruebas antes del lanzamiento completo.",
-        "Para los jugadores, esto significa que Blizzard está tomando en serio la moderación en la beta, lo que podría influir en la calidad y el tono de la comunidad. También señala el compromiso de la empresa con la aplicación consistente de las políticas de nombres."
-      ],
-      "source_url": "https://www.ign.com/articles/blizzard-insists-actual-humans-are-reading-through-all-the-wow-forever-beta-character-names-it-banned-players-for-this-week",
-      "source_name": "IGN"
-    },
-    {
-      "slug": "ex-rockstar-dev-says-gta-6-on-switch-2-does-not-make-sense",
+      "slug": "gta-6-major-new-details-revealed",
       "category": "Console",
-      "title_en": "Ex-Rockstar Developer Says GTA 6 on Nintendo Switch 2 'Does Not Make Sense'",
-      "title_es": "Exdesarrollador de Rockstar dice que GTA 6 en Nintendo Switch 2 'no tiene sentido'",
-      "dek_en": "Former Rockstar open-world designer Jérémy Hartvick argues that developing Grand Theft Auto 6 for Nintendo Switch 2 is not a sensible decision.",
-      "dek_es": "El exdiseñador de mundo abierto de Rockstar, Jérémy Hartvick, sostiene que desarrollar Grand Theft Auto 6 para Nintendo Switch 2 no es una decisión sensata.",
+      "title_en": "GTA 6: All the Major New Details Revealed Today, Including Animal Species, Side Activities, and Fast Travel",
+      "title_es": "GTA 6 estrena 12 nuevas imágenes publicadas en Game Informer",
+      "dek_en": "The latest Game Informer cover story reveals new details about GTA 6, including animal species, side activities, and fast travel mechanics.",
+      "dek_es": "El último reportaje de portada de Game Informer revela nuevos detalles sobre GTA 6, incluyendo especies animales, actividades secundarias y mecánicas de viaje rápido.",
       "body_en": [
-        "Jérémy Hartvick, a former open-world designer at Rockstar Games, has stated that creating a version of Grand Theft Auto 6 for the Nintendo Switch 2 'does not make sense.' He argues that the technical and design challenges make such a port impractical.",
-        "Rockstar Games is known for pushing hardware limits with its flagship titles, and GTA 6 is expected to be a highly demanding game. The Nintendo Switch 2’s hardware capabilities may not align with the requirements of this next-generation open-world experience.",
-        "This perspective is relevant for players and the market as it sets expectations about platform availability. It suggests that GTA 6 will likely focus on more powerful consoles and PC, affecting where players can access the game."
+        "Game Informer's recent 14-page feature on Grand Theft Auto 6 has unveiled several new gameplay details. The game will include a variety of animal species, expanded side activities, and a fast travel system to improve player movement across the open world.",
+        "These additions build upon Rockstar's established open-world formula, aiming to create a more vibrant and interactive environment. The inclusion of diverse wildlife and side content suggests a deeper simulation of the game world beyond main missions.",
+        "For players, these features offer more varied gameplay options and convenience in exploration. The enhancements also indicate Rockstar's focus on refining player experience and world-building in the upcoming release."
       ],
       "body_es": [
-        "Jérémy Hartvick, exdiseñador de mundo abierto en Rockstar Games, ha declarado que crear una versión de Grand Theft Auto 6 para Nintendo Switch 2 'no tiene sentido.' Argumenta que los desafíos técnicos y de diseño hacen que un port así sea poco práctico.",
-        "Rockstar Games es conocido por exprimir al máximo el hardware con sus títulos principales, y se espera que GTA 6 sea un juego muy exigente. Las capacidades del hardware de Nintendo Switch 2 podrían no estar alineadas con los requisitos de esta experiencia de mundo abierto de próxima generación.",
-        "Esta perspectiva es relevante para jugadores y mercado, ya que establece expectativas sobre la disponibilidad en plataformas. Sugiere que GTA 6 probablemente se centrará en consolas más potentes y PC, afectando dónde los jugadores podrán acceder al juego."
+        "El reciente reportaje de 14 páginas de Game Informer sobre Grand Theft Auto VI ha revelado varios detalles nuevos de la jugabilidad. El juego incluirá diversas especies animales, actividades secundarias ampliadas y un sistema de viaje rápido para mejorar el desplazamiento del jugador por el mundo abierto.",
+        "Estas incorporaciones se basan en la fórmula de mundo abierto establecida por Rockstar, con el objetivo de crear un entorno más vibrante e interactivo. La inclusión de fauna diversa y contenido secundario sugiere una simulación más profunda del mundo del juego más allá de las misiones principales.",
+        "Para los jugadores, estas características ofrecen opciones de juego más variadas y comodidad en la exploración. Las mejoras también indican el enfoque de Rockstar en perfeccionar la experiencia del jugador y la construcción del mundo en el próximo lanzamiento."
       ],
-      "source_url": "https://vandal.elespanol.com/noticia/2026268032/un-exdesarrollador-de-rockstar-dice-que-gta-6-en-nintendo-switch-2-no-tiene-sentido/",
+      "source_url": "https://www.ign.com/articles/gta-6-all-the-new-details-revealed-today-including-animal-species-side-activities-and-fast-travel",
+      "source_name": "IGN"
+    },
+    {
+      "slug": "gta-6-reveal-crashes-game-informer-app",
+      "category": "Industry",
+      "title_en": "GTA 6 Reveal Crashes Game Informer App Amid Confusion Over Free Coverage",
+      "title_es": "La revelación de GTA 6 colapsa la app de Game Informer por confusión sobre cobertura gratuita",
+      "dek_en": "Game Informer's website and app crashed during the exclusive GTA 6 preview due to unexpected traffic and confusion over free access.",
+      "dek_es": "El sitio web y la app de Game Informer colapsaron durante la exclusiva previa de GTA 6 debido al tráfico inesperado y confusión sobre el acceso gratuito.",
+      "body_en": [
+        "Game Informer's website and mobile app experienced crashes during the debut of its exclusive Grand Theft Auto 6 preview. The surge in traffic overwhelmed servers, compounded by confusion about whether the coverage was freely accessible.",
+        "This incident occurred as Game Informer released a detailed 14-page feature on GTA 6, attracting significant attention from fans eager for new information. The technical issues temporarily hindered access to the content.",
+        "The event underscores the high demand and anticipation surrounding GTA 6. It also highlights challenges media outlets face in managing digital infrastructure during major exclusive releases."
+      ],
+      "body_es": [
+        "El sitio web y la aplicación móvil de Game Informer sufrieron caídas durante el estreno de su exclusiva previa de Grand Theft Auto VI. El aumento de tráfico saturó los servidores, agravado por la confusión sobre si la cobertura era de acceso gratuito.",
+        "Este incidente ocurrió cuando Game Informer publicó un reportaje detallado de 14 páginas sobre GTA VI, atrayendo gran atención de los fans ansiosos por nueva información. Los problemas técnicos dificultaron temporalmente el acceso al contenido.",
+        "El evento subraya la alta demanda y expectación en torno a GTA VI. También pone de manifiesto los retos que enfrentan los medios para gestionar la infraestructura digital durante lanzamientos exclusivos importantes."
+      ],
+      "source_url": "https://www.ign.com/articles/gta-6-reveal-crashes-game-informer-app-amid-confusion-over-free-coverage",
+      "source_name": "IGN"
+    },
+    {
+      "slug": "the-witcher-3-remastered-breaks-steam-concurrent-player-record",
+      "category": "PC",
+      "title_en": "The Witcher 3 Remastered Has Already Broken Steam Concurrent Player Record",
+      "title_es": "The Witcher 3 Remastered ya ha batido el récord de jugadores simultáneos en Steam",
+      "dek_en": "Just hours after launch, The Witcher 3 Remastered surpassed its previous record for concurrent players on Steam.",
+      "dek_es": "Pocas horas después de su lanzamiento, The Witcher 3 Remastered superó su récord anterior de jugadores simultáneos en Steam.",
+      "body_en": [
+        "The Witcher 3 Remastered has set a new concurrent player record on Steam shortly after its release. The remaster attracted more simultaneous players than any previous peak for the game on the platform.",
+        "This remastered edition features updated graphics and technical improvements while retaining core gameplay elements. It follows CD Projekt Red's ongoing efforts to support and enhance their flagship RPG.",
+        "The record indicates sustained player interest in The Witcher 3, reinforcing its status as a major title in the RPG genre. It also reflects the market's positive reception to remastered versions of classic games."
+      ],
+      "body_es": [
+        "The Witcher 3 Remastered ha establecido un nuevo récord de jugadores simultáneos en Steam poco después de su lanzamiento. La remasterización atrajo a más jugadores simultáneos que cualquier pico anterior del juego en la plataforma.",
+        "Esta edición remasterizada presenta mejoras gráficas y técnicas manteniendo los elementos centrales de la jugabilidad. Sigue los esfuerzos continuos de CD Projekt Red para apoyar y mejorar su RPG emblemático.",
+        "El récord indica un interés sostenido de los jugadores en The Witcher 3, reforzando su estatus como un título destacado en el género RPG. También refleja la buena acogida del mercado hacia versiones remasterizadas de juegos clásicos."
+      ],
+      "source_url": "https://www.ign.com/articles/the-witcher-3-remastered-has-already-broken-steam-concurrent-player-record",
+      "source_name": "IGN"
+    },
+    {
+      "slug": "the-witcher-3-remastered-low-polygon-pigeons-survive",
+      "category": "PC",
+      "title_en": "The Witcher 3 Fans Relieved to Find Low-Polygon Pigeons Have Survived the Remaster Process",
+      "title_es": "Los fans de The Witcher 3 se alegran al descubrir que las palomas de bajo poligonaje han sobrevivido al proceso de remasterización",
+      "dek_en": "CD Projekt Red preserved the iconic low-polygon pigeons in The Witcher 3 Remastered despite extensive graphical upgrades.",
+      "dek_es": "CD Projekt Red ha conservado las icónicas palomas de bajo poligonaje en The Witcher 3 Remastered a pesar de las mejoras gráficas extensas.",
+      "body_en": [
+        "Despite numerous graphical improvements in The Witcher 3 Remastered, developer CD Projekt Red has kept the game's distinctive low-polygon pigeons intact. This detail was confirmed by fans who noticed the unchanged models post-remaster.",
+        "The pigeons have become a minor but beloved aspect of the original game’s charm, symbolizing the balance between technical upgrades and preserving original artistic choices.",
+        "Maintaining such elements respects the game's legacy and player nostalgia. It also demonstrates attention to detail in remastering, blending new visuals with familiar features."
+      ],
+      "body_es": [
+        "A pesar de las numerosas mejoras gráficas en The Witcher 3 Remastered, el desarrollador CD Projekt Red ha mantenido intactas las distintivas palomas de bajo poligonaje del juego. Los fans confirmaron este detalle al notar que los modelos no cambiaron tras la remasterización.",
+        "Las palomas se han convertido en un aspecto menor pero querido del encanto original del juego, simbolizando el equilibrio entre las mejoras técnicas y la preservación de las elecciones artísticas originales.",
+        "Conservar estos elementos respeta el legado del juego y la nostalgia de los jugadores. También demuestra atención al detalle en la remasterización, combinando nuevos gráficos con características familiares."
+      ],
+      "source_url": "https://www.ign.com/articles/the-witcher-3-fans-relieved-to-find-low-polygon-pigeons-have-survived-the-remaster-process",
+      "source_name": "IGN"
+    },
+    {
+      "slug": "modern-warfare-4-changes-double-xp-token-consumption",
+      "category": "Console",
+      "title_en": "Modern Warfare 4 Will Change Double XP Token Usage: Only Consumed During Playtime",
+      "title_es": "Modern Warfare 4 cambiará el funcionamiento de las fichas de doble XP: sólo se consumirán con el tiempo de juego",
+      "dek_en": "Activision announced that in Call of Duty: Modern Warfare 4, double XP tokens will only be consumed while the player is actively playing.",
+      "dek_es": "Activision anunció que en Call of Duty: Modern Warfare 4, las fichas de doble XP solo se consumirán mientras el jugador esté en partida activa.",
+      "body_en": [
+        "Activision has revealed a change to the double XP token system in Call of Duty: Modern Warfare 4. Tokens will now only be consumed during actual gameplay time, rather than counting down regardless of player activity.",
+        "This adjustment aims to provide a fairer experience for players who want to maximize their XP gains without losing token time while offline or inactive. It reflects ongoing efforts to improve progression systems in multiplayer shooters.",
+        "For players, this means more efficient use of double XP tokens and potentially faster leveling. It also aligns with industry trends toward player-friendly reward mechanics."
+      ],
+      "body_es": [
+        "Activision ha revelado un cambio en el sistema de fichas de doble XP en Call of Duty: Modern Warfare 4. Las fichas ahora solo se consumirán durante el tiempo de juego activo, en lugar de descontarse independientemente de la actividad del jugador.",
+        "Este ajuste busca ofrecer una experiencia más justa para los jugadores que desean maximizar sus ganancias de XP sin perder tiempo de ficha mientras están desconectados o inactivos. Refleja esfuerzos continuos para mejorar los sistemas de progresión en shooters multijugador.",
+        "Para los jugadores, esto significa un uso más eficiente de las fichas de doble XP y un posible nivelado más rápido. También se alinea con las tendencias de la industria hacia mecánicas de recompensa más amigables."
+      ],
+      "source_url": "https://vandal.elespanol.com/noticia/2026272031/modern-warfare-4-cambiara-el-funcionamiento-de-las-fichas-de-doble-xp-solo-se-consumiran-con-el-tiempo-de-juego/",
       "source_name": "Vandal"
     },
     {
-      "slug": "walmart-geforce-week-sale-gaming-pc-deals-selling-out",
-      "category": "Hardware",
-      "title_en": "The Walmart GeForce Week Sale Has Black Friday Worthy Gaming PC Deals, But They're Selling Out",
-      "title_es": "La venta GeForce Week de Walmart ofrece ofertas de PC gaming dignas del Black Friday, pero se están agotando",
-      "dek_en": "Walmart’s GeForce Week sale features some of the best prices of the year on prebuilt gaming PCs with RTX 5060 to 5090 GPUs, though stock is rapidly selling out.",
-      "dek_es": "La venta GeForce Week de Walmart presenta algunos de los mejores precios del año en PCs gaming preconstruidas con GPUs RTX 5060 a 5090, aunque el stock se está agotando rápidamente.",
-      "body_en": [
-        "Walmart’s GeForce Week sale is currently offering significant discounts on prebuilt gaming PCs equipped with Nvidia RTX 5060 to 5090 graphics cards. These deals are among the best prices seen this year but are quickly selling out due to high demand.",
-        "The sale highlights the growing availability of high-performance gaming PCs for consumers looking to upgrade or enter the PC gaming market. Nvidia’s RTX 5000 series GPUs continue to be a popular choice for their ray tracing and AI capabilities.",
-        "For gamers and the hardware market, the rapid sell-out of these deals indicates strong consumer interest in current-generation gaming PCs. It also reflects ongoing demand for powerful hardware to support new game releases and streaming."
-      ],
-      "body_es": [
-        "La venta GeForce Week de Walmart está ofreciendo descuentos significativos en PCs gaming preconstruidas equipadas con tarjetas gráficas Nvidia RTX 5060 a 5090. Estas ofertas son de los mejores precios vistos este año, pero se están agotando rápidamente debido a la alta demanda.",
-        "La venta destaca la creciente disponibilidad de PCs gaming de alto rendimiento para consumidores que buscan actualizar o ingresar al mercado del PC gaming. Las GPUs RTX 5000 de Nvidia siguen siendo una opción popular por sus capacidades de trazado de rayos e inteligencia artificial.",
-        "Para jugadores y el mercado de hardware, el rápido agotamiento de estas ofertas indica un fuerte interés del consumidor en PCs gaming de última generación. También refleja la demanda continua de hardware potente para soportar nuevos lanzamientos y streaming."
-      ],
-      "source_url": "https://www.ign.com/articles/walmart-geforce-week-sale-2026-best-deals-on-gaming-pcs",
-      "source_name": "IGN"
-    },
-    {
-      "slug": "walmart-geforce-week-sale-black-friday-worthy-gaming-laptop-deals",
-      "category": "Hardware",
-      "title_en": "The Walmart GeForce Week Sale Has Black Friday Worthy Gaming Laptop Deals",
-      "title_es": "La venta GeForce Week de Walmart ofrece ofertas en portátiles gaming dignas del Black Friday",
-      "dek_en": "Walmart’s GeForce Week sale includes some of the best prices of the year on gaming laptops featuring Nvidia RTX 5060 to 5080 GPUs.",
-      "dek_es": "La venta GeForce Week de Walmart incluye algunos de los mejores precios del año en portátiles gaming con GPUs Nvidia RTX 5060 a 5080.",
-      "body_en": [
-        "During Walmart’s GeForce Week sale, gaming laptops equipped with Nvidia RTX 5060 to 5080 graphics cards are available at prices comparable to Black Friday deals. These discounts represent some of the lowest prices seen this year for high-end gaming laptops.",
-        "Gaming laptops with RTX 5000 series GPUs offer advanced ray tracing and AI features, catering to players who need portable yet powerful hardware. The sale provides an opportunity for consumers to acquire these machines at reduced costs.",
-        "This matters to gamers seeking mobility without sacrificing performance. The availability of discounted laptops with current-generation GPUs supports the growing trend of gaming on the go and competitive play outside traditional desktop setups."
-      ],
-      "body_es": [
-        "Durante la venta GeForce Week de Walmart, portátiles gaming equipados con tarjetas gráficas Nvidia RTX 5060 a 5080 están disponibles a precios comparables a los del Black Friday. Estos descuentos representan algunos de los precios más bajos vistos este año en portátiles gaming de alta gama.",
-        "Los portátiles gaming con GPUs RTX 5000 ofrecen funciones avanzadas de trazado de rayos e inteligencia artificial, dirigidos a jugadores que necesitan hardware potente y portátil. La venta brinda una oportunidad para que los consumidores adquieran estas máquinas a costos reducidos.",
-        "Esto es relevante para jugadores que buscan movilidad sin sacrificar rendimiento. La disponibilidad de portátiles con GPUs de última generación a precio rebajado apoya la tendencia creciente de jugar en movimiento y competir fuera de configuraciones de escritorio tradicionales."
-      ],
-      "source_url": "https://www.ign.com/articles/the-walmart-geforce-week-sale-has-black-friday-worthy-gaming-laptop-deals",
-      "source_name": "IGN"
-    },
-    {
-      "slug": "lego-astro-bot-set-confirmed-free-gift-with-ps1-lego-purchase",
-      "category": "Console",
-      "title_en": "LEGO Astro Bot Set Confirmed as Free Gift with Purchase of PlayStation LEGO Set",
-      "title_es": "Set LEGO Astro Bot confirmado como regalo gratuito con la compra del set LEGO de PlayStation",
-      "dek_en": "LEGO has officially confirmed that an Astro Bot LEGO set will be offered as a free gift for early buyers of the upcoming LEGO PlayStation 1 set releasing in October.",
-      "dek_es": "LEGO ha confirmado oficialmente que un set LEGO de Astro Bot se ofrecerá como regalo gratuito para los compradores anticipados del próximo set LEGO PlayStation 1 que se lanzará en octubre.",
-      "body_en": [
-        "LEGO has confirmed that customers who purchase the LEGO PlayStation 1 set early will receive a free Astro Bot LEGO set as a gift. This promotion is set to coincide with the October release of the PlayStation-themed LEGO set.",
-        "The Astro Bot LEGO set ties into Sony’s popular Astro Bot franchise, which has been well received on PlayStation consoles. This collaboration marks a notable crossover between gaming and physical collectibles.",
-        "For collectors and PlayStation fans, this offer adds value to the LEGO PlayStation set purchase. It also reflects ongoing partnerships between gaming companies and toy manufacturers to create unique merchandise."
-      ],
-      "body_es": [
-        "LEGO ha confirmado que los clientes que compren anticipadamente el set LEGO PlayStation 1 recibirán un set LEGO de Astro Bot como regalo. Esta promoción coincidirá con el lanzamiento en octubre del set LEGO temático de PlayStation.",
-        "El set LEGO de Astro Bot está relacionado con la popular franquicia Astro Bot de Sony, bien recibida en consolas PlayStation. Esta colaboración representa un cruce notable entre el mundo del gaming y los coleccionables físicos.",
-        "Para coleccionistas y fans de PlayStation, esta oferta añade valor a la compra del set LEGO PlayStation. También refleja asociaciones continuas entre compañías de videojuegos y fabricantes de juguetes para crear mercancía única."
-      ],
-      "source_url": "https://www.ign.com/articles/lego-astro-bot-set-confirmed-as-free-gift-with-purchase-of-playstation",
-      "source_name": "IGN"
-    },
-    {
-      "slug": "how-one-crash-bandicoot-level-helped-build-naughty-dog",
+      "slug": "warhammer-youtuber-ends-channel-after-10-years",
       "category": "Industry",
-      "title_en": "How One Crash Bandicoot Level Helped Build Naughty Dog",
-      "title_es": "Cómo un nivel de Crash Bandicoot ayudó a construir Naughty Dog",
-      "dek_en": "An early Crash Bandicoot level served as a foundation for Naughty Dog’s cinematic level design approach seen in later titles like Uncharted.",
-      "dek_es": "Un nivel temprano de Crash Bandicoot sirvió como base para el enfoque de diseño cinematográfico de niveles de Naughty Dog, visible en títulos posteriores como Uncharted.",
+      "title_en": "Warhammer YouTuber Pulls the Plug After 10 Years Amid Games Workshop Takedowns, Death Threats, and Doxxing Over 3D Printing Designs",
+      "title_es": "YouTuber de Warhammer cierra su canal tras 10 años entre denuncias de Games Workshop, amenazas y doxxing por diseños de impresión 3D",
+      "dek_en": "A long-running Warhammer content creator has ended their YouTube channel due to legal takedowns, online harassment, and burnout related to 3D printing designs.",
+      "dek_es": "Un creador de contenido de Warhammer con larga trayectoria ha cerrado su canal de YouTube debido a denuncias legales, acoso en línea y agotamiento relacionado con diseños de impresión 3D.",
       "body_en": [
-        "A specific level in the original Crash Bandicoot game played a pivotal role in shaping Naughty Dog’s approach to cinematic level design. This early design solution evolved into a hallmark of the studio’s later triple-A titles, including the Uncharted series.",
-        "Crash Bandicoot’s level design combined platforming challenges with narrative pacing, setting a precedent for immersive gameplay experiences. Naughty Dog refined these techniques over decades to enhance storytelling through level structure.",
-        "This development history matters as it illustrates how foundational design choices influence future game development. Players benefit from more engaging and narratively integrated gameplay that stems from these early innovations."
+        "A prominent Warhammer YouTuber has announced the closure of their channel after a decade of content creation. The decision follows repeated takedowns by Games Workshop targeting 3D printing designs, alongside death threats and doxxing incidents.",
+        "The creator cited burnout and the escalating online harassment as key factors in their departure. This situation highlights ongoing tensions between fan creators and intellectual property holders in the tabletop gaming community.",
+        "The closure impacts the Warhammer fanbase by removing a significant source of community content and discussion. It also raises questions about the balance between IP enforcement and fan creativity."
       ],
       "body_es": [
-        "Un nivel específico del juego original Crash Bandicoot jugó un papel fundamental en la formación del enfoque de diseño cinematográfico de niveles de Naughty Dog. Esta solución de diseño temprana evolucionó hasta convertirse en una característica distintiva de los títulos triple-A posteriores del estudio, incluida la serie Uncharted.",
-        "El diseño de niveles de Crash Bandicoot combinaba desafíos de plataformas con el ritmo narrativo, estableciendo un precedente para experiencias de juego inmersivas. Naughty Dog perfeccionó estas técnicas durante décadas para mejorar la narrativa a través de la estructura de niveles.",
-        "Esta historia de desarrollo es importante porque ilustra cómo las decisiones de diseño fundamentales influyen en el desarrollo futuro de juegos. Los jugadores se benefician de una jugabilidad más atractiva e integrada narrativamente que surge de estas innovaciones iniciales."
+        "Un destacado YouTuber de Warhammer ha anunciado el cierre de su canal tras una década creando contenido. La decisión llega después de repetidos bloqueos por parte de Games Workshop dirigidos a diseños de impresión 3D, junto con amenazas de muerte y doxxing.",
+        "El creador mencionó el agotamiento y el aumento del acoso en línea como factores clave para su retirada. Esta situación pone de manifiesto las tensiones existentes entre creadores aficionados y titulares de propiedad intelectual en la comunidad de juegos de mesa.",
+        "El cierre afecta a la base de fans de Warhammer al eliminar una fuente importante de contenido y debate comunitario. También plantea interrogantes sobre el equilibrio entre la protección de la propiedad intelectual y la creatividad de los fans."
       ],
-      "source_url": "https://www.ign.com/articles/how-one-crash-bandicoot-level-helped-build-naughty-dog",
+      "source_url": "https://www.ign.com/articles/warhammer-youtuber-pulls-the-plug-after-10-years-amid-games-workshop-takedowns-death-threats-and-doxxing-over-3d-printing-designs",
+      "source_name": "IGN"
+    },
+    {
+      "slug": "bbc-ai-generated-doctor-who-episode",
+      "category": "Industry",
+      "title_en": "50-Minute AI-Generated Doctor Who Episode Is 'Pretty Good,' BBC Boss Says",
+      "title_es": "Episodio de Doctor Who generado por IA de 50 minutos es 'bastante bueno', dice jefe de la BBC",
+      "dek_en": "The BBC's director general described a 50-minute AI-generated Doctor Who episode as 'pretty good,' noting the technology reached Hollywood studio standards.",
+      "dek_es": "El director general de la BBC describió un episodio de Doctor Who generado por IA de 50 minutos como 'bastante bueno', señalando que la tecnología alcanzó estándares de estudios de Hollywood.",
+      "body_en": [
+        "The BBC's new director general has publicly praised a 50-minute Doctor Who episode generated entirely by artificial intelligence, calling it 'pretty good.' He stated that the AI technology used was capable of producing content at the standard of a Hollywood studio.",
+        "This development represents a notable milestone in the use of AI for scripted entertainment, demonstrating how machine learning can contribute to creative media production. Doctor Who, a long-running sci-fi series, serves as a high-profile test case.",
+        "For the industry, this signals increasing integration of AI in content creation workflows. For audiences, it may affect expectations around storytelling and production methods in future media."
+      ],
+      "body_es": [
+        "El nuevo director general de la BBC elogió públicamente un episodio de Doctor Who generado íntegramente por inteligencia artificial de 50 minutos, calificándolo de 'bastante bueno'. Afirmó que la tecnología de IA utilizada era capaz de producir contenido al nivel de un estudio de Hollywood.",
+        "Este desarrollo representa un hito notable en el uso de IA para entretenimiento guionizado, demostrando cómo el aprendizaje automático puede contribuir a la producción creativa de medios. Doctor Who, una serie de ciencia ficción de larga duración, sirve como un caso de prueba de alto perfil.",
+        "Para la industria, esto señala una integración creciente de la IA en los flujos de trabajo de creación de contenido. Para las audiencias, puede influir en las expectativas sobre la narrativa y los métodos de producción en futuros medios."
+      ],
+      "source_url": "https://www.ign.com/articles/50-minute-ai-generated-doctor-who-episode-is-pretty-good-bbc-boss-says",
+      "source_name": "IGN"
+    },
+    {
+      "slug": "sony-nintendo-should-keep-current-gen-consoles-longer",
+      "category": "Industry",
+      "title_en": "Sony and Nintendo Should Keep the Current Gen Going for as Long as Possible 'Because People Are Very Happy Using PS5 and Switch 2,' Former PlayStation Exec Says",
+      "title_es": "Sony y Nintendo deberían mantener la generación actual el mayor tiempo posible 'porque la gente está muy contenta usando PS5 y Switch 2', dice exejecutivo de PlayStation",
+      "dek_en": "Former PlayStation executive Shuhei Yoshida advises Sony and Nintendo to extend the lifespan of PS5 and Switch 2 due to high user satisfaction amid rising costs.",
+      "dek_es": "El exejecutivo de PlayStation Shuhei Yoshida aconseja a Sony y Nintendo extender la vida útil de PS5 y Switch 2 debido a la alta satisfacción de usuarios en medio del aumento de costos.",
+      "body_en": [
+        "Shuhei Yoshida, former PlayStation executive, has suggested that Sony and Nintendo should prolong the current generation of consoles, including the PS5 and Switch 2. He cites strong user satisfaction and the rising costs of hardware production as reasons.",
+        "This perspective reflects ongoing industry challenges related to component shortages and inflation, which impact console manufacturing and pricing. Extending console lifecycles can help stabilize the market and maintain player engagement.",
+        "For consumers, this approach may mean continued support and software releases for existing hardware. For the market, it could influence strategic planning around next-generation console development and launch timing."
+      ],
+      "body_es": [
+        "Shuhei Yoshida, exejecutivo de PlayStation, ha sugerido que Sony y Nintendo deberían prolongar la generación actual de consolas, incluyendo PS5 y Switch 2. Cita la alta satisfacción de los usuarios y el aumento de los costos de producción de hardware como razones.",
+        "Esta perspectiva refleja los desafíos actuales de la industria relacionados con la escasez de componentes e inflación, que afectan la fabricación y el precio de las consolas. Extender el ciclo de vida de las consolas puede ayudar a estabilizar el mercado y mantener el compromiso de los jugadores.",
+        "Para los consumidores, este enfoque puede significar soporte continuo y lanzamientos de software para el hardware existente. Para el mercado, podría influir en la planificación estratégica sobre el desarrollo y lanzamiento de la próxima generación de consolas."
+      ],
+      "source_url": "https://www.ign.com/articles/sony-and-nintendo-should-keep-the-current-gen-going-for-as-long-as-possible-because-people-are-very-happy-using-ps5-and-switch-2-former-playstation-exec-says",
       "source_name": "IGN"
     }
   ]
