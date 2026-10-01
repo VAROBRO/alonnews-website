@@ -1,165 +1,145 @@
 {
-  "generatedAt": "2026-09-30T19:03:39.868Z",
+  "generatedAt": "2026-10-01T19:23:22.389Z",
   "articles": [
     {
-      "slug": "xbox-not-for-sale-asha-sharma-denies-sale-reports",
-      "category": "Industry",
-      "title_en": "'Xbox Is Not for Sale' — Asha Sharma Denies Reports That Microsoft Is Considering Selling Its Gaming Business",
-      "title_es": "'Xbox No Está En Venta' — Asha Sharma Niega Informes Sobre Venta Del Negocio De Juegos De Microsoft",
-      "dek_en": "Xbox CEO Asha Sharma has publicly denied rumors that Microsoft is planning to sell its gaming division.",
-      "dek_es": "La CEO de Xbox, Asha Sharma, ha negado públicamente los rumores sobre la posible venta de la división de juegos de Microsoft.",
-      "body_en": [
-        "Asha Sharma, CEO of Xbox, has refuted recent reports suggesting that Microsoft is considering selling its gaming business. She emphasized that Xbox remains a core part of Microsoft's strategy moving forward.",
-        "Microsoft's gaming division includes Xbox consoles, Game Pass subscription services, and multiple game studios acquired over recent years. The business has been a significant driver of Microsoft's entertainment sector growth.",
-        "Sharma's statement clarifies Microsoft's commitment to gaming, providing reassurance to players, developers, and investors about the company's long-term plans in the industry."
-      ],
-      "body_es": [
-        "Asha Sharma, CEO de Xbox, ha desmentido los recientes informes que sugerían que Microsoft estaba considerando vender su negocio de juegos. Enfatizó que Xbox sigue siendo una parte fundamental de la estrategia futura de Microsoft.",
-        "La división de juegos de Microsoft incluye las consolas Xbox, los servicios de suscripción Game Pass y varios estudios de desarrollo adquiridos en los últimos años. Este negocio ha impulsado significativamente el crecimiento del sector de entretenimiento de Microsoft.",
-        "La declaración de Sharma aclara el compromiso de Microsoft con los juegos, ofreciendo seguridad a jugadores, desarrolladores e inversores sobre los planes a largo plazo de la compañía en la industria."
-      ],
-      "source_url": "https://www.ign.com/articles/xbox-is-not-for-sale-asha-sharma-denies-reports-that-microsoft-is-considering-selling-its-gaming-business",
-      "source_name": "IGN"
-    },
-    {
-      "slug": "capcom-plans-for-resident-evil-remakes-after-catch-up",
-      "category": "Industry",
-      "title_en": "Capcom Already Has a Plan for When Its Resident Evil Remakes Catch Up With Newer Games",
-      "title_es": "Capcom Ya Tiene Un Plan Para Cuando Sus Remakes De Resident Evil Alcancen A Los Juegos Más Nuevos",
-      "dek_en": "Capcom is preparing for the eventuality that its Resident Evil remake series will catch up to the timeline of newer entries, viewing Resident Evil 7 as a pivotal moment.",
-      "dek_es": "Capcom se está preparando para cuando la serie de remakes de Resident Evil alcance la cronología de los juegos más recientes, considerando Resident Evil 7 como un punto clave.",
-      "body_en": [
-        "Capcom has revealed it has a strategy for when its ongoing Resident Evil remakes eventually catch up to the newer games in the franchise. The company identifies Resident Evil 7 as a turning point in the series' development.",
-        "The remake series began with Resident Evil 2 and has since covered several classic titles, updating them with modern graphics and gameplay. Resident Evil 7 marked a shift to a first-person perspective and a new narrative style.",
-        "This plan indicates Capcom's intent to continue revitalizing the franchise while managing the timeline and player expectations as remakes approach the latest entries in the series."
-      ],
-      "body_es": [
-        "Capcom ha revelado que tiene una estrategia para cuando sus remakes de Resident Evil eventualmente alcancen a los juegos más recientes de la franquicia. La compañía identifica Resident Evil 7 como un punto de inflexión en el desarrollo de la serie.",
-        "La serie de remakes comenzó con Resident Evil 2 y desde entonces ha cubierto varios títulos clásicos, actualizándolos con gráficos y jugabilidad modernos. Resident Evil 7 marcó un cambio hacia una perspectiva en primera persona y un nuevo estilo narrativo.",
-        "Este plan indica la intención de Capcom de continuar revitalizando la franquicia mientras gestiona la cronología y las expectativas de los jugadores a medida que los remakes se acercan a las entregas más recientes."
-      ],
-      "source_url": "https://www.ign.com/articles/we-have-been-gradually-preparing-capcom-already-has-a-plan-for-when-its-resident-evil-remakes-catch-up-with-newer-games",
-      "source_name": "IGN"
-    },
-    {
-      "slug": "gta-6-new-screenshots-reveal-features",
+      "slug": "ps5-ai-upscaling-qssr-launch",
       "category": "Console",
-      "title_en": "GTA 6: Everything the New Screenshots Tell Us",
-      "title_es": "GTA 6: Todo Lo Que Nos Revelan Las Nuevas Capturas De Pantalla",
-      "dek_en": "New screenshots from GTA 6 showcase features such as tropical storms, hunting mechanics, simulated citrus farms, and detailed beach environments.",
-      "dek_es": "Nuevas capturas de pantalla de GTA 6 muestran características como tormentas tropicales, mecánicas de caza, granjas simuladas de cítricos y entornos detallados en la playa.",
+      "title_en": "Sony Finally Brings AI Upscaling To Base PS5",
+      "title_es": "Sony finalmente lleva el reescalado por IA a la PS5 base",
+      "dek_en": "Sony introduces Quick Spectral Super Resolution (QSSR), an AI upscaling technology for the standard PS5 model, previously exclusive to PS5 Pro.",
+      "dek_es": "Sony presenta Quick Spectral Super Resolution (QSSR), una tecnología de reescalado por IA para el modelo estándar de PS5, antes exclusiva de PS5 Pro.",
       "body_en": [
-        "The latest GTA 6 screenshots reveal several new gameplay and environmental features, including dynamic tropical storms, hunting activities, and simulated agricultural elements like citrus farms. Beach areas also show enhanced character models and detailed settings.",
-        "GTA 6 continues Rockstar's tradition of expansive open-world design, adding layers of environmental interaction and realism. These features suggest a more immersive and varied player experience compared to previous entries.",
-        "These details provide insight into the game's scope and technical ambitions, informing players and industry observers about Rockstar's development focus ahead of the official release."
+        "Sony has launched Quick Spectral Super Resolution (QSSR), a new AI-based upscaling technology for the base PlayStation 5 console. This technology, inspired by the PS5 Pro's PSSR, enhances image quality by using AI to upscale lower-resolution content in real time. QSSR debuts in titles like Marvel’s Wolverine and Ghost of Yotei.",
+        "AI upscaling has become a significant part of modern graphics pipelines, improving visual fidelity without demanding higher native resolutions. Previously, the base PS5 lacked this feature due to hardware limitations, but QSSR is optimized to run efficiently on its GPU.",
+        "This development means more PS5 owners can experience improved graphics quality without needing to upgrade to the Pro model. It also signals Sony’s commitment to enhancing the standard console’s lifespan and visual capabilities through software innovation."
       ],
       "body_es": [
-        "Las últimas capturas de pantalla de GTA 6 revelan varias características nuevas de jugabilidad y ambientales, incluyendo tormentas tropicales dinámicas, actividades de caza y elementos agrícolas simulados como granjas de cítricos. Las zonas de playa también muestran modelos de personajes mejorados y entornos detallados.",
-        "GTA 6 continúa con la tradición de Rockstar de diseño de mundo abierto expansivo, añadiendo capas de interacción ambiental y realismo. Estas características sugieren una experiencia de jugador más inmersiva y variada en comparación con entregas anteriores.",
-        "Estos detalles ofrecen una visión del alcance y las ambiciones técnicas del juego, informando a jugadores y observadores de la industria sobre el enfoque de desarrollo de Rockstar antes del lanzamiento oficial."
+        "Sony ha lanzado Quick Spectral Super Resolution (QSSR), una nueva tecnología de reescalado por IA para la consola PlayStation 5 estándar. Esta tecnología, inspirada en el PSSR de PS5 Pro, mejora la calidad de imagen mediante IA que reescala contenido de menor resolución en tiempo real. QSSR debuta en juegos como Marvel’s Wolverine y Ghost of Yotei.",
+        "El reescalado por IA se ha convertido en una parte importante de los procesos gráficos modernos, mejorando la fidelidad visual sin exigir resoluciones nativas más altas. Antes, la PS5 base carecía de esta función por limitaciones de hardware, pero QSSR está optimizado para funcionar eficientemente en su GPU.",
+        "Este avance permite que más usuarios de PS5 experimenten una mejor calidad gráfica sin necesidad de actualizar a la versión Pro. También refleja el compromiso de Sony por mejorar la vida útil y capacidades visuales de la consola estándar mediante innovación en software."
       ],
-      "source_url": "https://www.ign.com/articles/gta-6-everything-the-new-screenshots-tell-us",
+      "source_url": "https://www.ign.com/articles/sony-finally-brings-ai-upscaling-to-base-ps5",
       "source_name": "IGN"
     },
     {
-      "slug": "pokemon-pokopia-halloween-event-pumpkaboos-sweet-surprises",
-      "category": "Mobile",
-      "title_en": "Pokémon Pokopia Announces Halloween Event With Spooky New Items and Habitats",
-      "title_es": "Pokémon Pokopia Anuncia Evento De Halloween Con Nuevos Ítems Y Hábitats Espeluznantes",
-      "dek_en": "Pokémon Pokopia has revealed its first Halloween-themed event, “Pumpkaboo’s Sweet Surprises,” featuring new spooky items and habitats.",
-      "dek_es": "Pokémon Pokopia ha revelado su primer evento temático de Halloween, “Las Dulces Sorpresas de Pumpkaboo,” con nuevos ítems y hábitats espeluznantes.",
+      "slug": "gta-6-esrb-rating-mature",
+      "category": "Console",
+      "title_en": "GTA 6 Gets Official ESRB Rating and It's as Mature as You'd Expect",
+      "title_es": "GTA 6 recibe la clasificación oficial ESRB y es tan madura como se esperaba",
+      "dek_en": "The ESRB has officially rated Grand Theft Auto 6 as M for Mature, confirming the inclusion of mature content such as nudity.",
+      "dek_es": "La ESRB ha clasificado oficialmente Grand Theft Auto 6 como M para adultos, confirmando la inclusión de contenido maduro como desnudez.",
       "body_en": [
-        "Pokémon Pokopia announced its inaugural Halloween event titled “Pumpkaboo’s Sweet Surprises,” introducing themed items and habitats designed to fit the spooky season. The event aims to engage players with limited-time content.",
-        "The game, known for its social and exploration elements, often hosts seasonal events to maintain player interest and community activity. This Halloween event adds a new layer of thematic content to the mobile experience.",
-        "Seasonal events like this provide players with fresh objectives and collectibles, encouraging continued engagement and offering unique rewards tied to the game's evolving world."
+        "Grand Theft Auto 6 has received its official ESRB rating of M for Mature. The rating confirms the presence of mature content, including nudity, consistent with the franchise’s history. This rating is a formal step in the game’s release process.",
+        "The GTA series is known for its mature themes, including violence, strong language, and adult content. The ESRB rating aligns with expectations based on previous entries and the franchise’s target audience.",
+        "For players and the market, the rating clarifies the game’s intended audience and content boundaries. It also informs retailers and regulators ahead of the game’s launch, ensuring appropriate distribution and marketing."
       ],
       "body_es": [
-        "Pokémon Pokopia anunció su primer evento de Halloween titulado “Las Dulces Sorpresas de Pumpkaboo,” que introduce ítems y hábitats temáticos diseñados para la temporada espeluznante. El evento busca involucrar a los jugadores con contenido por tiempo limitado.",
-        "El juego, conocido por sus elementos sociales y de exploración, suele organizar eventos estacionales para mantener el interés de los jugadores y la actividad comunitaria. Este evento de Halloween añade una nueva capa de contenido temático a la experiencia móvil.",
-        "Eventos estacionales como este ofrecen a los jugadores nuevos objetivos y coleccionables, fomentando la participación continua y ofreciendo recompensas únicas vinculadas al mundo en evolución del juego."
+        "Grand Theft Auto 6 ha recibido su clasificación oficial ESRB de M para adultos. La calificación confirma la presencia de contenido maduro, incluida la desnudez, consistente con la historia de la franquicia. Esta clasificación es un paso formal en el proceso de lanzamiento del juego.",
+        "La serie GTA es conocida por sus temas maduros, que incluyen violencia, lenguaje fuerte y contenido para adultos. La clasificación ESRB coincide con las expectativas basadas en entregas anteriores y el público objetivo de la franquicia.",
+        "Para los jugadores y el mercado, la clasificación aclara el público y los límites de contenido del juego. También informa a minoristas y reguladores antes del lanzamiento, asegurando una distribución y marketing adecuados."
       ],
-      "source_url": "https://www.ign.com/articles/pokemon-pokopia-pumpkaboos-sweet-surprises-halloween-event-date-how-it-works",
+      "source_url": "https://www.ign.com/articles/gta-6-gets-official-esrb-rating-and-its-as-mature-as-youd-expect",
       "source_name": "IGN"
     },
     {
-      "slug": "diablo-5-director-promises-return-to-methodical-builds",
+      "slug": "007-first-light-extended-operations-dlc",
+      "category": "Console",
+      "title_en": "007 First Light's First DLC Out Now, Adds New Game Plus",
+      "title_es": "El primer DLC de 007 First Light ya está disponible e incluye Nuevo Juego Plus",
+      "dek_en": "The 007 First Light Extended Operations DLC launches for free, adding five TacSim missions, New Game Plus, new outfits, and a photo mode.",
+      "dek_es": "El DLC Extended Operations de 007 First Light se lanza gratis, añadiendo cinco misiones TacSim, Nuevo Juego Plus, nuevos atuendos y un modo foto.",
+      "body_en": [
+        "The first DLC for 007 First Light, titled Extended Operations, is now available for free. It adds five new missions to the TacSim mode, introduces a New Game Plus feature, new outfits, and a photo mode that was missing at launch.",
+        "007 First Light is a tactical shooter spin-off from the James Bond universe, focusing on stealth and strategy. The addition of New Game Plus and extra missions expands replayability and content variety for players.",
+        "This update enhances the game’s longevity and player engagement by providing new challenges and customization options. The free release also lowers barriers for existing players to access fresh content."
+      ],
+      "body_es": [
+        "El primer DLC de 007 First Light, titulado Extended Operations, ya está disponible de forma gratuita. Añade cinco nuevas misiones al modo TacSim, introduce Nuevo Juego Plus, nuevos atuendos y un modo foto que faltaba en el lanzamiento.",
+        "007 First Light es un shooter táctico derivado del universo James Bond, centrado en el sigilo y la estrategia. La incorporación de Nuevo Juego Plus y misiones adicionales amplía la rejugabilidad y la variedad de contenido para los jugadores.",
+        "Esta actualización mejora la longevidad y el compromiso del juego al ofrecer nuevos desafíos y opciones de personalización. El lanzamiento gratuito también facilita el acceso a contenido fresco para los jugadores existentes."
+      ],
+      "source_url": "https://www.ign.com/articles/007-first-lights-first-dlc-out-now-adds-new-game-plus",
+      "source_name": "IGN"
+    },
+    {
+      "slug": "march-of-giants-moba-preview",
       "category": "PC",
-      "title_en": "Diablo 5 Game Director Promises a Return to Methodical Character Builds, but Players Don't Believe Him",
-      "title_es": "Director De Diablo 5 Promete Un Retorno A Construcciones De Personajes Metódicas, Pero Los Jugadores No Le Creen",
-      "dek_en": "Joe Shely, Diablo 5 game director, has promised a return to more methodical character builds, though the player community remains skeptical.",
-      "dek_es": "Joe Shely, director de Diablo 5, ha prometido un retorno a construcciones de personajes más metódicas, aunque la comunidad de jugadores se muestra escéptica.",
+      "title_en": "March of Giants Might Actually Get You to Play a MOBA Besides Dota 2 and League",
+      "title_es": "March of Giants podría lograr que juegues un MOBA más allá de Dota 2 y League",
+      "dek_en": "March of Giants aims to offer a MOBA experience with accessibility and depth, incorporating complex mechanics like skill leveling and itemization.",
+      "dek_es": "March of Giants busca ofrecer una experiencia MOBA con accesibilidad y profundidad, incorporando mecánicas complejas como nivelación de habilidades y objetos.",
       "body_en": [
-        "Joe Shely, the game director for Diablo 5, stated that the upcoming title will emphasize methodical character builds, moving away from more casual or streamlined approaches seen in recent entries.",
-        "The Diablo series is known for its deep customization and strategic gameplay, with character builds playing a central role in player engagement and replayability.",
-        "Despite Shely's assurances, some players doubt the shift due to previous design trends, reflecting ongoing debates about balancing accessibility with depth in action RPGs."
+        "March of Giants is a new MOBA that combines accessibility with traditional genre complexity. Developed by veterans who worked on Rainbow Six Siege, it features separate skill leveling, complex itemization, and last hitting, maintaining core MOBA elements.",
+        "The MOBA genre is dominated by titles like League of Legends and Dota 2, which have set high standards for gameplay depth and competitive balance. March of Giants attempts to enter this space without diluting the genre’s defining features.",
+        "For players, this means a fresh MOBA option that respects established mechanics while potentially lowering the entry barrier. For the market, it represents ongoing innovation and competition within a mature genre."
       ],
       "body_es": [
-        "Joe Shely, director del juego Diablo 5, declaró que el próximo título enfatizará construcciones de personajes metódicas, alejándose de los enfoques más casuales o simplificados vistos en entregas recientes.",
-        "La serie Diablo es conocida por su profunda personalización y jugabilidad estratégica, donde las construcciones de personajes juegan un papel central en el compromiso y la rejugabilidad de los jugadores.",
-        "A pesar de las garantías de Shely, algunos jugadores dudan del cambio debido a tendencias de diseño previas, reflejando debates continuos sobre el equilibrio entre accesibilidad y profundidad en los RPG de acción."
+        "March of Giants es un nuevo MOBA que combina accesibilidad con la complejidad tradicional del género. Desarrollado por veteranos que trabajaron en Rainbow Six Siege, cuenta con nivelación separada de habilidades, una compleja gestión de objetos y last hitting, manteniendo los elementos clave del MOBA.",
+        "El género MOBA está dominado por títulos como League of Legends y Dota 2, que han establecido altos estándares en profundidad jugable y equilibrio competitivo. March of Giants intenta entrar en este espacio sin diluir las características definitorias del género.",
+        "Para los jugadores, esto significa una nueva opción MOBA que respeta las mecánicas establecidas mientras reduce potencialmente la barrera de entrada. Para el mercado, representa innovación y competencia continuas en un género maduro."
       ],
-      "source_url": "https://www.ign.com/articles/diablo-5-game-director-promises-a-return-to-methodical-character-builds-but-players-dont-believe-him",
+      "source_url": "https://www.ign.com/articles/march-of-giants-might-actually-get-you-to-play-a-moba-besides-dota-2-and-league-ign-preview",
       "source_name": "IGN"
     },
     {
-      "slug": "pokemon-legends-z-a-switch-2-edition-mega-dimension-bundle",
-      "category": "Console",
-      "title_en": "Pokémon Legends: Z-A – Nintendo Switch 2 Edition + Mega Dimension Physical Bundle Announced",
-      "title_es": "Pokémon Legends: Z-A – Edición Nintendo Switch 2 + Paquete Físico Mega Dimension Anunciado",
-      "dek_en": "Nintendo announced a physical Nintendo Switch 2 edition of Pokémon Legends: Z-A bundled with the Mega Dimension DLC.",
-      "dek_es": "Nintendo anunció una edición física para Nintendo Switch 2 de Pokémon Legends: Z-A junto con el DLC Mega Dimension.",
+      "slug": "gaelco-sports-collection-launch",
+      "category": "PC",
+      "title_en": "Five Classic Spanish Arcade Games from the 90s Return This Month in a Collection for Consoles and PC",
+      "title_es": "Cinco clásicos españoles de los recreativos de los 90 regresan este mes en una colección para consolas y PC",
+      "dek_en": "Gaelco Sports Collection brings back five historic Spanish arcade games, including World Rally and World Rally 2, releasing on October 22 for consoles and PC.",
+      "dek_es": "Gaelco Sports Collection recupera cinco juegos históricos españoles de arcade, incluidos World Rally y World Rally 2, que se lanzan el 22 de octubre para consolas y PC.",
       "body_en": [
-        "Nintendo has confirmed a physical release of Pokémon Legends: Z-A for the Nintendo Switch 2, which will include the Mega Dimension downloadable content as part of the bundle.",
-        "The original game launched digitally, and this physical edition aims to provide collectors and new players with a comprehensive package on the latest Nintendo hardware.",
-        "This announcement expands the availability of Pokémon Legends: Z-A, potentially increasing its reach among Switch 2 owners and supporting Nintendo's strategy of combining main games with DLC in physical formats."
+        "QUByte Interactive announced Gaelco Sports Collection, a compilation of five classic arcade games from the 1990s by the Spanish company Gaelco. The collection includes titles such as World Rally and World Rally 2, and will launch on October 22 for PC and consoles.",
+        "Gaelco was a prominent Spanish arcade developer in the 90s, known for its sports and racing games. This collection revives these titles for modern platforms, preserving a piece of Spanish gaming history.",
+        "The release offers players and preservationists access to these classic games on current hardware, supporting cultural heritage and expanding the availability of retro arcade experiences."
       ],
       "body_es": [
-        "Nintendo ha confirmado una edición física de Pokémon Legends: Z-A para Nintendo Switch 2, que incluirá el contenido descargable Mega Dimension como parte del paquete.",
-        "El juego original se lanzó digitalmente, y esta edición física busca ofrecer a coleccionistas y nuevos jugadores un paquete completo en el hardware más reciente de Nintendo.",
-        "Este anuncio amplía la disponibilidad de Pokémon Legends: Z-A, aumentando potencialmente su alcance entre los propietarios de Switch 2 y apoyando la estrategia de Nintendo de combinar juegos principales con DLC en formatos físicos."
+        "QUByte Interactive ha anunciado Gaelco Sports Collection, una compilación de cinco juegos clásicos de arcade de los años 90 de la compañía española Gaelco. La colección incluye títulos como World Rally y World Rally 2, y se lanzará el 22 de octubre para PC y consolas.",
+        "Gaelco fue un destacado desarrollador español de arcade en los 90, conocido por sus juegos de deportes y carreras. Esta colección revive estos títulos para plataformas modernas, preservando una parte de la historia del videojuego español.",
+        "El lanzamiento ofrece a jugadores y preservacionistas acceso a estos juegos clásicos en hardware actual, apoyando el patrimonio cultural y ampliando la disponibilidad de experiencias arcade retro."
       ],
-      "source_url": "https://www.ign.com/articles/pokemon-legends-z-a-nintendo-switch-2-edition-mega-dimension-physical-bundle-announced",
-      "source_name": "IGN"
-    },
-    {
-      "slug": "shuhei-yoshida-says-sony-nintendo-should-extend-current-gen",
-      "category": "Console",
-      "title_en": "Shuhei Yoshida Believes Sony and Nintendo Should Extend This Generation As Long As Possible",
-      "title_es": "Shuhei Yoshida Cree Que Sony Y Nintendo Deberían Alargar Esta Generación Todo Lo Posible",
-      "dek_en": "Former PlayStation executive Shuhei Yoshida suggests Sony and Nintendo should prolong the current console generation due to player satisfaction with PS5 and Switch 2.",
-      "dek_es": "El exejecutivo de PlayStation Shuhei Yoshida sugiere que Sony y Nintendo deberían prolongar la generación actual de consolas debido a la satisfacción de los jugadores con PS5 y Switch 2.",
-      "body_en": [
-        "Shuhei Yoshida, a prominent former PlayStation executive, stated that Sony and Nintendo should extend the lifespan of the current console generation. He cited ongoing player satisfaction with the PS5 and Nintendo Switch 2.",
-        "Yoshida's view reflects a broader industry trend where hardware cycles are lengthening, partly due to technological advancements and market conditions.",
-        "Extending the generation impacts game development, hardware sales, and consumer purchasing decisions, influencing how companies allocate resources and plan future releases."
-      ],
-      "body_es": [
-        "Shuhei Yoshida, un destacado exejecutivo de PlayStation, afirmó que Sony y Nintendo deberían extender la vida útil de la generación actual de consolas. Citó la satisfacción continua de los jugadores con PS5 y Nintendo Switch 2.",
-        "La opinión de Yoshida refleja una tendencia más amplia en la industria donde los ciclos de hardware se están alargando, en parte debido a avances tecnológicos y condiciones del mercado.",
-        "Extender la generación afecta el desarrollo de juegos, las ventas de hardware y las decisiones de compra de los consumidores, influyendo en cómo las compañías asignan recursos y planifican futuros lanzamientos."
-      ],
-      "source_url": "https://vandal.elespanol.com/noticia/2026273030/shuhei-yoshida-cree-que-sony-y-nintendo-deberian-alargar-esta-generacion-todo-lo-posible/",
+      "source_url": "https://vandal.elespanol.com/noticia/2026274035/cinco-clasicos-espanoles-de-los-recreativos-de-los-90-regresan-este-mes-en-una-coleccion-para-consolas-y-pc/",
       "source_name": "Vandal"
     },
     {
-      "slug": "playstation-plus-october-2026-games-announced",
-      "category": "Console",
-      "title_en": "PlayStation Plus Monthly Games for October 2026 Announced",
-      "title_es": "Juegos Mensuales De PlayStation Plus Para Octubre 2026 Anunciados",
-      "dek_en": "Sony has officially revealed the lineup of games available to PlayStation Plus subscribers for October 2026.",
-      "dek_es": "Sony ha revelado oficialmente la lista de juegos disponibles para los suscriptores de PlayStation Plus en octubre de 2026.",
+      "slug": "dragon-ball-z-dokkan-battle-ssj3-goku-update",
+      "category": "Mobile",
+      "title_en": "Dragon Ball Z: Dokkan Battle Shows Renewed Super Saiyan 3 Goku and Improves Anime Ending",
+      "title_es": "Dragon Ball Z: Dokkan Battle muestra a Goku Super Saiyan 3 renovado y mejora el final del anime",
+      "dek_en": "Dragon Ball Z: Dokkan Battle releases Part 3 of its latest campaign, featuring a revamped Super Saiyan 3 Goku and enhancements to the anime’s ending.",
+      "dek_es": "Dragon Ball Z: Dokkan Battle lanza la Parte 3 de su última campaña, con un Goku Super Saiyan 3 renovado y mejoras en el final del anime.",
       "body_en": [
-        "Sony announced the official lineup of PlayStation Plus monthly games for October 2026, detailing the titles that subscribers can access without additional cost.",
-        "PlayStation Plus continues to offer a rotating selection of games across various genres, supporting subscriber engagement and value.",
-        "The announcement informs players about upcoming content, allowing them to plan their gaming schedules and explore new titles within the subscription service."
+        "Dragon Ball Z: Dokkan Battle has launched the third part of its latest campaign, which pays tribute to iconic battles from the series. This update includes a fully revamped Super Saiyan 3 Goku character and improvements to the anime’s ending.",
+        "The mobile game continues to celebrate Dragon Ball’s legacy by integrating new content that references key moments from the franchise. The refreshed character and story elements enhance the player experience.",
+        "For players, this update offers fresh gameplay content and narrative depth tied to the Dragon Ball universe. It also maintains player engagement through ongoing content support."
       ],
       "body_es": [
-        "Sony anunció la lista oficial de juegos mensuales de PlayStation Plus para octubre de 2026, detallando los títulos a los que los suscriptores pueden acceder sin costo adicional.",
-        "PlayStation Plus sigue ofreciendo una selección rotativa de juegos de varios géneros, apoyando el compromiso y el valor para los suscriptores.",
-        "El anuncio informa a los jugadores sobre el contenido próximo, permitiéndoles planificar sus horarios de juego y explorar nuevos títulos dentro del servicio de suscripción."
+        "Dragon Ball Z: Dokkan Battle ha lanzado la tercera parte de su última campaña, que rinde homenaje a batallas icónicas de la serie. Esta actualización incluye un Goku Super Saiyan 3 completamente renovado y mejoras en el final del anime.",
+        "El juego móvil sigue celebrando el legado de Dragon Ball integrando nuevo contenido que referencia momentos clave de la franquicia. El personaje renovado y los elementos narrativos mejoran la experiencia del jugador.",
+        "Para los jugadores, esta actualización ofrece contenido jugable fresco y profundidad narrativa vinculada al universo Dragon Ball. También mantiene el compromiso de los usuarios mediante soporte continuo de contenido."
       ],
-      "source_url": "https://www.ign.com/articles/playstation-plus-monthly-games-for-october-2026-announced",
-      "source_name": "IGN"
+      "source_url": "https://vandal.elespanol.com/noticia/2026274034/dragon-ball-z-dokkan-battle-muestra-a-goku-super-saiyan-3-renovado-y-mejora-el-final-del-anime/",
+      "source_name": "Vandal"
+    },
+    {
+      "slug": "capcom-prepares-resident-evil-remakes-convergence",
+      "category": "Industry",
+      "title_en": "Capcom Has Been Preparing for Resident Evil Remakes to Catch Up With New Games",
+      "title_es": "Capcom lleva años preparando el momento en que los remakes de Resident Evil alcancen a los juegos nuevos",
+      "dek_en": "Capcom is planning the future convergence of Resident Evil remakes with the chronology of its modern entries, starting from Resident Evil Village.",
+      "dek_es": "Capcom planea la futura convergencia de los remakes de Resident Evil con la cronología de sus entregas modernas, comenzando desde Resident Evil Village.",
+      "body_en": [
+        "Jun Takeuchi of Capcom revealed that the company has been preparing for a future where Resident Evil remakes align with the timeline of the newer games. This strategy began with Resident Evil Village and aims to unify the series’ narrative.",
+        "Resident Evil has two development paths: new entries that advance the story and remakes revisiting past events. Capcom’s plan is to eventually merge these timelines, creating a cohesive continuity.",
+        "This approach affects how players experience the Resident Evil universe, potentially simplifying the story’s chronology. It also reflects Capcom’s long-term vision for managing its flagship franchise."
+      ],
+      "body_es": [
+        "Jun Takeuchi de Capcom reveló que la compañía lleva años preparando un futuro en el que los remakes de Resident Evil se alineen con la cronología de los juegos más recientes. Esta estrategia comenzó con Resident Evil Village y busca unificar la narrativa de la serie.",
+        "Resident Evil tiene dos líneas de desarrollo: nuevas entregas que avanzan la historia y remakes que revisitan eventos pasados. El plan de Capcom es fusionar estas líneas para crear una continuidad coherente.",
+        "Este enfoque afecta la forma en que los jugadores experimentan el universo Resident Evil, simplificando potencialmente la cronología de la historia. También refleja la visión a largo plazo de Capcom para gestionar su franquicia principal."
+      ],
+      "source_url": "https://vandal.elespanol.com/noticia/2026274033/capcom-lleva-anos-preparando-el-momento-en-que-los-remakes-de-resident-evil-alcancen-a-los-juegos-nuevos/",
+      "source_name": "Vandal"
     }
   ]
 }
