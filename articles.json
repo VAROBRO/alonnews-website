@@ -1,104 +1,164 @@
 {
-  "generatedAt": "2026-10-02T19:06:22.791Z",
+  "generatedAt": "2026-10-03T17:52:17.153Z",
   "articles": [
+    {
+      "slug": "final-fantasy-7-revelation-physical-disc-future",
+      "category": "Console",
+      "title_en": "'I Did My Best' — Final Fantasy 7 Revelation Director Responds to Fans Asking for Full Disc Version",
+      "title_es": "'Hice Mi Mejor Esfuerzo' — Director de Final Fantasy 7 Revelation Responde a Fans que Piden Versión en Disco Completo",
+      "dek_en": "Naoki Hamaguchi, director de Final Fantasy 7 Revelation, said he fought for a physical disc release but the industry is moving toward a disc-less future.",
+      "dek_es": "Naoki Hamaguchi, director de Final Fantasy 7 Revelation, dijo que luchó por un lanzamiento en disco físico pero la industria avanza hacia un futuro sin discos.",
+      "body_en": [
+        "Naoki Hamaguchi, director de Final Fantasy 7 Revelation, addressed fan requests for a full physical disc version, stating he did his best to advocate for it. He acknowledged the industry's shift toward digital distribution, describing a \"future where physical media is essentially disc-less.\"",
+        "Final Fantasy 7 Revelation is part of the ongoing Final Fantasy 7 Remake project, which has seen multiple episodic releases primarily through digital platforms. The move away from physical discs reflects broader trends in game publishing and distribution.",
+        "This shift impacts players who prefer physical collections or have limited internet access. It also signals changes in how publishers manage production costs and distribution logistics, affecting market dynamics for console game sales."
+      ],
+      "body_es": [
+        "Naoki Hamaguchi, director de Final Fantasy 7 Revelation, respondió a las solicitudes de los fans para una versión completa en disco físico, afirmando que hizo todo lo posible para defenderla. Reconoció el cambio de la industria hacia la distribución digital, describiendo un \"futuro donde los medios físicos serán esencialmente sin disco.\"",
+        "Final Fantasy 7 Revelation forma parte del proyecto en curso de Final Fantasy 7 Remake, que ha tenido múltiples lanzamientos episódicos principalmente en plataformas digitales. El alejamiento de los discos físicos refleja tendencias más amplias en la publicación y distribución de juegos.",
+        "Este cambio afecta a los jugadores que prefieren colecciones físicas o tienen acceso limitado a internet. También señala cambios en cómo los editores gestionan costos de producción y logística de distribución, impactando la dinámica del mercado de juegos para consola."
+      ],
+      "source_url": "https://www.ign.com/articles/i-did-my-best-final-fantasy-7-revelation-director-responds-to-fans-asking-for-full-disc-version",
+      "source_name": "IGN"
+    },
+    {
+      "slug": "capcom-re-engine-ai-generation",
+      "category": "Industry",
+      "title_en": "Capcom Announces Plans to Transform the RE Engine Into an AI-Generation Game Engine — ‘Our Goal Is a Future Where We Create Games Together With AI’",
+      "title_es": "Capcom Anuncia Planes para Transformar el RE Engine en un Motor de Juegos Generado por IA — 'Nuestro Objetivo es un Futuro Donde Creamos Juegos Juntos con IA'",
+      "dek_en": "Capcom revealed plans to evolve its RE Engine into an AI-generation game engine to collaborate with artificial intelligence in game creation.",
+      "dek_es": "Capcom reveló planes para evolucionar su RE Engine en un motor de juegos generado por IA para colaborar con inteligencia artificial en la creación de juegos.",
+      "body_en": [
+        "Capcom announced it will gradually transform its RE Engine, used in Resident Evil and Street Fighter, into an AI-generation game engine. The company aims to integrate artificial intelligence to assist in game development processes.",
+        "The RE Engine has powered several of Capcom's recent titles, known for high-quality graphics and performance. This shift represents a significant technological evolution, potentially automating or enhancing content creation.",
+        "For players and the industry, this development could lead to more dynamic and varied game experiences. It also reflects a growing trend of AI integration in game development workflows, impacting production efficiency and creativity."
+      ],
+      "body_es": [
+        "Capcom anunció que transformará gradualmente su RE Engine, utilizado en Resident Evil y Street Fighter, en un motor de juegos generado por IA. La compañía busca integrar inteligencia artificial para asistir en los procesos de desarrollo.",
+        "El RE Engine ha impulsado varios títulos recientes de Capcom, reconocidos por su alta calidad gráfica y rendimiento. Este cambio representa una evolución tecnológica significativa, que podría automatizar o mejorar la creación de contenido.",
+        "Para jugadores e industria, este desarrollo podría generar experiencias de juego más dinámicas y variadas. También refleja una tendencia creciente de integración de IA en flujos de trabajo de desarrollo, impactando la eficiencia y creatividad."
+      ],
+      "source_url": "https://www.ign.com/articles/capcom-announces-plans-to-transform-the-re-engine-into-an-ai-generation-game-engine-our-goal-is-a-future-where-we-create-games-together-with-ai",
+      "source_name": "IGN"
+    },
+    {
+      "slug": "love-and-deepspace-drink-warning",
+      "category": "Industry",
+      "title_en": "Love and Deepspace Devs Issue Warning to Players After Deadly Drink Recipes Go Viral",
+      "title_es": "Desarrolladores de Love and Deepspace Emiten Advertencia Tras Viralizarse Recetas de Bebidas Mortales",
+      "dek_en": "Developers of the RPG-dating sim Love and Deepspace warned players after fictional cocktail recipes with dangerous real-world effects spread online.",
+      "dek_es": "Los desarrolladores del simulador RPG-dating Love and Deepspace advirtieron a los jugadores tras difundirse recetas de cócteles ficticios con efectos peligrosos en la vida real.",
+      "body_en": [
+        "The official Love and Deepspace social media account issued a warning after some fictional cocktail recipes from the game went viral online. The drinks, if replicated in real life, could have harmful or deadly consequences.",
+        "Love and Deepspace is an RPG-dating sim known for its creative in-game content, including unique fictional beverages. The viral spread of these recipes raised concerns about player safety and misinformation.",
+        "This warning is important to prevent real-world harm from fictional game content. It underscores the responsibility of developers to address unintended consequences of their creative work in the digital age."
+      ],
+      "body_es": [
+        "La cuenta oficial de Love and Deepspace en redes sociales emitió una advertencia tras viralizarse algunas recetas de cócteles ficticios del juego. Las bebidas, si se replican en la vida real, podrían tener consecuencias dañinas o mortales.",
+        "Love and Deepspace es un simulador RPG-dating conocido por su contenido creativo, incluyendo bebidas ficticias únicas. La difusión viral de estas recetas generó preocupación por la seguridad de los jugadores y la desinformación.",
+        "Esta advertencia es importante para prevenir daños reales derivados de contenido ficticio. Subraya la responsabilidad de los desarrolladores para abordar consecuencias no intencionadas de su trabajo creativo en la era digital."
+      ],
+      "source_url": "https://www.ign.com/articles/love-and-deepspace-devs-issue-warning-to-players-after-deadly-drink-recipes-go-viral",
+      "source_name": "IGN"
+    },
+    {
+      "slug": "mike-tomlin-minecraft-city-12-years",
+      "category": "Industry",
+      "title_en": "Former NFL Coach Mike Tomlin Is a Hardcore Minecraft Player, Reveals City He Took 12 Years to Build",
+      "title_es": "El Exentrenador de la NFL Mike Tomlin es un Jugador Hardcore de Minecraft, Revela Ciudad que Construyó en 12 Años",
+      "dek_en": "Mike Tomlin, former NFL coach, revealed he spent 12 years building a city in Minecraft and has become a notable player and content creator.",
+      "dek_es": "Mike Tomlin, exentrenador de la NFL, reveló que pasó 12 años construyendo una ciudad en Minecraft y se ha convertido en un jugador y creador de contenido destacado.",
+      "body_en": [
+        "Mike Tomlin, who coached the Pittsburgh Steelers for 19 seasons and won Super Bowl LXIII, shared that he is a dedicated Minecraft player. He revealed spending 12 years building an extensive city within the game.",
+        "Minecraft is a sandbox game known for its creative freedom and community-driven content. Tomlin's long-term project highlights the game's appeal beyond traditional gaming audiences.",
+        "This information illustrates the diverse demographics engaging with Minecraft and the game's capacity for long-term, detailed creative projects. It also shows the crossover between sports figures and gaming culture."
+      ],
+      "body_es": [
+        "Mike Tomlin, quien entrenó a los Pittsburgh Steelers durante 19 temporadas y ganó el Super Bowl LXIII, compartió que es un jugador dedicado de Minecraft. Reveló haber pasado 12 años construyendo una extensa ciudad dentro del juego.",
+        "Minecraft es un juego sandbox conocido por su libertad creativa y contenido impulsado por la comunidad. El proyecto a largo plazo de Tomlin destaca el atractivo del juego más allá de las audiencias tradicionales.",
+        "Esta información ilustra la diversidad demográfica que interactúa con Minecraft y la capacidad del juego para proyectos creativos detallados y a largo plazo. También muestra la conexión entre figuras deportivas y la cultura gamer."
+      ],
+      "source_url": "https://www.ign.com/articles/former-nfl-coach-mike-tomlin-is-a-hardcore-minecraft-player-reveals-city-he-took-12-years-to-build",
+      "source_name": "IGN"
+    },
+    {
+      "slug": "disney-epic-games-acquisition-rumors",
+      "category": "Industry",
+      "title_en": "Disney Says Conversations About Buying Epic Games Are Not Happening 'Right Now'",
+      "title_es": "Disney Dice que No Hay Conversaciones Sobre Comprar Epic Games 'Por Ahora'",
+      "dek_en": "Disney responded to rumors about acquiring Epic Games, stating that no talks are currently taking place regarding a purchase.",
+      "dek_es": "Disney respondió a rumores sobre la adquisición de Epic Games, afirmando que no hay conversaciones en curso sobre una compra.",
+      "body_en": [
+        "Disney addressed recent rumors suggesting interest in acquiring Epic Games, the developer behind Fortnite. The company clarified that no discussions or negotiations are happening \"right now.\"",
+        "Epic Games is a major player in the gaming industry, known for its Unreal Engine technology and the Fortnite franchise. Acquisition speculation often arises due to its market influence.",
+        "This statement provides clarity to investors and the gaming community, confirming that despite rumors, no immediate changes in ownership are underway for Epic Games."
+      ],
+      "body_es": [
+        "Disney se pronunció sobre rumores recientes que sugerían interés en adquirir Epic Games, desarrollador de Fortnite. La compañía aclaró que no hay discusiones ni negociaciones \"por ahora.\"",
+        "Epic Games es un actor importante en la industria del videojuego, conocido por su tecnología Unreal Engine y la franquicia Fortnite. Las especulaciones de adquisición surgen frecuentemente debido a su influencia en el mercado.",
+        "Esta declaración brinda claridad a inversores y comunidad gamer, confirmando que a pesar de los rumores, no hay cambios inmediatos en la propiedad de Epic Games."
+      ],
+      "source_url": "https://www.ign.com/articles/disney-says-conversations-about-buying-epic-games-are-not-happening-right-now",
+      "source_name": "IGN"
+    },
     {
       "slug": "gta-6-age-rating-details",
       "category": "Console",
       "title_en": "GTA 6 Age Rating Confirms New Details on Sex, Drug Use, Decapitation, and More",
-      "title_es": "La clasificación por edades de GTA 6 confirma nuevos detalles sobre sexo, drogas, decapitaciones y más",
-      "dek_en": "GTA 6 has received a PEGI 18 rating, revealing explicit content including decapitation, drug use, and sexual fetishes.",
-      "dek_es": "GTA 6 ha recibido una clasificación PEGI 18 que revela contenido explícito como decapitaciones, consumo de drogas y fetiches sexuales.",
+      "title_es": "Clasificación por Edad de GTA 6 Confirma Nuevos Detalles sobre Sexo, Drogas, Decapitación y Más",
+      "dek_en": "The PEGI 18 rating for GTA 6 reveals explicit content including decapitation, drug use, and sexual fetishes within the game.",
+      "dek_es": "La clasificación PEGI 18 para GTA 6 revela contenido explícito que incluye decapitación, uso de drogas y fetiches sexuales dentro del juego.",
       "body_en": [
-        "The upcoming Grand Theft Auto 6 has been rated PEGI 18, confirming the inclusion of mature content such as decapitation, the ability for players to snort cocaine at any time, and scenes depicting sexual fetishes. This rating provides the first official confirmation of the game's explicit themes.",
-        "The Grand Theft Auto series is known for pushing boundaries with adult content and controversial themes. This rating aligns with Rockstar Games' history of including graphic violence and mature subject matter to create immersive, realistic open-world experiences.",
-        "The PEGI 18 rating informs players and retailers of the game's mature content, ensuring appropriate age restrictions. It also sets expectations for the level of realism and adult themes present, which can influence purchasing decisions and regulatory compliance in various markets."
+        "GTA 6 has received a PEGI 18 rating that confirms the presence of mature content such as decapitation, the ability to snort cocaine at any time, and scenes depicting sexual fetishes. These details were revealed as part of the official age rating.",
+        "The Grand Theft Auto series is known for its mature themes and controversial content. The new rating confirms that GTA 6 will continue this trend with explicit depictions and gameplay mechanics.",
+        "This information informs players and retailers about the game's content, ensuring appropriate age restrictions. It also sets expectations for the level of mature themes present in the upcoming release."
       ],
       "body_es": [
-        "El próximo Grand Theft Auto 6 ha recibido una clasificación PEGI 18, confirmando la inclusión de contenido maduro como decapitaciones, la posibilidad de que los jugadores consuman cocaína en cualquier momento y escenas que muestran fetiches sexuales. Esta clasificación ofrece la primera confirmación oficial de los temas explícitos del juego.",
-        "La serie Grand Theft Auto es conocida por superar límites con contenido para adultos y temas controvertidos. Esta clasificación se alinea con la historia de Rockstar Games de incluir violencia gráfica y temas maduros para crear experiencias inmersivas y realistas en mundos abiertos.",
-        "La clasificación PEGI 18 informa a jugadores y minoristas sobre el contenido maduro del juego, asegurando restricciones de edad adecuadas. También establece expectativas sobre el nivel de realismo y temas adultos presentes, lo que puede influir en decisiones de compra y cumplimiento normativo en distintos mercados."
+        "GTA 6 recibió una clasificación PEGI 18 que confirma la presencia de contenido maduro como decapitación, la capacidad de esnifar cocaína en cualquier momento y escenas que muestran fetiches sexuales. Estos detalles fueron revelados como parte de la clasificación oficial.",
+        "La serie Grand Theft Auto es conocida por sus temas maduros y contenido controvertido. La nueva clasificación confirma que GTA 6 continuará esta tendencia con representaciones explícitas y mecánicas de juego.",
+        "Esta información informa a jugadores y minoristas sobre el contenido del juego, asegurando restricciones de edad adecuadas. También establece expectativas sobre el nivel de temas maduros en el próximo lanzamiento."
       ],
       "source_url": "https://www.ign.com/articles/gta-6-age-rating-confirms-new-details-on-sex-drug-use-decapitation-and-more",
       "source_name": "IGN"
     },
     {
-      "slug": "blizzard-adds-kyles-gone-missing-wow-forever",
+      "slug": "dan-houser-avoids-gta6",
+      "category": "Industry",
+      "title_en": "Ex-Rockstar Boss Dan Houser Doesn't Play a Lot of Open-World Games – and Doesn't Plan to Play GTA 6",
+      "title_es": "El Exjefe de Rockstar Dan Houser No Juega Muchos Juegos de Mundo Abierto y No Planea Jugar GTA 6",
+      "dek_en": "Dan Houser, former Rockstar co-boss, revealed he avoids open-world games and does not intend to play GTA 6 to avoid creative influence.",
+      "dek_es": "Dan Houser, excofundador de Rockstar, reveló que evita juegos de mundo abierto y no planea jugar GTA 6 para evitar influencias creativas.",
+      "body_en": [
+        "Dan Houser, former co-boss and creative director at Rockstar Games, stated he rarely plays open-world games and does not plan to play GTA 6. He explained this choice is to prevent creative influence while working on new projects.",
+        "Houser was a key figure behind major Rockstar titles like Grand Theft Auto V and Red Dead Redemption 2. His current focus is on new games at his company Absurd Ventures.",
+        "This insight sheds light on the creative process of a prominent industry figure and highlights how developers manage influences when creating original content."
+      ],
+      "body_es": [
+        "Dan Houser, excofundador y director creativo de Rockstar Games, declaró que rara vez juega juegos de mundo abierto y no planea jugar GTA 6. Explicó que esta decisión es para evitar influencias creativas mientras trabaja en nuevos proyectos.",
+        "Houser fue una figura clave detrás de títulos importantes de Rockstar como Grand Theft Auto V y Red Dead Redemption 2. Actualmente se enfoca en nuevos juegos en su empresa Absurd Ventures.",
+        "Esta información arroja luz sobre el proceso creativo de una figura prominente de la industria y destaca cómo los desarrolladores gestionan influencias al crear contenido original."
+      ],
+      "source_url": "https://www.ign.com/articles/ex-rockstar-boss-dan-houser-doesnt-play-a-lot-of-open-world-games-and-doesnt-plan-to-play-gta-6",
+      "source_name": "IGN"
+    },
+    {
+      "slug": "vibe-coded-mashup-mods-x",
       "category": "PC",
-      "title_en": "Blizzard Adds Beloved 'Kyle's Gone Missing' Quest to World of Warcraft: Forever",
-      "title_es": "Blizzard añade la querida misión 'Kyle's Gone Missing' a World of Warcraft: Forever",
-      "dek_en": "Blizzard has added the classic quest 'Kyle's Gone Missing!' to World of Warcraft: Forever, preserving a piece of vanilla WoW history.",
-      "dek_es": "Blizzard ha añadido la clásica misión 'Kyle's Gone Missing!' a World of Warcraft: Forever, preservando una pieza de la historia de vanilla WoW.",
+      "title_en": "Vibe-Coded Mashup Mods Have Taken Over X This Week",
+      "title_es": "Mods Mashup Codificados por Vibe Han Dominado X Esta Semana",
+      "dek_en": "Modders have been creating and sharing mashup mods combining decompiled games with others, flooding X/Twitter with clips this week.",
+      "dek_es": "Los modders han estado creando y compartiendo mods mashup que combinan juegos descompilados con otros, inundando X/Twitter con clips esta semana.",
       "body_en": [
-        "Blizzard Entertainment has integrated the fan-favorite quest 'Kyle's Gone Missing!' into World of Warcraft: Forever. This addition continues the game's effort to maintain the original vanilla WoW experience while expanding its content.",
-        "The quest is a nostalgic callback for long-time players, originally part of the classic World of Warcraft experience. Its inclusion reflects Blizzard's commitment to preserving legacy content in the evolving WoW ecosystem.",
-        "Adding this quest enhances the authenticity of World of Warcraft: Forever, offering players a more complete vanilla experience. It also serves to engage veteran players and newcomers interested in the game's origins."
+        "Over the past week, modders have released numerous mashup mods that combine elements from decompiled games using AI tools like Claude. These mods have rapidly spread across X (formerly Twitter), showcasing creative blends of different game worlds.",
+        "Modding communities have increasingly used AI to decompile and remix game assets, pushing the boundaries of user-generated content. This trend reflects growing experimentation with AI-assisted game modifications.",
+        "For players, these mashup mods offer novel gameplay experiences and visual styles. For the industry, they raise questions about intellectual property and the evolving role of AI in content creation."
       ],
       "body_es": [
-        "Blizzard Entertainment ha integrado la misión favorita de los fans 'Kyle's Gone Missing!' en World of Warcraft: Forever. Esta adición continúa el esfuerzo del juego por mantener la experiencia original de vanilla WoW mientras expande su contenido.",
-        "La misión es un guiño nostálgico para jugadores veteranos, originalmente parte de la experiencia clásica de World of Warcraft. Su inclusión refleja el compromiso de Blizzard con la preservación del contenido legado en el ecosistema evolutivo de WoW.",
-        "Agregar esta misión mejora la autenticidad de World of Warcraft: Forever, ofreciendo a los jugadores una experiencia vanilla más completa. También sirve para atraer a jugadores veteranos y nuevos interesados en los orígenes del juego."
+        "Durante la última semana, los modders han lanzado numerosos mods mashup que combinan elementos de juegos descompilados usando herramientas de IA como Claude. Estos mods se han difundido rápidamente en X (antes Twitter), mostrando mezclas creativas de diferentes mundos de juego.",
+        "Las comunidades de modding han utilizado cada vez más la IA para descompilar y remezclar activos de juegos, ampliando los límites del contenido generado por usuarios. Esta tendencia refleja una creciente experimentación con modificaciones asistidas por IA.",
+        "Para los jugadores, estos mods mashup ofrecen experiencias de juego y estilos visuales novedosos. Para la industria, plantean preguntas sobre propiedad intelectual y el papel evolutivo de la IA en la creación de contenido."
       ],
-      "source_url": "https://www.ign.com/articles/blizzard-adds-beloved-kyles-gone-missing-quest-to-world-of-warcraft-forever",
-      "source_name": "IGN"
-    },
-    {
-      "slug": "mtg-hobbit-cards-collector-value",
-      "category": "Crypto Gaming",
-      "title_en": "MTG’s Hobbit Cards Are the Closest Thing to Owning Rare Tolkien Memorabilia, and Perfect for Collectors",
-      "title_es": "Las cartas de El Hobbit de MTG son lo más cercano a poseer memorabilia rara de Tolkien, perfectas para coleccionistas",
-      "dek_en": "Magic: The Gathering’s Hobbit card set offers unique collectible value, surpassing the Lord of the Rings crossover for Tolkien fans.",
-      "dek_es": "El set de cartas de El Hobbit de Magic: The Gathering ofrece un valor coleccionable único, superando el crossover de El Señor de los Anillos para los fans de Tolkien.",
-      "body_en": [
-        "Magic: The Gathering has released a Hobbit-themed card set that collectors consider the closest experience to owning rare Tolkien memorabilia. This smaller set has gained attention for its unique art and thematic design.",
-        "Following the larger Lord of the Rings crossover, the Hobbit set offers a more focused and collectible approach, appealing to dedicated Tolkien enthusiasts and card collectors alike.",
-        "The set's collectible nature impacts both the trading card market and Tolkien merchandise collectors. It provides a new avenue for fans to engage with Tolkien’s world through a popular gaming platform."
-      ],
-      "body_es": [
-        "Magic: The Gathering ha lanzado un set de cartas temático de El Hobbit que los coleccionistas consideran la experiencia más cercana a poseer memorabilia rara de Tolkien. Este set más pequeño ha ganado atención por su arte único y diseño temático.",
-        "Tras el crossover más grande de El Señor de los Anillos, el set de El Hobbit ofrece un enfoque más centrado y coleccionable, atrayendo tanto a entusiastas dedicados de Tolkien como a coleccionistas de cartas.",
-        "La naturaleza coleccionable del set impacta tanto el mercado de cartas intercambiables como a los coleccionistas de merchandising de Tolkien. Proporciona una nueva vía para que los fans interactúen con el mundo de Tolkien a través de una plataforma de juego popular."
-      ],
-      "source_url": "https://www.ign.com/articles/mtg-hobbit-set-versus-lord-of-the-rings",
-      "source_name": "IGN"
-    },
-    {
-      "slug": "walmart-512gb-switch-2-memory-card",
-      "category": "Hardware",
-      "title_en": "Walmart Has a 512GB Nintendo Switch 2 Memory Card for $85, Possibly $10 Less With Unadvertised Coupon",
-      "title_es": "Walmart tiene una tarjeta de memoria de 512GB para Nintendo Switch 2 por 85$, posiblemente 10$ menos con cupón no anunciado",
-      "dek_en": "A 512GB microSD Express memory card compatible with Nintendo Switch 2 is available at Walmart for $85, with potential additional discounts.",
-      "dek_es": "Una tarjeta microSD Express de 512GB compatible con Nintendo Switch 2 está disponible en Walmart por 85$, con posibles descuentos adicionales.",
-      "body_en": [
-        "Walmart is offering a 512GB microSD Express memory card compatible with the Nintendo Switch 2 for $85. There is also a possibility of an unadvertised coupon that could reduce the price by an additional $10.",
-        "The Nintendo Switch 2 supports microSD Express cards, which provide faster data transfer speeds compared to previous models. This capacity is suitable for avid gamers needing extensive storage for digital games and updates.",
-        "This memory card option addresses the growing storage demands of Switch 2 users, enabling them to manage large game libraries efficiently. It also reflects the evolving hardware ecosystem supporting next-gen consoles."
-      ],
-      "body_es": [
-        "Walmart ofrece una tarjeta microSD Express de 512GB compatible con Nintendo Switch 2 por 85$. También existe la posibilidad de un cupón no anunciado que podría reducir el precio en 10$ adicionales.",
-        "El Nintendo Switch 2 soporta tarjetas microSD Express, que ofrecen velocidades de transferencia de datos más rápidas en comparación con modelos anteriores. Esta capacidad es adecuada para jugadores que requieren amplio almacenamiento para juegos digitales y actualizaciones.",
-        "Esta opción de tarjeta de memoria responde a la creciente demanda de almacenamiento de los usuarios de Switch 2, permitiéndoles gestionar bibliotecas de juegos grandes de manera eficiente. También refleja la evolución del ecosistema de hardware para consolas de nueva generación."
-      ],
-      "source_url": "https://www.ign.com/articles/best-microsd-express-memory-card-deal-for-nintendo-switch-2-october-2026",
-      "source_name": "IGN"
-    },
-    {
-      "slug": "steam-autumn-sale-2026-live",
-      "category": "PC",
-      "title_en": "The Steam Autumn Sale for 2026 Is Now Live, and We Found the Best Deals",
-      "title_es": "La venta de otoño de Steam 2026 ya está activa y hemos encontrado las mejores ofertas",
-      "dek_en": "The 2026 Steam Autumn Sale has launched, offering discounts on a wide range of PC games across multiple genres.",
-      "dek_es": "La venta de otoño de Steam 2026 ha comenzado, ofreciendo descuentos en una amplia variedad de juegos de PC de múltiples géneros.",
-      "body_en": [
-        "Valve has officially launched the Steam Autumn Sale for 2026, featuring discounts on thousands of PC games. This seasonal event includes titles from various genres and publishers, catering to diverse player preferences.",
-        "Steam sales are a key part of the PC gaming ecosystem, providing opportunities for players to expand their libraries at reduced prices. The Autumn Sale follows the tradition of major seasonal discounts on the platform.",
-        "The sale's availability influences purchasing patterns and can boost visibility for both indie and AAA titles. It also supports player engagement by making games more accessible during the event period."
-      ],
-      "body_es": [
-        "Valve ha lanzado oficialmente la venta de otoño de Steam 2026, con descuentos en miles de juegos de PC. Este evento estacional incluye títulos de varios géneros y editoras, atendiendo a diversas preferencias de jugadores.",
-        "Las ventas de Steam son una parte clave del ecosistema de juegos para PC, ofreciendo oportunidades para que los jugadores amplíen sus bibliotecas a precios reducidos. La venta de otoño sigue la tradición de grandes descuentos estacionales en la plataforma.",
-        "La disponibilidad de la venta influye en los patrones de compra y puede aumentar la visibilidad tanto de títulos independientes como AAA. También fomenta el compromiso de los jugadores al hacer los juegos más accesibles durante el periodo del evento."
-      ],
-      "source_url": "https://www.ign.com/articles/the-steam-autumn-sale-for-2026-is-now-live-and-we-found-the-best-deals",
+      "source_url": "https://www.ign.com/articles/vibe-coded-mashup-mods-have-taken-over-x-this-week",
       "source_name": "IGN"
     }
   ]
