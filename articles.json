@@ -1,164 +1,204 @@
 {
-  "generatedAt": "2026-10-03T17:52:17.153Z",
+  "generatedAt": "2026-10-05T21:29:09.342Z",
   "articles": [
     {
-      "slug": "final-fantasy-7-revelation-physical-disc-future",
+      "slug": "runescape-dev-pulls-trailer-after-6-fingered-knight-generative-ai-allegations",
+      "category": "Industry",
+      "title_en": "RuneScape Dev Pulls Trailer After 6-Fingered Knight Leads to Generative AI Allegations",
+      "title_es": "Desarrollador de RuneScape Retira Tráiler Tras Acusaciones de IA Generativa por Caballero de Seis Dedos",
+      "dek_en": "Jagex has removed a new RuneScape trailer after fans noticed a six-fingered knight, sparking claims of generative AI use.",
+      "dek_es": "Jagex ha retirado un nuevo tráiler de RuneScape tras que los fans detectaran un caballero con seis dedos, lo que generó acusaciones de uso de IA generativa.",
+      "body_en": [
+        "RuneScape developer Jagex has pulled its latest trailer after community members spotted a knight character with six fingers, raising suspicions that generative AI tools were used in the asset creation. The studio has not confirmed the use of AI but responded by removing the content to address concerns.",
+        "RuneScape is a long-running MMORPG known for its player-driven content and traditional art style. The controversy around the trailer highlights ongoing debates about AI's role in game development and asset creation within established franchises.",
+        "This incident matters as it reflects growing scrutiny from players regarding AI-generated content in games. It may influence how studios disclose development methods and maintain trust with their communities amid evolving technology."
+      ],
+      "body_es": [
+        "El desarrollador de RuneScape, Jagex, retiró su último tráiler tras que miembros de la comunidad detectaran un caballero con seis dedos, lo que generó sospechas sobre el uso de herramientas de IA generativa en la creación del contenido. El estudio no ha confirmado el uso de IA, pero respondió eliminando el material para atender las preocupaciones.",
+        "RuneScape es un MMORPG de larga trayectoria conocido por su contenido generado por jugadores y estilo artístico tradicional. La controversia en torno al tráiler pone de manifiesto los debates actuales sobre el papel de la IA en el desarrollo y creación de activos en franquicias consolidadas.",
+        "Este incidente es relevante porque refleja el creciente escrutinio de los jugadores sobre el contenido generado por IA en los videojuegos. Podría influir en cómo los estudios informan sobre sus métodos de desarrollo y mantienen la confianza de sus comunidades ante tecnologías emergentes."
+      ],
+      "source_url": "https://www.ign.com/articles/runescape-dev-pulls-trailer-after-6-fingered-knight-leads-to-generative-ai-allegations",
+      "source_name": "IGN"
+    },
+    {
+      "slug": "gears-of-war-e-day-runs-smoothly-on-xbox-series-s-using-ssd-as-ram",
       "category": "Console",
-      "title_en": "'I Did My Best' — Final Fantasy 7 Revelation Director Responds to Fans Asking for Full Disc Version",
-      "title_es": "'Hice Mi Mejor Esfuerzo' — Director de Final Fantasy 7 Revelation Responde a Fans que Piden Versión en Disco Completo",
-      "dek_en": "Naoki Hamaguchi, director de Final Fantasy 7 Revelation, said he fought for a physical disc release but the industry is moving toward a disc-less future.",
-      "dek_es": "Naoki Hamaguchi, director de Final Fantasy 7 Revelation, dijo que luchó por un lanzamiento en disco físico pero la industria avanza hacia un futuro sin discos.",
+      "title_en": "Gears of War: E-Day Runs Smoothly on Xbox Series S By Using SSD as RAM",
+      "title_es": "Gears of War: E-Day Funciona Sin Problemas en Xbox Series S Usando SSD como RAM",
+      "dek_en": "The Coalition enhanced Xbox Series S performance for Gears of War: E-Day by leveraging the console's SSD as additional RAM.",
+      "dek_es": "The Coalition mejoró el rendimiento en Xbox Series S para Gears of War: E-Day utilizando el SSD de la consola como RAM adicional.",
       "body_en": [
-        "Naoki Hamaguchi, director de Final Fantasy 7 Revelation, addressed fan requests for a full physical disc version, stating he did his best to advocate for it. He acknowledged the industry's shift toward digital distribution, describing a \"future where physical media is essentially disc-less.\"",
-        "Final Fantasy 7 Revelation is part of the ongoing Final Fantasy 7 Remake project, which has seen multiple episodic releases primarily through digital platforms. The move away from physical discs reflects broader trends in game publishing and distribution.",
-        "This shift impacts players who prefer physical collections or have limited internet access. It also signals changes in how publishers manage production costs and distribution logistics, affecting market dynamics for console game sales."
+        "The Coalition has optimized Gears of War: E-Day on Xbox Series S by utilizing the console’s SSD to supplement RAM, allowing the game to run smoothly despite hardware limitations. This technique improves load times and overall performance.",
+        "Xbox Series S is a less powerful console compared to its Series X counterpart, with less physical RAM available. Using the SSD as virtual RAM is an innovative solution to balance performance and hardware constraints for demanding titles.",
+        "This approach matters because it demonstrates how developers can extend the capabilities of mid-tier hardware to deliver better gaming experiences. It may set a precedent for future optimizations on consoles with limited resources."
       ],
       "body_es": [
-        "Naoki Hamaguchi, director de Final Fantasy 7 Revelation, respondió a las solicitudes de los fans para una versión completa en disco físico, afirmando que hizo todo lo posible para defenderla. Reconoció el cambio de la industria hacia la distribución digital, describiendo un \"futuro donde los medios físicos serán esencialmente sin disco.\"",
-        "Final Fantasy 7 Revelation forma parte del proyecto en curso de Final Fantasy 7 Remake, que ha tenido múltiples lanzamientos episódicos principalmente en plataformas digitales. El alejamiento de los discos físicos refleja tendencias más amplias en la publicación y distribución de juegos.",
-        "Este cambio afecta a los jugadores que prefieren colecciones físicas o tienen acceso limitado a internet. También señala cambios en cómo los editores gestionan costos de producción y logística de distribución, impactando la dinámica del mercado de juegos para consola."
+        "The Coalition ha optimizado Gears of War: E-Day en Xbox Series S utilizando el SSD de la consola para complementar la RAM, permitiendo que el juego funcione sin problemas a pesar de las limitaciones de hardware. Esta técnica mejora los tiempos de carga y el rendimiento general.",
+        "Xbox Series S es una consola menos potente en comparación con su contraparte Series X, con menos RAM física disponible. Usar el SSD como RAM virtual es una solución innovadora para equilibrar el rendimiento y las limitaciones de hardware en títulos exigentes.",
+        "Este enfoque es importante porque demuestra cómo los desarrolladores pueden ampliar las capacidades del hardware de gama media para ofrecer mejores experiencias de juego. Podría sentar un precedente para futuras optimizaciones en consolas con recursos limitados."
       ],
-      "source_url": "https://www.ign.com/articles/i-did-my-best-final-fantasy-7-revelation-director-responds-to-fans-asking-for-full-disc-version",
+      "source_url": "https://www.ign.com/articles/gears-of-war-e-day-runs-smoothly-on-xbox-series-s-by-using-ssd-as-ram",
       "source_name": "IGN"
     },
     {
-      "slug": "capcom-re-engine-ai-generation",
-      "category": "Industry",
-      "title_en": "Capcom Announces Plans to Transform the RE Engine Into an AI-Generation Game Engine — ‘Our Goal Is a Future Where We Create Games Together With AI’",
-      "title_es": "Capcom Anuncia Planes para Transformar el RE Engine en un Motor de Juegos Generado por IA — 'Nuestro Objetivo es un Futuro Donde Creamos Juegos Juntos con IA'",
-      "dek_en": "Capcom revealed plans to evolve its RE Engine into an AI-generation game engine to collaborate with artificial intelligence in game creation.",
-      "dek_es": "Capcom reveló planes para evolucionar su RE Engine en un motor de juegos generado por IA para colaborar con inteligencia artificial en la creación de juegos.",
-      "body_en": [
-        "Capcom announced it will gradually transform its RE Engine, used in Resident Evil and Street Fighter, into an AI-generation game engine. The company aims to integrate artificial intelligence to assist in game development processes.",
-        "The RE Engine has powered several of Capcom's recent titles, known for high-quality graphics and performance. This shift represents a significant technological evolution, potentially automating or enhancing content creation.",
-        "For players and the industry, this development could lead to more dynamic and varied game experiences. It also reflects a growing trend of AI integration in game development workflows, impacting production efficiency and creativity."
-      ],
-      "body_es": [
-        "Capcom anunció que transformará gradualmente su RE Engine, utilizado en Resident Evil y Street Fighter, en un motor de juegos generado por IA. La compañía busca integrar inteligencia artificial para asistir en los procesos de desarrollo.",
-        "El RE Engine ha impulsado varios títulos recientes de Capcom, reconocidos por su alta calidad gráfica y rendimiento. Este cambio representa una evolución tecnológica significativa, que podría automatizar o mejorar la creación de contenido.",
-        "Para jugadores e industria, este desarrollo podría generar experiencias de juego más dinámicas y variadas. También refleja una tendencia creciente de integración de IA en flujos de trabajo de desarrollo, impactando la eficiencia y creatividad."
-      ],
-      "source_url": "https://www.ign.com/articles/capcom-announces-plans-to-transform-the-re-engine-into-an-ai-generation-game-engine-our-goal-is-a-future-where-we-create-games-together-with-ai",
-      "source_name": "IGN"
-    },
-    {
-      "slug": "love-and-deepspace-drink-warning",
-      "category": "Industry",
-      "title_en": "Love and Deepspace Devs Issue Warning to Players After Deadly Drink Recipes Go Viral",
-      "title_es": "Desarrolladores de Love and Deepspace Emiten Advertencia Tras Viralizarse Recetas de Bebidas Mortales",
-      "dek_en": "Developers of the RPG-dating sim Love and Deepspace warned players after fictional cocktail recipes with dangerous real-world effects spread online.",
-      "dek_es": "Los desarrolladores del simulador RPG-dating Love and Deepspace advirtieron a los jugadores tras difundirse recetas de cócteles ficticios con efectos peligrosos en la vida real.",
-      "body_en": [
-        "The official Love and Deepspace social media account issued a warning after some fictional cocktail recipes from the game went viral online. The drinks, if replicated in real life, could have harmful or deadly consequences.",
-        "Love and Deepspace is an RPG-dating sim known for its creative in-game content, including unique fictional beverages. The viral spread of these recipes raised concerns about player safety and misinformation.",
-        "This warning is important to prevent real-world harm from fictional game content. It underscores the responsibility of developers to address unintended consequences of their creative work in the digital age."
-      ],
-      "body_es": [
-        "La cuenta oficial de Love and Deepspace en redes sociales emitió una advertencia tras viralizarse algunas recetas de cócteles ficticios del juego. Las bebidas, si se replican en la vida real, podrían tener consecuencias dañinas o mortales.",
-        "Love and Deepspace es un simulador RPG-dating conocido por su contenido creativo, incluyendo bebidas ficticias únicas. La difusión viral de estas recetas generó preocupación por la seguridad de los jugadores y la desinformación.",
-        "Esta advertencia es importante para prevenir daños reales derivados de contenido ficticio. Subraya la responsabilidad de los desarrolladores para abordar consecuencias no intencionadas de su trabajo creativo en la era digital."
-      ],
-      "source_url": "https://www.ign.com/articles/love-and-deepspace-devs-issue-warning-to-players-after-deadly-drink-recipes-go-viral",
-      "source_name": "IGN"
-    },
-    {
-      "slug": "mike-tomlin-minecraft-city-12-years",
-      "category": "Industry",
-      "title_en": "Former NFL Coach Mike Tomlin Is a Hardcore Minecraft Player, Reveals City He Took 12 Years to Build",
-      "title_es": "El Exentrenador de la NFL Mike Tomlin es un Jugador Hardcore de Minecraft, Revela Ciudad que Construyó en 12 Años",
-      "dek_en": "Mike Tomlin, former NFL coach, revealed he spent 12 years building a city in Minecraft and has become a notable player and content creator.",
-      "dek_es": "Mike Tomlin, exentrenador de la NFL, reveló que pasó 12 años construyendo una ciudad en Minecraft y se ha convertido en un jugador y creador de contenido destacado.",
-      "body_en": [
-        "Mike Tomlin, who coached the Pittsburgh Steelers for 19 seasons and won Super Bowl LXIII, shared that he is a dedicated Minecraft player. He revealed spending 12 years building an extensive city within the game.",
-        "Minecraft is a sandbox game known for its creative freedom and community-driven content. Tomlin's long-term project highlights the game's appeal beyond traditional gaming audiences.",
-        "This information illustrates the diverse demographics engaging with Minecraft and the game's capacity for long-term, detailed creative projects. It also shows the crossover between sports figures and gaming culture."
-      ],
-      "body_es": [
-        "Mike Tomlin, quien entrenó a los Pittsburgh Steelers durante 19 temporadas y ganó el Super Bowl LXIII, compartió que es un jugador dedicado de Minecraft. Reveló haber pasado 12 años construyendo una extensa ciudad dentro del juego.",
-        "Minecraft es un juego sandbox conocido por su libertad creativa y contenido impulsado por la comunidad. El proyecto a largo plazo de Tomlin destaca el atractivo del juego más allá de las audiencias tradicionales.",
-        "Esta información ilustra la diversidad demográfica que interactúa con Minecraft y la capacidad del juego para proyectos creativos detallados y a largo plazo. También muestra la conexión entre figuras deportivas y la cultura gamer."
-      ],
-      "source_url": "https://www.ign.com/articles/former-nfl-coach-mike-tomlin-is-a-hardcore-minecraft-player-reveals-city-he-took-12-years-to-build",
-      "source_name": "IGN"
-    },
-    {
-      "slug": "disney-epic-games-acquisition-rumors",
-      "category": "Industry",
-      "title_en": "Disney Says Conversations About Buying Epic Games Are Not Happening 'Right Now'",
-      "title_es": "Disney Dice que No Hay Conversaciones Sobre Comprar Epic Games 'Por Ahora'",
-      "dek_en": "Disney responded to rumors about acquiring Epic Games, stating that no talks are currently taking place regarding a purchase.",
-      "dek_es": "Disney respondió a rumores sobre la adquisición de Epic Games, afirmando que no hay conversaciones en curso sobre una compra.",
-      "body_en": [
-        "Disney addressed recent rumors suggesting interest in acquiring Epic Games, the developer behind Fortnite. The company clarified that no discussions or negotiations are happening \"right now.\"",
-        "Epic Games is a major player in the gaming industry, known for its Unreal Engine technology and the Fortnite franchise. Acquisition speculation often arises due to its market influence.",
-        "This statement provides clarity to investors and the gaming community, confirming that despite rumors, no immediate changes in ownership are underway for Epic Games."
-      ],
-      "body_es": [
-        "Disney se pronunció sobre rumores recientes que sugerían interés en adquirir Epic Games, desarrollador de Fortnite. La compañía aclaró que no hay discusiones ni negociaciones \"por ahora.\"",
-        "Epic Games es un actor importante en la industria del videojuego, conocido por su tecnología Unreal Engine y la franquicia Fortnite. Las especulaciones de adquisición surgen frecuentemente debido a su influencia en el mercado.",
-        "Esta declaración brinda claridad a inversores y comunidad gamer, confirmando que a pesar de los rumores, no hay cambios inmediatos en la propiedad de Epic Games."
-      ],
-      "source_url": "https://www.ign.com/articles/disney-says-conversations-about-buying-epic-games-are-not-happening-right-now",
-      "source_name": "IGN"
-    },
-    {
-      "slug": "gta-6-age-rating-details",
-      "category": "Console",
-      "title_en": "GTA 6 Age Rating Confirms New Details on Sex, Drug Use, Decapitation, and More",
-      "title_es": "Clasificación por Edad de GTA 6 Confirma Nuevos Detalles sobre Sexo, Drogas, Decapitación y Más",
-      "dek_en": "The PEGI 18 rating for GTA 6 reveals explicit content including decapitation, drug use, and sexual fetishes within the game.",
-      "dek_es": "La clasificación PEGI 18 para GTA 6 revela contenido explícito que incluye decapitación, uso de drogas y fetiches sexuales dentro del juego.",
-      "body_en": [
-        "GTA 6 has received a PEGI 18 rating that confirms the presence of mature content such as decapitation, the ability to snort cocaine at any time, and scenes depicting sexual fetishes. These details were revealed as part of the official age rating.",
-        "The Grand Theft Auto series is known for its mature themes and controversial content. The new rating confirms that GTA 6 will continue this trend with explicit depictions and gameplay mechanics.",
-        "This information informs players and retailers about the game's content, ensuring appropriate age restrictions. It also sets expectations for the level of mature themes present in the upcoming release."
-      ],
-      "body_es": [
-        "GTA 6 recibió una clasificación PEGI 18 que confirma la presencia de contenido maduro como decapitación, la capacidad de esnifar cocaína en cualquier momento y escenas que muestran fetiches sexuales. Estos detalles fueron revelados como parte de la clasificación oficial.",
-        "La serie Grand Theft Auto es conocida por sus temas maduros y contenido controvertido. La nueva clasificación confirma que GTA 6 continuará esta tendencia con representaciones explícitas y mecánicas de juego.",
-        "Esta información informa a jugadores y minoristas sobre el contenido del juego, asegurando restricciones de edad adecuadas. También establece expectativas sobre el nivel de temas maduros en el próximo lanzamiento."
-      ],
-      "source_url": "https://www.ign.com/articles/gta-6-age-rating-confirms-new-details-on-sex-drug-use-decapitation-and-more",
-      "source_name": "IGN"
-    },
-    {
-      "slug": "dan-houser-avoids-gta6",
-      "category": "Industry",
-      "title_en": "Ex-Rockstar Boss Dan Houser Doesn't Play a Lot of Open-World Games – and Doesn't Plan to Play GTA 6",
-      "title_es": "El Exjefe de Rockstar Dan Houser No Juega Muchos Juegos de Mundo Abierto y No Planea Jugar GTA 6",
-      "dek_en": "Dan Houser, former Rockstar co-boss, revealed he avoids open-world games and does not intend to play GTA 6 to avoid creative influence.",
-      "dek_es": "Dan Houser, excofundador de Rockstar, reveló que evita juegos de mundo abierto y no planea jugar GTA 6 para evitar influencias creativas.",
-      "body_en": [
-        "Dan Houser, former co-boss and creative director at Rockstar Games, stated he rarely plays open-world games and does not plan to play GTA 6. He explained this choice is to prevent creative influence while working on new projects.",
-        "Houser was a key figure behind major Rockstar titles like Grand Theft Auto V and Red Dead Redemption 2. His current focus is on new games at his company Absurd Ventures.",
-        "This insight sheds light on the creative process of a prominent industry figure and highlights how developers manage influences when creating original content."
-      ],
-      "body_es": [
-        "Dan Houser, excofundador y director creativo de Rockstar Games, declaró que rara vez juega juegos de mundo abierto y no planea jugar GTA 6. Explicó que esta decisión es para evitar influencias creativas mientras trabaja en nuevos proyectos.",
-        "Houser fue una figura clave detrás de títulos importantes de Rockstar como Grand Theft Auto V y Red Dead Redemption 2. Actualmente se enfoca en nuevos juegos en su empresa Absurd Ventures.",
-        "Esta información arroja luz sobre el proceso creativo de una figura prominente de la industria y destaca cómo los desarrolladores gestionan influencias al crear contenido original."
-      ],
-      "source_url": "https://www.ign.com/articles/ex-rockstar-boss-dan-houser-doesnt-play-a-lot-of-open-world-games-and-doesnt-plan-to-play-gta-6",
-      "source_name": "IGN"
-    },
-    {
-      "slug": "vibe-coded-mashup-mods-x",
+      "slug": "cd-projekt-fixing-the-witcher-3-remastered-issues-requests-patience",
       "category": "PC",
-      "title_en": "Vibe-Coded Mashup Mods Have Taken Over X This Week",
-      "title_es": "Mods Mashup Codificados por Vibe Han Dominado X Esta Semana",
-      "dek_en": "Modders have been creating and sharing mashup mods combining decompiled games with others, flooding X/Twitter with clips this week.",
-      "dek_es": "Los modders han estado creando y compartiendo mods mashup que combinan juegos descompilados con otros, inundando X/Twitter con clips esta semana.",
+      "title_en": "CD Projekt Is Fixing The Witcher 3 Remastered Issues but Asks for Patience",
+      "title_es": "CD Projekt Está Arreglando Problemas de The Witcher 3 Remastered pero Pide Paciencia",
+      "dek_en": "CD Projekt is actively addressing technical problems in The Witcher 3: Wild Hunt Remastered following its recent release.",
+      "dek_es": "CD Projekt está solucionando problemas técnicos en The Witcher 3: Wild Hunt Remastered tras su reciente lanzamiento.",
       "body_en": [
-        "Over the past week, modders have released numerous mashup mods that combine elements from decompiled games using AI tools like Claude. These mods have rapidly spread across X (formerly Twitter), showcasing creative blends of different game worlds.",
-        "Modding communities have increasingly used AI to decompile and remix game assets, pushing the boundaries of user-generated content. This trend reflects growing experimentation with AI-assisted game modifications.",
-        "For players, these mashup mods offer novel gameplay experiences and visual styles. For the industry, they raise questions about intellectual property and the evolving role of AI in content creation."
+        "Since the launch of The Witcher 3: Wild Hunt Remastered, players have reported various issues including lighting glitches and DLSS behavior. CD Projekt has acknowledged these problems and is releasing patches to resolve them.",
+        "The Witcher 3 is a critically acclaimed RPG with a large player base. The remastered version aims to update visuals and performance for modern hardware but has encountered technical setbacks at launch.",
+        "This matters to players as it affects gameplay experience and visual fidelity. CD Projekt’s prompt response to fix these issues is crucial to maintaining player satisfaction and the game’s reputation."
       ],
       "body_es": [
-        "Durante la última semana, los modders han lanzado numerosos mods mashup que combinan elementos de juegos descompilados usando herramientas de IA como Claude. Estos mods se han difundido rápidamente en X (antes Twitter), mostrando mezclas creativas de diferentes mundos de juego.",
-        "Las comunidades de modding han utilizado cada vez más la IA para descompilar y remezclar activos de juegos, ampliando los límites del contenido generado por usuarios. Esta tendencia refleja una creciente experimentación con modificaciones asistidas por IA.",
-        "Para los jugadores, estos mods mashup ofrecen experiencias de juego y estilos visuales novedosos. Para la industria, plantean preguntas sobre propiedad intelectual y el papel evolutivo de la IA en la creación de contenido."
+        "Desde el lanzamiento de The Witcher 3: Wild Hunt Remastered, los jugadores han reportado diversos problemas, incluyendo fallos en la iluminación y el comportamiento del DLSS. CD Projekt ha reconocido estas dificultades y está lanzando parches para solucionarlas.",
+        "The Witcher 3 es un RPG aclamado por la crítica con una gran base de jugadores. La versión remasterizada busca actualizar gráficos y rendimiento para hardware moderno, pero ha tenido problemas técnicos en su estreno.",
+        "Esto es importante para los jugadores porque afecta la experiencia de juego y la calidad visual. La rápida respuesta de CD Projekt para corregir estos problemas es clave para mantener la satisfacción de los usuarios y la reputación del juego."
       ],
-      "source_url": "https://www.ign.com/articles/vibe-coded-mashup-mods-have-taken-over-x-this-week",
+      "source_url": "https://vandal.elespanol.com/noticia/2026278029/cd-projekt-ya-esta-arreglando-los-problemas-de-la-remasterizacion-de-the-witcher-3-pero-piden-paciencia/",
+      "source_name": "Vandal"
+    },
+    {
+      "slug": "ninja-theory-begins-layoffs-amid-closure-threat",
+      "category": "Industry",
+      "title_en": "Ninja Theory Begins Layoffs as Closure Looms",
+      "title_es": "Ninja Theory Comienza Despidos Ante Amenaza de Cierre",
+      "dek_en": "Ninja Theory has started layoffs amid reports of an impending closure despite efforts to find alternatives.",
+      "dek_es": "Ninja Theory ha comenzado despidos en medio de informes sobre un cierre inminente a pesar de los esfuerzos por encontrar alternativas.",
+      "body_en": [
+        "Ninja Theory, known for Hellblade, has initiated layoffs as part of a restructuring process announced by Xbox. Despite attempts to explore alternatives, the studio faces a potential shutdown.",
+        "The studio has been recognized for narrative-driven games blending action and psychological themes. The layoffs mark a significant shift for the developer and its future projects.",
+        "This development impacts employees and the industry by signaling challenges even for established studios. It highlights the volatility in game development and the importance of sustainable business models."
+      ],
+      "body_es": [
+        "Ninja Theory, conocido por Hellblade, ha iniciado despidos como parte de un proceso de reestructuración anunciado por Xbox. A pesar de los intentos por encontrar alternativas, el estudio enfrenta un posible cierre.",
+        "El estudio es reconocido por juegos narrativos que combinan acción y temas psicológicos. Los despidos representan un cambio significativo para el desarrollador y sus futuros proyectos.",
+        "Este desarrollo afecta a los empleados y a la industria al evidenciar los desafíos incluso para estudios consolidados. Destaca la volatilidad en el desarrollo de videojuegos y la importancia de modelos de negocio sostenibles."
+      ],
+      "source_url": "https://vandal.elespanol.com/noticia/2026278027/ninja-theory-ya-esta-haciendo-despidos-los-creadores-de-hellblade-afrontan-un-cierre-que-parece-inevitable/",
+      "source_name": "Vandal"
+    },
+    {
+      "slug": "kingdom-come-deliverance-dev-calls-out-rpgs-for-teenagers-focus-power-fantasy",
+      "category": "Industry",
+      "title_en": "Kingdom Come: Deliverance Dev Calls Out RPGs 'for Teenagers' That Just Focus on 'Power Fantasy'",
+      "title_es": "Desarrollador de Kingdom Come: Deliverance Critica RPGs 'para Adolescentes' que Solo se Centran en la 'Fantasía de Poder'",
+      "dek_en": "Martin Klima, co-founder of Kingdom Come: Deliverance studio, expressed frustration with RPGs that prioritize power fantasies aimed at younger audiences.",
+      "dek_es": "Martin Klima, cofundador del estudio de Kingdom Come: Deliverance, expresó su frustración con los RPG que priorizan fantasías de poder dirigidas a audiencias jóvenes.",
+      "body_en": [
+        "Martin Klima, co-founder of Warhorse Studios, criticized many modern RPGs for focusing primarily on power fantasy elements that appeal to teenagers, expressing boredom with this trend.",
+        "Kingdom Come: Deliverance is known for its realistic medieval setting and complex gameplay mechanics, contrasting with more fantastical RPGs that emphasize empowerment and spectacle.",
+        "Klima’s comments highlight ongoing discussions about RPG design philosophies and audience targeting, which influence game development and player expectations across the genre."
+      ],
+      "body_es": [
+        "Martin Klima, cofundador de Warhorse Studios, criticó a muchos RPG modernos por centrarse principalmente en elementos de fantasía de poder que atraen a adolescentes, expresando aburrimiento con esta tendencia.",
+        "Kingdom Come: Deliverance es conocido por su ambientación medieval realista y mecánicas de juego complejas, en contraste con RPG más fantásticos que enfatizan el empoderamiento y el espectáculo.",
+        "Los comentarios de Klima ponen de relieve debates actuales sobre filosofías de diseño de RPG y la orientación a audiencias, que influyen en el desarrollo de juegos y las expectativas de los jugadores en el género."
+      ],
+      "source_url": "https://www.ign.com/articles/kingdom-come-deliverance-dev-calls-out-rpgs-for-teenagers-that-just-focus-on-power-fantasy",
+      "source_name": "IGN"
+    },
+    {
+      "slug": "cd-projekt-fixing-the-witcher-3-remastered-issues-requests-patience",
+      "category": "PC",
+      "title_en": "CD Projekt Is Fixing The Witcher 3 Remastered Issues but Asks for Patience",
+      "title_es": "CD Projekt Está Arreglando Problemas de The Witcher 3 Remastered pero Pide Paciencia",
+      "dek_en": "CD Projekt is actively addressing technical problems in The Witcher 3: Wild Hunt Remastered following its recent release.",
+      "dek_es": "CD Projekt está solucionando problemas técnicos en The Witcher 3: Wild Hunt Remastered tras su reciente lanzamiento.",
+      "body_en": [
+        "Since the launch of The Witcher 3: Wild Hunt Remastered, players have reported various issues including lighting glitches and DLSS behavior. CD Projekt has acknowledged these problems and is releasing patches to resolve them.",
+        "The Witcher 3 is a critically acclaimed RPG with a large player base. The remastered version aims to update visuals and performance for modern hardware but has encountered technical setbacks at launch.",
+        "This matters to players as it affects gameplay experience and visual fidelity. CD Projekt’s prompt response to fix these issues is crucial to maintaining player satisfaction and the game’s reputation."
+      ],
+      "body_es": [
+        "Desde el lanzamiento de The Witcher 3: Wild Hunt Remastered, los jugadores han reportado diversos problemas, incluyendo fallos en la iluminación y el comportamiento del DLSS. CD Projekt ha reconocido estas dificultades y está lanzando parches para solucionarlas.",
+        "The Witcher 3 es un RPG aclamado por la crítica con una gran base de jugadores. La versión remasterizada busca actualizar gráficos y rendimiento para hardware moderno, pero ha tenido problemas técnicos en su estreno.",
+        "Esto es importante para los jugadores porque afecta la experiencia de juego y la calidad visual. La rápida respuesta de CD Projekt para corregir estos problemas es clave para mantener la satisfacción de los usuarios y la reputación del juego."
+      ],
+      "source_url": "https://vandal.elespanol.com/noticia/2026278029/cd-projekt-ya-esta-arreglando-los-problemas-de-la-remasterizacion-de-the-witcher-3-pero-piden-paciencia/",
+      "source_name": "Vandal"
+    },
+    {
+      "slug": "gta-6-no-disney-world-parody-rockstar-promises-full-florida-experience",
+      "category": "Console",
+      "title_en": "GTA 6 Won't Have a Disney World Parody, but Rockstar Promises 'The Full Florida Experience'",
+      "title_es": "GTA 6 No Tendrá Parodia de Disney World, pero Rockstar Promete 'La Experiencia Completa de Florida'",
+      "dek_en": "Rockstar confirmed that Grand Theft Auto 6 will not include a parody of Disney World but will feature iconic Florida locations.",
+      "dek_es": "Rockstar confirmó que Grand Theft Auto 6 no incluirá una parodia de Disney World, pero sí contará con localizaciones icónicas de Florida.",
+      "body_en": [
+        "Rockstar Games clarified that Grand Theft Auto 6’s map will not feature a Disney World parody, though it will include many well-known Florida landmarks and environments. The map details remain largely under wraps.",
+        "The GTA series is known for its satirical takes on real-world locations. This decision marks a shift in how Rockstar approaches cultural references within the game’s open world.",
+        "This matters as it shapes player expectations about the game’s setting and tone. Including authentic Florida elements without parody may influence the game’s narrative and immersion."
+      ],
+      "body_es": [
+        "Rockstar Games aclaró que el mapa de Grand Theft Auto 6 no incluirá una parodia de Disney World, aunque sí contará con numerosos lugares y entornos icónicos de Florida. Los detalles del mapa siguen siendo en gran parte desconocidos.",
+        "La serie GTA es conocida por sus sátiras de ubicaciones reales. Esta decisión representa un cambio en cómo Rockstar aborda las referencias culturales dentro del mundo abierto del juego.",
+        "Esto es relevante porque configura las expectativas de los jugadores sobre el escenario y el tono del juego. Incluir elementos auténticos de Florida sin parodia puede influir en la narrativa y la inmersión del título."
+      ],
+      "source_url": "https://vandal.elespanol.com/noticia/2026278030/gta-6-no-tendra-una-parodia-de-disney-world-pero-rockstar-promete-ofrecer-la-experiencia-completa-de-florida/",
+      "source_name": "Vandal"
+    },
+    {
+      "slug": "dynasty-warriors-producer-prefers-new-games-over-remasters",
+      "category": "Industry",
+      "title_en": "Dynasty Warriors Producer Prefers New Games Over Remasters",
+      "title_es": "Productor de Dynasty Warriors Prefiere Juegos Nuevos a Remasterizaciones",
+      "dek_en": "Tomohiko Sho, producer of Dynasty Warriors, stated he would rather focus on creating new games than remastering classic titles.",
+      "dek_es": "Tomohiko Sho, productor de Dynasty Warriors, afirmó que prefiere centrarse en crear juegos nuevos que en remasterizar títulos clásicos.",
+      "body_en": [
+        "Tomohiko Sho, producer of the Dynasty Warriors series, expressed a preference for developing new games and sequels instead of continuing to produce remastered editions of older titles.",
+        "The Dynasty Warriors franchise has seen several remasters recently, including Dynasty Warriors 3: Complete Edition Remastered. Sho’s comments suggest a shift in development priorities.",
+        "This matters as it signals potential changes in the franchise’s future direction, with an emphasis on original content rather than relying on nostalgia through remasters."
+      ],
+      "body_es": [
+        "Tomohiko Sho, productor de la saga Dynasty Warriors, expresó su preferencia por desarrollar juegos nuevos y secuelas en lugar de continuar produciendo remasterizaciones de títulos antiguos.",
+        "La franquicia Dynasty Warriors ha tenido varias remasterizaciones recientemente, incluyendo Dynasty Warriors 3: Complete Edition Remastered. Los comentarios de Sho sugieren un cambio en las prioridades de desarrollo.",
+        "Esto es relevante porque indica posibles cambios en la dirección futura de la franquicia, con énfasis en contenido original en lugar de depender de la nostalgia mediante remasterizaciones."
+      ],
+      "source_url": "https://vandal.elespanol.com/noticia/2026278028/el-productor-de-dynasty-warriors-no-quiere-hacer-mas-remasterizaciones-preferiria-hacer-nuevos-juegos/",
+      "source_name": "Vandal"
+    },
+    {
+      "slug": "runescape-dev-pulls-trailer-after-6-fingered-knight-generative-ai-allegations",
+      "category": "Industry",
+      "title_en": "RuneScape Dev Pulls Trailer After 6-Fingered Knight Leads to Generative AI Allegations",
+      "title_es": "Desarrollador de RuneScape Retira Tráiler Tras Acusaciones de IA Generativa por Caballero de Seis Dedos",
+      "dek_en": "Jagex has removed a new RuneScape trailer after fans noticed a six-fingered knight, sparking claims of generative AI use.",
+      "dek_es": "Jagex ha retirado un nuevo tráiler de RuneScape tras que los fans detectaran un caballero con seis dedos, lo que generó acusaciones de uso de IA generativa.",
+      "body_en": [
+        "RuneScape developer Jagex has pulled its latest trailer after community members spotted a knight character with six fingers, raising suspicions that generative AI tools were used in the asset creation. The studio has not confirmed the use of AI but responded by removing the content to address concerns.",
+        "RuneScape is a long-running MMORPG known for its player-driven content and traditional art style. The controversy around the trailer highlights ongoing debates about AI's role in game development and asset creation within established franchises.",
+        "This incident matters as it reflects growing scrutiny from players regarding AI-generated content in games. It may influence how studios disclose development methods and maintain trust with their communities amid evolving technology."
+      ],
+      "body_es": [
+        "El desarrollador de RuneScape, Jagex, retiró su último tráiler tras que miembros de la comunidad detectaran un caballero con seis dedos, lo que generó sospechas sobre el uso de herramientas de IA generativa en la creación del contenido. El estudio no ha confirmado el uso de IA, pero respondió eliminando el material para atender las preocupaciones.",
+        "RuneScape es un MMORPG de larga trayectoria conocido por su contenido generado por jugadores y estilo artístico tradicional. La controversia en torno al tráiler pone de manifiesto los debates actuales sobre el papel de la IA en el desarrollo y creación de activos en franquicias consolidadas.",
+        "Este incidente es relevante porque refleja el creciente escrutinio de los jugadores sobre el contenido generado por IA en los videojuegos. Podría influir en cómo los estudios informan sobre sus métodos de desarrollo y mantienen la confianza de sus comunidades ante tecnologías emergentes."
+      ],
+      "source_url": "https://www.ign.com/articles/runescape-dev-pulls-trailer-after-6-fingered-knight-leads-to-generative-ai-allegations",
+      "source_name": "IGN"
+    },
+    {
+      "slug": "legendary-japanese-solid-snake-actor-wants-new-metal-gear-game-but-not-without-kojima",
+      "category": "Industry",
+      "title_en": "Legendary Japanese Solid Snake Actor Wants 'New Metal Gear Game,' But 'Won't Do One Without Kojima'",
+      "title_es": "Legendario Actor Japonés de Solid Snake Quiere un 'Nuevo Metal Gear', Pero 'No Sin Kojima'",
+      "dek_en": "Akio Otsuka, the Japanese voice of Solid Snake, expressed interest in a new Metal Gear game but insists it must involve creator Hideo Kojima.",
+      "dek_es": "Akio Otsuka, la voz japonesa de Solid Snake, mostró interés en un nuevo juego de Metal Gear pero insiste en que debe contar con el creador Hideo Kojima.",
+      "body_en": [
+        "Akio Otsuka, the iconic Japanese voice actor for Solid Snake, stated he would like to return for a new Metal Gear game but refuses to participate if Hideo Kojima is not involved in its development.",
+        "Metal Gear Solid V: The Phantom Pain was the last main entry directed by Kojima before his departure from Konami. The series has been dormant for nearly 11 years since then.",
+        "Otsuka’s stance underscores the importance of Kojima’s creative role in the franchise and reflects ongoing fan interest in a continuation that respects the original vision."
+      ],
+      "body_es": [
+        "Akio Otsuka, el icónico actor de voz japonés de Solid Snake, declaró que le gustaría volver para un nuevo juego de Metal Gear, pero se niega a participar si Hideo Kojima no está involucrado en su desarrollo.",
+        "Metal Gear Solid V: The Phantom Pain fue la última entrega principal dirigida por Kojima antes de su salida de Konami. La saga ha estado inactiva durante casi 11 años desde entonces.",
+        "La postura de Otsuka subraya la importancia del papel creativo de Kojima en la franquicia y refleja el interés continuo de los fans en una continuación que respete la visión original."
+      ],
+      "source_url": "https://www.ign.com/articles/legendary-japanese-solid-snake-actor-wants-new-metal-gear-game-but-wont-do-one-without-kojima",
       "source_name": "IGN"
     }
   ]
