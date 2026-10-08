@@ -1,8 +1,8 @@
 name: Publish ALON NEWS daily edition
 
 on:
-  schedule:
-    - cron: "0 14 * * *" # 7:00 AM Arizona (MST)
+  # Automatic daily publishing paused while the website is on standby.
+  # Previously scheduled for 7:00 AM Arizona (MST).
   workflow_dispatch:
 
 permissions:
